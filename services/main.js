@@ -709,7 +709,7 @@ export const getManifestId = async () => {
     const timestamp = new Date().getTime();
     return axios
         .get(
-            `https://raw.githubusercontent.com/ByMykel/counter-strike-file-tracker/main/static/manifestId.txt?t=${timestamp}`
+            `https://raw.githubusercontent.com/matttttt/counter-strike-file-tracker/main/static/manifestId.txt?t=${timestamp}`
         )
         .then((data) => data.data)
         .catch(() => {
