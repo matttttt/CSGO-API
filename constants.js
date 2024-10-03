@@ -1,5 +1,5 @@
 const getLanguageUrl = (language) => {
-    return `https://raw.githubusercontent.com/ByMykel/counter-strike-file-tracker/main/static/csgo_${language}.json`;
+    return `https://raw.githubusercontent.com/matttttt/counter-strike-file-tracker/main/static/csgo_${language}.json`;
 };
 
 export const getImageUrl = (path) => {
