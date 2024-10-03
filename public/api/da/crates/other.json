@@ -9,7 +9,7 @@
     "contains_rare": [],
     "market_hash_name": "Gift Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png"
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/gift1player_png.png"
   },
   {
     "id": "crate-1211",
@@ -21,7 +21,7 @@
     "contains_rare": [],
     "market_hash_name": "Pallet of Presents",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png"
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/gift9players_png.png"
   },
   {
     "id": "crate-1215",
@@ -33,7 +33,7 @@
     "contains_rare": [],
     "market_hash_name": "Audience Participation Parcel",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png"
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/gift25spectators_png.png"
   },
   {
     "id": "crate-4668",
@@ -51,13 +51,13 @@
           "color": "#8847ff"
         },
         "paint_index": "125",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_cu_xray_p250_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_cu_xray_p250_light_png.png"
       }
     ],
     "contains_rare": [],
     "market_hash_name": "X-Ray P250 Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png"
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_xray_p250_png.png"
   },
   {
     "id": "crate-4871",
@@ -74,7 +74,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_snappi_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_snappi_png.png"
       },
       {
         "id": "sticker-6090",
@@ -84,7 +84,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dycha_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dycha_png.png"
       },
       {
         "id": "sticker-6094",
@@ -94,7 +94,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_maden_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_maden_png.png"
       },
       {
         "id": "sticker-6098",
@@ -104,7 +104,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_v4lde_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_v4lde_png.png"
       },
       {
         "id": "sticker-6102",
@@ -114,7 +114,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sunpayus_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sunpayus_png.png"
       },
       {
         "id": "sticker-6106",
@@ -124,7 +124,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_karrigan_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_karrigan_png.png"
       },
       {
         "id": "sticker-6110",
@@ -134,7 +134,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rain_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rain_png.png"
       },
       {
         "id": "sticker-6114",
@@ -144,7 +144,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_twistzz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_twistzz_png.png"
       },
       {
         "id": "sticker-6118",
@@ -154,7 +154,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ropz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ropz_png.png"
       },
       {
         "id": "sticker-6122",
@@ -164,7 +164,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_broky_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_broky_png.png"
       },
       {
         "id": "sticker-6126",
@@ -174,7 +174,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_cadian_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_cadian_png.png"
       },
       {
         "id": "sticker-6130",
@@ -184,7 +184,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_teses_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_teses_png.png"
       },
       {
         "id": "sticker-6134",
@@ -194,7 +194,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sjuush_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sjuush_png.png"
       },
       {
         "id": "sticker-6138",
@@ -204,7 +204,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jabbi_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jabbi_png.png"
       },
       {
         "id": "sticker-6142",
@@ -214,7 +214,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_stavn_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_stavn_png.png"
       },
       {
         "id": "sticker-6146",
@@ -224,7 +224,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_b1t_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_b1t_png.png"
       },
       {
         "id": "sticker-6150",
@@ -234,7 +234,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_electronic_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_electronic_png.png"
       },
       {
         "id": "sticker-6154",
@@ -244,7 +244,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sdy_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sdy_png.png"
       },
       {
         "id": "sticker-6158",
@@ -254,7 +254,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_perfecto_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_perfecto_png.png"
       },
       {
         "id": "sticker-6162",
@@ -264,7 +264,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_s1mple_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_s1mple_png.png"
       },
       {
         "id": "sticker-6166",
@@ -274,7 +274,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_es3tag_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_es3tag_png.png"
       },
       {
         "id": "sticker-6170",
@@ -284,7 +284,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_aleksib_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_aleksib_png.png"
       },
       {
         "id": "sticker-6174",
@@ -294,7 +294,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rez_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rez_png.png"
       },
       {
         "id": "sticker-6178",
@@ -304,7 +304,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hampus_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hampus_png.png"
       },
       {
         "id": "sticker-6182",
@@ -314,7 +314,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_brollan_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_brollan_png.png"
       },
       {
         "id": "sticker-6186",
@@ -324,7 +324,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_slaxz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_slaxz_png.png"
       },
       {
         "id": "sticker-6190",
@@ -334,7 +334,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_launx_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_launx_png.png"
       },
       {
         "id": "sticker-6194",
@@ -344,7 +344,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_refrezh_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_refrezh_png.png"
       },
       {
         "id": "sticker-6198",
@@ -354,7 +354,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_staehr_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_staehr_png.png"
       },
       {
         "id": "sticker-6202",
@@ -364,7 +364,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_zyphon_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_zyphon_png.png"
       },
       {
         "id": "sticker-6206",
@@ -374,7 +374,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_yekindar_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_yekindar_png.png"
       },
       {
         "id": "sticker-6210",
@@ -384,7 +384,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_osee_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_osee_png.png"
       },
       {
         "id": "sticker-6214",
@@ -394,7 +394,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nitro_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nitro_png.png"
       },
       {
         "id": "sticker-6218",
@@ -404,7 +404,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_naf_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_naf_png.png"
       },
       {
         "id": "sticker-6222",
@@ -414,7 +414,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_elige_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_elige_png.png"
       },
       {
         "id": "sticker-6226",
@@ -424,7 +424,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_chopper_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_chopper_png.png"
       },
       {
         "id": "sticker-6230",
@@ -434,7 +434,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_magixx_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_magixx_png.png"
       },
       {
         "id": "sticker-6234",
@@ -444,7 +444,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_patsi_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_patsi_png.png"
       },
       {
         "id": "sticker-6238",
@@ -454,7 +454,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_s1ren_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_s1ren_png.png"
       },
       {
         "id": "sticker-6242",
@@ -464,7 +464,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_w0nderful_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_w0nderful_png.png"
       },
       {
         "id": "sticker-6246",
@@ -474,7 +474,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nqz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nqz_png.png"
       },
       {
         "id": "sticker-6250",
@@ -484,7 +484,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dav1deus_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dav1deus_png.png"
       },
       {
         "id": "sticker-6254",
@@ -494,7 +494,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_max_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_max_png.png"
       },
       {
         "id": "sticker-6258",
@@ -504,7 +504,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dgt_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dgt_png.png"
       },
       {
         "id": "sticker-6262",
@@ -514,7 +514,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_buda_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_buda_png.png"
       },
       {
         "id": "sticker-6266",
@@ -524,7 +524,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_gxx_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_gxx_png.png"
       },
       {
         "id": "sticker-6270",
@@ -534,7 +534,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sener1_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sener1_png.png"
       },
       {
         "id": "sticker-6274",
@@ -544,7 +544,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_juanflatroo_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_juanflatroo_png.png"
       },
       {
         "id": "sticker-6278",
@@ -554,7 +554,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rigon_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rigon_png.png"
       },
       {
         "id": "sticker-6282",
@@ -564,7 +564,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sinnopsyy_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sinnopsyy_png.png"
       },
       {
         "id": "sticker-6286",
@@ -574,7 +574,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_faven_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_faven_png.png"
       },
       {
         "id": "sticker-6290",
@@ -584,7 +584,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_krimbo_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_krimbo_png.png"
       },
       {
         "id": "sticker-6294",
@@ -594,7 +594,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_k1to_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_k1to_png.png"
       },
       {
         "id": "sticker-6298",
@@ -604,7 +604,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_tabsen_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_tabsen_png.png"
       },
       {
         "id": "sticker-6302",
@@ -614,7 +614,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_syrson_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_syrson_png.png"
       },
       {
         "id": "sticker-6306",
@@ -624,7 +624,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sh1ro_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sh1ro_png.png"
       },
       {
         "id": "sticker-6310",
@@ -634,7 +634,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nafany_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nafany_png.png"
       },
       {
         "id": "sticker-6314",
@@ -644,7 +644,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ax1le_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ax1le_png.png"
       },
       {
         "id": "sticker-6318",
@@ -654,7 +654,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_interz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_interz_png.png"
       },
       {
         "id": "sticker-6322",
@@ -664,7 +664,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hobbit_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hobbit_png.png"
       },
       {
         "id": "sticker-6326",
@@ -674,7 +674,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_autimatic_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_autimatic_png.png"
       },
       {
         "id": "sticker-6330",
@@ -684,7 +684,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nealan_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nealan_png.png"
       },
       {
         "id": "sticker-6334",
@@ -694,7 +694,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_brehze_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_brehze_png.png"
       },
       {
         "id": "sticker-6338",
@@ -704,7 +704,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hext_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hext_png.png"
       },
       {
         "id": "sticker-6342",
@@ -714,7 +714,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_cerq_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_cerq_png.png"
       },
       {
         "id": "sticker-6346",
@@ -724,7 +724,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_frozen_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_frozen_png.png"
       },
       {
         "id": "sticker-6350",
@@ -734,7 +734,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dexter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dexter_png.png"
       },
       {
         "id": "sticker-6354",
@@ -744,7 +744,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jdc_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jdc_png.png"
       },
       {
         "id": "sticker-6358",
@@ -754,7 +754,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_torzsi_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_torzsi_png.png"
       },
       {
         "id": "sticker-6362",
@@ -764,7 +764,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_xertion_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_xertion_png.png"
       },
       {
         "id": "sticker-6366",
@@ -774,7 +774,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nexa_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nexa_png.png"
       },
       {
         "id": "sticker-6370",
@@ -784,7 +784,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_neofrag_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_neofrag_png.png"
       },
       {
         "id": "sticker-6374",
@@ -794,7 +794,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_flamez_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_flamez_png.png"
       },
       {
         "id": "sticker-6378",
@@ -804,7 +804,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_degster_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_degster_png.png"
       },
       {
         "id": "sticker-6382",
@@ -814,7 +814,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_f1ku_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_f1ku_png.png"
       },
       {
         "id": "sticker-6386",
@@ -824,7 +824,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dupreeh_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dupreeh_png.png"
       },
       {
         "id": "sticker-6390",
@@ -834,7 +834,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_magisk_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_magisk_png.png"
       },
       {
         "id": "sticker-6394",
@@ -844,7 +844,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_apex_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_apex_png.png"
       },
       {
         "id": "sticker-6398",
@@ -854,7 +854,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_spinx_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_spinx_png.png"
       },
       {
         "id": "sticker-6402",
@@ -864,7 +864,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_zywoo_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_zywoo_png.png"
       },
       {
         "id": "sticker-6406",
@@ -874,7 +874,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_taco_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_taco_png.png"
       },
       {
         "id": "sticker-6410",
@@ -884,7 +884,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_coldzera_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_coldzera_png.png"
       },
       {
         "id": "sticker-6414",
@@ -894,7 +894,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_try_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_try_png.png"
       },
       {
         "id": "sticker-6418",
@@ -904,7 +904,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_latto_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_latto_png.png"
       },
       {
         "id": "sticker-6422",
@@ -914,7 +914,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dumau_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dumau_png.png"
       },
       {
         "id": "sticker-6426",
@@ -924,7 +924,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_krimz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_krimz_png.png"
       },
       {
         "id": "sticker-6430",
@@ -934,7 +934,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_mezii_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_mezii_png.png"
       },
       {
         "id": "sticker-6434",
@@ -944,7 +944,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fashr_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fashr_png.png"
       },
       {
         "id": "sticker-6438",
@@ -954,7 +954,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_roej_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_roej_png.png"
       },
       {
         "id": "sticker-6442",
@@ -964,7 +964,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nicoodoz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nicoodoz_png.png"
       },
       {
         "id": "sticker-6446",
@@ -974,7 +974,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_kscerato_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_kscerato_png.png"
       },
       {
         "id": "sticker-6450",
@@ -984,7 +984,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_yuurih_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_yuurih_png.png"
       },
       {
         "id": "sticker-6454",
@@ -994,7 +994,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_drop_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_drop_png.png"
       },
       {
         "id": "sticker-6458",
@@ -1004,7 +1004,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_saffee_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_saffee_png.png"
       },
       {
         "id": "sticker-6462",
@@ -1014,7 +1014,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_art_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_art_png.png"
       },
       {
         "id": "sticker-6466",
@@ -1024,7 +1024,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_acor_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_acor_png.png"
       },
       {
         "id": "sticker-6470",
@@ -1034,7 +1034,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_im_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_im_png.png"
       },
       {
         "id": "sticker-6474",
@@ -1044,7 +1044,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_siuhy_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_siuhy_png.png"
       },
       {
         "id": "sticker-6478",
@@ -1054,7 +1054,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_keoz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_keoz_png.png"
       },
       {
         "id": "sticker-6482",
@@ -1064,7 +1064,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_isak_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_isak_png.png"
       },
       {
         "id": "sticker-6486",
@@ -1074,7 +1074,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ins_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ins_png.png"
       },
       {
         "id": "sticker-6490",
@@ -1084,7 +1084,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_vexite_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_vexite_png.png"
       },
       {
         "id": "sticker-6494",
@@ -1094,7 +1094,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sico_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sico_png.png"
       },
       {
         "id": "sticker-6498",
@@ -1104,7 +1104,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_liazz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_liazz_png.png"
       },
       {
         "id": "sticker-6502",
@@ -1114,7 +1114,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_alistair_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_alistair_png.png"
       },
       {
         "id": "sticker-6506",
@@ -1124,7 +1124,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sk0r_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sk0r_png.png"
       },
       {
         "id": "sticker-6510",
@@ -1134,7 +1134,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_techno4k_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_techno4k_png.png"
       },
       {
         "id": "sticker-6514",
@@ -1144,7 +1144,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_kabal_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_kabal_png.png"
       },
       {
         "id": "sticker-6518",
@@ -1154,7 +1154,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_blitz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_blitz_png.png"
       },
       {
         "id": "sticker-6522",
@@ -1164,7 +1164,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_annihilation_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_annihilation_png.png"
       },
       {
         "id": "sticker-6526",
@@ -1174,7 +1174,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fallen_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fallen_png.png"
       },
       {
         "id": "sticker-6530",
@@ -1184,7 +1184,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fer_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fer_png.png"
       },
       {
         "id": "sticker-6534",
@@ -1194,7 +1194,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_boltz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_boltz_png.png"
       },
       {
         "id": "sticker-6538",
@@ -1204,7 +1204,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_vini_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_vini_png.png"
       },
       {
         "id": "sticker-6542",
@@ -1214,7 +1214,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_chelo_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_chelo_png.png"
       },
       {
         "id": "sticker-6546",
@@ -1224,7 +1224,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fl1t_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fl1t_png.png"
       },
       {
         "id": "sticker-6550",
@@ -1234,7 +1234,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_n0rb3r7_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_n0rb3r7_png.png"
       },
       {
         "id": "sticker-6554",
@@ -1244,7 +1244,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jame_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jame_png.png"
       },
       {
         "id": "sticker-6558",
@@ -1254,7 +1254,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_qikert_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_qikert_png.png"
       },
       {
         "id": "sticker-6562",
@@ -1264,7 +1264,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fame_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fame_png.png"
       },
       {
         "id": "sticker-5961",
@@ -1274,7 +1274,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ence_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/ence_png.png"
       },
       {
         "id": "sticker-5965",
@@ -1284,7 +1284,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/faze_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/faze_png.png"
       },
       {
         "id": "sticker-5969",
@@ -1294,7 +1294,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/hero_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/hero_png.png"
       },
       {
         "id": "sticker-5973",
@@ -1304,7 +1304,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/navi_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/navi_png.png"
       },
       {
         "id": "sticker-5977",
@@ -1314,7 +1314,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nip_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/nip_png.png"
       },
       {
         "id": "sticker-5981",
@@ -1324,7 +1324,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spr_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/spr_png.png"
       },
       {
         "id": "sticker-5985",
@@ -1334,7 +1334,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/liq_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/liq_png.png"
       },
       {
         "id": "sticker-5989",
@@ -1344,7 +1344,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spir_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/spir_png.png"
       },
       {
         "id": "sticker-5993",
@@ -1354,7 +1354,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nine_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/nine_png.png"
       },
       {
         "id": "sticker-5997",
@@ -1364,7 +1364,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/bne_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/bne_png.png"
       },
       {
         "id": "sticker-6001",
@@ -1374,7 +1374,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/big_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/big_png.png"
       },
       {
         "id": "sticker-6005",
@@ -1384,7 +1384,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/c9_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/c9_png.png"
       },
       {
         "id": "sticker-6009",
@@ -1394,7 +1394,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/evl_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/evl_png.png"
       },
       {
         "id": "sticker-6013",
@@ -1404,7 +1404,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/mouz_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/mouz_png.png"
       },
       {
         "id": "sticker-6017",
@@ -1414,7 +1414,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/og_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/og_png.png"
       },
       {
         "id": "sticker-6021",
@@ -1424,7 +1424,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/vita_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/vita_png.png"
       },
       {
         "id": "sticker-6025",
@@ -1434,7 +1434,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/zzn_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/zzn_png.png"
       },
       {
         "id": "sticker-6029",
@@ -1444,7 +1444,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/fntc_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/fntc_png.png"
       },
       {
         "id": "sticker-6033",
@@ -1454,7 +1454,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/furi_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/furi_png.png"
       },
       {
         "id": "sticker-6037",
@@ -1464,7 +1464,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gl_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/gl_png.png"
       },
       {
         "id": "sticker-6041",
@@ -1474,7 +1474,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gray_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/gray_png.png"
       },
       {
         "id": "sticker-6045",
@@ -1484,7 +1484,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ihc_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/ihc_png.png"
       },
       {
         "id": "sticker-6049",
@@ -1494,7 +1494,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/imp_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/imp_png.png"
       },
       {
         "id": "sticker-6053",
@@ -1504,7 +1504,7 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/out_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/out_png.png"
       },
       {
         "id": "sticker-6057",
@@ -1514,13 +1514,13 @@
           "name": "Højkvalitet",
           "color": "#4b69ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/iem_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/iem_png.png"
       }
     ],
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Paper Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png"
+    "image": "https://i.cs2inspects.com/images/econ/tools/casket_rio2022_0_png.png"
   },
   {
     "id": "crate-4872",
@@ -1537,7 +1537,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_snappi_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_snappi_glitter_png.png"
       },
       {
         "id": "sticker-6091",
@@ -1547,7 +1547,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dycha_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dycha_glitter_png.png"
       },
       {
         "id": "sticker-6095",
@@ -1557,7 +1557,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_maden_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_maden_glitter_png.png"
       },
       {
         "id": "sticker-6099",
@@ -1567,7 +1567,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_v4lde_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_v4lde_glitter_png.png"
       },
       {
         "id": "sticker-6103",
@@ -1577,7 +1577,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sunpayus_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sunpayus_glitter_png.png"
       },
       {
         "id": "sticker-6107",
@@ -1587,7 +1587,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_karrigan_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_karrigan_glitter_png.png"
       },
       {
         "id": "sticker-6111",
@@ -1597,7 +1597,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rain_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rain_glitter_png.png"
       },
       {
         "id": "sticker-6115",
@@ -1607,7 +1607,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_twistzz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_twistzz_glitter_png.png"
       },
       {
         "id": "sticker-6119",
@@ -1617,7 +1617,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ropz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ropz_glitter_png.png"
       },
       {
         "id": "sticker-6123",
@@ -1627,7 +1627,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_broky_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_broky_glitter_png.png"
       },
       {
         "id": "sticker-6127",
@@ -1637,7 +1637,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_cadian_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_cadian_glitter_png.png"
       },
       {
         "id": "sticker-6131",
@@ -1647,7 +1647,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_teses_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_teses_glitter_png.png"
       },
       {
         "id": "sticker-6135",
@@ -1657,7 +1657,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sjuush_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sjuush_glitter_png.png"
       },
       {
         "id": "sticker-6139",
@@ -1667,7 +1667,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jabbi_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jabbi_glitter_png.png"
       },
       {
         "id": "sticker-6143",
@@ -1677,7 +1677,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_stavn_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_stavn_glitter_png.png"
       },
       {
         "id": "sticker-6147",
@@ -1687,7 +1687,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_b1t_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_b1t_glitter_png.png"
       },
       {
         "id": "sticker-6151",
@@ -1697,7 +1697,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_electronic_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_electronic_glitter_png.png"
       },
       {
         "id": "sticker-6155",
@@ -1707,7 +1707,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sdy_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sdy_glitter_png.png"
       },
       {
         "id": "sticker-6159",
@@ -1717,7 +1717,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_perfecto_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_perfecto_glitter_png.png"
       },
       {
         "id": "sticker-6163",
@@ -1727,7 +1727,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_s1mple_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_s1mple_glitter_png.png"
       },
       {
         "id": "sticker-6167",
@@ -1737,7 +1737,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_es3tag_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_es3tag_glitter_png.png"
       },
       {
         "id": "sticker-6171",
@@ -1747,7 +1747,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_aleksib_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_aleksib_glitter_png.png"
       },
       {
         "id": "sticker-6175",
@@ -1757,7 +1757,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rez_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rez_glitter_png.png"
       },
       {
         "id": "sticker-6179",
@@ -1767,7 +1767,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hampus_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hampus_glitter_png.png"
       },
       {
         "id": "sticker-6183",
@@ -1777,7 +1777,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_brollan_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_brollan_glitter_png.png"
       },
       {
         "id": "sticker-6187",
@@ -1787,7 +1787,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_slaxz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_slaxz_glitter_png.png"
       },
       {
         "id": "sticker-6191",
@@ -1797,7 +1797,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_launx_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_launx_glitter_png.png"
       },
       {
         "id": "sticker-6195",
@@ -1807,7 +1807,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_refrezh_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_refrezh_glitter_png.png"
       },
       {
         "id": "sticker-6199",
@@ -1817,7 +1817,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_staehr_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_staehr_glitter_png.png"
       },
       {
         "id": "sticker-6203",
@@ -1827,7 +1827,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_zyphon_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_zyphon_glitter_png.png"
       },
       {
         "id": "sticker-6207",
@@ -1837,7 +1837,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_yekindar_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_yekindar_glitter_png.png"
       },
       {
         "id": "sticker-6211",
@@ -1847,7 +1847,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_osee_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_osee_glitter_png.png"
       },
       {
         "id": "sticker-6215",
@@ -1857,7 +1857,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nitro_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nitro_glitter_png.png"
       },
       {
         "id": "sticker-6219",
@@ -1867,7 +1867,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_naf_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_naf_glitter_png.png"
       },
       {
         "id": "sticker-6223",
@@ -1877,7 +1877,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_elige_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_elige_glitter_png.png"
       },
       {
         "id": "sticker-6227",
@@ -1887,7 +1887,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_chopper_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_chopper_glitter_png.png"
       },
       {
         "id": "sticker-6231",
@@ -1897,7 +1897,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_magixx_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_magixx_glitter_png.png"
       },
       {
         "id": "sticker-6235",
@@ -1907,7 +1907,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_patsi_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_patsi_glitter_png.png"
       },
       {
         "id": "sticker-6239",
@@ -1917,7 +1917,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_s1ren_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_s1ren_glitter_png.png"
       },
       {
         "id": "sticker-6243",
@@ -1927,7 +1927,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_w0nderful_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_w0nderful_glitter_png.png"
       },
       {
         "id": "sticker-6247",
@@ -1937,7 +1937,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nqz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nqz_glitter_png.png"
       },
       {
         "id": "sticker-6251",
@@ -1947,7 +1947,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dav1deus_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dav1deus_glitter_png.png"
       },
       {
         "id": "sticker-6255",
@@ -1957,7 +1957,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_max_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_max_glitter_png.png"
       },
       {
         "id": "sticker-6259",
@@ -1967,7 +1967,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dgt_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dgt_glitter_png.png"
       },
       {
         "id": "sticker-6263",
@@ -1977,7 +1977,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_buda_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_buda_glitter_png.png"
       },
       {
         "id": "sticker-6267",
@@ -1987,7 +1987,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_gxx_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_gxx_glitter_png.png"
       },
       {
         "id": "sticker-6271",
@@ -1997,7 +1997,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sener1_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sener1_glitter_png.png"
       },
       {
         "id": "sticker-6275",
@@ -2007,7 +2007,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_juanflatroo_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_juanflatroo_glitter_png.png"
       },
       {
         "id": "sticker-6279",
@@ -2017,7 +2017,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rigon_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rigon_glitter_png.png"
       },
       {
         "id": "sticker-6283",
@@ -2027,7 +2027,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sinnopsyy_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sinnopsyy_glitter_png.png"
       },
       {
         "id": "sticker-6287",
@@ -2037,7 +2037,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_faven_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_faven_glitter_png.png"
       },
       {
         "id": "sticker-6291",
@@ -2047,7 +2047,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_krimbo_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_krimbo_glitter_png.png"
       },
       {
         "id": "sticker-6295",
@@ -2057,7 +2057,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_k1to_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_k1to_glitter_png.png"
       },
       {
         "id": "sticker-6299",
@@ -2067,7 +2067,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_tabsen_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_tabsen_glitter_png.png"
       },
       {
         "id": "sticker-6303",
@@ -2077,7 +2077,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_syrson_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_syrson_glitter_png.png"
       },
       {
         "id": "sticker-6307",
@@ -2087,7 +2087,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sh1ro_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sh1ro_glitter_png.png"
       },
       {
         "id": "sticker-6311",
@@ -2097,7 +2097,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nafany_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nafany_glitter_png.png"
       },
       {
         "id": "sticker-6315",
@@ -2107,7 +2107,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ax1le_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ax1le_glitter_png.png"
       },
       {
         "id": "sticker-6319",
@@ -2117,7 +2117,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_interz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_interz_glitter_png.png"
       },
       {
         "id": "sticker-6323",
@@ -2127,7 +2127,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hobbit_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hobbit_glitter_png.png"
       },
       {
         "id": "sticker-6327",
@@ -2137,7 +2137,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_autimatic_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_autimatic_glitter_png.png"
       },
       {
         "id": "sticker-6331",
@@ -2147,7 +2147,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nealan_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nealan_glitter_png.png"
       },
       {
         "id": "sticker-6335",
@@ -2157,7 +2157,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_brehze_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_brehze_glitter_png.png"
       },
       {
         "id": "sticker-6339",
@@ -2167,7 +2167,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hext_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hext_glitter_png.png"
       },
       {
         "id": "sticker-6343",
@@ -2177,7 +2177,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_cerq_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_cerq_glitter_png.png"
       },
       {
         "id": "sticker-6347",
@@ -2187,7 +2187,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_frozen_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_frozen_glitter_png.png"
       },
       {
         "id": "sticker-6351",
@@ -2197,7 +2197,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dexter_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dexter_glitter_png.png"
       },
       {
         "id": "sticker-6355",
@@ -2207,7 +2207,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jdc_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jdc_glitter_png.png"
       },
       {
         "id": "sticker-6359",
@@ -2217,7 +2217,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_torzsi_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_torzsi_glitter_png.png"
       },
       {
         "id": "sticker-6363",
@@ -2227,7 +2227,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_xertion_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_xertion_glitter_png.png"
       },
       {
         "id": "sticker-6367",
@@ -2237,7 +2237,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nexa_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nexa_glitter_png.png"
       },
       {
         "id": "sticker-6371",
@@ -2247,7 +2247,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_neofrag_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_neofrag_glitter_png.png"
       },
       {
         "id": "sticker-6375",
@@ -2257,7 +2257,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_flamez_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_flamez_glitter_png.png"
       },
       {
         "id": "sticker-6379",
@@ -2267,7 +2267,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_degster_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_degster_glitter_png.png"
       },
       {
         "id": "sticker-6383",
@@ -2277,7 +2277,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_f1ku_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_f1ku_glitter_png.png"
       },
       {
         "id": "sticker-6387",
@@ -2287,7 +2287,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dupreeh_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dupreeh_glitter_png.png"
       },
       {
         "id": "sticker-6391",
@@ -2297,7 +2297,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_magisk_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_magisk_glitter_png.png"
       },
       {
         "id": "sticker-6395",
@@ -2307,7 +2307,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_apex_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_apex_glitter_png.png"
       },
       {
         "id": "sticker-6399",
@@ -2317,7 +2317,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_spinx_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_spinx_glitter_png.png"
       },
       {
         "id": "sticker-6403",
@@ -2327,7 +2327,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_zywoo_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_zywoo_glitter_png.png"
       },
       {
         "id": "sticker-6407",
@@ -2337,7 +2337,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_taco_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_taco_glitter_png.png"
       },
       {
         "id": "sticker-6411",
@@ -2347,7 +2347,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_coldzera_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_coldzera_glitter_png.png"
       },
       {
         "id": "sticker-6415",
@@ -2357,7 +2357,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_try_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_try_glitter_png.png"
       },
       {
         "id": "sticker-6419",
@@ -2367,7 +2367,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_latto_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_latto_glitter_png.png"
       },
       {
         "id": "sticker-6423",
@@ -2377,7 +2377,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dumau_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dumau_glitter_png.png"
       },
       {
         "id": "sticker-6427",
@@ -2387,7 +2387,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_krimz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_krimz_glitter_png.png"
       },
       {
         "id": "sticker-6431",
@@ -2397,7 +2397,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_mezii_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_mezii_glitter_png.png"
       },
       {
         "id": "sticker-6435",
@@ -2407,7 +2407,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fashr_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fashr_glitter_png.png"
       },
       {
         "id": "sticker-6439",
@@ -2417,7 +2417,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_roej_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_roej_glitter_png.png"
       },
       {
         "id": "sticker-6443",
@@ -2427,7 +2427,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nicoodoz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nicoodoz_glitter_png.png"
       },
       {
         "id": "sticker-6447",
@@ -2437,7 +2437,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_kscerato_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_kscerato_glitter_png.png"
       },
       {
         "id": "sticker-6451",
@@ -2447,7 +2447,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_yuurih_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_yuurih_glitter_png.png"
       },
       {
         "id": "sticker-6455",
@@ -2457,7 +2457,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_drop_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_drop_glitter_png.png"
       },
       {
         "id": "sticker-6459",
@@ -2467,7 +2467,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_saffee_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_saffee_glitter_png.png"
       },
       {
         "id": "sticker-6463",
@@ -2477,7 +2477,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_art_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_art_glitter_png.png"
       },
       {
         "id": "sticker-6467",
@@ -2487,7 +2487,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_acor_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_acor_glitter_png.png"
       },
       {
         "id": "sticker-6471",
@@ -2497,7 +2497,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_im_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_im_glitter_png.png"
       },
       {
         "id": "sticker-6475",
@@ -2507,7 +2507,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_siuhy_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_siuhy_glitter_png.png"
       },
       {
         "id": "sticker-6479",
@@ -2517,7 +2517,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_keoz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_keoz_glitter_png.png"
       },
       {
         "id": "sticker-6483",
@@ -2527,7 +2527,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_isak_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_isak_glitter_png.png"
       },
       {
         "id": "sticker-6487",
@@ -2537,7 +2537,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ins_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ins_glitter_png.png"
       },
       {
         "id": "sticker-6491",
@@ -2547,7 +2547,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_vexite_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_vexite_glitter_png.png"
       },
       {
         "id": "sticker-6495",
@@ -2557,7 +2557,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sico_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sico_glitter_png.png"
       },
       {
         "id": "sticker-6499",
@@ -2567,7 +2567,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_liazz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_liazz_glitter_png.png"
       },
       {
         "id": "sticker-6503",
@@ -2577,7 +2577,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_alistair_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_alistair_glitter_png.png"
       },
       {
         "id": "sticker-6507",
@@ -2587,7 +2587,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sk0r_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sk0r_glitter_png.png"
       },
       {
         "id": "sticker-6511",
@@ -2597,7 +2597,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_techno4k_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_techno4k_glitter_png.png"
       },
       {
         "id": "sticker-6515",
@@ -2607,7 +2607,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_kabal_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_kabal_glitter_png.png"
       },
       {
         "id": "sticker-6519",
@@ -2617,7 +2617,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_blitz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_blitz_glitter_png.png"
       },
       {
         "id": "sticker-6523",
@@ -2627,7 +2627,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_annihilation_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_annihilation_glitter_png.png"
       },
       {
         "id": "sticker-6527",
@@ -2637,7 +2637,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fallen_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fallen_glitter_png.png"
       },
       {
         "id": "sticker-6531",
@@ -2647,7 +2647,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fer_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fer_glitter_png.png"
       },
       {
         "id": "sticker-6535",
@@ -2657,7 +2657,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_boltz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_boltz_glitter_png.png"
       },
       {
         "id": "sticker-6539",
@@ -2667,7 +2667,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_vini_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_vini_glitter_png.png"
       },
       {
         "id": "sticker-6543",
@@ -2677,7 +2677,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_chelo_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_chelo_glitter_png.png"
       },
       {
         "id": "sticker-6547",
@@ -2687,7 +2687,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fl1t_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fl1t_glitter_png.png"
       },
       {
         "id": "sticker-6551",
@@ -2697,7 +2697,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_n0rb3r7_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_n0rb3r7_glitter_png.png"
       },
       {
         "id": "sticker-6555",
@@ -2707,7 +2707,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jame_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jame_glitter_png.png"
       },
       {
         "id": "sticker-6559",
@@ -2717,7 +2717,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_qikert_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_qikert_glitter_png.png"
       },
       {
         "id": "sticker-6563",
@@ -2727,7 +2727,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fame_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fame_glitter_png.png"
       },
       {
         "id": "sticker-5962",
@@ -2737,7 +2737,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ence_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/ence_glitter_png.png"
       },
       {
         "id": "sticker-5966",
@@ -2747,7 +2747,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/faze_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/faze_glitter_png.png"
       },
       {
         "id": "sticker-5970",
@@ -2757,7 +2757,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/hero_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/hero_glitter_png.png"
       },
       {
         "id": "sticker-5974",
@@ -2767,7 +2767,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/navi_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/navi_glitter_png.png"
       },
       {
         "id": "sticker-5978",
@@ -2777,7 +2777,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nip_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/nip_glitter_png.png"
       },
       {
         "id": "sticker-5982",
@@ -2787,7 +2787,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spr_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/spr_glitter_png.png"
       },
       {
         "id": "sticker-5986",
@@ -2797,7 +2797,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/liq_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/liq_glitter_png.png"
       },
       {
         "id": "sticker-5990",
@@ -2807,7 +2807,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spir_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/spir_glitter_png.png"
       },
       {
         "id": "sticker-5994",
@@ -2817,7 +2817,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nine_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/nine_glitter_png.png"
       },
       {
         "id": "sticker-5998",
@@ -2827,7 +2827,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/bne_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/bne_glitter_png.png"
       },
       {
         "id": "sticker-6002",
@@ -2837,7 +2837,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/big_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/big_glitter_png.png"
       },
       {
         "id": "sticker-6006",
@@ -2847,7 +2847,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/c9_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/c9_glitter_png.png"
       },
       {
         "id": "sticker-6010",
@@ -2857,7 +2857,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/evl_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/evl_glitter_png.png"
       },
       {
         "id": "sticker-6014",
@@ -2867,7 +2867,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/mouz_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/mouz_glitter_png.png"
       },
       {
         "id": "sticker-6018",
@@ -2877,7 +2877,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/og_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/og_glitter_png.png"
       },
       {
         "id": "sticker-6022",
@@ -2887,7 +2887,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/vita_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/vita_glitter_png.png"
       },
       {
         "id": "sticker-6026",
@@ -2897,7 +2897,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/zzn_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/zzn_glitter_png.png"
       },
       {
         "id": "sticker-6030",
@@ -2907,7 +2907,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/fntc_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/fntc_glitter_png.png"
       },
       {
         "id": "sticker-6034",
@@ -2917,7 +2917,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/furi_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/furi_glitter_png.png"
       },
       {
         "id": "sticker-6038",
@@ -2927,7 +2927,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gl_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/gl_glitter_png.png"
       },
       {
         "id": "sticker-6042",
@@ -2937,7 +2937,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gray_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/gray_glitter_png.png"
       },
       {
         "id": "sticker-6046",
@@ -2947,7 +2947,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ihc_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/ihc_glitter_png.png"
       },
       {
         "id": "sticker-6050",
@@ -2957,7 +2957,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/imp_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/imp_glitter_png.png"
       },
       {
         "id": "sticker-6054",
@@ -2967,7 +2967,7 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/out_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/out_glitter_png.png"
       },
       {
         "id": "sticker-6058",
@@ -2977,13 +2977,13 @@
           "name": "Bemærkelsesværdig",
           "color": "#8847ff"
         },
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/iem_glitter_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/iem_glitter_png.png"
       }
     ],
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Glitter Stickers",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png"
+    "image": "https://i.cs2inspects.com/images/econ/tools/casket_rio2022_1_png.png"
   },
   {
     "id": "crate-4882",
@@ -3001,7 +3001,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1237",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_gs_revolver_acanthus_bronze_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_revolver_gs_revolver_acanthus_bronze_light_png.png"
       },
       {
         "id": "skin-922472",
@@ -3012,7 +3012,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1242",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_cu_m249_scarab_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m249_cu_m249_scarab_light_png.png"
       },
       {
         "id": "skin-1643416",
@@ -3023,7 +3023,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1254",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_cu_xm1014_pharaoh_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_xm1014_cu_xm1014_pharaoh_light_png.png"
       },
       {
         "id": "skin-2167672",
@@ -3034,7 +3034,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1246",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_gs_mp7_strone_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_gs_mp7_strone_light_png.png"
       },
       {
         "id": "skin-529284",
@@ -3045,7 +3045,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1249",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_hy_dune_trap_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_hy_dune_trap_light_png.png"
       },
       {
         "id": "skin-3937132",
@@ -3056,7 +3056,7 @@
           "color": "#5e98d9"
         },
         "paint_index": "1243",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_milspec_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_milspec_light_png.png"
       },
       {
         "id": "skin-2626444",
@@ -3067,7 +3067,7 @@
           "color": "#5e98d9"
         },
         "paint_index": "1251",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ssg08_gs_ssg08_anubis_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ssg08_gs_ssg08_anubis_light_png.png"
       },
       {
         "id": "skin-4002708",
@@ -3078,7 +3078,7 @@
           "color": "#5e98d9"
         },
         "paint_index": "1253",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_gs_usps_tactical_camo_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_usp_silencer_gs_usps_tactical_camo_light_png.png"
       },
       {
         "id": "skin-1119088",
@@ -3089,7 +3089,7 @@
           "color": "#5e98d9"
         },
         "paint_index": "1244",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_cu_mac10_scarab_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_cu_mac10_scarab_light_png.png"
       },
       {
         "id": "skin-1971088",
@@ -3100,7 +3100,7 @@
           "color": "#4b69ff"
         },
         "paint_index": "1252",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_cu_tec9_mummy_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_tec9_cu_tec9_mummy_light_png.png"
       },
       {
         "id": "skin-463704",
@@ -3111,7 +3111,7 @@
           "color": "#4b69ff"
         },
         "paint_index": "1238",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_gs_ak47_strone_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_gs_ak47_strone_light_png.png"
       },
       {
         "id": "skin-594780",
@@ -3122,7 +3122,7 @@
           "color": "#4b69ff"
         },
         "paint_index": "1239",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_gs_awp_strone_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_awp_gs_awp_strone_light_png.png"
       },
       {
         "id": "skin-1774452",
@@ -3133,7 +3133,7 @@
           "color": "#4b69ff"
         },
         "paint_index": "1245",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mag7_gs_mag7_goold_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_gs_mag7_goold_light_png.png"
       },
       {
         "id": "skin-267104",
@@ -3144,7 +3144,7 @@
           "color": "#8847ff"
         },
         "paint_index": "1240",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_cu_glock_ramzes_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_cu_glock_ramzes_light_png.png"
       },
       {
         "id": "skin-2298748",
@@ -3155,7 +3155,7 @@
           "color": "#8847ff"
         },
         "paint_index": "1247",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_gs_nova_sobek_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_gs_nova_sobek_light_png.png"
       },
       {
         "id": "skin-1250184",
@@ -3166,7 +3166,7 @@
           "color": "#8847ff"
         },
         "paint_index": "1250",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_cu_p90_scarab_of_wisdom_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p90_cu_p90_scarab_of_wisdom_light_png.png"
       },
       {
         "id": "skin-660324",
@@ -3177,7 +3177,7 @@
           "color": "#d32ce6"
         },
         "paint_index": "1241",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_cu_famas_holo_ocean_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_famas_cu_famas_holo_ocean_light_png.png"
       },
       {
         "id": "skin-2364288",
@@ -3188,7 +3188,7 @@
           "color": "#d32ce6"
         },
         "paint_index": "1248",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_gs_p250_apep_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_gs_p250_apep_light_png.png"
       },
       {
         "id": "skin-1053596",
@@ -3199,12 +3199,12 @@
           "color": "#eb4b4b"
         },
         "paint_index": "1255",
-        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_gs_m4a4_ra_light_png.png"
+        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_gs_m4a4_ra_light_png.png"
       }
     ],
     "contains_rare": [],
     "market_hash_name": "Anubis Collection Package",
     "rental": false,
-    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png"
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_anubis_storepromo_png.png"
   }
 ]
