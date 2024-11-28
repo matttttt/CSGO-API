@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Moneda del mapa Whistle",
+    "description": "Conmemora la autoría del mapa \\\"Whistle\\\" de CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "de aspecto extraordinario",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Moneda del mapa Palais",
+    "description": "Conmemora la autoría del mapa \\\"Palais\\\" de CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "de aspecto extraordinario",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Moneda del mapa Edin",
+    "description": "Conmemora la autoría del mapa \\\"Edin\\\" de CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "de aspecto extraordinario",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Moneda del mapa Basalt",
+    "description": "Conmemora la autoría del mapa \\\"Basalt\\\" de CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "de aspecto extraordinario",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

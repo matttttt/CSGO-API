@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Whistle Pályaérem",
+    "description": "A „Whistle” CS2 pálya alkotóinak állít emléket.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Rendkívüli",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Palais Pályaérem",
+    "description": "A „Palais” CS2 pálya alkotóinak állít emléket.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Rendkívüli",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Edin Pályaérem",
+    "description": "Az „Edin” CS2 pálya alkotóinak állít emléket.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Rendkívüli",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Basalt Pályaérem",
+    "description": "A „Basalt” CS2 pálya alkotóinak állít emléket.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Rendkívüli",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

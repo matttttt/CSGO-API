@@ -396,7 +396,7 @@
   {
     "id": "skin-65992",
     "name": "Desert Eagle | Calligraffiti",
-    "description": "Zo duur als dat het sterk is: de Desert Eagle is een iconisch pistool dat moeilijk te meesteren is, maar verrassend scherp schiet op lange afstanden. The slide of this Desert Eagle has been decorated with silver paint pen calligraphy.\\n\\n<i>These things take time</i>",
+    "description": "Zo duur als dat het sterk is: de Desert Eagle is een iconisch pistool dat moeilijk te meesteren is, maar verrassend scherp schiet op lange afstanden. De slede van deze Desert Eagle is versierd met kalligrafie van zilveren verf.\\n\\n<i>Deze dingen kosten tijd</i>",
     "weapon": {
       "id": "weapon_deagle",
       "name": "Desert Eagle"
@@ -444,14 +444,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -464,7 +464,7 @@
   {
     "id": "skin-66088",
     "name": "Desert Eagle | Tilted",
-    "description": "Zo duur als dat het sterk is: de Desert Eagle is een iconisch pistool dat moeilijk te meesteren is, maar verrassend scherp schiet op lange afstanden. Its aqua-colored base has been tagged with graffiti from different artists.\\n\\n<i>\\\"I want EVERY round\\\"</i>",
+    "description": "Zo duur als dat het sterk is: de Desert Eagle is een iconisch pistool dat moeilijk te meesteren is, maar verrassend scherp schiet op lange afstanden. De aquakleurige basis is voorzien van graffiti van verschillende kunstenaars.\\n\\n<i>\\\"Ik wil ELKE ronde\\\"</i>",
     "weapon": {
       "id": "weapon_deagle",
       "name": "Desert Eagle"
@@ -512,7 +512,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -1987,6 +1987,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -2134,7 +2139,7 @@
   {
     "id": "skin-69288",
     "name": "Desert Eagle | Starcade",
-    "description": "Zo duur als dat het sterk is: de Desert Eagle is een iconisch pistool dat moeilijk te meesteren is, maar verrassend scherp schiet op lange afstanden. It has been custom painted with an abstract design using metallic flake paint.\\n\\n<i>A New High Score!</i>",
+    "description": "Zo duur als dat het sterk is: de Desert Eagle is een iconisch pistool dat moeilijk te meesteren is, maar verrassend scherp schiet op lange afstanden. Het is speciaal beschilderd met een abstract ontwerp van een metallic pigmentverf.\\n\\n<i>Een nieuwe highscore!</i>",
     "weapon": {
       "id": "weapon_deagle",
       "name": "Desert Eagle"
@@ -2182,7 +2187,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -2503,7 +2508,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -2516,7 +2521,7 @@
   {
     "id": "skin-69752",
     "name": "Desert Eagle | Heat Treated",
-    "description": "Zo duur als dat het sterk is: de Desert Eagle is een iconisch pistool dat moeilijk te meesteren is, maar verrassend scherp schiet op lange afstanden. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "description": "Zo duur als dat het sterk is: de Desert Eagle is een iconisch pistool dat moeilijk te meesteren is, maar verrassend scherp schiet op lange afstanden. De huls is verhard door houtskool op hoge temperaturen te gebruiken.\\n\\n<i>Een klein beetje kleur doet geen kwaad</i>",
     "weapon": {
       "id": "weapon_deagle",
       "name": "Desert Eagle"
@@ -2564,7 +2569,7 @@
     "collections": [
       {
         "id": "collection-set-xpshop-wpn-01",
-        "name": "Limited Edition Item",
+        "name": "Limited Edition",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
       }
     ],
@@ -3068,7 +3073,7 @@
   {
     "id": "skin-131520",
     "name": "Dubbele Beretta's | Hydro Strike",
-    "description": "Twee Beretta's met grote magazijnen tegelijk leegschieten doet je mikken geen goed en verhoogt herlaadtijden. Maar, aan de andere kant, je schiet met twee Beretta's met grote magazijnen tegelijk. It has been custom painted in blue and orange. The droplets imply the weapons may still be wet.\\n\\n<i>The best weapon is the one your enemies least expect</i>",
+    "description": "Twee Beretta's met grote magazijnen tegelijk leegschieten doet je mikken geen goed en verhoogt herlaadtijden. Maar, aan de andere kant, je schiet met twee Beretta's met grote magazijnen tegelijk. Het is speciaal beschilderd in blauw en oranje. De druppels impliceren dat het wapen nog nat kan zijn.\\n\\n<i>Het beste wapen is het wapen dat je vijanden het minst verwachten</i>",
     "weapon": {
       "id": "weapon_elite",
       "name": "Dubbele Beretta's"
@@ -3116,14 +3121,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -3136,7 +3141,7 @@
   {
     "id": "skin-131628",
     "name": "Dubbele Beretta's | Sweet Little Angels",
-    "description": "Twee Beretta's met grote magazijnen tegelijk leegschieten doet je mikken geen goed en verhoogt herlaadtijden. Maar, aan de andere kant, je schiet met twee Beretta's met grote magazijnen tegelijk. Two cherubs have been custom painted over a bright-colored graffiti base.\\n\\n<i>Aww, look how… precious they are</i>",
+    "description": "Twee Beretta's met grote magazijnen tegelijk leegschieten doet je mikken geen goed en verhoogt herlaadtijden. Maar, aan de andere kant, je schiet met twee Beretta's met grote magazijnen tegelijk. Twee op maat geschilderde cherubijnen op een felgekleurde graffitibasis.\\n\\n<i>Ah, kijk eens hoe lief ze zijn</i>",
     "weapon": {
       "id": "weapon_elite",
       "name": "Dubbele Beretta's"
@@ -3184,7 +3189,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -4498,6 +4503,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -4586,6 +4596,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -4850,7 +4865,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -5064,6 +5079,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -5259,7 +5279,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -5327,7 +5347,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -7296,6 +7316,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -7307,7 +7332,7 @@
   {
     "id": "skin-199932",
     "name": "Five-SeveN | Heat Treated",
-    "description": "Zeer accuraat en pantser-doordringend: de Five-Seven is een langzame herlader die dat goed maakt met een gul 20-kogelsmagazijn en een kleine terugslag. It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "description": "Zeer accuraat en pantser-doordringend: de Five-Seven is een langzame herlader die dat goed maakt met een gul 20-kogelsmagazijn en een kleine terugslag. De huls is verhard door houtskool op hoge temperaturen te gebruiken.\\n\\n<i>Een klein beetje kleur doet geen kwaad</i>",
     "weapon": {
       "id": "weapon_fiveseven",
       "name": "Five-SeveN"
@@ -7355,7 +7380,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -7572,6 +7597,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -7638,7 +7668,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -7701,7 +7731,7 @@
   {
     "id": "skin-200856",
     "name": "Five-SeveN | Midnight Paintover",
-    "description": "Zeer accuraat en pantser-doordringend: de Five-Seven is een langzame herlader die dat goed maakt met een gul 20-kogelsmagazijn en een kleine terugslag. A blue and black hydrographic graffiti pattern has been applied.\\n\\n<i>Signed, Doctor Romanov</i>",
+    "description": "Zeer accuraat en pantser-doordringend: de Five-Seven is een langzame herlader die dat goed maakt met een gul 20-kogelsmagazijn en een kleine terugslag. Graffitipatroon aangebracht in een blauwe en zwarte hydroprint. \\n\\n<i>Getekend, Doctor Romanov</i>",
     "weapon": {
       "id": "weapon_fiveseven",
       "name": "Five-SeveN"
@@ -7749,7 +7779,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -7840,6 +7870,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -8031,7 +8066,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -8590,6 +8625,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -8601,7 +8641,7 @@
   {
     "id": "skin-262660",
     "name": "Glock-18 | Gold Toof",
-    "description": "De Glock 18 is een prima eerste-rondepistool die het best werkt tegen ongepantserde tegenstanders en heeft de mogelijkheid om drie kogels per keer af te schieten. It has been custom painted with a pink grip and an aggressive forward-facing gaze.\\n\\n<i>\\\"This one's for you!\\\"</i>",
+    "description": "De Glock 18 is een prima eerste-rondepistool die het best werkt tegen ongepantserde tegenstanders en heeft de mogelijkheid om drie kogels per keer af te schieten. Het is speciaal beschilderd met een roze greep en een agressieve, naar voren gerichte blik.\\n\\n<i>\\\"Deze is voor jou!\\\"</i>",
     "weapon": {
       "id": "weapon_glock",
       "name": "Glock-18"
@@ -8649,14 +8689,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -8669,7 +8709,7 @@
   {
     "id": "skin-262752",
     "name": "Glock-18 | Teal Graf",
-    "description": "De Glock 18 is een prima eerste-rondepistool die het best werkt tegen ongepantserde tegenstanders en heeft de mogelijkheid om drie kogels per keer af te schieten. A blue and red hydrographic graffiti pattern has been applied.\\n\\n<i>Dot your \\\"t\\\"s and cross your \\\"i\\\"s</i>",
+    "description": "De Glock 18 is een prima eerste-rondepistool die het best werkt tegen ongepantserde tegenstanders en heeft de mogelijkheid om drie kogels per keer af te schieten. Er is een blauw en rood hydrografisch graffitipatroon aangebracht.\\n\\n<i>Puntjes op de 't' en een kruisje door de 'i'</i>",
     "weapon": {
       "id": "weapon_glock",
       "name": "Glock-18"
@@ -8717,7 +8757,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -10180,6 +10220,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -10271,6 +10316,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -10350,7 +10400,7 @@
   {
     "id": "skin-265472",
     "name": "Glock-18 | AXIA",
-    "description": "De Glock 18 is een prima eerste-rondepistool die het best werkt tegen ongepantserde tegenstanders en heeft de mogelijkheid om drie kogels per keer af te schieten. It has been custom painted with bright blue metallic flake paint and finished with AXIA branding.\\n\\n<i>\\\"AXIA SPORTS—we compete so you don't have to!\\\"</i>",
+    "description": "De Glock 18 is een prima eerste-rondepistool die het best werkt tegen ongepantserde tegenstanders en heeft de mogelijkheid om drie kogels per keer af te schieten. Het is op maat gespoten met felblauwe metalen vlokkenverf en afgewerkt met het AXIA-merk.\\n\\n<i>\\\"AXIA SPORTS—wij strijden zodat jij dat niet hoeft te doen!\\\"</i>",
     "weapon": {
       "id": "weapon_glock",
       "name": "Glock-18"
@@ -10398,7 +10448,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -10671,7 +10721,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -10797,7 +10847,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -10887,6 +10937,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -11329,7 +11384,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -11397,7 +11452,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -11465,14 +11520,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -11533,7 +11588,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -11552,6 +11607,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -11827,7 +11887,7 @@
   {
     "id": "skin-459204",
     "name": "AK-47 | The Outsiders",
-    "description": "Krachtig en betrouwbaar: de AK-47 is één van de meest betrouwbare aanvalsgeweren in de wereld. Het is het meest dodelijk in korte, gecontroleerde schoten. It has been custom painted with crude depictions of Ts in different situations.\\n\\n<i>The Ts on the bus win rounds and rounds, rounds and rounds, rounds and rounds</i>",
+    "description": "Krachtig en betrouwbaar: de AK-47 is één van de meest betrouwbare aanvalsgeweren in de wereld. Het is het meest dodelijk in korte, gecontroleerde schoten. Het is speciaal beschilderd met ruwe afbeeldingen van T'en in verschillende situaties.\\n\\n<i>De T'en in de bus winnen rondes en rondes, rondes en rondes, rondes en rondes</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -11875,14 +11935,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -11957,7 +12017,7 @@
   {
     "id": "skin-459320",
     "name": "AK-47 | B the Monster",
-    "description": "Krachtig en betrouwbaar: de AK-47 is één van de meest betrouwbare aanvalsgeweren in de wereld. Het is het meest dodelijk in korte, gecontroleerde schoten. It has been custom painted with graffiti from the monster tunnel on Overpass and is finished with metallic silver and gold accents.\\n\\n<i>There's no turning back now…</i>",
+    "description": "Krachtig en betrouwbaar: de AK-47 is één van de meest betrouwbare aanvalsgeweren in de wereld. Het is het meest dodelijk in korte, gecontroleerde schoten. Het is speciaal beschilderd met graffiti van de monstertunnel van Overpass en is afgewerkt met metalen accenten van zilver en goud.\\n\\n<i>Er is geen weg meer terug …</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -12005,7 +12065,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -13757,6 +13817,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -13972,7 +14037,7 @@
   {
     "id": "skin-462400",
     "name": "AK-47 | Crossfade",
-    "description": "Krachtig en betrouwbaar: de AK-47 is één van de meest betrouwbare aanvalsgeweren in de wereld. Het is het meest dodelijk in korte, gecontroleerde schoten. It has been custom painted with a multicolored graphic design.\\n\\n<i>Caught between frames</i>",
+    "description": "Krachtig en betrouwbaar: de AK-47 is één van de meest betrouwbare aanvalsgeweren in de wereld. Het is het meest dodelijk in korte, gecontroleerde schoten. Het is speciaal beschilderd met een meerkleurig grafisch ontwerp.\\n\\n<i>Tussen beelden gevangen</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -14020,7 +14085,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -14101,6 +14166,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -14387,6 +14457,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -14453,7 +14528,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -14539,6 +14614,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -14734,7 +14814,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -14802,7 +14882,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -14822,7 +14902,7 @@
   {
     "id": "skin-463468",
     "name": "AK-47 | Olive Polycam",
-    "description": "Krachtig en betrouwbaar: de AK-47 is één van de meest betrouwbare aanvalsgeweren in de wereld. Het is het meest dodelijk in korte, gecontroleerde schoten. It has been custom painted using a green and grey halftone pattern.\\n\\n<i>Attention to detail</i>",
+    "description": "Krachtig en betrouwbaar: de AK-47 is één van de meest betrouwbare aanvalsgeweren in de wereld. Het is het meest dodelijk in korte, gecontroleerde schoten. Het is speciaal beschilderd met een patroon van groene en grijze halftonen.\\n\\n<i>Oog voor detail</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -14870,7 +14950,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -14932,14 +15012,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -15000,7 +15080,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -15019,6 +15099,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -15611,7 +15696,7 @@
   {
     "id": "skin-524772",
     "name": "AUG | Luxe Trim",
-    "description": "Krachtig en precies: de AUG met zijn vizier compenseert zijn lange herlaadtijden met een kleine spreiding en een hoge vuursnelheid. It has been custom painted to replicate the look and feel of a puffer jacket and finished with bronze accents.\\n\\n<i>The premium package</i>",
+    "description": "Krachtig en precies: de AUG met zijn vizier compenseert zijn lange herlaadtijden met een kleine spreiding en een hoge vuursnelheid. Het is speciaal beschilderd om de uitstraling van een gewatteerd jack te imiteren, en afgewerkt met bronzen accenten.\\n\\n<i>De premiumlook</i>",
     "weapon": {
       "id": "weapon_aug",
       "name": "AUG"
@@ -15659,14 +15744,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -15679,7 +15764,7 @@
   {
     "id": "skin-524824",
     "name": "AUG | Eye of Zapems",
-    "description": "Krachtig en precies: de AUG met zijn vizier compenseert zijn lange herlaadtijden met een kleine spreiding en een hoge vuursnelheid. It has been painted with custom graffiti from Zapems, the infamous street graffiti artist from Overpass.\\n\\n<i>\\\"Check the cameras, we need to find who's doing this\\\"</i>",
+    "description": "Krachtig en precies: de AUG met zijn vizier compenseert zijn lange herlaadtijden met een kleine spreiding en een hoge vuursnelheid. Het is speciaal beschilderd met graffiti van Zapems, de beruchte straatgraffitikunstenaar van Overpass.\\n\\n<i>\\\"Kijk op de camerabeelden, we moeten erachter komen wie dit doet\\\"</i>",
     "weapon": {
       "id": "weapon_aug",
       "name": "AUG"
@@ -15727,7 +15812,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -15741,7 +15826,7 @@
   {
     "id": "skin-524980",
     "name": "AUG | Lil' Pig",
-    "description": "Krachtig en precies: de AUG met zijn vizier compenseert zijn lange herlaadtijden met een kleine spreiding en een hoge vuursnelheid. This custom paint job features a red base and metallic gold accents. A red pig has been added near the butt stock.\\n\\n<i>At home on the range</i>",
+    "description": "Krachtig en precies: de AUG met zijn vizier compenseert zijn lange herlaadtijden met een kleine spreiding en een hoge vuursnelheid. Dit schilderwerk op maat bestaat uit een rode basis en metallic gouden accenten. Achter op de kolf is een rood varken aangebracht.\\n\\n<i>Thuis op de baan</i>",
     "weapon": {
       "id": "weapon_aug",
       "name": "AUG"
@@ -15789,7 +15874,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -17048,6 +17133,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -17151,6 +17241,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -17239,6 +17334,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -17517,6 +17617,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -17727,6 +17832,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -17854,7 +17964,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -17873,6 +17983,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -18228,7 +18343,7 @@
   {
     "id": "skin-590372",
     "name": "AWP | Crakow!",
-    "description": "Hoog risico met hoge beloningen: de beruchte AWP is te herkennen aan zijn kenmerkend één-schot-één-dode-beleid. It has been custom painted using whimsical, playground-style art depicting a little girl and her robot.\\n\\n<i>Playing make believe</i>",
+    "description": "Hoog risico met hoge beloningen: de beruchte AWP is te herkennen aan zijn kenmerkend één-schot-één-dode-beleid. Het is speciaal beschilderd met grillige, speelplaats-achtige kunst die een klein meisje en haar robot afbeeldt.\\n\\n<i>Doen alsof</i>",
     "weapon": {
       "id": "weapon_awp",
       "name": "AWP"
@@ -18276,7 +18391,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -18290,7 +18405,7 @@
   {
     "id": "skin-590476",
     "name": "AWP | CMYK",
-    "description": "Hoog risico met hoge beloningen: de beruchte AWP is te herkennen aan zijn kenmerkend één-schot-één-dode-beleid. It has been custom painted with a multicolored abstract design over a white base.\\n\\n<i>I knew you'd return; I just didn't expect it to be so soon... – Booth, Arms Dealer</i>",
+    "description": "Hoog risico met hoge beloningen: de beruchte AWP is te herkennen aan zijn kenmerkend één-schot-één-dode-beleid. Het is speciaal beschilderd met een meerkleurig abstract ontwerp over een witte basis.\\n\\n<i>\\\"Ik wist dat je terug zou komen; ik had je alleen niet zo snel weer verwacht ...\\\" – Booth, wapenhandelaar</i>",
     "weapon": {
       "id": "weapon_awp",
       "name": "AWP"
@@ -18338,7 +18453,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -19826,6 +19941,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -19982,6 +20102,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -20320,7 +20445,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -20551,7 +20676,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -20619,7 +20744,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -20687,14 +20812,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -20755,7 +20880,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -20774,6 +20899,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -20985,6 +21115,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -21392,6 +21527,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -21795,7 +21935,7 @@
   {
     "id": "skin-657204",
     "name": "FAMAS | Half Sleeve",
-    "description": "Een goedkope optie voor de spelers zonder geld: de FAMAS vult de leegte tussen de duurdere geweren en de minder effectieve submachinegeweren. It has been custom painted to appears as if it's wrapped in a camo patterned jacket.\\n\\n<i>Half sleeved and fully loaded</i>",
+    "description": "Een goedkope optie voor de spelers zonder geld: de FAMAS vult de leegte tussen de duurdere geweren en de minder effectieve submachinegeweren. Het is speciaal beschilderd zodat het lijkt alsof het is verpakt in een jas met camouflagepatroon.\\n\\n<i>Halflange mouwen en volledig geladen</i>",
     "weapon": {
       "id": "weapon_famas",
       "name": "FAMAS"
@@ -21843,7 +21983,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -22525,7 +22665,7 @@
   {
     "id": "skin-658888",
     "name": "FAMAS | Halftone Wash",
-    "description": "Een goedkope optie voor de spelers zonder geld: de FAMAS vult de leegte tussen de duurdere geweren en de minder effectieve submachinegeweren. It has been custom painted with a blue and grey halftone splash pattern.\\n\\n<i>Even the calmest waters can quickly change</i>",
+    "description": "Een goedkope optie voor de spelers zonder geld: de FAMAS vult de leegte tussen de duurdere geweren en de minder effectieve submachinegeweren. Het is speciaal beschilderd met een spatpatroon van blauwe en grijze halftonen.\\n\\n<i>Zelfs de kalmste wateren kunnen snel veranderen</i>",
     "weapon": {
       "id": "weapon_famas",
       "name": "FAMAS"
@@ -22573,7 +22713,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -22920,6 +23060,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -23115,7 +23260,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -23183,7 +23328,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -23202,6 +23347,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -24967,6 +25117,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -25033,7 +25188,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -25123,6 +25278,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -25790,7 +25950,7 @@
   {
     "id": "skin-852924",
     "name": "Galil AR | Metallic Squeezer",
-    "description": "Een minder dure optie onder de terroristen-exclusieve geweren: de Galil AR is een uitstekend wapen in gemiddeld tot lange afstandsgevechten. Metallic paint pen graffiti has been applied over a flat black base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "description": "Een minder dure optie onder de terroristen-exclusieve geweren: de Galil AR is een uitstekend wapen in gemiddeld tot lange afstandsgevechten. Graffiti met metalen verf is aangebracht op een vlakke zwarte ondergrond.\\n\\n<i>\\\"Het is kunst, dat lijkt me duidelijk\\\"</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25838,7 +25998,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -26053,6 +26213,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -27067,6 +27232,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -27214,7 +27384,7 @@
   {
     "id": "skin-855724",
     "name": "Galil AR | NV",
-    "description": "Een minder dure optie onder de terroristen-exclusieve geweren: de Galil AR is een uitstekend wapen in gemiddeld tot lange afstandsgevechten. It has been custom painted with a dark grey base and finished with green accents.\\n\\n<i>Going dark</i>",
+    "description": "Een minder dure optie onder de terroristen-exclusieve geweren: de Galil AR is een uitstekend wapen in gemiddeld tot lange afstandsgevechten. Het is speciaal beschilderd met een donkergrijze basis en afgewerkt met groene accenten.\\n\\n<i>Radiostilte</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27262,7 +27432,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -27399,7 +27569,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -27551,6 +27721,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -27617,7 +27792,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -27707,6 +27882,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -27766,7 +27946,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -27786,7 +27966,7 @@
   {
     "id": "skin-856680",
     "name": "Galil AR | Rainbow Spoon",
-    "description": "Een minder dure optie onder de terroristen-exclusieve geweren: de Galil AR is een uitstekend wapen in gemiddeld tot lange afstandsgevechten. The rainbow spoon effect is achieved by heating the painted weapon to very high temperatures. By using this method the number of unique finishes is almost infinite.\\n\\n<i>Infinite possibilities</i>",
+    "description": "Een minder dure optie onder de terroristen-exclusieve geweren: de Galil AR is een uitstekend wapen in gemiddeld tot lange afstandsgevechten. Het regenboog-lepeleffect wordt bereikt door het geverfde wapen tot zeer hoge temperaturen te verhitten. Door deze methode te gebruiken is het aantal unieke afwerkingen bijna oneindig.\\n\\n<i>Oneindig veel mogelijkheden</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27834,7 +28014,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -28063,7 +28243,7 @@
   {
     "id": "skin-917984",
     "name": "M249 | Hypnosis",
-    "description": "Een sterke LMG voor open ruimtes: de M249 is de perfecte keuze voor spelers die een lage vuursnelheid willen inruilen voor verhoogde precisie en grote magazijnen. It has been custom painted with an eye catching black and blue hypnotic design.\\n\\n<i>\\\"Focus on the sound of my voice\\\"</i>",
+    "description": "Een sterke LMG voor open ruimtes: de M249 is de perfecte keuze voor spelers die een lage vuursnelheid willen inruilen voor verhoogde precisie en grote magazijnen. Het is speciaal beschilderd met een opvallend en hypnotisch zwart-blauw ontwerp.\\n\\n<i>\\\"Concentreer je op het geluid van mijn stem\\\"</i>",
     "weapon": {
       "id": "weapon_m249",
       "name": "M249"
@@ -28111,14 +28291,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -28927,6 +29107,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -28938,7 +29123,7 @@
   {
     "id": "skin-921004",
     "name": "M249 | Spectrogram",
-    "description": "Een sterke LMG voor open ruimtes: de M249 is de perfecte keuze voor spelers die een lage vuursnelheid willen inruilen voor verhoogde precisie en grote magazijnen. It has been custom painted using a green and blue halftone pattern.\\n\\n<i>This one's off the charts</i>",
+    "description": "Een sterke LMG voor open ruimtes: de M249 is de perfecte keuze voor spelers die een lage vuursnelheid willen inruilen voor verhoogde precisie en grote magazijnen. Het is speciaal beschilderd met een patroon van groene en blauwe halftonen.\\n\\n<i>Deze gaat door het dak</i>",
     "weapon": {
       "id": "weapon_m249",
       "name": "M249"
@@ -28986,7 +29171,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -29203,6 +29388,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -29269,7 +29459,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -29337,7 +29527,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -29398,7 +29588,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -29466,7 +29656,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -29485,6 +29675,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -29846,7 +30041,7 @@
   {
     "id": "skin-1049048",
     "name": "M4A4 | Turbine",
-    "description": "Meer precies maar die minder schade doet dan de AK-47: de M4A4 is een volautomatisch geweer dat door vele CT's gekozen wordt. It has been custom painted with a wine-colored base.\\n\\n<i>WARNING: Prolonged firing may cause overheating</i>",
+    "description": "Meer precies maar die minder schade doet dan de AK-47: de M4A4 is een volautomatisch geweer dat door vele CT's gekozen wordt. Het is speciaal beschilderd met een wijnkleurige basis.\\n\\n<i>WAARSCHUWING: Landurig schieten leidt tot oververhitting</i>",
     "weapon": {
       "id": "weapon_m4a1",
       "name": "M4A4"
@@ -29894,14 +30089,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -31407,6 +31602,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -31506,6 +31706,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -31653,7 +31858,7 @@
   {
     "id": "skin-1052072",
     "name": "M4A4 | Polysoup",
-    "description": "Meer precies maar die minder schade doet dan de AK-47: de M4A4 is een volautomatisch geweer dat door vele CT's gekozen wordt. It has been custom painted with multicolored crystals and finished with pearlescent accents.\\n\\n<i>Don't stew on it</i>",
+    "description": "Meer precies maar die minder schade doet dan de AK-47: de M4A4 is een volautomatisch geweer dat door vele CT's gekozen wordt. Het is speciaal beschilderd met meerkleurige kristallen en afgewerkt met parelmoeraccenten.\\n\\n<i>Trek het je niet te veel aan</i>",
     "weapon": {
       "id": "weapon_m4a1",
       "name": "M4A4"
@@ -31701,7 +31906,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -31782,6 +31987,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -31916,7 +32126,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -32046,7 +32256,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -32237,7 +32447,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -32305,7 +32515,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -32373,14 +32583,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -32441,7 +32651,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -32460,6 +32670,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -32821,6 +33036,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -32962,7 +33182,7 @@
   {
     "id": "skin-1114616",
     "name": "MAC-10 | Saibā Oni",
-    "description": "Eigenlijk een doos waar kogels uitkomen: de MAC-10 biedt een hoge vuursnelheid, maar is niet accuraat na een aantal schoten en heeft een grote terugslag. It has been custom painted with a cybernetic demon on the side and between the wire stock.\\n\\n<i>Crackling energy and cold steel</i>",
+    "description": "Eigenlijk een doos waar kogels uitkomen: de MAC-10 biedt een hoge vuursnelheid, maar is niet accuraat na een aantal schoten en heeft een grote terugslag. Het is speciaal beschilderd met een cybernetische demon op de zijkant en tussen de kolf.\\n\\n<i>Knetterende energie en koud staal</i>",
     "weapon": {
       "id": "weapon_mac10",
       "name": "MAC-10"
@@ -33010,14 +33230,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -33030,7 +33250,7 @@
   {
     "id": "skin-1114672",
     "name": "MAC-10 | Pipsqueak",
-    "description": "Eigenlijk een doos waar kogels uitkomen: de MAC-10 biedt een hoge vuursnelheid, maar is niet accuraat na een aantal schoten en heeft een grote terugslag. The rat near the rear sight is surrounded by black and blue graffiti.\\n\\n<i>Game on</i>",
+    "description": "Eigenlijk een doos waar kogels uitkomen: de MAC-10 biedt een hoge vuursnelheid, maar is niet accuraat na een aantal schoten en heeft een grote terugslag. De rat bij het vizier is omgeven door zwart-blauwe graffiti.\\n\\n<i>Game on</i>",
     "weapon": {
       "id": "weapon_mac10",
       "name": "MAC-10"
@@ -33078,7 +33298,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -34618,6 +34838,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -34836,6 +35061,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -35388,6 +35618,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -35454,7 +35689,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -35606,6 +35841,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -35801,7 +36041,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -35869,7 +36109,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -35929,14 +36169,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -35997,7 +36237,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -36016,6 +36256,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -36460,7 +36705,7 @@
   {
     "id": "skin-1245692",
     "name": "P90 | Randy Rush",
-    "description": "Snel te herkennen door zijn unieke ontwerp: de P90 is een geweldig wapen om te gebruiken tijdens het lopen dankzij zijn grote magazijn en lage terugslag. This custom paint job features camouflage, military insignia, and... Randy. For better or worse.\\n\\n<i>\\\"Or how I learned to stop worrying and love the P90\\\"</i>",
+    "description": "Snel te herkennen door zijn unieke ontwerp: de P90 is een geweldig wapen om te gebruiken tijdens het lopen dankzij zijn grote magazijn en lage terugslag. Dit schilderwerk op maat bestaat uit camouflage, militaire insignes en ... Randy. In voor- en tegenspoed.\\n\\n<i>\\\"Of: hoe ik leerde van de P90 te houden</i>",
     "weapon": {
       "id": "weapon_p90",
       "name": "P90"
@@ -36508,14 +36753,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -36528,7 +36773,7 @@
   {
     "id": "skin-1245716",
     "name": "P90 | Wash me",
-    "description": "Snel te herkennen door zijn unieke ontwerp: de P90 is een geweldig wapen om te gebruiken tijdens het lopen dankzij zijn grote magazijn en lage terugslag. A pink and purple spray-painted graffiti pattern has been applied.\\n\\n<i>Nothing a little elbow grease can't fix</i>",
+    "description": "Snel te herkennen door zijn unieke ontwerp: de P90 is een geweldig wapen om te gebruiken tijdens het lopen dankzij zijn grote magazijn en lage terugslag. Er is een patroon van gespoten roze en paarse graffiti aangebracht.\\n\\n<i>Even de schouders eronder</i>",
     "weapon": {
       "id": "weapon_p90",
       "name": "P90"
@@ -36576,7 +36821,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -38291,6 +38536,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -38379,6 +38629,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -38593,6 +38848,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -38604,7 +38864,7 @@
   {
     "id": "skin-1248928",
     "name": "P90 | Attack Vector",
-    "description": "Snel te herkennen door zijn unieke ontwerp: de P90 is een geweldig wapen om te gebruiken tijdens het lopen dankzij zijn grote magazijn en lage terugslag. It has been custom painted with a multicolored abstract design.\\n\\n<i>Aggressive angles of attack</i>",
+    "description": "Snel te herkennen door zijn unieke ontwerp: de P90 is een geweldig wapen om te gebruiken tijdens het lopen dankzij zijn grote magazijn en lage terugslag. Het is speciaal beschilderd met een meerkleurig abstract ontwerp.\\n\\n<i>Agressieve aanvalshoeken</i>",
     "weapon": {
       "id": "weapon_p90",
       "name": "P90"
@@ -38652,7 +38912,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -38789,7 +39049,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -38879,6 +39139,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -39029,6 +39294,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -39117,6 +39387,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -39176,7 +39451,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -39244,14 +39519,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -39312,7 +39587,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -39331,6 +39606,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -39342,7 +39622,7 @@
   {
     "id": "skin-1507972",
     "name": "MP5-SD | Neon Squeezer",
-    "description": "De iconische MP5, die vaak is nagemaakt maar nog nooit is geëvenaard, is misschien wel het meest veelzijdige en populaire machinepistool ter wereld. Dit is de SD-variant, inclusief geïntegreerde demper waardoor het al geweldige wapen nu ook nog eens muisstil is. Neon-colored paint pen graffiti doodles have been applied over a dark base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "description": "De iconische MP5, die vaak is nagemaakt maar nog nooit is geëvenaard, is misschien wel het meest veelzijdige en populaire machinepistool ter wereld. Dit is de SD-variant, inclusief geïntegreerde demper waardoor het al geweldige wapen nu ook nog eens muisstil is. Neonkleurige graffitikrabbels zijn met verfpen aangebracht op een vlakke zwarte ondergrond.\\n\\n<i>\\\"Het is kunst, dat lijkt me duidelijk\\\"</i>",
     "weapon": {
       "id": "weapon_mp5sd",
       "name": "MP5-SD"
@@ -39382,7 +39662,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -39488,6 +39768,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -39499,7 +39784,7 @@
   {
     "id": "skin-1510400",
     "name": "MP5-SD | Savannah Halftone",
-    "description": "De iconische MP5, die vaak is nagemaakt maar nog nooit is geëvenaard, is misschien wel het meest veelzijdige en populaire machinepistool ter wereld. Dit is de SD-variant, inclusief geïntegreerde demper waardoor het al geweldige wapen nu ook nog eens muisstil is. It has been custom painted using a sand and olive-colored halftone design.\\n\\n<i>Observe in silence, then make yourself known</i>",
+    "description": "De iconische MP5, die vaak is nagemaakt maar nog nooit is geëvenaard, is misschien wel het meest veelzijdige en populaire machinepistool ter wereld. Dit is de SD-variant, inclusief geïntegreerde demper waardoor het al geweldige wapen nu ook nog eens muisstil is. Het is speciaal beschilderd met een halftoonontwerp van zand- en olijfkleur.\\n\\n<i>Observeer in stilte, en maak dan jezelf bekend</i>",
     "weapon": {
       "id": "weapon_mp5sd",
       "name": "MP5-SD"
@@ -39539,7 +39824,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -39645,6 +39930,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -40183,6 +40473,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -40385,7 +40680,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -40528,7 +40823,7 @@
   {
     "id": "skin-1512048",
     "name": "MP5-SD | Statics",
-    "description": "De iconische MP5, die vaak is nagemaakt maar nog nooit is geëvenaard, is misschien wel het meest veelzijdige en populaire machinepistool ter wereld. Dit is de SD-variant, inclusief geïntegreerde demper waardoor het al geweldige wapen nu ook nog eens muisstil is. It has been custom painted with a black and blue design.\\n\\n<i>Black and blue and bloody all over</i>",
+    "description": "De iconische MP5, die vaak is nagemaakt maar nog nooit is geëvenaard, is misschien wel het meest veelzijdige en populaire machinepistool ter wereld. Dit is de SD-variant, inclusief geïntegreerde demper waardoor het al geweldige wapen nu ook nog eens muisstil is. Het is speciaal beschilderd met een zwart-wit ontwerp.\\n\\n<i>Zwart, blauw en vooral bloederig</i>",
     "weapon": {
       "id": "weapon_mp5sd",
       "name": "MP5-SD"
@@ -40576,14 +40871,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -40644,14 +40939,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -41128,6 +41423,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -41201,7 +41501,7 @@
   {
     "id": "skin-1573388",
     "name": "UMP-45 | Neo-Noir",
-    "description": "Het verkeerd begrepen kind van de machinegeweer-familie: het kleine magazijn van de UMP45 is het enige nadeel van de anderzijds op veel manieren inzetbare korte-afstandsgeweer. It has been custom painted with a stylized blue-magenta woman over a grayscale background.\\n\\n<i>\\\"Blade in hand, she decided it was time to take a stand\\\"</i>",
+    "description": "Het verkeerd begrepen kind van de machinegeweer-familie: het kleine magazijn van de UMP45 is het enige nadeel van de anderzijds op veel manieren inzetbare korte-afstandsgeweer. Het is speciaal beschilderd met een gestileerde blauw-magenta vrouw op een achtergrond van grijstinten.\\n\\n<i>\\\"Met het mes in de hand besloot ze dat het tijd was om een standpunt in te nemen\\\"</i>",
     "weapon": {
       "id": "weapon_ump45",
       "name": "UMP-45"
@@ -41249,14 +41549,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -41952,7 +42252,7 @@
   {
     "id": "skin-1574512",
     "name": "UMP-45 | Crimson Foil",
-    "description": "Het verkeerd begrepen kind van de machinegeweer-familie: het kleine magazijn van de UMP45 is het enige nadeel van de anderzijds op veel manieren inzetbare korte-afstandsgeweer. It has been custom painted with a striking red and silver color blocked design.\\n\\n<i>Solving hard problems one magazine at a time</i>",
+    "description": "Het verkeerd begrepen kind van de machinegeweer-familie: het kleine magazijn van de UMP45 is het enige nadeel van de anderzijds op veel manieren inzetbare korte-afstandsgeweer. Het is speciaal beschilderd met een opvallend rood en zilverkleurig blokontwerp.\\n\\n<i>Moeilijke problemen oplossen, één magazijn tegelijk</i>",
     "weapon": {
       "id": "weapon_ump45",
       "name": "UMP-45"
@@ -42000,7 +42300,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -42754,6 +43054,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -42952,6 +43257,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -43086,7 +43396,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -43278,7 +43588,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -43368,6 +43678,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -43427,7 +43742,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -43495,7 +43810,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -43563,14 +43878,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -43859,7 +44174,7 @@
   {
     "id": "skin-1638984",
     "name": "XM1014 | Monster Melt",
-    "description": "De XM1014 is een zeer krachtige volautomatische shotgun die zijn forse prijs compenseert met zijn vermogen om in zeer korte tijd een kamer te vullen met lood. A collection of monsters has been custom painted on both sides of this XM1014.\\n\\n<i>\\\"Best to not check the other side\\\"</i>",
+    "description": "De XM1014 is een zeer krachtige volautomatische shotgun die zijn forse prijs compenseert met zijn vermogen om in zeer korte tijd een kamer te vullen met lood. Aan beide kanten van deze XM1014 is een verzameling monsters geschilderd.\\n\\n<i>\\\"Kijk maar niet naar de andere kant\\\"</i>",
     "weapon": {
       "id": "weapon_xm1014",
       "name": "XM1014"
@@ -43907,7 +44222,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -45496,6 +45811,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -45507,7 +45827,7 @@
   {
     "id": "skin-1641736",
     "name": "XM1014 | Halftone Shift",
-    "description": "De XM1014 is een zeer krachtige volautomatische shotgun die zijn forse prijs compenseert met zijn vermogen om in zeer korte tijd een kamer te vullen met lood. It has been custom painted using a multicolored halftone design.\\n\\n<i>\\\"It's from a zoo, but instead of animals on display it's art\\\"</i>",
+    "description": "De XM1014 is een zeer krachtige volautomatische shotgun die zijn forse prijs compenseert met zijn vermogen om in zeer korte tijd een kamer te vullen met lood. Het is speciaal beschilderd met een meerkleurig halftoonontwerp.\\n\\n<i>\\\"Geen tentoongestelde dieren, maar kunst\\\"</i>",
     "weapon": {
       "id": "weapon_xm1014",
       "name": "XM1014"
@@ -45555,7 +45875,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -45840,6 +46160,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -45906,7 +46231,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -45996,6 +46321,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -46191,7 +46521,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -46259,7 +46589,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -46278,6 +46608,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -46373,6 +46708,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -48181,7 +48521,7 @@
   {
     "id": "skin-1707016",
     "name": "PP-Bizon | Cold Cell",
-    "description": "De Bizon doet weinig schade, maar biedt een uniek groot magazijn dat snel herlaadt. It has been spray painted with a blue pebble pattern.\\n\\n<i>Your intentions are clear</i>",
+    "description": "De Bizon doet weinig schade, maar biedt een uniek groot magazijn dat snel herlaadt. Het is gespoten met een blauw kiezelpatroon.\\n\\n<i>Je bedoelingen zijn duidelijk</i>",
     "weapon": {
       "id": "weapon_bizon",
       "name": "PP-Bizon"
@@ -48225,7 +48565,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -48331,6 +48671,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -48419,6 +48764,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -48701,6 +49051,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -50653,6 +51008,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -50664,7 +51024,7 @@
   {
     "id": "skin-1772564",
     "name": "MAG-7 | Wildwood",
-    "description": "De CT-exclusieve Mag-7 levert een vernietigend aantal schade op korte afstand. Zijn herlaadtijd maakt het een geweldige tactische keuze. A pattern of \\\"Wildwood\\\" branches and leaves has been applied.\\n\\n<i>\\\"Are you lost?\\\"</i>",
+    "description": "De CT-exclusieve Mag-7 levert een vernietigend aantal schade op korte afstand. Zijn herlaadtijd maakt het een geweldige tactische keuze. Er is een patroon van 'Wildwood'-takken en -bladeren aangebracht.\\n\\n<i>\\\"Ben je verdwaald?\\\"</i>",
     "weapon": {
       "id": "weapon_mag7",
       "name": "MAG-7"
@@ -50712,7 +51072,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -50818,6 +51178,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -50906,6 +51271,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -51190,6 +51560,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -51385,14 +51760,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -51453,7 +51828,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -51472,6 +51847,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -51533,7 +51913,7 @@
   {
     "id": "skin-1835584",
     "name": "Negev | Wall Bang",
-    "description": "De Negev is een beest dat de vijand op afstand kan houden met zijn nauwkeurige schoten, mits je genoeg tijd hebt om er de controle over te krijgen. Its crimson base has been tagged with graffiti from different artists.\\n\\n<i>Hold it down</i>",
+    "description": "De Negev is een beest dat de vijand op afstand kan houden met zijn nauwkeurige schoten, mits je genoeg tijd hebt om er de controle over te krijgen. De karmozijnrode basis is voorzien van graffiti van verschillende kunstenaars.\\n\\n<i>Houd de trekker ingedrukt</i>",
     "weapon": {
       "id": "weapon_negev",
       "name": "Negev"
@@ -51581,7 +51961,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -52642,6 +53022,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -52968,7 +53353,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -53058,6 +53443,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -53117,7 +53507,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -55016,6 +55406,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -55224,6 +55619,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -55481,7 +55881,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -55549,7 +55949,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -57559,7 +57959,7 @@
   {
     "id": "skin-1969144",
     "name": "Tec-9 | Tiger Stencil",
-    "description": "Een ideaal pistool voor de terrorist die onderweg is. De Tec-9 is dodelijk in kleine ruimtes en heeft een magazijn met hoge capaciteit. A smoke and sand-colored tiger pattern has been applied.\\n\\n<i>The title \\\"King of the Jungle\\\" is up for debate</i>",
+    "description": "Een ideaal pistool voor de terrorist die onderweg is. De Tec-9 is dodelijk in kleine ruimtes en heeft een magazijn met hoge capaciteit. Er is een rook- en zandkleurig tijgerpatroon aangebracht.\\n\\n<i>De titel 'Koning van de Jungle' staat ter discussie</i>",
     "weapon": {
       "id": "weapon_tec9",
       "name": "Tec-9"
@@ -57607,7 +58007,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -57713,6 +58113,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -58261,6 +58666,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -58320,7 +58730,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -58388,14 +58798,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -58456,7 +58866,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -58475,6 +58885,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -58486,7 +58901,7 @@
   {
     "id": "skin-2032784",
     "name": "Zeus x27 | Dragon Snore",
-    "description": "Perfect voor korte-afstandshinderlagen en gesloten omgevingen: de x27 Zeus kan met één schot de vijand permanent neerhalen. A dragon wraps around this lighthearted, custom painted x27.\\n\\n<i>From the highest room of the tallest tower</i>",
+    "description": "Perfect voor korte-afstandshinderlagen en gesloten omgevingen: de x27 Zeus kan met één schot de vijand permanent neerhalen. Een draak wikkelt zich om deze luchtige, op maat geschilderde x27.\\n\\n<i>Vanuit de hoogste kamer van de hoogste toren</i>",
     "weapon": {
       "id": "weapon_taser",
       "name": "Zeus x27"
@@ -58534,7 +58949,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -58596,7 +59011,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -60205,7 +60620,7 @@
   {
     "id": "skin-2100664",
     "name": "P2000 | Coral Halftone",
-    "description": "Accuraat en te beheersen, de van Duitse oorsprong P2000 is een pistool uit de eerste ronde die het best werkt tegen tegenstanders zonder pantser. It has been custom painted using a multicolored halftone pattern.\\n\\n<i>Watch your tone</i>",
+    "description": "Accuraat en te beheersen, de van Duitse oorsprong P2000 is een pistool uit de eerste ronde die het best werkt tegen tegenstanders zonder pantser. Het is speciaal beschilderd met een meerkleurig halftoonpatroon.\\n\\n<i>Let op je toon</i>",
     "weapon": {
       "id": "weapon_hkp2000",
       "name": "P2000"
@@ -60253,7 +60668,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -60610,6 +61025,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -60799,14 +61219,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -62536,6 +62956,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -62639,6 +63064,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -62849,6 +63279,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -62860,7 +63295,7 @@
   {
     "id": "skin-2166448",
     "name": "MP7 | Astrolabe",
-    "description": "Op veel manieren inzetbaar, maar duur: de van Duitse makelaardij MP7 is de perfecte keuze voor korte-afstandsgevechten dankzij zijn hoge schade. A metallic design has been applied over a dark-colored base.\\n\\n<i>\\\"IT'S NOT A CIRCUIT BOARD!\\\"</i>",
+    "description": "Op veel manieren inzetbaar, maar duur: de van Duitse makelaardij MP7 is de perfecte keuze voor korte-afstandsgevechten dankzij zijn hoge schade. Op een donkergekleurde basis is een metalen ontwerp aangebracht.\\n\\n<i>\\\"HET IS GEEN PRINTPLAAT!\\\"</i>",
     "weapon": {
       "id": "weapon_mp7",
       "name": "MP7"
@@ -62908,7 +63343,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -63061,6 +63496,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -63256,7 +63696,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -63324,7 +63764,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -63343,6 +63783,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -64233,7 +64678,7 @@
   {
     "id": "skin-2229548",
     "name": "MP9 | Arctic Tri-Tone",
-    "description": "Gemaakt in Zwitserland: de revolutionaire MP9 is een ergonomisch polymeren wapen veel gekozen door privé beveiligingsfirma's. This custom paint job features white and blue color blocking and is finished with a matching camouflage.\\n\\n<i>Frigid finality</i>",
+    "description": "Gemaakt in Zwitserland: de revolutionaire MP9 is een ergonomisch polymeren wapen veel gekozen door privé beveiligingsfirma's. Dit schilderwerk op maat bestaat uit witte en blauwe kleurblokken en is afgewerkt met bijpassende camouflage.\\n\\n<i>IJskoude beslistheid</i>",
     "weapon": {
       "id": "weapon_mp9",
       "name": "MP9"
@@ -64281,7 +64726,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -65296,6 +65741,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -65452,6 +65902,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -65660,6 +66115,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -65726,7 +66186,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -65923,14 +66383,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -66334,7 +66794,7 @@
   {
     "id": "skin-2294340",
     "name": "Nova | Wurst Hölle",
-    "description": "Het prijskaartje van de Nova is zo laag - het maakt het het perfecte wapen voor hinderlagen voor een team dat niet veel geld heeft. It has been custom painted using sausages from Wurst Hölle, the biergarten on Overpass.\\n\\n<i>Look no further, you've found the missing link</i>",
+    "description": "Het prijskaartje van de Nova is zo laag - het maakt het het perfecte wapen voor hinderlagen voor een team dat niet veel geld heeft. Het is speciaal beschilderd met worsten van Wurst Hölle, de biergarten op Overpass.\\n\\n<i>Zoek niet verder, je hebt de ontbrekende schakel gevonden</i>",
     "weapon": {
       "id": "weapon_nova",
       "name": "Nova"
@@ -66382,7 +66842,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -67291,6 +67751,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -67418,7 +67883,7 @@
   {
     "id": "skin-2295056",
     "name": "Nova | Yorkshire",
-    "description": "Het prijskaartje van de Nova is zo laag - het maakt het het perfecte wapen voor hinderlagen voor een team dat niet veel geld heeft. It has been custom painted using high gloss bronze and gold paint.\\n\\n<i>A history of violence</i>",
+    "description": "Het prijskaartje van de Nova is zo laag - het maakt het het perfecte wapen voor hinderlagen voor een team dat niet veel geld heeft. Het is speciaal beschilderd met bronzen en gouden hoogglansverf.\\n\\n<i>Een geschiedenis van geweld</i>",
     "weapon": {
       "id": "weapon_nova",
       "name": "Nova"
@@ -67466,7 +67931,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -68156,6 +68621,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -68370,6 +68840,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -68436,7 +68911,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -68504,7 +68979,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -68594,6 +69069,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -68653,7 +69133,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -68721,7 +69201,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -68740,6 +69220,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -69488,7 +69973,7 @@
   {
     "id": "skin-2359816",
     "name": "P250 | Epicenter",
-    "description": "Een kleine terugslag met een hoge vuursnelheid: de P250 is een relatief goedkope keuze tegen gepantserde tegenstanders. This custom paint job gives the appearance of custom machined parts using an anodized finish.\\n\\n<i>Direct impact</i>",
+    "description": "Een kleine terugslag met een hoge vuursnelheid: de P250 is een relatief goedkope keuze tegen gepantserde tegenstanders. Dit schilderwerk op maat geeft het het uiterlijk van speciaal gemaakte onderdelen met een geanodiseerde afwerking.\\n\\n<i>Directe impact</i>",
     "weapon": {
       "id": "weapon_p250",
       "name": "P250"
@@ -69536,14 +70021,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -71222,6 +71707,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -71233,7 +71723,7 @@
   {
     "id": "skin-2362392",
     "name": "P250 | Small Game",
-    "description": "Een kleine terugslag met een hoge vuursnelheid: de P250 is een relatief goedkope keuze tegen gepantserde tegenstanders. A camouflage hunter pattern has been applied to the bottom half of this P250.\\n\\n<i>The hunted becomes the hunter</i>",
+    "description": "Een kleine terugslag met een hoge vuursnelheid: de P250 is een relatief goedkope keuze tegen gepantserde tegenstanders. Op de onderste helft van deze P250 is een jagers-camouflagepatroon aangebracht.\\n\\n<i>De gejaagde wordt de jager</i>",
     "weapon": {
       "id": "weapon_p250",
       "name": "P250"
@@ -71281,7 +71771,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -71387,6 +71877,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -71490,6 +71985,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -71638,6 +72138,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -71852,6 +72357,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -71986,7 +72496,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -72116,7 +72626,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -72206,6 +72716,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -72265,7 +72780,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -72333,14 +72848,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -72401,7 +72916,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -72420,6 +72935,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -72856,7 +73376,7 @@
   {
     "id": "skin-2490836",
     "name": "SCAR-20 | Trail Blazer",
-    "description": "De SCAR-20 is een semi-automatisch scherpschuttersgeweer dat zijn hoge vuursnelheid en krachtige langeafstandsschade inruilt voor een langzame bewegingssnelheid en hoog prijskaartje. It has been custom painted with a monochrome black design and silver inlays.\\n\\n<i>FOR USE BY AUTHORIZED CT AGENTS ONLY</i>",
+    "description": "De SCAR-20 is een semi-automatisch scherpschuttersgeweer dat zijn hoge vuursnelheid en krachtige langeafstandsschade inruilt voor een langzame bewegingssnelheid en hoog prijskaartje. Het is speciaal beschilderd met een monochroom zwart ontwerp en zilveren inlegwerk.\\n\\n<i>ALLEEN VOOR GEAUTORISEERDE CT-AGENTEN</i>",
     "weapon": {
       "id": "weapon_scar20",
       "name": "SCAR-20"
@@ -72904,14 +73424,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -73952,7 +74472,7 @@
   {
     "id": "skin-2493900",
     "name": "SCAR-20 | Wild Berry",
-    "description": "De SCAR-20 is een semi-automatisch scherpschuttersgeweer dat zijn hoge vuursnelheid en krachtige langeafstandsschade inruilt voor een langzame bewegingssnelheid en hoog prijskaartje. It has been custom painted using a multicolored halftone design.\\n\\n<i>\\\"I can't aim\\\"</i>",
+    "description": "De SCAR-20 is een semi-automatisch scherpschuttersgeweer dat zijn hoge vuursnelheid en krachtige langeafstandsschade inruilt voor een langzame bewegingssnelheid en hoog prijskaartje. Het is speciaal beschilderd met een meerkleurig halftoonontwerp.\\n\\n<i>\\\"Ik kan niet richten\\\"</i>",
     "weapon": {
       "id": "weapon_scar20",
       "name": "SCAR-20"
@@ -74000,7 +74520,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -74392,14 +74912,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -75993,6 +76513,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -76081,6 +76606,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -76352,7 +76882,7 @@
   {
     "id": "skin-2559508",
     "name": "SG 553 | Berry Gel Coat",
-    "description": "De exclusief voor terroristen beschikbare SG553 is een prima alternatief voor de AK-47 met zijn vizier voor langeafstandsgevechten. It has been custom painted with a metallic bronze base and finished with red accents.\\n\\n<i>\\\"Aww, look at the lil' fella\\\"</i>",
+    "description": "De exclusief voor terroristen beschikbare SG553 is een prima alternatief voor de AK-47 met zijn vizier voor langeafstandsgevechten. Het is speciaal beschilderd met een metallic bronzen basis en afgewerkt met rode accenten.\\n\\n<i>\\\"Ach, moet je dat gastje zien\\\"</i>",
     "weapon": {
       "id": "weapon_sg556",
       "name": "SG 553"
@@ -76400,7 +76930,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -76481,6 +77011,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -76705,6 +77240,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -76771,7 +77311,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -76861,6 +77401,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -76920,7 +77465,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -76988,14 +77533,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -77191,6 +77736,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -77337,7 +77887,7 @@
   {
     "id": "skin-2621952",
     "name": "SSG 08 | Rapid Transit",
-    "description": "Het SSG08-scherpschuttersgeweer, met zijn één schot per keer, doet weinig schade maar is zeer effectief voor zijn prijs, wat het een slimme keus maakt om vroeg in het spel te gebruiken. It has been custom painted with fictitious transit diagrams designed around the maps of Counter-Strike.\\n\\n<i>\\\"Where are we headed?\\\"</i>",
+    "description": "Het SSG08-scherpschuttersgeweer, met zijn één schot per keer, doet weinig schade maar is zeer effectief voor zijn prijs, wat het een slimme keus maakt om vroeg in het spel te gebruiken. Het is speciaal beschilderd met ontwerpen van fictieve transitdiagrammen die zijn gebaseerd op de maps van Counter-Strike.\\n\\n<i>\\\"Waar gaan we heen?\\\"</i>",
     "weapon": {
       "id": "weapon_ssg08",
       "name": "SSG 08"
@@ -77385,14 +77935,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -77482,6 +78032,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -78159,7 +78714,7 @@
   {
     "id": "skin-2623492",
     "name": "SSG 08 | Zeno",
-    "description": "Het SSG08-scherpschuttersgeweer, met zijn één schot per keer, doet weinig schade maar is zeer effectief voor zijn prijs, wat het een slimme keus maakt om vroeg in het spel te gebruiken. It has been custom painted using grayscale metallic flake paint and features red diamond accents.\\n\\n<i>When a LOT of chrome just isn't enough</i>",
+    "description": "Het SSG08-scherpschuttersgeweer, met zijn één schot per keer, doet weinig schade maar is zeer effectief voor zijn prijs, wat het een slimme keus maakt om vroeg in het spel te gebruiken. Het is speciaal beschilderd met een grijzige metaalverf met vlokkeneffect en voorzien van rode diamantaccenten.\\n\\n<i>Wanneer VEEL chroom gewoon niet genoeg is</i>",
     "weapon": {
       "id": "weapon_ssg08",
       "name": "SSG 08"
@@ -78207,7 +78762,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -78647,6 +79202,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -78782,7 +79342,7 @@
   {
     "id": "skin-2624948",
     "name": "SSG 08 | Halftone Whorl",
-    "description": "Het SSG08-scherpschuttersgeweer, met zijn één schot per keer, doet weinig schade maar is zeer effectief voor zijn prijs, wat het een slimme keus maakt om vroeg in het spel te gebruiken. It has been custom painted with a blue and green halftone whorl pattern.\\n\\n<i>Handle with care</i>",
+    "description": "Het SSG08-scherpschuttersgeweer, met zijn één schot per keer, doet weinig schade maar is zeer effectief voor zijn prijs, wat het een slimme keus maakt om vroeg in het spel te gebruiken. Het is speciaal beschilderd met een wervelpatroon van blauwe en groene halftonen.\\n\\n<i>Voorzichtig behandelen</i>",
     "weapon": {
       "id": "weapon_ssg08",
       "name": "SSG 08"
@@ -78830,7 +79390,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -78985,6 +79545,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -79187,7 +79752,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -79329,6 +79894,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -79518,7 +80088,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -79586,7 +80156,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -79605,6 +80175,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -79745,7 +80320,7 @@
   {
     "id": "skin-3932584",
     "name": "M4A1-S | Vaporwave",
-    "description": "Met een kleiner magazijn dan zijn luidere tegenhanger biedt de M4A1 met zijn demper stillere schoten met minder terugslag en hogere precisie. It has been custom painted with a Greco-Roman statue and other distorted imagery from a bygone era.\\n\\n<i>From a hypnagogic dream</i>",
+    "description": "Met een kleiner magazijn dan zijn luidere tegenhanger biedt de M4A1 met zijn demper stillere schoten met minder terugslag en hogere precisie. Het is speciaal beschilderd met een Grieks-Romeins standbeeld en andere vervormde beelden uit lang vervlogen tijden.\\n\\n<i>Van een hypnagogische droom</i>",
     "weapon": {
       "id": "weapon_m4a1_silencer",
       "name": "M4A1-S"
@@ -79793,14 +80368,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -79813,7 +80388,7 @@
   {
     "id": "skin-3932800",
     "name": "M4A1-S | Wash me plz",
-    "description": "Met een kleiner magazijn dan zijn luidere tegenhanger biedt de M4A1 met zijn demper stillere schoten met minder terugslag en hogere precisie. A tan, purple, and gold hydrographic graffiti pattern has been applied.\\n\\n<i>Nothing a little elbow grease can't fix</i>",
+    "description": "Met een kleiner magazijn dan zijn luidere tegenhanger biedt de M4A1 met zijn demper stillere schoten met minder terugslag en hogere precisie. Er is een patroon van gespoten hydrografisch bruine, paarse en gouden graffiti aangebracht.\\n\\n<i>Even de schouders eronder</i>",
     "weapon": {
       "id": "weapon_m4a1_silencer",
       "name": "M4A1-S"
@@ -79861,7 +80436,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "De Overpass 2024-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -81522,6 +82097,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -81718,7 +82298,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -81808,6 +82388,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -82008,6 +82593,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -82135,7 +82725,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -82191,7 +82781,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -82253,14 +82843,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -82321,7 +82911,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -82340,6 +82930,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -82480,7 +83075,7 @@
   {
     "id": "skin-3998156",
     "name": "USP-S | 27",
-    "description": "Het USP-pistool met zijn te verwijderen demper, een favoriet van spelers in Counter-Strike: Source, schiet met minder terugslag en onderdrukt geluid dat ongewilde aandacht trekt. This custom paint job features a winged defuser beneath the rear sight and \\\"027\\\" near the ejection port.\\n\\n<i>Light field work</i>",
+    "description": "Het USP-pistool met zijn te verwijderen demper, een favoriet van spelers in Counter-Strike: Source, schiet met minder terugslag en onderdrukt geluid dat ongewilde aandacht trekt. Dit schilderwerk op maat bestaat uit een gevleugelde demontagekit onder het vizier en de inscriptie '027' op de loop.\\n\\n<i>Licht veldwerk</i>",
     "weapon": {
       "id": "weapon_usp_silencer",
       "name": "USP-S"
@@ -82528,14 +83123,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -84081,6 +84676,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -84237,6 +84837,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -84248,7 +84853,7 @@
   {
     "id": "skin-4001016",
     "name": "USP-S | Alpine Camo",
-    "description": "Het USP-pistool met zijn te verwijderen demper, een favoriet van spelers in Counter-Strike: Source, schiet met minder terugslag en onderdrukt geluid dat ongewilde aandacht trekt. It has been custom painted with a blue and purple camouflage.\\n\\n<i>Pulled out of cold storage</i>",
+    "description": "Het USP-pistool met zijn te verwijderen demper, een favoriet van spelers in Counter-Strike: Source, schiet met minder terugslag en onderdrukt geluid dat ongewilde aandacht trekt. Het is speciaal beschilderd met blauwe en paarse camouflage.\\n\\n<i>Uit de koelcel gehaald</i>",
     "weapon": {
       "id": "weapon_usp_silencer",
       "name": "USP-S"
@@ -84296,7 +84901,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "De Sport & Field-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -84369,6 +84974,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -84435,7 +85045,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -84583,6 +85193,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -84649,7 +85264,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -84908,7 +85523,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -84976,7 +85591,7 @@
     "collections": [
       {
         "id": "collection-set-community-33",
-        "name": "The Kilowatt Collection",
+        "name": "De Kilowatt-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_33_png.png"
       }
     ],
@@ -85044,7 +85659,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -85063,6 +85678,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -85207,6 +85827,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -86967,6 +87592,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -86978,7 +87608,7 @@
   {
     "id": "skin-4132516",
     "name": "CZ75-Auto | Slalom",
-    "description": "Een volledig automatische variant van de CZ75, de CZ75-Auto is de ideale keuze om de rollen om te draaien en je tegenstanders wapen te verkrijgen. Maar met zeer weinig munitie wordt een sterke discipline vereist. It has been custom painted with a multicolored abstract design.\\n\\n<i>Black diamond gun</i>",
+    "description": "Een volledig automatische variant van de CZ75, de CZ75-Auto is de ideale keuze om de rollen om te draaien en je tegenstanders wapen te verkrijgen. Maar met zeer weinig munitie wordt een sterke discipline vereist. Het is speciaal beschilderd met een meerkleurig abstract ontwerp.\\n\\n<i>Zwarte diamanten</i>",
     "weapon": {
       "id": "weapon_cz75a",
       "name": "CZ75-Auto"
@@ -87026,7 +87656,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "De Graphic Design-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -87163,7 +87793,7 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
@@ -87231,7 +87861,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -87383,6 +88013,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -87663,6 +88298,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -87674,7 +88314,7 @@
   {
     "id": "skin-4194796",
     "name": "R8-revolver | Tango",
-    "description": "De R8-revolver levert een zeer nauwkeurig en krachtig schot dat ten koste gaat van een tragere trekker. Snel vuren door de hamer te gebruiken is waarschijnlijk de beste optie wanneer er van dichtbij geschoten moet worden. It has been custom painted with a wooden grip and roses.\\n\\n<i>Will you accept?</i>",
+    "description": "De R8-revolver levert een zeer nauwkeurig en krachtig schot dat ten koste gaat van een tragere trekker. Snel vuren door de hamer te gebruiken is waarschijnlijk de beste optie wanneer er van dichtbij geschoten moet worden. Het is speciaal beschilderd met een houten greep en rozen.\\n\\n<i>Ga jij akkoord?</i>",
     "weapon": {
       "id": "weapon_revolver",
       "name": "R8-revolver"
@@ -87722,14 +88362,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "De Gallery-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -88294,6 +88934,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -88562,6 +89207,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II-souvenirpakket",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -88758,7 +89408,7 @@
     "crates": [
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
@@ -88819,7 +89469,7 @@
     "collections": [
       {
         "id": "collection-set-community-31",
-        "name": "The Recoil Collection",
+        "name": "De Recoil-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_31_png.png"
       }
     ],
@@ -88887,14 +89537,14 @@
     "collections": [
       {
         "id": "collection-set-community-32",
-        "name": "The Revolution Collection",
+        "name": "De Revolution-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_32_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -88955,7 +89605,7 @@
     "collections": [
       {
         "id": "collection-set-anubis",
-        "name": "The Anubis Collection",
+        "name": "De Anubis-collectie",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_anubis_png.png"
       }
     ],
@@ -88974,6 +89624,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Souvenir Package",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -122399,7 +123054,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122466,7 +123121,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122521,7 +123176,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122588,7 +123243,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122655,7 +123310,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122722,7 +123377,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122781,7 +123436,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122848,7 +123503,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122915,7 +123570,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122982,7 +123637,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -123049,7 +123704,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -123116,7 +123771,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -123178,12 +123833,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -123250,12 +123905,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -123322,12 +123977,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -123394,12 +124049,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -124007,7 +124662,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -124074,7 +124729,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -124141,7 +124796,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -124208,7 +124863,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -124270,12 +124925,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -124342,12 +124997,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -124414,12 +125069,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -124486,12 +125141,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -124831,7 +125486,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -124898,7 +125553,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -124965,7 +125620,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -125032,7 +125687,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -125094,12 +125749,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -125166,12 +125821,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -125238,12 +125893,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -125310,12 +125965,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -125655,7 +126310,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -125722,7 +126377,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -125789,7 +126444,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -125856,7 +126511,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -125918,12 +126573,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -125990,12 +126645,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -126062,12 +126717,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -126134,12 +126789,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -126479,7 +127134,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -126546,7 +127201,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -126613,7 +127268,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -126680,7 +127335,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -126742,12 +127397,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -126814,12 +127469,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -126886,12 +127541,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -126958,12 +127613,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -127303,7 +127958,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -127370,7 +128025,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -127437,7 +128092,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -127504,7 +128159,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -127566,12 +128221,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -127638,12 +128293,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -127710,12 +128365,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -127782,12 +128437,12 @@
     "crates": [
       {
         "id": "crate-4717",
-        "name": "Operation Broken Fang Case",
+        "name": "Operation Broken Fang-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
       },
       {
         "id": "crate-4747",
-        "name": "Snakebite Case",
+        "name": "Snakebite-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
       },
       {
@@ -127859,7 +128514,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -127926,7 +128581,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -127993,7 +128648,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -128060,7 +128715,7 @@
       },
       {
         "id": "crate-4880",
-        "name": "Revolution Case",
+        "name": "Revolution-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
@@ -129055,7 +129710,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery-kist",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],

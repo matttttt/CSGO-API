@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "휘슬 맵 주화",
+    "description": "CS2 '휘슬' 맵 제작자에게 수여되는 주화입니다.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "희귀",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "팔레 맵 주화",
+    "description": "CS2 '팔레' 맵 제작자에게 수여되는 주화입니다.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "희귀",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "에딘 맵 주화",
+    "description": "CS2 '에딘' 맵 제작자에게 수여되는 주화입니다.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "희귀",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "바살트 맵 주화",
+    "description": "CS2 '바살트' 맵 제작자에게 수여되는 주화입니다.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "희귀",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

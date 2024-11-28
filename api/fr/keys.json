@@ -549,13 +549,13 @@
   },
   {
     "id": "key-7002",
-    "name": "Clé de caisse de galerie",
+    "name": "Clé de caisse de Galerie",
     "description": "Cette clé ouvre seulement les caisses d'armes de Galerie.",
     "market_hash_name": "Gallery Case Key",
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Caisse de galerie",
+        "name": "Caisse de Galerie",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],

@@ -396,7 +396,7 @@
   {
     "id": "skin-65992",
     "name": "Desert Eagle | Calligraffiti",
-    "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 The slide of this Desert Eagle has been decorated with silver paint pen calligraphy.\\n\\n<i>These things take time</i>",
+    "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 Desert Eagle のスライドにシルバーペイントペンによるカリグラフィーが装飾されている。\\n\\n<i>時間をかけた筆遣い</i>",
     "weapon": {
       "id": "weapon_deagle",
       "name": "Desert Eagle"
@@ -444,14 +444,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -464,7 +464,7 @@
   {
     "id": "skin-66088",
     "name": "Desert Eagle | Tilted",
-    "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 Its aqua-colored base has been tagged with graffiti from different artists.\\n\\n<i>\\\"I want EVERY round\\\"</i>",
+    "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 アクアカラーのベースに様々なアーティストによるグラフィティが描かれている。\\n\\n<i>「全ラウンド、獲りたい」</i>",
     "weapon": {
       "id": "weapon_deagle",
       "name": "Desert Eagle"
@@ -512,7 +512,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -1987,6 +1987,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -2134,7 +2139,7 @@
   {
     "id": "skin-69288",
     "name": "Desert Eagle | Starcade",
-    "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 It has been custom painted with an abstract design using metallic flake paint.\\n\\n<i>A New High Score!</i>",
+    "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 メタリックフレークペイントで抽象的なデザインをカスタムペイント。\\n\\n<i>ハイスコア更新！</i>",
     "weapon": {
       "id": "weapon_deagle",
       "name": "Desert Eagle"
@@ -2182,7 +2187,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -2516,7 +2521,7 @@
   {
     "id": "skin-69752",
     "name": "Desert Eagle | Heat Treated",
-    "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "description": "Desert Eagle は価格に見合う威力のある逸品だ。使いこなすのは困難だが、遠距離でも驚くほどの正確さを誇る。 高温の木炭を使ったカラーフレームハードニング加工。\\n\\n<i>少しぐらい派手でも、誰も困りはしない</i>",
     "weapon": {
       "id": "weapon_deagle",
       "name": "Desert Eagle"
@@ -2564,7 +2569,7 @@
     "collections": [
       {
         "id": "collection-set-xpshop-wpn-01",
-        "name": "Limited Edition Item",
+        "name": "リミットエディションアイテム",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
       }
     ],
@@ -3068,7 +3073,7 @@
   {
     "id": "skin-131520",
     "name": "Dual Berettas | Hydro Strike",
-    "description": "大容量の弾倉を装着した2丁の Beretta を同時に撃つと、命中率が下がり、装填時間が伸びる。だが大容量の弾倉を備えた2丁の Beretta を同時に撃てるのだから、それで良しとしよう。 It has been custom painted in blue and orange. The droplets imply the weapons may still be wet.\\n\\n<i>The best weapon is the one your enemies least expect</i>",
+    "description": "大容量の弾倉を装着した2丁の Beretta を同時に撃つと、命中率が下がり、装填時間が伸びる。だが大容量の弾倉を備えた2丁の Beretta を同時に撃てるのだから、それで良しとしよう。 青とオレンジでカスタムペイント。滴で武器が濡れているような印象。\\n\\n<i>最良の武器は、敵が全く予期しないものだ</i>",
     "weapon": {
       "id": "weapon_elite",
       "name": "Dual Berettas"
@@ -3116,14 +3121,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -3136,7 +3141,7 @@
   {
     "id": "skin-131628",
     "name": "Dual Berettas | Sweet Little Angels",
-    "description": "大容量の弾倉を装着した2丁の Beretta を同時に撃つと、命中率が下がり、装填時間が伸びる。だが大容量の弾倉を備えた2丁の Beretta を同時に撃てるのだから、それで良しとしよう。 Two cherubs have been custom painted over a bright-colored graffiti base.\\n\\n<i>Aww, look how… precious they are</i>",
+    "description": "大容量の弾倉を装着した2丁の Beretta を同時に撃つと、命中率が下がり、装填時間が伸びる。だが大容量の弾倉を備えた2丁の Beretta を同時に撃てるのだから、それで良しとしよう。 明るい色のグラフィティベースに2人の小さな天使をカスタムペイント。\\n\\n<i>ああ、なんて愛らしい…</i>",
     "weapon": {
       "id": "weapon_elite",
       "name": "Dual Berettas"
@@ -3184,7 +3189,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -4498,6 +4503,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -4586,6 +4596,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -5064,6 +5079,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -7296,6 +7316,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -7307,7 +7332,7 @@
   {
     "id": "skin-199932",
     "name": "Five-SeveN | Heat Treated",
-    "description": "Five-Seven は精度と貫通能力が優れている。高価なうえに装填速度も遅いが、20発の大容量弾倉と低反動によってその短所を補っている。 It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n<i>A little color never hurt anyone</i>",
+    "description": "Five-Seven は精度と貫通能力が優れている。高価なうえに装填速度も遅いが、20発の大容量弾倉と低反動によってその短所を補っている。 高温の木炭を使ったカラーフレームハードニング加工。\\n\\n<i>少しぐらい派手でも、誰も困りはしない</i>",
     "weapon": {
       "id": "weapon_fiveseven",
       "name": "Five-SeveN"
@@ -7355,7 +7380,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -7572,6 +7597,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -7701,7 +7731,7 @@
   {
     "id": "skin-200856",
     "name": "Five-SeveN | Midnight Paintover",
-    "description": "Five-Seven は精度と貫通能力が優れている。高価なうえに装填速度も遅いが、20発の大容量弾倉と低反動によってその短所を補っている。 A blue and black hydrographic graffiti pattern has been applied.\\n\\n<i>Signed, Doctor Romanov</i>",
+    "description": "Five-Seven は精度と貫通能力が優れている。高価なうえに装填速度も遅いが、20発の大容量弾倉と低反動によってその短所を補っている。 青と黒の水圧転写のグラフィックパターンが施されている。\\n\\n<i>署名、ドクターロマノフ</i>",
     "weapon": {
       "id": "weapon_fiveseven",
       "name": "Five-SeveN"
@@ -7749,7 +7779,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -7840,6 +7870,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -8590,6 +8625,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -8601,7 +8641,7 @@
   {
     "id": "skin-262660",
     "name": "Glock-18 | Gold Toof",
-    "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 It has been custom painted with a pink grip and an aggressive forward-facing gaze.\\n\\n<i>\\\"This one's for you!\\\"</i>",
+    "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 ピンクのグリップと前方に向けられた攻撃的な視線でカスタムペイント。\\n\\n<i>「こいつをくらえ！」</i>",
     "weapon": {
       "id": "weapon_glock",
       "name": "Glock-18"
@@ -8649,14 +8689,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -8669,7 +8709,7 @@
   {
     "id": "skin-262752",
     "name": "Glock-18 | Teal Graf",
-    "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 A blue and red hydrographic graffiti pattern has been applied.\\n\\n<i>Dot your \\\"t\\\"s and cross your \\\"i\\\"s</i>",
+    "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 青と赤の水圧転写でグラフィティを表現。\\n\\n<i>「念入りな書き損じ」</i>",
     "weapon": {
       "id": "weapon_glock",
       "name": "Glock-18"
@@ -8717,7 +8757,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -10180,6 +10220,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -10271,6 +10316,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -10350,7 +10400,7 @@
   {
     "id": "skin-265472",
     "name": "Glock-18 | AXIA",
-    "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 It has been custom painted with bright blue metallic flake paint and finished with AXIA branding.\\n\\n<i>\\\"AXIA SPORTS—we compete so you don't have to!\\\"</i>",
+    "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 鮮やかな青のメタリックフレークペイントでカスタムペイントし、AXIA のブランドロゴで仕上げ。\\n\\n<i>「AXIA SPORTSーあなたの代わりに私たちが戦います！」</i>",
     "weapon": {
       "id": "weapon_glock",
       "name": "Glock-18"
@@ -10398,7 +10448,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -10887,6 +10937,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -11552,6 +11607,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -11827,7 +11887,7 @@
   {
     "id": "skin-459204",
     "name": "AK-47 | The Outsiders",
-    "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 It has been custom painted with crude depictions of Ts in different situations.\\n\\n<i>The Ts on the bus win rounds and rounds, rounds and rounds, rounds and rounds</i>",
+    "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 様々な状況のテロリストを描いたヘタウマカスタムペイント。\\n\\n<i>バスの T はラウンドとる、とーるとる、とーるとる</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -11875,14 +11935,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -11957,7 +12017,7 @@
   {
     "id": "skin-459320",
     "name": "AK-47 | B the Monster",
-    "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 It has been custom painted with graffiti from the monster tunnel on Overpass and is finished with metallic silver and gold accents.\\n\\n<i>There's no turning back now…</i>",
+    "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 Overpass のモンスタートンネルのグラフィティをカスタムペイントし、メタリックシルバーとゴールドのアクセントで仕上げ。\\n\\n<i>もう後戻りはできない…</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -12005,7 +12065,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -13757,6 +13817,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -13972,7 +14037,7 @@
   {
     "id": "skin-462400",
     "name": "AK-47 | Crossfade",
-    "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 It has been custom painted with a multicolored graphic design.\\n\\n<i>Caught between frames</i>",
+    "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 マルチカラーのグラフィックデザインでカスタムペイント。\\n\\n<i>瞬間をとらえて</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -14020,7 +14085,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -14101,6 +14166,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -14387,6 +14457,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -14539,6 +14614,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -14822,7 +14902,7 @@
   {
     "id": "skin-463468",
     "name": "AK-47 | Olive Polycam",
-    "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 It has been custom painted using a green and grey halftone pattern.\\n\\n<i>Attention to detail</i>",
+    "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 緑とグレーのハーフトーンデザインをカスタムペイント。\\n\\n<i>細部へのこだわり</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -14870,7 +14950,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -15019,6 +15099,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -15611,7 +15696,7 @@
   {
     "id": "skin-524772",
     "name": "AUG | Luxe Trim",
-    "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 It has been custom painted to replicate the look and feel of a puffer jacket and finished with bronze accents.\\n\\n<i>The premium package</i>",
+    "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 ダウンジャケットの外観と質感を再現したカスタムペイントに、ブロンズのアクセントで仕上げ。\\n\\n<i>贅沢な一品</i>",
     "weapon": {
       "id": "weapon_aug",
       "name": "AUG"
@@ -15659,14 +15744,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -15679,7 +15764,7 @@
   {
     "id": "skin-524824",
     "name": "AUG | Eye of Zapems",
-    "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 It has been painted with custom graffiti from Zapems, the infamous street graffiti artist from Overpass.\\n\\n<i>\\\"Check the cameras, we need to find who's doing this\\\"</i>",
+    "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 Overpass で悪名高いストリートグラフィックアーティスト Zapems によるカスタムペイント。\\n\\n<i>「カメラを確認しろ。誰の仕業かはっきりさせるんだ」</i>",
     "weapon": {
       "id": "weapon_aug",
       "name": "AUG"
@@ -15727,7 +15812,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -15741,7 +15826,7 @@
   {
     "id": "skin-524980",
     "name": "AUG | Lil' Pig",
-    "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 This custom paint job features a red base and metallic gold accents. A red pig has been added near the butt stock.\\n\\n<i>At home on the range</i>",
+    "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 赤いベースとメタリックゴールドのアクセントでカスタムペイント。バットストックの近くには赤いブタが描かれている。\\n\\n<i>射撃場がホームグラウンド</i>",
     "weapon": {
       "id": "weapon_aug",
       "name": "AUG"
@@ -15789,7 +15874,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -17048,6 +17133,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -17151,6 +17241,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -17239,6 +17334,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -17517,6 +17617,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -17727,6 +17832,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -17873,6 +17983,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -18228,7 +18343,7 @@
   {
     "id": "skin-590372",
     "name": "AWP | Crakow!",
-    "description": "ハイリスク・ハイリターンなライフルである AWP は、特徴的な発射音とワンショット・ワンキルのポリシーで知られている。 It has been custom painted using whimsical, playground-style art depicting a little girl and her robot.\\n\\n<i>Playing make believe</i>",
+    "description": "ハイリスク・ハイリターンなライフルである AWP は、特徴的な発射音とワンショット・ワンキルのポリシーで知られている。 幼い少女とロボットが戯れる様子を遊び心のあるタッチで描いたカスタムペイント。\\n\\n<i>ごっこ遊び</i>",
     "weapon": {
       "id": "weapon_awp",
       "name": "AWP"
@@ -18276,7 +18391,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -18290,7 +18405,7 @@
   {
     "id": "skin-590476",
     "name": "AWP | CMYK",
-    "description": "ハイリスク・ハイリターンなライフルである AWP は、特徴的な発射音とワンショット・ワンキルのポリシーで知られている。 It has been custom painted with a multicolored abstract design over a white base.\\n\\n<i>I knew you'd return; I just didn't expect it to be so soon... – Booth, Arms Dealer</i>",
+    "description": "ハイリスク・ハイリターンなライフルである AWP は、特徴的な発射音とワンショット・ワンキルのポリシーで知られている。 白いベースの上にマルチカラーの抽象的デザインでカスタムペイント。\\n\\n<i>戻ってくると思っていたよ、ただ、こんなに早いとは思わなかったがね…ー武器商人 ブース</i>",
     "weapon": {
       "id": "weapon_awp",
       "name": "AWP"
@@ -18338,7 +18453,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -19826,6 +19941,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -19982,6 +20102,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -20774,6 +20899,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -20985,6 +21115,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -21392,6 +21527,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -21795,7 +21935,7 @@
   {
     "id": "skin-657204",
     "name": "FAMAS | Half Sleeve",
-    "description": "金欠プレイヤーにとって安価な選択肢となる FAMAS は、高価なライフルとより威力の低い SMG の間の隙間を埋める存在である。 It has been custom painted to appears as if it's wrapped in a camo patterned jacket.\\n\\n<i>Half sleeved and fully loaded</i>",
+    "description": "金欠プレイヤーにとって安価な選択肢となる FAMAS は、高価なライフルとより威力の低い SMG の間の隙間を埋める存在である。 迷彩柄のジャケットに包まれたようなデザインでカスタムペイント。\\n\\n<i>半袖で弾薬は満タン</i>",
     "weapon": {
       "id": "weapon_famas",
       "name": "FAMAS"
@@ -21843,7 +21983,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -22525,7 +22665,7 @@
   {
     "id": "skin-658888",
     "name": "FAMAS | Halftone Wash",
-    "description": "金欠プレイヤーにとって安価な選択肢となる FAMAS は、高価なライフルとより威力の低い SMG の間の隙間を埋める存在である。 It has been custom painted with a blue and grey halftone splash pattern.\\n\\n<i>Even the calmest waters can quickly change</i>",
+    "description": "金欠プレイヤーにとって安価な選択肢となる FAMAS は、高価なライフルとより威力の低い SMG の間の隙間を埋める存在である。 青とグレーのハーフトーンのスプラッシュパターンでカスタムペイント。\\n\\n<i>穏やかな水面も一瞬で変化することがある</i>",
     "weapon": {
       "id": "weapon_famas",
       "name": "FAMAS"
@@ -22573,7 +22713,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -22920,6 +23060,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -23202,6 +23347,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -24967,6 +25117,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -25123,6 +25278,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -25790,7 +25950,7 @@
   {
     "id": "skin-852924",
     "name": "Galil AR | Metallic Squeezer",
-    "description": "テロリスト専用アサルトライフルの中で比較的安価な選択肢である Galil AR は、中長距離戦闘で役立つ。 Metallic paint pen graffiti has been applied over a flat black base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "description": "テロリスト専用アサルトライフルの中で比較的安価な選択肢である Galil AR は、中長距離戦闘で役立つ。 フラットブラックのベースにメタリックペイントペンでグラフィティが描かれている。\\n\\n<i>「これがアートだ。説明する必要なんてない」</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25838,7 +25998,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -26053,6 +26213,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -27067,6 +27232,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -27214,7 +27384,7 @@
   {
     "id": "skin-855724",
     "name": "Galil AR | NV",
-    "description": "テロリスト専用アサルトライフルの中で比較的安価な選択肢である Galil AR は、中長距離戦闘で役立つ。 It has been custom painted with a dark grey base and finished with green accents.\\n\\n<i>Going dark</i>",
+    "description": "テロリスト専用アサルトライフルの中で比較的安価な選択肢である Galil AR は、中長距離戦闘で役立つ。 ダークグレーのベースでカスタムペイントし、緑のアクセントで仕上げ。\\n\\n<i>潜入開始</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27262,7 +27432,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -27551,6 +27721,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -27707,6 +27882,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -27786,7 +27966,7 @@
   {
     "id": "skin-856680",
     "name": "Galil AR | Rainbow Spoon",
-    "description": "テロリスト専用アサルトライフルの中で比較的安価な選択肢である Galil AR は、中長距離戦闘で役立つ。 The rainbow spoon effect is achieved by heating the painted weapon to very high temperatures. By using this method the number of unique finishes is almost infinite.\\n\\n<i>Infinite possibilities</i>",
+    "description": "テロリスト専用アサルトライフルの中で比較的安価な選択肢である Galil AR は、中長距離戦闘で役立つ。 レインボースプーン効果は、ペイントした武器を非常に高い温度に熱することで表れる。この手法からはほぼ無限のパターンが生み出される。\\n\\n<i>無限の可能性</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27834,7 +28014,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -28063,7 +28243,7 @@
   {
     "id": "skin-917984",
     "name": "M249 | Hypnosis",
-    "description": "開けた場所での運用時に威力を発揮する M249 は、連射速度よりも精度と装弾数を重視するプレイヤーに最適な LMG だ。 It has been custom painted with an eye catching black and blue hypnotic design.\\n\\n<i>\\\"Focus on the sound of my voice\\\"</i>",
+    "description": "開けた場所での運用時に威力を発揮する M249 は、連射速度よりも精度と装弾数を重視するプレイヤーに最適な LMG だ。 目を引く黒と青のヒプノティックデザインでカスタムペイント。\\n\\n<i>「私の声に集中して」</i>",
     "weapon": {
       "id": "weapon_m249",
       "name": "M249"
@@ -28111,14 +28291,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -28927,6 +29107,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -28938,7 +29123,7 @@
   {
     "id": "skin-921004",
     "name": "M249 | Spectrogram",
-    "description": "開けた場所での運用時に威力を発揮する M249 は、連射速度よりも精度と装弾数を重視するプレイヤーに最適な LMG だ。 It has been custom painted using a green and blue halftone pattern.\\n\\n<i>This one's off the charts</i>",
+    "description": "開けた場所での運用時に威力を発揮する M249 は、連射速度よりも精度と装弾数を重視するプレイヤーに最適な LMG だ。 緑と青のハーフトーンパターンでカスタムペイント。\\n\\n<i>とんでもないプレイが出ています</i>",
     "weapon": {
       "id": "weapon_m249",
       "name": "M249"
@@ -28986,7 +29171,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -29203,6 +29388,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -29485,6 +29675,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -29846,7 +30041,7 @@
   {
     "id": "skin-1049048",
     "name": "M4A4 | Turbine",
-    "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 It has been custom painted with a wine-colored base.\\n\\n<i>WARNING: Prolonged firing may cause overheating</i>",
+    "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 ワインカラーをベースにカスタムペイント。\\n\\n<i>警告：長時間の連射はオーバーヒートを引き起こす恐れあり</i>",
     "weapon": {
       "id": "weapon_m4a1",
       "name": "M4A4"
@@ -29894,14 +30089,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -31407,6 +31602,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -31506,6 +31706,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -31653,7 +31858,7 @@
   {
     "id": "skin-1052072",
     "name": "M4A4 | Polysoup",
-    "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 It has been custom painted with multicolored crystals and finished with pearlescent accents.\\n\\n<i>Don't stew on it</i>",
+    "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 マルチカラーのクリスタルをカスタムペイントし、パール光沢のアクセントで仕上げ。\\n\\n<i>くよくよするな</i>",
     "weapon": {
       "id": "weapon_m4a1",
       "name": "M4A4"
@@ -31701,7 +31906,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -31782,6 +31987,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -32460,6 +32670,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -32821,6 +33036,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -32962,7 +33182,7 @@
   {
     "id": "skin-1114616",
     "name": "MAC-10 | Saibā Oni",
-    "description": "本質的には弾丸が出てくる箱である MAC-10 サブマシンガンは、高い射撃速度を誇るが、引き換えに集弾精度が低く、反動が激しい。 It has been custom painted with a cybernetic demon on the side and between the wire stock.\\n\\n<i>Crackling energy and cold steel</i>",
+    "description": "本質的には弾丸が出てくる箱である MAC-10 サブマシンガンは、高い射撃速度を誇るが、引き換えに集弾精度が低く、反動が激しい。 サイドとワイヤーストックの間にサイバネティクな鬼のカスタムペイント。\\n\\n<i>ほとばしるエネルギーと冷たい鋼</i>",
     "weapon": {
       "id": "weapon_mac10",
       "name": "MAC-10"
@@ -33010,14 +33230,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -33030,7 +33250,7 @@
   {
     "id": "skin-1114672",
     "name": "MAC-10 | Pipsqueak",
-    "description": "本質的には弾丸が出てくる箱である MAC-10 サブマシンガンは、高い射撃速度を誇るが、引き換えに集弾精度が低く、反動が激しい。 The rat near the rear sight is surrounded by black and blue graffiti.\\n\\n<i>Game on</i>",
+    "description": "本質的には弾丸が出てくる箱である MAC-10 サブマシンガンは、高い射撃速度を誇るが、引き換えに集弾精度が低く、反動が激しい。 リアサイトのそばのネズミが、黒と青のグラフィティに囲まれている。\\n\\n<i>ゲームスタート</i>",
     "weapon": {
       "id": "weapon_mac10",
       "name": "MAC-10"
@@ -33078,7 +33298,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -34618,6 +34838,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -34836,6 +35061,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -35388,6 +35618,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -35606,6 +35841,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -36016,6 +36256,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -36460,7 +36705,7 @@
   {
     "id": "skin-1245692",
     "name": "P90 | Randy Rush",
-    "description": "独自のブルパップデザインにより一目で見分けが付く P90 は、大容量マガジンと低リコイルにより移動時の射撃に優れている。 This custom paint job features camouflage, military insignia, and... Randy. For better or worse.\\n\\n<i>\\\"Or how I learned to stop worrying and love the P90\\\"</i>",
+    "description": "独自のブルパップデザインにより一目で見分けが付く P90 は、大容量マガジンと低リコイルにより移動時の射撃に優れている。 迷彩、ミリタリーバッジ、そして好みは分かれるだろうが… ランディをカスタムペイント。\\n\\n<i>「または、私は如何にして心配するのを止めて P90 を愛するようになったか」</i>",
     "weapon": {
       "id": "weapon_p90",
       "name": "P90"
@@ -36508,14 +36753,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -36528,7 +36773,7 @@
   {
     "id": "skin-1245716",
     "name": "P90 | Wash me",
-    "description": "独自のブルパップデザインにより一目で見分けが付く P90 は、大容量マガジンと低リコイルにより移動時の射撃に優れている。 A pink and purple spray-painted graffiti pattern has been applied.\\n\\n<i>Nothing a little elbow grease can't fix</i>",
+    "description": "独自のブルパップデザインにより一目で見分けが付く P90 は、大容量マガジンと低リコイルにより移動時の射撃に優れている。 ピンクと紫でスプレーペイント。\\n\\n<i>ちょっとこすれば落ちるよ</i>",
     "weapon": {
       "id": "weapon_p90",
       "name": "P90"
@@ -36576,7 +36821,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -38291,6 +38536,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -38379,6 +38629,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -38593,6 +38848,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -38604,7 +38864,7 @@
   {
     "id": "skin-1248928",
     "name": "P90 | Attack Vector",
-    "description": "独自のブルパップデザインにより一目で見分けが付く P90 は、大容量マガジンと低リコイルにより移動時の射撃に優れている。 It has been custom painted with a multicolored abstract design.\\n\\n<i>Aggressive angles of attack</i>",
+    "description": "独自のブルパップデザインにより一目で見分けが付く P90 は、大容量マガジンと低リコイルにより移動時の射撃に優れている。 マルチカラーの抽象的デザインでカスタムペイント。\\n\\n<i>攻めたアングル</i>",
     "weapon": {
       "id": "weapon_p90",
       "name": "P90"
@@ -38652,7 +38912,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -38879,6 +39139,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -39029,6 +39294,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -39117,6 +39387,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -39331,6 +39606,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -39342,7 +39622,7 @@
   {
     "id": "skin-1507972",
     "name": "MP5-SD | Neon Squeezer",
-    "description": "世界でもトップクラスの万能性と人気を誇る MP5 は、よく模造の対象となるが、本物には遠く及ばない。この SD モデルは一体化されたサイレンサーが特徴で、ただでさえ強力な SMG に静音性まで加わっている。 Neon-colored paint pen graffiti doodles have been applied over a dark base.\\n\\n<i>\\\"It's art, I shouldn’t have to explain it\\\"</i>",
+    "description": "世界でもトップクラスの万能性と人気を誇る MP5 は、よく模造の対象となるが、本物には遠く及ばない。この SD モデルは一体化されたサイレンサーが特徴で、ただでさえ強力な SMG に静音性まで加わっている。 暗いベースにネオンカラーのペイントペンで落書き風のグラフィティが描かれている。\\n\\n<i>「これがアートだ。説明する必要なんてない」</i>",
     "weapon": {
       "id": "weapon_mp5sd",
       "name": "MP5-SD"
@@ -39382,7 +39662,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -39488,6 +39768,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -39499,7 +39784,7 @@
   {
     "id": "skin-1510400",
     "name": "MP5-SD | Savannah Halftone",
-    "description": "世界でもトップクラスの万能性と人気を誇る MP5 は、よく模造の対象となるが、本物には遠く及ばない。この SD モデルは一体化されたサイレンサーが特徴で、ただでさえ強力な SMG に静音性まで加わっている。 It has been custom painted using a sand and olive-colored halftone design.\\n\\n<i>Observe in silence, then make yourself known</i>",
+    "description": "世界でもトップクラスの万能性と人気を誇る MP5 は、よく模造の対象となるが、本物には遠く及ばない。この SD モデルは一体化されたサイレンサーが特徴で、ただでさえ強力な SMG に静音性まで加わっている。 サンドとオリーブのハーフトーンデザインでカスタムペイント。\\n\\n<i>静かに観察し、己の存在を示せ</i>",
     "weapon": {
       "id": "weapon_mp5sd",
       "name": "MP5-SD"
@@ -39539,7 +39824,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -39645,6 +39930,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -40183,6 +40473,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -40528,7 +40823,7 @@
   {
     "id": "skin-1512048",
     "name": "MP5-SD | Statics",
-    "description": "世界でもトップクラスの万能性と人気を誇る MP5 は、よく模造の対象となるが、本物には遠く及ばない。この SD モデルは一体化されたサイレンサーが特徴で、ただでさえ強力な SMG に静音性まで加わっている。 It has been custom painted with a black and blue design.\\n\\n<i>Black and blue and bloody all over</i>",
+    "description": "世界でもトップクラスの万能性と人気を誇る MP5 は、よく模造の対象となるが、本物には遠く及ばない。この SD モデルは一体化されたサイレンサーが特徴で、ただでさえ強力な SMG に静音性まで加わっている。 黒と青のデザインをカスタムペイント。\\n\\n<i>黒と青、そして全ては血だらけに</i>",
     "weapon": {
       "id": "weapon_mp5sd",
       "name": "MP5-SD"
@@ -40576,14 +40871,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -41128,6 +41423,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -41201,7 +41501,7 @@
   {
     "id": "skin-1573388",
     "name": "UMP-45 | Neo-Noir",
-    "description": "UMP45 は不当な評価を受けやすいが、装弾数が少ないことを除けば万能の近接戦闘用オートマチック SMG と言える。 It has been custom painted with a stylized blue-magenta woman over a grayscale background.\\n\\n<i>\\\"Blade in hand, she decided it was time to take a stand\\\"</i>",
+    "description": "UMP45 は不当な評価を受けやすいが、装弾数が少ないことを除けば万能の近接戦闘用オートマチック SMG と言える。 グレースケールの背景の上にスタイリッシュなブルーマゼンタの女性をカスタムペイント。\\n\\n<i>「ナイフを手に、立ち上がる時が来たのだと彼女は決意した」</i>",
     "weapon": {
       "id": "weapon_ump45",
       "name": "UMP-45"
@@ -41249,14 +41549,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -41952,7 +42252,7 @@
   {
     "id": "skin-1574512",
     "name": "UMP-45 | Crimson Foil",
-    "description": "UMP45 は不当な評価を受けやすいが、装弾数が少ないことを除けば万能の近接戦闘用オートマチック SMG と言える。 It has been custom painted with a striking red and silver color blocked design.\\n\\n<i>Solving hard problems one magazine at a time</i>",
+    "description": "UMP45 は不当な評価を受けやすいが、装弾数が少ないことを除けば万能の近接戦闘用オートマチック SMG と言える。 赤とシルバーでカラーブロッキングされた印象的なデザインをカスタムペイント。\\n\\n<i>厄介な問題は1本の弾倉で解決</i>",
     "weapon": {
       "id": "weapon_ump45",
       "name": "UMP-45"
@@ -42000,7 +42300,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -42754,6 +43054,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -42952,6 +43257,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -43368,6 +43678,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -43859,7 +44174,7 @@
   {
     "id": "skin-1638984",
     "name": "XM1014 | Monster Melt",
-    "description": "強力なオートマチックショットガンである XM1014 は、一瞬にして空間を鉛弾で埋め尽くす能力によってその強気な価格を正当化する。 A collection of monsters has been custom painted on both sides of this XM1014.\\n\\n<i>\\\"Best to not check the other side\\\"</i>",
+    "description": "強力なオートマチックショットガンである XM1014 は、一瞬にして空間を鉛弾で埋め尽くす能力によってその強気な価格を正当化する。 XM1014 の両側にモンスターの集団をカスタムペイント。\\n\\n<i>「もう片方は見ない方がいい」</i>",
     "weapon": {
       "id": "weapon_xm1014",
       "name": "XM1014"
@@ -43907,7 +44222,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -45496,6 +45811,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -45507,7 +45827,7 @@
   {
     "id": "skin-1641736",
     "name": "XM1014 | Halftone Shift",
-    "description": "強力なオートマチックショットガンである XM1014 は、一瞬にして空間を鉛弾で埋め尽くす能力によってその強気な価格を正当化する。 It has been custom painted using a multicolored halftone design.\\n\\n<i>\\\"It's from a zoo, but instead of animals on display it's art\\\"</i>",
+    "description": "強力なオートマチックショットガンである XM1014 は、一瞬にして空間を鉛弾で埋め尽くす能力によってその強気な価格を正当化する。 マルチカラーのハーフトーンデザインでカスタムペイント。\\n\\n<i>「動物園のようだが、展示されているのは動物ではなくアートだ」</i>",
     "weapon": {
       "id": "weapon_xm1014",
       "name": "XM1014"
@@ -45555,7 +45875,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -45840,6 +46160,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -45996,6 +46321,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -46278,6 +46608,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -46373,6 +46708,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -48181,7 +48521,7 @@
   {
     "id": "skin-1707016",
     "name": "PP-Bizon | Cold Cell",
-    "description": "Bizon サブマシンガンは威力こそ弱いものの、 素早くリロードできる独特な構造の大容量ドラムマガジンを備えている。 It has been spray painted with a blue pebble pattern.\\n\\n<i>Your intentions are clear</i>",
+    "description": "Bizon サブマシンガンは威力こそ弱いものの、 素早くリロードできる独特な構造の大容量ドラムマガジンを備えている。 青の小石模様にスプレーペイント。\\n\\n<i>あなたの意図は明白です</i>",
     "weapon": {
       "id": "weapon_bizon",
       "name": "PP-Bizon"
@@ -48225,7 +48565,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -48331,6 +48671,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -48419,6 +48764,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -48701,6 +49051,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -50653,6 +51008,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -50664,7 +51024,7 @@
   {
     "id": "skin-1772564",
     "name": "MAG-7 | Wildwood",
-    "description": "CT 専用の Mag-7 は近距離では圧倒的なダメージ量を誇る。弾倉形式のためリロードが速く、戦術的な運用が可能。 A pattern of \\\"Wildwood\\\" branches and leaves has been applied.\\n\\n<i>\\\"Are you lost?\\\"</i>",
+    "description": "CT 専用の Mag-7 は近距離では圧倒的なダメージ量を誇る。弾倉形式のためリロードが速く、戦術的な運用が可能。 「ワイルドウッド」の枝葉の模様が施されている。\\n\\n<i>「道に迷ったのか？」</i>",
     "weapon": {
       "id": "weapon_mag7",
       "name": "MAG-7"
@@ -50712,7 +51072,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -50818,6 +51178,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -50906,6 +51271,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -51190,6 +51560,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -51472,6 +51847,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -51533,7 +51913,7 @@
   {
     "id": "skin-1835584",
     "name": "Negev | Wall Bang",
-    "description": "Negev は精密な制圧射撃で敵を寄せ付けないモンスター級の武器だが、取り扱う際は時間的余裕が必要となる。 Its crimson base has been tagged with graffiti from different artists.\\n\\n<i>Hold it down</i>",
+    "description": "Negev は精密な制圧射撃で敵を寄せ付けないモンスター級の武器だが、取り扱う際は時間的余裕が必要となる。 クリムゾンカラーのベースに様々なアーティストによるグラフィティが描かれている。\\n\\n<i>しっかり守れ</i>",
     "weapon": {
       "id": "weapon_negev",
       "name": "Negev"
@@ -51581,7 +51961,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -52642,6 +53022,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -53058,6 +53443,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -55016,6 +55406,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -55224,6 +55619,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -57559,7 +57959,7 @@
   {
     "id": "skin-1969144",
     "name": "Tec-9 | Tiger Stencil",
-    "description": "行動中のテロリストには理想の拳銃である Tec-9 は近接戦における高い殺傷力と、多くの装弾数を誇る。 A smoke and sand-colored tiger pattern has been applied.\\n\\n<i>The title \\\"King of the Jungle\\\" is up for debate</i>",
+    "description": "行動中のテロリストには理想の拳銃である Tec-9 は近接戦における高い殺傷力と、多くの装弾数を誇る。 スモーク＆サンドカラーの虎模様が施されている。\\n\\n<i>「ジャングルの王者」の称号には議論の余地あり</i>",
     "weapon": {
       "id": "weapon_tec9",
       "name": "Tec-9"
@@ -57607,7 +58007,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -57713,6 +58113,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -58261,6 +58666,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -58475,6 +58885,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -58486,7 +58901,7 @@
   {
     "id": "skin-2032784",
     "name": "Zeus x27 | Dragon Snore",
-    "description": "近距離の奇襲や密閉された場所での遭遇戦にうってつけの Zeus x27 は、一度しか使えないが、その一撃で敵を無力化できる。 A dragon wraps around this lighthearted, custom painted x27.\\n\\n<i>From the highest room of the tallest tower</i>",
+    "description": "近距離の奇襲や密閉された場所での遭遇戦にうってつけの Zeus x27 は、一度しか使えないが、その一撃で敵を無力化できる。 ドラゴンが巻き付いたポップなカスタムペイントが x27 に施されている。\\n\\n<i>最も高い塔の最上階から</i>",
     "weapon": {
       "id": "weapon_taser",
       "name": "Zeus x27"
@@ -58534,7 +58949,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -60205,7 +60620,7 @@
   {
     "id": "skin-2100664",
     "name": "P2000 | Coral Halftone",
-    "description": "正確で制御しやすく、第1ラウンド向きの実用的なドイツ製ピストル。防具を着用していない敵に有効。 It has been custom painted using a multicolored halftone pattern.\\n\\n<i>Watch your tone</i>",
+    "description": "正確で制御しやすく、第1ラウンド向きの実用的なドイツ製ピストル。防具を着用していない敵に有効。 マルチカラーのハーフトーンパターンでカスタムペイント。\\n\\n<i>言葉遣いには気をつけて</i>",
     "weapon": {
       "id": "weapon_hkp2000",
       "name": "P2000"
@@ -60253,7 +60668,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -60610,6 +61025,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -62536,6 +62956,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -62639,6 +63064,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -62849,6 +63279,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -62860,7 +63295,7 @@
   {
     "id": "skin-2166448",
     "name": "MP7 | Astrolabe",
-    "description": "万能だが高価なドイツ製の MP7 サブマシンガンは、激しい近接戦に最適な選択。 A metallic design has been applied over a dark-colored base.\\n\\n<i>\\\"IT'S NOT A CIRCUIT BOARD!\\\"</i>",
+    "description": "万能だが高価なドイツ製の MP7 サブマシンガンは、激しい近接戦に最適な選択。 暗い色のベースの上にメタリックなデザインが施されている。\\n\\n<i>「これは回路基板じゃない！」</i>",
     "weapon": {
       "id": "weapon_mp7",
       "name": "MP7"
@@ -62908,7 +63343,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -63061,6 +63496,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -63343,6 +63783,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -64233,7 +64678,7 @@
   {
     "id": "skin-2229548",
     "name": "MP9 | Arctic Tri-Tone",
-    "description": "スイス製の MP9 サブマシンガンは人間工学に基づいたポリマー素材の最先端武器で、民間警備会社も愛用している。 This custom paint job features white and blue color blocking and is finished with a matching camouflage.\\n\\n<i>Frigid finality</i>",
+    "description": "スイス製の MP9 サブマシンガンは人間工学に基づいたポリマー素材の最先端武器で、民間警備会社も愛用している。 白と青のカラーブロッキングでカスタムペイントし、同系色の迷彩で仕上げ。\\n\\n<i>氷のような終幕</i>",
     "weapon": {
       "id": "weapon_mp9",
       "name": "MP9"
@@ -64281,7 +64726,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -65296,6 +65741,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -65452,6 +65902,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -65660,6 +66115,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -66334,7 +66794,7 @@
   {
     "id": "skin-2294340",
     "name": "Nova | Wurst Hölle",
-    "description": "Nova の安さは特筆に値する。資金に乏しいチームにとってはありがたい奇襲用武器だ。 It has been custom painted using sausages from Wurst Hölle, the biergarten on Overpass.\\n\\n<i>Look no further, you've found the missing link</i>",
+    "description": "Nova の安さは特筆に値する。資金に乏しいチームにとってはありがたい奇襲用武器だ。 Overpass のビアガーデン Wurst Hölle のソーセージを使ったカスタムペイント。\\n\\n<i>もう大丈夫です。ミッシングリンクが見つかりました</i>",
     "weapon": {
       "id": "weapon_nova",
       "name": "Nova"
@@ -66382,7 +66842,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -67291,6 +67751,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -67418,7 +67883,7 @@
   {
     "id": "skin-2295056",
     "name": "Nova | Yorkshire",
-    "description": "Nova の安さは特筆に値する。資金に乏しいチームにとってはありがたい奇襲用武器だ。 It has been custom painted using high gloss bronze and gold paint.\\n\\n<i>A history of violence</i>",
+    "description": "Nova の安さは特筆に値する。資金に乏しいチームにとってはありがたい奇襲用武器だ。 光沢のあるブロンズとゴールドでカスタムペイント。\\n\\n<i>暴力の歴史</i>",
     "weapon": {
       "id": "weapon_nova",
       "name": "Nova"
@@ -67466,7 +67931,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -68156,6 +68621,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -68370,6 +68840,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -68594,6 +69069,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -68740,6 +69220,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -69488,7 +69973,7 @@
   {
     "id": "skin-2359816",
     "name": "P250 | Epicenter",
-    "description": "連射速度が高く低反動な P250 は、防具を着用した敵を相手にする際、比較的安価な選択肢となる。 This custom paint job gives the appearance of custom machined parts using an anodized finish.\\n\\n<i>Direct impact</i>",
+    "description": "連射速度が高く低反動な P250 は、防具を着用した敵を相手にする際、比較的安価な選択肢となる。 アルマイト加工された特注の機械部品のような外観をカスタムペイント。\\n\\n<i>直撃</i>",
     "weapon": {
       "id": "weapon_p250",
       "name": "P250"
@@ -69536,14 +70021,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -71222,6 +71707,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -71233,7 +71723,7 @@
   {
     "id": "skin-2362392",
     "name": "P250 | Small Game",
-    "description": "連射速度が高く低反動な P250 は、防具を着用した敵を相手にする際、比較的安価な選択肢となる。 A camouflage hunter pattern has been applied to the bottom half of this P250.\\n\\n<i>The hunted becomes the hunter</i>",
+    "description": "連射速度が高く低反動な P250 は、防具を着用した敵を相手にする際、比較的安価な選択肢となる。 P250 の下半分に迷彩のハンター柄が施されている。\\n\\n<i>狩られる者は狩る者へと変わる</i>",
     "weapon": {
       "id": "weapon_p250",
       "name": "P250"
@@ -71281,7 +71771,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -71387,6 +71877,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -71490,6 +71985,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -71638,6 +72138,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -71852,6 +72357,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -72206,6 +72716,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -72420,6 +72935,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -72856,7 +73376,7 @@
   {
     "id": "skin-2490836",
     "name": "SCAR-20 | Trail Blazer",
-    "description": "セミオートマチックのスナイパーライフルである SCAR-20 は、高い連射速度と強力な遠距離ダメージを得られる一方で、移動速度が遅く、価格も高い。 It has been custom painted with a monochrome black design and silver inlays.\\n\\n<i>FOR USE BY AUTHORIZED CT AGENTS ONLY</i>",
+    "description": "セミオートマチックのスナイパーライフルである SCAR-20 は、高い連射速度と強力な遠距離ダメージを得られる一方で、移動速度が遅く、価格も高い。 モノクロのブラックデザインとシルバーインレイでカスタムペイント。\\n\\n<i>許可された CT エージェントのみ使用可能</i>",
     "weapon": {
       "id": "weapon_scar20",
       "name": "SCAR-20"
@@ -72904,14 +73424,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -73952,7 +74472,7 @@
   {
     "id": "skin-2493900",
     "name": "SCAR-20 | Wild Berry",
-    "description": "セミオートマチックのスナイパーライフルである SCAR-20 は、高い連射速度と強力な遠距離ダメージを得られる一方で、移動速度が遅く、価格も高い。 It has been custom painted using a multicolored halftone design.\\n\\n<i>\\\"I can't aim\\\"</i>",
+    "description": "セミオートマチックのスナイパーライフルである SCAR-20 は、高い連射速度と強力な遠距離ダメージを得られる一方で、移動速度が遅く、価格も高い。 マルチカラーのハーフトーンデザインでカスタムペイント。\\n\\n<i>「狙いが定まらない」</i>",
     "weapon": {
       "id": "weapon_scar20",
       "name": "SCAR-20"
@@ -74000,7 +74520,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -75993,6 +76513,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -76081,6 +76606,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -76352,7 +76882,7 @@
   {
     "id": "skin-2559508",
     "name": "SG 553 | Berry Gel Coat",
-    "description": "テロリスト専用の SG553 は、いわば AK47 の高級な代替品である。スコープ付きで、遠距離での交戦で威力を発揮する。 It has been custom painted with a metallic bronze base and finished with red accents.\\n\\n<i>\\\"Aww, look at the lil' fella\\\"</i>",
+    "description": "テロリスト専用の SG553 は、いわば AK47 の高級な代替品である。スコープ付きで、遠距離での交戦で威力を発揮する。 メタリックブロンズのベースにカスタムペイントし、赤いアクセントで仕上げ。\\n\\n<i>「ほら、この小さいやつを見てごらん」</i>",
     "weapon": {
       "id": "weapon_sg556",
       "name": "SG 553"
@@ -76400,7 +76930,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -76481,6 +77011,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -76705,6 +77240,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -76861,6 +77401,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -77191,6 +77736,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -77337,7 +77887,7 @@
   {
     "id": "skin-2621952",
     "name": "SSG 08 | Rapid Transit",
-    "description": "ボルトアクションの SSG08 は、ダメージは低いが非常にコストパフォーマンスの高いスナイパーライフルで、初期ラウンドでの長距離狙撃に向いている。 It has been custom painted with fictitious transit diagrams designed around the maps of Counter-Strike.\\n\\n<i>\\\"Where are we headed?\\\"</i>",
+    "description": "ボルトアクションの SSG08 は、ダメージは低いが非常にコストパフォーマンスの高いスナイパーライフルで、初期ラウンドでの長距離狙撃に向いている。 Counter-Strike のマップを元にデザインした架空の交通図をカスタムペイント。\\n\\n<i>「どこに向かっている？」</i>",
     "weapon": {
       "id": "weapon_ssg08",
       "name": "SSG 08"
@@ -77385,14 +77935,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -77482,6 +78032,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -78159,7 +78714,7 @@
   {
     "id": "skin-2623492",
     "name": "SSG 08 | Zeno",
-    "description": "ボルトアクションの SSG08 は、ダメージは低いが非常にコストパフォーマンスの高いスナイパーライフルで、初期ラウンドでの長距離狙撃に向いている。 It has been custom painted using grayscale metallic flake paint and features red diamond accents.\\n\\n<i>When a LOT of chrome just isn't enough</i>",
+    "description": "ボルトアクションの SSG08 は、ダメージは低いが非常にコストパフォーマンスの高いスナイパーライフルで、初期ラウンドでの長距離狙撃に向いている。 グレースケールのメタリックフレークペイント。赤のダイヤのアクセントが特徴的。\\n\\n<i>大量のクロームでもまだ物足りないときに</i>",
     "weapon": {
       "id": "weapon_ssg08",
       "name": "SSG 08"
@@ -78207,7 +78762,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -78647,6 +79202,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -78782,7 +79342,7 @@
   {
     "id": "skin-2624948",
     "name": "SSG 08 | Halftone Whorl",
-    "description": "ボルトアクションの SSG08 は、ダメージは低いが非常にコストパフォーマンスの高いスナイパーライフルで、初期ラウンドでの長距離狙撃に向いている。 It has been custom painted with a blue and green halftone whorl pattern.\\n\\n<i>Handle with care</i>",
+    "description": "ボルトアクションの SSG08 は、ダメージは低いが非常にコストパフォーマンスの高いスナイパーライフルで、初期ラウンドでの長距離狙撃に向いている。 青と緑のハーフトーンの渦巻き模様でカスタムペイント。\\n\\n<i>お取り扱いにはご注意を</i>",
     "weapon": {
       "id": "weapon_ssg08",
       "name": "SSG 08"
@@ -78830,7 +79390,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -78985,6 +79545,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -79329,6 +79894,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -79605,6 +80175,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -79745,7 +80320,7 @@
   {
     "id": "skin-3932584",
     "name": "M4A1-S | Vaporwave",
-    "description": "消音器を外した同等品よりも弾倉が小さい消音器付き M4A1。反動が小さく、精度が高い上に発砲音が静かだ。 It has been custom painted with a Greco-Roman statue and other distorted imagery from a bygone era.\\n\\n<i>From a hypnagogic dream</i>",
+    "description": "消音器を外した同等品よりも弾倉が小さい消音器付き M4A1。反動が小さく、精度が高い上に発砲音が静かだ。 グレコローマン様式の彫像や過ぎ去りし時代の歪んだイメージをカスタムペイント。\\n\\n<i>まどろみの中の夢から</i>",
     "weapon": {
       "id": "weapon_m4a1_silencer",
       "name": "M4A1-S"
@@ -79793,14 +80368,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -79813,7 +80388,7 @@
   {
     "id": "skin-3932800",
     "name": "M4A1-S | Wash me plz",
-    "description": "消音器を外した同等品よりも弾倉が小さい消音器付き M4A1。反動が小さく、精度が高い上に発砲音が静かだ。 A tan, purple, and gold hydrographic graffiti pattern has been applied.\\n\\n<i>Nothing a little elbow grease can't fix</i>",
+    "description": "消音器を外した同等品よりも弾倉が小さい消音器付き M4A1。反動が小さく、精度が高い上に発砲音が静かだ。 タン、紫、ゴールドの水圧転写のグラフィックパターンが施されている。\\n\\n<i>ちょっとこすれば落ちるよ</i>",
     "weapon": {
       "id": "weapon_m4a1_silencer",
       "name": "M4A1-S"
@@ -79861,7 +80436,7 @@
     "collections": [
       {
         "id": "collection-set-overpass-2024",
-        "name": "The Overpass 2024 Collection",
+        "name": "Overpass 2024 コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
       }
     ],
@@ -81522,6 +82097,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -81808,6 +82388,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -82008,6 +82593,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -82191,7 +82781,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -82340,6 +82930,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -82480,7 +83075,7 @@
   {
     "id": "skin-3998156",
     "name": "USP-S | 27",
-    "description": "『Counter-Strike Source』ファンのお気に入りである消音 USP ピストルには、射撃時の反動や、注意を引く雑音を抑え、なおかつ取り外し可能なサイレンサーが付いている。 This custom paint job features a winged defuser beneath the rear sight and \\\"027\\\" near the ejection port.\\n\\n<i>Light field work</i>",
+    "description": "『Counter-Strike Source』ファンのお気に入りである消音 USP ピストルには、射撃時の反動や、注意を引く雑音を抑え、なおかつ取り外し可能なサイレンサーが付いている。 リアサイトの下には翼と解除キットを、排莢口の近くには \\\"027\\\" をカスタムペイント。\\n\\n<i>軽い実戦向け</i>",
     "weapon": {
       "id": "weapon_usp_silencer",
       "name": "USP-S"
@@ -82528,14 +83123,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -84081,6 +84676,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -84237,6 +84837,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -84248,7 +84853,7 @@
   {
     "id": "skin-4001016",
     "name": "USP-S | Alpine Camo",
-    "description": "『Counter-Strike Source』ファンのお気に入りである消音 USP ピストルには、射撃時の反動や、注意を引く雑音を抑え、なおかつ取り外し可能なサイレンサーが付いている。 It has been custom painted with a blue and purple camouflage.\\n\\n<i>Pulled out of cold storage</i>",
+    "description": "『Counter-Strike Source』ファンのお気に入りである消音 USP ピストルには、射撃時の反動や、注意を引く雑音を抑え、なおかつ取り外し可能なサイレンサーが付いている。 青と紫の迷彩柄でカスタムペイント。\\n\\n<i>氷の眠りから呼び覚まされた</i>",
     "weapon": {
       "id": "weapon_usp_silencer",
       "name": "USP-S"
@@ -84296,7 +84901,7 @@
     "collections": [
       {
         "id": "collection-set-realism-camo",
-        "name": "The Sport & Field Collection",
+        "name": "Sport & Field コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
       }
     ],
@@ -84369,6 +84974,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -84583,6 +85193,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -85063,6 +85678,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -85207,6 +85827,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -86967,6 +87592,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -86978,7 +87608,7 @@
   {
     "id": "skin-4132516",
     "name": "CZ75-Auto | Slalom",
-    "description": "CZ75 をフルオートマチックに改造した CZ75-Auto は、戦局をひっくり返し、相手の武器を奪うのに理想的な短期決戦用の選択だ。ただし装弾数が少ないため、正確な射撃が求められる。 It has been custom painted with a multicolored abstract design.\\n\\n<i>Black diamond gun</i>",
+    "description": "CZ75 をフルオートマチックに改造した CZ75-Auto は、戦局をひっくり返し、相手の武器を奪うのに理想的な短期決戦用の選択だ。ただし装弾数が少ないため、正確な射撃が求められる。 マルチカラーの抽象的デザインでカスタムペイント。\\n\\n<i>ブラックダイヤモンド・ガン</i>",
     "weapon": {
       "id": "weapon_cz75a",
       "name": "CZ75-Auto"
@@ -87026,7 +87656,7 @@
     "collections": [
       {
         "id": "collection-set-graphic-design",
-        "name": "The Graphic Design Collection",
+        "name": "Graphic Design コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_graphic_design_png.png"
       }
     ],
@@ -87383,6 +88013,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -87663,6 +88298,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -87674,7 +88314,7 @@
   {
     "id": "skin-4194796",
     "name": "R8 Revolver | Tango",
-    "description": "R8 Revolver は、トリガーを引くのに時間がかかる代わりに、正確で強力な一撃を与えられる。至近距離でのストッピングパワーが求められるときは、ハンマーを手で弾くことによって連射が可能だ。 It has been custom painted with a wooden grip and roses.\\n\\n<i>Will you accept?</i>",
+    "description": "R8 Revolver は、トリガーを引くのに時間がかかる代わりに、正確で強力な一撃を与えられる。至近距離でのストッピングパワーが求められるときは、ハンマーを手で弾くことによって連射が可能だ。 木製グリップとバラのカスタムペイント。\\n\\n<i>受け取ってくれますか？</i>",
     "weapon": {
       "id": "weapon_revolver",
       "name": "R8 Revolver"
@@ -87722,14 +88362,14 @@
     "collections": [
       {
         "id": "collection-set-community-34",
-        "name": "The Gallery Collection",
+        "name": "Gallery コレクション",
         "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_34_png.png"
       }
     ],
     "crates": [
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -88294,6 +88934,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -88562,6 +89207,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -88974,6 +89624,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis 記念パッケージ",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -122399,7 +123054,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122466,7 +123121,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122521,7 +123176,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122588,7 +123243,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122655,7 +123310,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122722,7 +123377,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122781,7 +123436,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122848,7 +123503,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122915,7 +123570,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -122982,7 +123637,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -123049,7 +123704,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -123116,7 +123771,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
@@ -129055,7 +129710,7 @@
       },
       {
         "id": "crate-7003",
-        "name": "Gallery Case",
+        "name": "Gallery ケース",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],

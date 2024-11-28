@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "เหรียญแผนที่ Whistle",
+    "description": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Whistle ของ CS2",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "เหรียญแผนที่ Palais",
+    "description": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Palais ของ CS2",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "เหรียญแผนที่ Edin",
+    "description": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Edin ของ CS2",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "เหรียญแผนที่ Basalt",
+    "description": "ของที่ระลึกสำหรับผู้สร้างแผนที่ Basalt ของ CS2",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

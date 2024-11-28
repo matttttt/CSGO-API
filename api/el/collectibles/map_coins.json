@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Νόμισμα χάρτη Whistle",
+    "description": "Απονέμεται για τη σύνταξη του χάρτη CS2 «Whistle»",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Νόμισμα χάρτη Palais",
+    "description": "Απονέμεται για τη σύνταξη του χάρτη CS2 «Palais»",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Νόμισμα χάρτη Edin",
+    "description": "Απονέμεται για τη σύνταξη του χάρτη CS2 «Edin»",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Νόμισμα χάρτη Basalt",
+    "description": "Απονέμεται για τη σύνταξη του χάρτη CS2 «Basalt»",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinary",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

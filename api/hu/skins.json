@@ -1987,6 +1987,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -2516,7 +2521,7 @@
   {
     "id": "skin-69752",
     "name": "Desert Eagle | Hőkezelt",
-    "description": "A legendás Desert Eagle pisztoly olyan erős, amilyen drága; nehéz a mesterévé válni, de meglepően pontos nagy távolságra. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "A legendás Desert Eagle pisztoly olyan erős, amilyen drága; nehéz a mesterévé válni, de meglepően pontos nagy távolságra. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_deagle",
       "name": "Desert Eagle"
@@ -3068,7 +3073,7 @@
   {
     "id": "skin-131520",
     "name": "Dupla Beretta | Vízipisztoly",
-    "description": "Két nagy táras Berettával egyszerre lőve csökken a pontosság és nő az újratöltési idő. A jó hír viszont, hogy egyszerre két nagy táras Berettával fogsz lőni. Kék és narancssárga egyedi festést kapott. A cseppek arra utalnak,hogy a fegyver talán még vizes.\\n\\n<i>A legjobb fegyver az, amire az ellenség a legkevésbé számít.</i>",
+    "description": "Két nagy táras Berettával egyszerre lőve csökken a pontosság és nő az újratöltési idő. A jó hír viszont, hogy egyszerre két nagy táras Berettával fogsz lőni. Kék és narancssárga egyedi festést kapott. A cseppek arra utalnak, hogy a fegyver talán még vizes.\\n\\n<i>A legjobb fegyver az, amire az ellenség a legkevésbé számít.</i>",
     "weapon": {
       "id": "weapon_elite",
       "name": "Dupla Beretta"
@@ -4498,6 +4503,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -4586,6 +4596,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -5064,6 +5079,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -5401,7 +5421,7 @@
   {
     "id": "skin-196784",
     "name": "Five-SeveN | Edzett",
-    "description": "A nagyon pontos és páncélátütő, borsos árú Five-Seven lassú újratöltésű, amit bőséges, 20 lőszeres tárral és megbocsátható visszarúgással egyenlít ki. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "A nagyon pontos és páncélátütő, borsos árú Five-Seven lassú újratöltésű, amit bőséges, 20 lőszeres tárral és megbocsátható visszarúgással egyenlít ki. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_fiveseven",
       "name": "Five-SeveN"
@@ -7296,6 +7316,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -7307,7 +7332,7 @@
   {
     "id": "skin-199932",
     "name": "Five-SeveN | Hőkezelt",
-    "description": "A nagyon pontos és páncélátütő, borsos árú Five-Seven lassú újratöltésű, amit bőséges, 20 lőszeres tárral és megbocsátható visszarúgással egyenlít ki. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "A nagyon pontos és páncélátütő, borsos árú Five-Seven lassú újratöltésű, amit bőséges, 20 lőszeres tárral és megbocsátható visszarúgással egyenlít ki. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_fiveseven",
       "name": "Five-SeveN"
@@ -7572,6 +7597,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -7840,6 +7870,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -8590,6 +8625,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -10180,6 +10220,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -10271,6 +10316,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -10887,6 +10937,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -11552,6 +11607,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -11631,7 +11691,7 @@
   {
     "id": "skin-458928",
     "name": "AK-47 | Edzett",
-    "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -11957,7 +12017,7 @@
   {
     "id": "skin-459320",
     "name": "AK-47 | Legyél a Szörny",
-    "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Az Overpass szörnyalagútjából való falfirkát ábrázoló egyedi festést, és fémes ezüst és arany díszítéseket kapott.\\n\\n<i>„Most már nincs visszaút…”</i>",
+    "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Az Overpass szörnyalagútjából való falfirkát ábrázoló egyedi festést, valamint fémes ezüst és arany díszítéseket kapott.\\n\\n<i>„Most már nincs visszaút…”</i>",
     "weapon": {
       "id": "weapon_ak47",
       "name": "AK-47"
@@ -13757,6 +13817,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -14101,6 +14166,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -14387,6 +14457,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -14539,6 +14614,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -15019,6 +15099,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -17048,6 +17133,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -17151,6 +17241,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -17239,6 +17334,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -17517,6 +17617,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -17727,6 +17832,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -17873,6 +17983,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -19826,6 +19941,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -19982,6 +20102,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -20774,6 +20899,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -20985,6 +21115,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -21392,6 +21527,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -22920,6 +23060,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -23202,6 +23347,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -24967,6 +25117,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -25123,6 +25278,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -25270,7 +25430,7 @@
   {
     "id": "skin-852272",
     "name": "Galil AR | Téli Erdő",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Víztranszferes nyomtatással erdei terepminta került rá.\\n\\n<i>Az erdő veszélyes hely lehet... Sose utazz egyedül.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Víztranszferes nyomtatással erdei terepminta került rá.\\n\\n<i>Az erdő veszélyes hely lehet... Sose utazz egyedül.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25332,7 +25492,7 @@
   {
     "id": "skin-852300",
     "name": "Galil AR | Narancs DDPAT",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Víztranszferes festéssel digitális zavaróminta (DDPAT) került rá.\\n\\n<i>Amikorra olyan közel érsz, hogy észrevedd a pixeleket, már túl késő lesz.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Víztranszferes festéssel digitális zavaróminta (DDPAT) került rá.\\n\\n<i>Amikorra olyan közel érsz, hogy észrevedd a pixeleket, már túl késő lesz.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25400,7 +25560,7 @@
   {
     "id": "skin-852372",
     "name": "Galil AR | Tornádó",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Egyes részeit szórással homogén tornádó színsémára festették.\\n\\n<i>Ne tévesszen meg az egyszerűsége!</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Egyes részeit szórással homogén tornádó színsémára festették.\\n\\n<i>Ne tévesszen meg az egyszerűsége!</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25462,7 +25622,7 @@
   {
     "id": "skin-852444",
     "name": "Galil AR | Zsályapermet",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Szabad kézi szórással rövid, széles sávokban kontrasztos színekre festették.\\n\\n<i>Tökéletes az utazó felkelőnek.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Szabad kézi szórással rövid, széles sávokban kontrasztos színekre festették.\\n\\n<i>Tökéletes az utazó felkelőnek.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25535,7 +25695,7 @@
   {
     "id": "skin-852736",
     "name": "Galil AR | Összetört",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Erre az Agencyről való emléktárgyra víztranszferes nyomtatással sokszögű minta került.\\n\\n<i>„Az embereim profik, rendben elvégzik a munkát...” - Elliott Kingsman, hivatásos bűnöző</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Erre az Agencyről való emléktárgyra víztranszferes nyomtatással sokszögű minta került.\\n\\n<i>„Az embereim profik, rendben elvégzik a munkát...” - Elliott Kingsman, hivatásos bűnöző</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25603,7 +25763,7 @@
   {
     "id": "skin-852832",
     "name": "Galil AR | Kék Titán",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Titán alkatrészei vannak, melyek jellegzetes kék színét 30 volttal végzett, szabályozott eloxálással érték el.",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Titán alkatrészei vannak, melyek jellegzetes kék színét 30 volttal végzett, szabályozott eloxálással érték el.",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25655,7 +25815,7 @@
   {
     "id": "skin-852908",
     "name": "Galil AR | VariCamo",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Víztranszferes eljárással VariCamo minta került rá.\\n\\n<i>Újjáépítés csak a pusztítás nyomában járhat.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Víztranszferes eljárással VariCamo minta került rá.\\n\\n<i>Újjáépítés csak a pusztítás nyomában járhat.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25728,7 +25888,7 @@
   {
     "id": "skin-852916",
     "name": "Galil AR | Városi Törmelék",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Víztranszferes eljárással VariCamo minta került rá.\\n\\n<i>Újjáépítés csak a pusztítás nyomában járhat.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Víztranszferes eljárással VariCamo minta került rá.\\n\\n<i>Újjáépítés csak a pusztítás nyomában járhat.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25790,7 +25950,7 @@
   {
     "id": "skin-852924",
     "name": "Galil AR | Fémes Markolat",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Fémes festéktollakkal készült falfirkát rajzoltak egy matt fekete alapra.\\n\\n<i>„Ez művészet, nem kéne magyarázatot igényelnie.”</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Fémes festéktollakkal készült falfirkát rajzoltak egy matt fekete alapra.\\n\\n<i>„Ez művészet, nem kéne magyarázatot igényelnie.”</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25852,7 +26012,7 @@
   {
     "id": "skin-852932",
     "name": "Galil AR | Vak Vadászat",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Szabadkézi szórással festették le, hálószövetet használva mintaként.",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Szabadkézi szórással festették le, hálószövetet használva mintaként.",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -25990,7 +26150,7 @@
   {
     "id": "skin-852952",
     "name": "Galil AR | Halvány Borostyán",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Króm alapréteg, és légecsettel áttetsző, egymásba olvadó, áttetsző festés került rá.\\n\\n<i>Ez nem pusztán fegyver, vitaindító is. - Imogen, fegyverkereskedő-tanonc</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Króm alapréteg, és légecsettel áttetsző, egymásba olvadó, áttetsző festés került rá.\\n\\n<i>Ez nem pusztán fegyver, vitaindító is. - Imogen, fegyverkereskedő-tanonc</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26053,6 +26213,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -26064,7 +26229,7 @@
   {
     "id": "skin-853024",
     "name": "Galil AR | Homokvihar",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Víztranszferes eljárással lila és bézs grafika került rá.\\n\\n<i>Egy ponyvánál többre lesz szüksége védelemül.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Víztranszferes eljárással lila és bézs grafika került rá.\\n\\n<i>Egy ponyvánál többre lesz szüksége védelemül.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26128,7 +26293,7 @@
   {
     "id": "skin-853156",
     "name": "Galil AR | Szmoking",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Egyes részeit szórással homogén fekete és fehér színsémára festették.\\n\\n<i>Olyankorra, amikor a harc elegáns stílust követel.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Egyes részeit szórással homogén fekete és fehér színsémára festették.\\n\\n<i>Olyankorra, amikor a harc elegáns stílust követel.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26190,7 +26355,7 @@
   {
     "id": "skin-853200",
     "name": "Galil AR | Kami",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Víztranszferes eljárással japán manga-minta került rá.\\n\\n<i>Egyes szellemek nem maradnak eltemetve.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Víztranszferes eljárással japán manga-minta került rá.\\n\\n<i>Egyes szellemek nem maradnak eltemetve.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26258,7 +26423,7 @@
   {
     "id": "skin-853484",
     "name": "Galil AR | Kerberosz",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Kerberoszt, az alvilágot őrző mitikus három fejű kutyát festették rá.",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Kerberoszt, az alvilágot őrző mitikus három fejű kutyát festették rá.",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26381,7 +26546,7 @@
   {
     "id": "skin-853560",
     "name": "Galil AR | Szószátyár",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Kézzel festették és kopottassá tették. A porvédőre festett koponya mintha beszélne, mikor a závár hátrasiklik.\\n\\n<i>Azt mondják, ha nevetünk, a világ is velünk nevet... De amikor a Szószátyár nevet, mindenki más csak sikolt.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Kézzel festették és kopottassá tették. A porvédőre festett koponya mintha beszélne, mikor a závár hátrasiklik.\\n\\n<i>Azt mondják, ha nevetünk, a világ is velünk nevet... De amikor a Szószátyár nevet, mindenki más csak sikolt.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26441,7 +26606,7 @@
   {
     "id": "skin-853680",
     "name": "Galil AR | Eco",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Fehér és zöld festést kapott és hőkötéses matricákkal van díszítve.\\n\\n<i>Elég pénzért az Elite Crew bármilyen célt a sajátjának tekint.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Fehér és zöld festést kapott és hőkötéses matricákkal van díszítve.\\n\\n<i>Elég pénzért az Elite Crew bármilyen célt a sajátjának tekint.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26505,7 +26670,7 @@
   {
     "id": "skin-853808",
     "name": "Galil AR | Vízkék Lépcsőzetesség",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Fémes festékekkel geometrikus minta került rá.\\n\\n<i>És most békesség...</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Fémes festékekkel geometrikus minta került rá.\\n\\n<i>És most békesség...</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26567,7 +26732,7 @@
   {
     "id": "skin-853880",
     "name": "Galil AR | Rakétapukkanás",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Sávokat és pixeles részecskéket ábrázoló különleges festés került rá.\\n\\n<i>Tökéletes egy forró nyári napra.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Sávokat és pixeles részecskéket ábrázoló különleges festés került rá.\\n\\n<i>Tökéletes egy forró nyári napra.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26635,7 +26800,7 @@
   {
     "id": "skin-853944",
     "name": "Galil AR | Jéghideg",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Fémes kék festékkel került kiemelésre. A válltámasz és tár a tervezője kézjegyét viseli.\\n\\n<i>Végül ki kell lépned a mentorod árnyékából.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Fémes kék festékkel került kiemelésre. A válltámasz és tár a tervezője kézjegyét viseli.\\n\\n<i>Végül ki kell lépned a mentorod árnyékából.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26703,7 +26868,7 @@
   {
     "id": "skin-854152",
     "name": "Galil AR | Tűzharc",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Karmazsin mintákat és egy kézzel festett ikont kapott.\\n\\n<i>Booth Valeriának rendelte ezt a fegyvert, hogy megpróbálja elsimítani a dolgokat a Phoenix-szel.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Karmazsin mintákat és egy kézzel festett ikont kapott.\\n\\n<i>Booth Valeriának rendelte ezt a fegyvert, hogy megpróbálja elsimítani a dolgokat a Phoenix-szel.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26771,7 +26936,7 @@
   {
     "id": "skin-854484",
     "name": "Galil AR | Fekete Homok",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Fekete és terepmintás különleges festést kapott.\\n\\n<i>Mikah Baton hamarosan megkezdi hadjáratát a Koalíciós Különítmény ellen.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Fekete és terepmintás különleges festést kapott.\\n\\n<i>Mikah Baton hamarosan megkezdi hadjáratát a Koalíciós Különítmény ellen.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26839,7 +27004,7 @@
   {
     "id": "skin-854556",
     "name": "Galil AR | Karmazsin Szökőár",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Gesztenyeszín alapra szórással készített hullámminta.\\n\\n<i>Nyugati hullámtörő.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Gesztenyeszín alapra szórással készített hullámminta.\\n\\n<i>Nyugati hullámtörő.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26907,7 +27072,7 @@
   {
     "id": "skin-854612",
     "name": "Galil AR | Cukorlöket",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Egyedi festést kapott vattacukor hatású színek és különféle minták használatával.\\n\\n<i>Készülj, mert ütni fog.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Egyedi festést kapott vattacukor hatású színek és különféle minták használatával.\\n\\n<i>Készülj, mert ütni fog.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -26975,7 +27140,7 @@
   {
     "id": "skin-855128",
     "name": "Galil AR | Hidegfúzió",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Víztranszferes eljárással mérgezőnek látszó halványkék minta került rá.\\n\\n<i>Az elméletek sosem kerülnek bizonyításra.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Víztranszferes eljárással mérgezőnek látszó halványkék minta került rá.\\n\\n<i>Az elméletek sosem kerülnek bizonyításra.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27067,6 +27232,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -27078,7 +27248,7 @@
   {
     "id": "skin-855196",
     "name": "Galil AR | Jelzés",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Sötétkék alapra víztranszferes eljárással vörös hatszögminta került.\\n\\n<i>Az információnak mindig ára van.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Sötétkék alapra víztranszferes eljárással vörös hatszögminta került.\\n\\n<i>Az információnak mindig ára van.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27146,7 +27316,7 @@
   {
     "id": "skin-855336",
     "name": "Galil AR | Akoben",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Szórással fehér alapra rozsdaszín mintát festettek.\\n\\n<i>A saját személyes csatakiáltásod.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Szórással fehér alapra rozsdaszín mintát festettek.\\n\\n<i>A saját személyes csatakiáltásod.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27214,7 +27384,7 @@
   {
     "id": "skin-855724",
     "name": "Galil AR | NV",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Sötétszürke alaprétegből és zöld díszítésből álló egyedi mintát festettek rá.\\n\\n<i>Fedésbe vonulok.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Sötétszürke alaprétegből és zöld díszítésből álló egyedi mintát festettek rá.\\n\\n<i>Fedésbe vonulok.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27276,7 +27446,7 @@
   {
     "id": "skin-855856",
     "name": "Galil AR | Connexion",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Szórt festéssel Phoenix Faction logók kerültek a fehér és piros alapra.\\n\\n<i>Hozzák a nagyágyúkat.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Szórt festéssel Phoenix Faction logók kerültek a fehér és piros alapra.\\n\\n<i>Hozzák a nagyágyúkat.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27344,7 +27514,7 @@
   {
     "id": "skin-855892",
     "name": "Galil AR | Vandál",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Zöld alapfestését hasadozott fehér rajzokkal díszítették.\\n\\n<i>Mindegyik rajz egy történetet mesél el; némelyik emlékezetesebb a többinél.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Zöld alapfestését hasadozott fehér rajzokkal díszítették.\\n\\n<i>Mindegyik rajz egy történetet mesél el; némelyik emlékezetesebb a többinél.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27412,7 +27582,7 @@
   {
     "id": "skin-856020",
     "name": "Galil AR | Phoenix Ultraibolya",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Különféle Phoenix Connexion falfirkák többszínű mintája került rá.\\n\\n<i>„Táncolni fogunk a sírjaitokon!”</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Különféle Phoenix Connexion falfirkák többszínű mintája került rá.\\n\\n<i>„Táncolni fogunk a sírjaitokon!”</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27474,7 +27644,7 @@
   {
     "id": "skin-856096",
     "name": "Galil AR | Alkonyi Romok",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. A lombozat díszítette mintázat alatt ősi istenek rejtőznek.\\n\\n<i>„Szemeket kinyitni, emberek, figyelnek minket...”</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. A lombozat díszítette mintázat alatt ősi istenek rejtőznek.\\n\\n<i>„Szemeket kinyitni, emberek, figyelnek minket...”</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27551,6 +27721,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -27562,7 +27737,7 @@
   {
     "id": "skin-856120",
     "name": "Galil AR | Kromatikus Aberráció",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Ezen az egyedi festésen a színeket egymástól eltolva vitték fel, szemkápráztató látványt eredményezve.\\n\\n<i>(Nem annyira) Szemet gyönyörködtető...</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Ezen az egyedi festésen a színeket egymástól eltolva vitték fel, szemkápráztató látványt eredményezve.\\n\\n<i>(Nem annyira) Szemet gyönyörködtető...</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27630,7 +27805,7 @@
   {
     "id": "skin-856252",
     "name": "Galil AR | VIGYÁZAT!",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Szórással nagy kontrasztú fekete-sárga cikkcakkmintát festettek rá.\\n\\n<i>Találj megnyugvást a kényelmetlenség érzésében.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Szórással nagy kontrasztú fekete-sárga cikkcakkmintát festettek rá.\\n\\n<i>Találj megnyugvást a kényelmetlenség érzésében.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27707,6 +27882,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -27718,7 +27898,7 @@
   {
     "id": "skin-856556",
     "name": "Galil AR | Pusztító",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. Az egyedi festésből a „DESTROYER” szó olvasható ki, de csak bizonyos szögből.\\n\\n<i>Pusztítsd el mind.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. Az egyedi festésből a „DESTROYER” szó olvasható ki, de csak bizonyos szögből.\\n\\n<i>Pusztítsd el mind.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -27786,7 +27966,7 @@
   {
     "id": "skin-856680",
     "name": "Galil AR | Szivárványszínű",
-    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes ás nagy távolságú harchoz. A szivárványos hatást a festetlen fegyver nagyon magas hőmérsékletre hevítésével érik el. Ezzel a módszerrel szinte végtelen számú egyedi felület érhető el.\\n\\n<i>Végtelen lehetőségek.</i>",
+    "description": "Kevésbé drága lehetőségként a csak terroristáknak elérhető gépkarabélyok között a Galil AR használható fegyver közepes és nagy távolságú harchoz. A szivárványos hatást a festetlen fegyver nagyon magas hőmérsékletre hevítésével érik el. Ezzel a módszerrel szinte végtelen számú egyedi felület érhető el.\\n\\n<i>Végtelen lehetőségek.</i>",
     "weapon": {
       "id": "weapon_galilar",
       "name": "Galil AR"
@@ -28927,6 +29107,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -29203,6 +29388,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -29485,6 +29675,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -31407,6 +31602,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -31506,6 +31706,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -31653,7 +31858,7 @@
   {
     "id": "skin-1052072",
     "name": "M4A4 | Polysoup",
-    "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. Többszínű kristályokat festettek rá, és gyöngyházfényű díszítéssel vonták be.\\n\\n<i>Ne pároljon rajta.</i>",
+    "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. Többszínű kristályokat festettek rá, és gyöngyházfényű díszítéssel vonták be.\\n\\n<i>Ne rágódj rajta.</i>",
     "weapon": {
       "id": "weapon_m4a1",
       "name": "M4A4"
@@ -31782,6 +31987,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -32460,6 +32670,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -32754,7 +32969,7 @@
   {
     "id": "skin-1114288",
     "name": "MAC-10 | Edzett",
-    "description": "A MAC-10 géppisztoly, mely lényegében egy doboz, amiből golyók jönnek ki, magas tűzgyorsasággal büszkélkedhet, cserébe viszont rossz a szórásképe és nagy a visszarúgása. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "A MAC-10 géppisztoly, mely lényegében egy doboz, amiből golyók jönnek ki, magas tűzgyorsasággal büszkélkedhet, cserébe viszont rossz a szórásképe és nagy a visszarúgása. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_mac10",
       "name": "MAC-10"
@@ -32821,6 +33036,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -34618,6 +34838,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -34836,6 +35061,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -35388,6 +35618,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -35606,6 +35841,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -36016,6 +36256,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -38291,6 +38536,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -38379,6 +38629,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -38593,6 +38848,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -38879,6 +39139,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -39029,6 +39294,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -39117,6 +39387,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -39331,6 +39606,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -39488,6 +39768,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -39645,6 +39930,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -40183,6 +40473,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -41128,6 +41423,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -42754,6 +43054,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -42952,6 +43257,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -43368,6 +43678,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -45496,6 +45811,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -45507,7 +45827,7 @@
   {
     "id": "skin-1641736",
     "name": "XM1014 | Halvány Váltás",
-    "description": "Az XM1014 erős, teljes automata sörétes puska, ami azzal szolgál rá súlyosabb árcédulájára, hogy képes gyorsan ólommal beteríteni egy szobát. Halvány többszínű mintás egyedi festést kapott..\\n\\n<i>„Egy állatkertből, de ahol állatok helyett műalkotások vannak kiállítva.”</i>",
+    "description": "Az XM1014 erős, teljes automata sörétes puska, ami azzal szolgál rá súlyosabb árcédulájára, hogy képes gyorsan ólommal beteríteni egy szobát. Halvány többszínű mintás egyedi festést kapott.\\n\\n<i>„Egy állatkertből, de ahol állatok helyett műalkotások vannak kiállítva.”</i>",
     "weapon": {
       "id": "weapon_xm1014",
       "name": "XM1014"
@@ -45840,6 +46160,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -45996,6 +46321,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -46278,6 +46608,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -46373,6 +46708,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -48331,6 +48671,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -48419,6 +48764,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -48701,6 +49051,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -50653,6 +51008,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -50818,6 +51178,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -50906,6 +51271,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -51190,6 +51560,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -51472,6 +51847,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -52642,6 +53022,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -53058,6 +53443,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -55016,6 +55406,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -55224,6 +55619,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -57713,6 +58113,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -58261,6 +58666,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -58475,6 +58885,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -60610,6 +61025,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -62536,6 +62956,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -62639,6 +63064,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -62849,6 +63279,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -63061,6 +63496,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -63343,6 +63783,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -65296,6 +65741,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -65452,6 +65902,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -65660,6 +66115,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -67291,6 +67751,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -68156,6 +68621,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -68370,6 +68840,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -68594,6 +69069,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -68740,6 +69220,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -71222,6 +71707,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -71387,6 +71877,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -71490,6 +71985,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -71638,6 +72138,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -71852,6 +72357,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -72206,6 +72716,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -72420,6 +72935,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -75993,6 +76513,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -76081,6 +76606,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -76481,6 +77011,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -76705,6 +77240,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -76861,6 +77401,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -77191,6 +77736,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -77482,6 +78032,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -78647,6 +79202,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -78985,6 +79545,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -79329,6 +79894,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -79605,6 +80175,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -81522,6 +82097,11 @@
         "id": "crate-4931",
         "name": "Copenhagen 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_nuke_png.png"
+      },
+      {
+        "id": "crate-4972",
+        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
     "team": {
@@ -81808,6 +82388,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -82008,6 +82593,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -82340,6 +82930,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -84081,6 +84676,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -84237,6 +84837,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -84369,6 +84974,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -84583,6 +85193,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -85063,6 +85678,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -85207,6 +85827,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -86967,6 +87592,11 @@
         "id": "crate-4927",
         "name": "Copenhagen 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_mirage_png.png"
+      },
+      {
+        "id": "crate-4968",
+        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
     "team": {
@@ -87383,6 +88013,11 @@
         "id": "crate-4932",
         "name": "Copenhagen 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_vertigo_png.png"
+      },
+      {
+        "id": "crate-4973",
+        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
     "team": {
@@ -87663,6 +88298,11 @@
         "id": "crate-4930",
         "name": "Copenhagen 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_ancient_png.png"
+      },
+      {
+        "id": "crate-4971",
+        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
     "team": {
@@ -88294,6 +88934,11 @@
         "id": "crate-4926",
         "name": "Copenhagen 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_inferno_png.png"
+      },
+      {
+        "id": "crate-4967",
+        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
     "team": {
@@ -88562,6 +89207,11 @@
         "id": "crate-4862",
         "name": "Rio 2022 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_rio2022_promo_de_dust2_png.png"
+      },
+      {
+        "id": "crate-4970",
+        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
     "team": {
@@ -88974,6 +89624,11 @@
         "id": "crate-4928",
         "name": "Copenhagen 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_cph2024_promo_de_anubis_png.png"
+      },
+      {
+        "id": "crate-4969",
+        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
     "team": {
@@ -89645,7 +90300,7 @@
   {
     "id": "skin-32768176",
     "name": "Bajonett (★) | Edzett",
-    "description": "A felépítésében a Második Világháború óta viszonylag változatlan bajonett máig megtartotta helyét a modern katonai stratégiában. A bajonettroham továbbra is hatékony, még olyan közelmúltbeli helyszíneken is, mint a Második Öböl-háború, vagy az Afganisztáni Háború. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "A felépítésében a Második Világháború óta viszonylag változatlan bajonett máig megtartotta helyét a modern katonai stratégiában. A bajonettroham továbbra is hatékony, még olyan közelmúltbeli helyszíneken is, mint a Második Öböl-háború, vagy az Afganisztáni Háború. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_bayonet",
       "name": "Bajonett"
@@ -91973,7 +92628,7 @@
   {
     "id": "skin-32964784",
     "name": "Klasszikus Kés (★) | Edzett",
-    "description": "A Counter-Strike sorozat klasszikusa; a sajtolással illesztett stellit penge tökéletesen áll a helyén, precíz illesztésének köszönhetően a penge lapján és fokán levő titánnal. A markolat szénszálas foglalatba illesztett masztodoncsont. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "A Counter-Strike sorozat klasszikusa; a sajtolással illesztett stellit penge tökéletesen áll a helyén, precíz illesztésének köszönhetően a penge lapján és fokán levő titánnal. A markolat szénszálas foglalatba illesztett masztodoncsont. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_css",
       "name": "Klasszikus Kés"
@@ -93059,7 +93714,7 @@
   {
     "id": "skin-33095856",
     "name": "Összecsukható kés (★) | Edzett",
-    "description": "Az összecsukható késnek perzsa stílusú, hegyes, hátrafelé ívelt pengéje van. Bár maga a hegy törékeny lehet, az összecsukható kés teljes felépítését tekintve meglepően erős. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Az összecsukható késnek perzsa stílusú, hegyes, hátrafelé ívelt pengéje van. Bár maga a hegy törékeny lehet, az összecsukható kés teljes felépítését tekintve meglepően erős. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_flip",
       "name": "Összecsukható kés"
@@ -95749,7 +96404,7 @@
   {
     "id": "skin-33161392",
     "name": "Zsigerelőkés (★) | Edzett",
-    "description": "A belezőkés legszembetűnőbb jellemzője a penge gerincén levő belezőkampó. Az eredetileg az elejtett vad helyben való megnyúzásához népszerűvé vált belezőkampó hatékony olyan szálas anyagok könnyű elvágásában is, mint a kötél, háló és biztonsági öv. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "A belezőkés legszembetűnőbb jellemzője a penge gerincén levő belezőkampó. Az eredetileg az elejtett vad helyben való megnyúzásához népszerűvé vált belezőkampó hatékony olyan szálas anyagok könnyű elvágásában is, mint a kötél, háló és biztonsági öv. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_gut",
       "name": "Zsigerelőkés"
@@ -98439,7 +99094,7 @@
   {
     "id": "skin-33226928",
     "name": "Karambit (★) | Edzett",
-    "description": "Az ívelt pengéjével tigriskarmot utánzó karambitot a silat nevű délkelet-ázsiai harcművészeti ág részeként fejlesztették ki. A kést tipikusan fordított fogással használják, az ujjgyűrűt a mutatóujjra húzva. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Az ívelt pengéjével tigriskarmot utánzó karambitot a silat nevű délkelet-ázsiai harcművészeti ág részeként fejlesztették ki. A kést tipikusan fordított fogással használják, az ujjgyűrűt a mutatóujjra húzva. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_karambit",
       "name": "Karambit"
@@ -101129,7 +101784,7 @@
   {
     "id": "skin-33292464",
     "name": "M9 bajonett (★) | Edzett",
-    "description": "Ez az M-9 bajonett. Eredetileg karabélyra rögzítésre szánták, de közelharcra is igen alkalmas. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ez az M-9 bajonett. Eredetileg karabélyra rögzítésre szánták, de közelharcra is igen alkalmas. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_m9_bayonet",
       "name": "M9 bajonett"
@@ -103519,7 +104174,7 @@
   {
     "id": "skin-33358000",
     "name": "Vadászkés (★) | Edzett",
-    "description": "Egy kés, melyet a modern, taktikai használatra terveztek, pengéje jól alkalmazható mind harci, mind utilitarista helyzetekben. Az egyedülálló Tanto penge lehetővé teszi a maximális áthatolást még a legkeményebb felületeken is. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Egy kés, melyet a modern, taktikai használatra terveztek, pengéje jól alkalmazható mind harci, mind utilitarista helyzetekben. Az egyedülálló Tanto penge lehetővé teszi a maximális áthatolást még a legkeményebb felületeken is. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_tactical",
       "name": "Vadászkés"
@@ -105549,7 +106204,7 @@
   {
     "id": "skin-33554608",
     "name": "Handzsárkés (★) | Edzett",
-    "description": "Modern tisztelgés egy handzsár kard előtt; ennek a szúrópengének ívelt éle van. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Modern tisztelgés egy handzsár kard előtt; ennek a szúrópengének ívelt éle van. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_falchion",
       "name": "Handzsárkés"
@@ -107579,7 +108234,7 @@
   {
     "id": "skin-33685680",
     "name": "Bowie kés (★) | Edzett",
-    "description": "Ezt a teljes markolattüskés Bowie kést erős igénybevételre tervezték, kegyetlen túlélési helyzetekhez. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ezt a teljes markolattüskés Bowie kést erős igénybevételre tervezték, kegyetlen túlélési helyzetekhez. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_survival_bowie",
       "name": "Bowie kés"
@@ -109609,7 +110264,7 @@
   {
     "id": "skin-33751216",
     "name": "Pillangókés (★) | Edzett",
-    "description": "Ez egy egyedi kialakítású balisong, ismertebb nevén pillangókés. E fegyver meghatározó jellemzője a legyezőszerűen kinyitható, szabadon forgó penge, ami gyors kinyitást és elrejtést tesz lehetővé. Ennek eredményeképp a pillangókés számos országban be van tiltva. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ez egy egyedi kialakítású balisong, ismertebb nevén pillangókés. E fegyver meghatározó jellemzője a legyezőszerűen kinyitható, szabadon forgó penge, ami gyors kinyitást és elrejtést tesz lehetővé. Ennek eredményeképp a pillangókés számos országban be van tiltva. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_butterfly",
       "name": "Pillangókés"
@@ -111639,7 +112294,7 @@
   {
     "id": "skin-33816752",
     "name": "Árnyéktőr (★) | Edzett",
-    "description": "A hatékony brutalitásra tervezett döfőtőrt használni olyan egyszerű, mint bevinni egy-két ütést. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "A hatékony brutalitásra tervezett döfőtőrt használni olyan egyszerű, mint bevinni egy-két ütést. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_push",
       "name": "Árnyéktőr"
@@ -113632,7 +114287,7 @@
   {
     "id": "skin-33882288",
     "name": "Paracord kés (★) | Edzett",
-    "description": "Ezt a fix pengéjű túlélőkést úgy tervezték, hogy kibírja a fegyverként és szerszámként való használatot is, így lehet vele csapdát készíteni, állatokra vadászni, vagy növényzetet vágni. A markolatára ejtőernyőzsinór van tekerve. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ezt a fix pengéjű túlélőkést úgy tervezték, hogy kibírja a fegyverként és szerszámként való használatot is, így lehet vele csapdát készíteni, állatokra vadászni, vagy növényzetet vágni. A markolatára ejtőernyőzsinór van tekerve. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_cord",
       "name": "Paracord kés"
@@ -114416,7 +115071,7 @@
   {
     "id": "skin-33947824",
     "name": "Túlélőkés (★) | Edzett",
-    "description": "Ennek a többfunkciós taktikai késnek fogazott éle van kemény anyagok, mint a csont vagy szövedékek átvágásához, plusz egy éles belezőhorga. A kompozit anyagú markolat hatlapfejű csavarokkal van a pengéhez rögzítve. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ennek a többfunkciós taktikai késnek fogazott éle van kemény anyagok, mint a csont vagy szövedékek átvágásához, plusz egy éles belezőhorga. A kompozit anyagú markolat hatlapfejű csavarokkal van a pengéhez rögzítve. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_canis",
       "name": "Túlélőkés"
@@ -115200,7 +115855,7 @@
   {
     "id": "skin-34013360",
     "name": "Ursus kés (★) | Edzett",
-    "description": "Ez a tanto jellegű túlélőkés fazettás pengével és ütővégsúlyban végződő teljes markolattüskével rendelkezik. Semmi csicsa, semmi mozgó alkatrész, csak egy megbízható penge, ami munkára kész. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ez a tanto jellegű túlélőkés fazettás pengével és ütővégsúlyban végződő teljes markolattüskével rendelkezik. Semmi csicsa, semmi mozgó alkatrész, csak egy megbízható penge, ami munkára kész. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_ursus",
       "name": "Ursus kés"
@@ -116675,7 +117330,7 @@
   {
     "id": "skin-34078896",
     "name": "Navaja kés (★) | Edzett",
-    "description": "Ez a márványlakk markolatú összecsukható kés egy kicsi, de gonoszul hegyes pengét rejt. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ez a márványlakk markolatú összecsukható kés egy kicsi, de gonoszul hegyes pengét rejt. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_gypsy_jackknife",
       "name": "Navaja kés"
@@ -118150,7 +118805,7 @@
   {
     "id": "skin-34144432",
     "name": "Nomád kés (★) | Edzett",
-    "description": "Ez az ergonomikus, becsukható pengéjű taktikai vadászkés kompozit markolatbetétekkel és széles, erős pengével rendelkezik, ami vágáshoz és tárgyak szétfeszítéséhez is hasznos. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ez az ergonomikus, becsukható pengéjű taktikai vadászkés kompozit markolatbetétekkel és széles, erős pengével rendelkezik, ami vágáshoz és tárgyak szétfeszítéséhez is hasznos. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_outdoor",
       "name": "Nomád kés"
@@ -118934,7 +119589,7 @@
   {
     "id": "skin-34209968",
     "name": "Stiletto kés (★) | Edzett",
-    "description": "Ennek a hosszú ideje viták, sőt, szabályozások tárgyát képező olasz stílusú stiletto rugós késnek olyan rugóval mozgatott pengéje van, ami szinte azonnal kiugratható egy kioldópöcök megnyomásával. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ennek a hosszú ideje viták, sőt, szabályozások tárgyát képező olasz stílusú stiletto rugós késnek olyan rugóval mozgatott pengéje van, ami szinte azonnal kiugratható egy kioldópöcök megnyomásával. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_stiletto",
       "name": "Stiletto kés"
@@ -120409,7 +121064,7 @@
   {
     "id": "skin-34275504",
     "name": "Talon kés (★) | Edzett",
-    "description": "Ez az elefántcsont markolatú karambit rézszegecsekkel és fűrészfogazással rendelkezik, így befelé menet vág, kifelé jövet pedig tép. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ez az elefántcsont markolatú karambit rézszegecsekkel és fűrészfogazással rendelkezik, így befelé menet vág, kifelé jövet pedig tép. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_widowmaker",
       "name": "Talon kés"
@@ -121884,7 +122539,7 @@
   {
     "id": "skin-34406576",
     "name": "Csontváz kés (★) | Edzett",
-    "description": "Ennek a lecsupaszított markolattüskéjű késnek a markolatára szalagot tekertek a fogás javítására. A lyukba bele lehet dugni egy ujjat a stabilitás és biztonság növelésére. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Ennek a lecsupaszított markolattüskéjű késnek a markolatára szalagot tekertek a fogás javítására. A lyukba bele lehet dugni egy ujjat a stabilitás és biztonság növelésére. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_skeleton",
       "name": "Csontváz kés"
@@ -122668,7 +123323,7 @@
   {
     "id": "skin-34472112",
     "name": "Kukri kés (★) | Edzett",
-    "description": "Olyan hagyományos rituálékhoz használják, mint az esküvők vagy a késelések. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten..\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
+    "description": "Olyan hagyományos rituálékhoz használják, mint az esküvők vagy a késelések. Színező edzést végeztek rajta, faszenet használva magas hőmérsékleten.\\n\\n<i>Egy kis szín még senkinek sem ártott.</i>",
     "weapon": {
       "id": "weapon_knife_kukri",
       "name": "Kukri kés"

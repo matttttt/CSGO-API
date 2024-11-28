@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Whistle-karttakolikko",
+    "description": "Muistona CS2:n Whistle-kartan luomisesta.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Merkillinen",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Palais-karttakolikko",
+    "description": "Muistona CS2:n Palais-kartan luomisesta.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Merkillinen",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Edin-karttakolikko",
+    "description": "Muistona CS2:n Edin-kartan luomisesta.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Merkillinen",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Basalt-karttakolikko",
+    "description": "Muistona CS2:n Basalt-kartan luomisesta.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Merkillinen",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

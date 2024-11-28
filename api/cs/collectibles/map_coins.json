@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Mince mapy Whistle",
+    "description": "Připomínka autorství mapy Whistle.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Mimořádná",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Mince mapy Palais",
+    "description": "Připomínka autorství mapy Palais.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Mimořádná",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Mince mapy Edin",
+    "description": "Připomínka autorství mapy Edin.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Mimořádná",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Mince mapy Basalt",
+    "description": "Připomínka autorství mapy Basalt.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Mimořádná",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]
