@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Whistle マップコイン",
+    "description": "CS2 マップ Whistle の作成を記念したもの",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "レア",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Palais マップコイン",
+    "description": "CS2 マップ Palais の作成を記念したもの",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "レア",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Edin マップコイン",
+    "description": "CS2 マップ Edin の作成を記念したもの",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "レア",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Basalt マップコイン",
+    "description": "CS2 マップ Basalt の作成を記念したもの",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "レア",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

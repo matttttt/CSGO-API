@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Banmynt för Whistle",
+    "description": "Till minne av skapandet av CS2-banan Whistle",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinär",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Banmynt för Palais",
+    "description": "Till minne av skapandet av CS2-banan Palais",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinär",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Banmynt för Edin",
+    "description": "Till minne av skapandet av CS2-banan Edin",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinär",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Banmynt för Basalt",
+    "description": "Till minne av skapandet av CS2-banan Basalt",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinär",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

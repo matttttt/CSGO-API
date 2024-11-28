@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Монета карты Whistle",
+    "description": "Награда за работу над картой Whistle для CS2",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "экстраординарного типа",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Монета карты Palais",
+    "description": "Награда за работу над картой Palais для CS2",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "экстраординарного типа",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Монета карты Edin",
+    "description": "Награда за работу над картой Edin для CS2",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "экстраординарного типа",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Монета карты Basalt",
+    "description": "Награда за работу над картой Basalt для CS2",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "экстраординарного типа",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

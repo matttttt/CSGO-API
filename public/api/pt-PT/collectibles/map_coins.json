@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Moeda do Mapa \\\"Whistle\\\"",
+    "description": "Esta moeda representa a autoria do mapa do CS2 \\\"Whistle\\\".",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinário",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Moeda do Mapa \\\"Palais\\\"",
+    "description": "Esta moeda representa a autoria do mapa do CS2 \\\"Palais\\\".",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinário",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Moeda do Mapa \\\"Edin\\\"",
+    "description": "Esta moeda representa a autoria do mapa do CS2 \\\"Edin\\\".",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinário",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Moeda do Mapa \\\"Basalt\\\"",
+    "description": "Esta moeda representa a autoria do mapa do CS2 \\\"Basalt\\\".",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Extraordinário",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]

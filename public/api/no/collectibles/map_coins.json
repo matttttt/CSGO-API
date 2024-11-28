@@ -1090,5 +1090,61 @@
     "genuine": false,
     "market_hash_name": null,
     "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_poolday_png.png"
+  },
+  {
+    "id": "collectible-4982",
+    "name": "Kartmynt for Whistle",
+    "description": "Til minne om opphavet til kartet «Whistle» til CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Ekstraordinær",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_whistle_png.png"
+  },
+  {
+    "id": "collectible-4983",
+    "name": "Kartmynt for Palais",
+    "description": "Til minne om opphavet til kartet «Palais» til CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Ekstraordinær",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_palais_png.png"
+  },
+  {
+    "id": "collectible-4984",
+    "name": "Kartmynt for Edin",
+    "description": "Til minne om opphavet til kartet «Edin» til CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Ekstraordinær",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_edin_png.png"
+  },
+  {
+    "id": "collectible-4985",
+    "name": "Kartmynt for Basalt",
+    "description": "Til minne om opphavet til kartet «Basalt» til CS2.",
+    "rarity": {
+      "id": "rarity_ancient",
+      "name": "Ekstraordinær",
+      "color": "#eb4b4b"
+    },
+    "type": "Map Contributor Coin",
+    "genuine": false,
+    "market_hash_name": null,
+    "image": "https://i.cs2inspects.com/images/econ/status_icons/maptoken_basaltcs2_png.png"
   }
 ]
