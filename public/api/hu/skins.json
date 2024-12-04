@@ -1990,7 +1990,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -4506,7 +4506,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -4599,7 +4599,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -5082,7 +5082,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -7319,7 +7319,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -7600,7 +7600,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -7873,7 +7873,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -8628,7 +8628,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -10223,7 +10223,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -10319,7 +10319,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -10940,7 +10940,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -11610,7 +11610,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -11886,7 +11886,7 @@
   },
   {
     "id": "skin-459204",
-    "name": "AK-47 | A kívülállók",
+    "name": "AK-47 | A Kívülállók",
     "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Különböző helyzetekben levő T-k elnagyolt alakjait ábrázoló egyedi festést kapott.\\n\\n<i>A T-k a buszon csak győznek, és győznek, és győznek és győznek.</i>",
     "weapon": {
       "id": "weapon_ak47",
@@ -11898,7 +11898,7 @@
     },
     "pattern": {
       "id": "ak47_t_bus",
-      "name": "A kívülállók"
+      "name": "A Kívülállók"
     },
     "min_float": 0,
     "max_float": 0.9,
@@ -13820,7 +13820,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -14169,7 +14169,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -14460,7 +14460,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -14617,7 +14617,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -15102,7 +15102,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -17136,7 +17136,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -17244,7 +17244,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -17337,7 +17337,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -17620,7 +17620,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -17835,7 +17835,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -17986,7 +17986,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -19944,7 +19944,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -20105,7 +20105,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -20902,7 +20902,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -21118,7 +21118,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -21530,7 +21530,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -23063,7 +23063,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -23350,7 +23350,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -25120,7 +25120,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -25281,7 +25281,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -26216,7 +26216,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -27235,7 +27235,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -27724,7 +27724,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -27885,7 +27885,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -29110,7 +29110,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -29391,7 +29391,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -29678,7 +29678,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -31605,7 +31605,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -31709,7 +31709,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -31990,7 +31990,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -32673,7 +32673,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -33039,7 +33039,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -34841,7 +34841,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -35064,7 +35064,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -35621,7 +35621,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -35844,7 +35844,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -36259,7 +36259,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -38539,7 +38539,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -38632,7 +38632,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -38851,7 +38851,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -39142,7 +39142,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -39297,7 +39297,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -39390,7 +39390,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -39609,7 +39609,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -39771,7 +39771,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -39933,7 +39933,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -40476,7 +40476,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -41426,7 +41426,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -43057,7 +43057,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -43260,7 +43260,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -43681,7 +43681,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -45814,7 +45814,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -46163,7 +46163,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -46324,7 +46324,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -46611,7 +46611,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -46711,7 +46711,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -48674,7 +48674,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -48767,7 +48767,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -49054,7 +49054,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -51011,7 +51011,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -51181,7 +51181,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -51274,7 +51274,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -51563,7 +51563,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -51850,7 +51850,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -53025,7 +53025,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -53446,7 +53446,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -55409,7 +55409,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -55622,7 +55622,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -58116,7 +58116,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -58669,7 +58669,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -58888,7 +58888,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -61028,7 +61028,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -62959,7 +62959,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -63067,7 +63067,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -63282,7 +63282,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -63499,7 +63499,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -63786,7 +63786,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -65744,7 +65744,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -65905,7 +65905,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -66118,7 +66118,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -67754,7 +67754,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -68624,7 +68624,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -68843,7 +68843,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -69072,7 +69072,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -69223,7 +69223,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -71710,7 +71710,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -71880,7 +71880,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -71988,7 +71988,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -72141,7 +72141,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -72360,7 +72360,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -72719,7 +72719,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -72938,7 +72938,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -76516,7 +76516,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -76609,7 +76609,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -77014,7 +77014,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -77243,7 +77243,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -77404,7 +77404,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -77739,7 +77739,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -78035,7 +78035,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -79205,7 +79205,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -79548,7 +79548,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -79897,7 +79897,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -80178,7 +80178,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -82100,7 +82100,7 @@
       },
       {
         "id": "crate-4972",
-        "name": "Shanghai 2024 Nuke Souvenir Package",
+        "name": "Shanghai 2024 Nuke Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
       }
     ],
@@ -82391,7 +82391,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -82596,7 +82596,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -82933,7 +82933,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -84679,7 +84679,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -84840,7 +84840,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -84977,7 +84977,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -85196,7 +85196,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -85681,7 +85681,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
@@ -85830,7 +85830,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -87595,7 +87595,7 @@
       },
       {
         "id": "crate-4968",
-        "name": "Shanghai 2024 Mirage Souvenir Package",
+        "name": "Shanghai 2024 Mirage Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
       }
     ],
@@ -88016,7 +88016,7 @@
       },
       {
         "id": "crate-4973",
-        "name": "Shanghai 2024 Vertigo Souvenir Package",
+        "name": "Shanghai 2024 Vertigo Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
       }
     ],
@@ -88301,7 +88301,7 @@
       },
       {
         "id": "crate-4971",
-        "name": "Shanghai 2024 Ancient Souvenir Package",
+        "name": "Shanghai 2024 Ancient Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
       }
     ],
@@ -88937,7 +88937,7 @@
       },
       {
         "id": "crate-4967",
-        "name": "Shanghai 2024 Inferno Souvenir Package",
+        "name": "Shanghai 2024 Inferno Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
       }
     ],
@@ -89210,7 +89210,7 @@
       },
       {
         "id": "crate-4970",
-        "name": "Shanghai 2024 Dust II Souvenir Package",
+        "name": "Shanghai 2024 Dust II Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
       }
     ],
@@ -89627,7 +89627,7 @@
       },
       {
         "id": "crate-4969",
-        "name": "Shanghai 2024 Anubis Souvenir Package",
+        "name": "Shanghai 2024 Anubis Emlékcsomag",
         "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
       }
     ],
