@@ -19113,14 +19113,14 @@
   },
   {
     "id": "crate-4964",
-    "name": "Shanghai 2024 Legends Sticker Capsule",
-    "description": "This capsule contains a single Shanghai 2024 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "name": "Κάψουλα Αυτοκόλλητων Θρύλων Σαγκάη 2024",
+    "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό αυτοκόλλητο ενός Θρύλου από το τουρνουά Σαγκάη 2024.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε από τα όπλα σας και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να σβηστεί εντελώς από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
     "contains": [
       {
         "id": "sticker-7928",
-        "name": "G2 Esports | Shanghai 2024",
+        "name": "G2 Esports | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19130,7 +19130,7 @@
       },
       {
         "id": "sticker-7932",
-        "name": "Natus Vincere | Shanghai 2024",
+        "name": "Natus Vincere | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19140,7 +19140,7 @@
       },
       {
         "id": "sticker-7936",
-        "name": "Vitality | Shanghai 2024",
+        "name": "Vitality | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19150,7 +19150,7 @@
       },
       {
         "id": "sticker-7940",
-        "name": "Team Spirit | Shanghai 2024",
+        "name": "Team Spirit | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19160,7 +19160,7 @@
       },
       {
         "id": "sticker-7944",
-        "name": "MOUZ | Shanghai 2024",
+        "name": "MOUZ | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19170,7 +19170,7 @@
       },
       {
         "id": "sticker-7948",
-        "name": "FaZe Clan | Shanghai 2024",
+        "name": "FaZe Clan | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19180,7 +19180,7 @@
       },
       {
         "id": "sticker-7952",
-        "name": "HEROIC | Shanghai 2024",
+        "name": "HEROIC | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19190,7 +19190,7 @@
       },
       {
         "id": "sticker-7956",
-        "name": "3DMAX | Shanghai 2024",
+        "name": "3DMAX | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19200,7 +19200,7 @@
       },
       {
         "id": "sticker-8024",
-        "name": "Perfect World | Shanghai 2024",
+        "name": "Perfect World | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19210,7 +19210,7 @@
       },
       {
         "id": "sticker-7929",
-        "name": "G2 Esports (Glitter) | Shanghai 2024",
+        "name": "G2 Esports (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19220,7 +19220,7 @@
       },
       {
         "id": "sticker-7933",
-        "name": "Natus Vincere (Glitter) | Shanghai 2024",
+        "name": "Natus Vincere (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19230,7 +19230,7 @@
       },
       {
         "id": "sticker-7937",
-        "name": "Vitality (Glitter) | Shanghai 2024",
+        "name": "Vitality (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19240,7 +19240,7 @@
       },
       {
         "id": "sticker-7941",
-        "name": "Team Spirit (Glitter) | Shanghai 2024",
+        "name": "Team Spirit (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19250,7 +19250,7 @@
       },
       {
         "id": "sticker-7945",
-        "name": "MOUZ (Glitter) | Shanghai 2024",
+        "name": "MOUZ (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19260,7 +19260,7 @@
       },
       {
         "id": "sticker-7949",
-        "name": "FaZe Clan (Glitter) | Shanghai 2024",
+        "name": "FaZe Clan (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19270,7 +19270,7 @@
       },
       {
         "id": "sticker-7953",
-        "name": "HEROIC (Glitter) | Shanghai 2024",
+        "name": "HEROIC (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19280,7 +19280,7 @@
       },
       {
         "id": "sticker-7957",
-        "name": "3DMAX (Glitter) | Shanghai 2024",
+        "name": "3DMAX (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19290,7 +19290,7 @@
       },
       {
         "id": "sticker-8025",
-        "name": "Perfect World (Glitter) | Shanghai 2024",
+        "name": "Perfect World (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19300,7 +19300,7 @@
       },
       {
         "id": "sticker-7930",
-        "name": "G2 Esports (Holo) | Shanghai 2024",
+        "name": "G2 Esports (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19310,7 +19310,7 @@
       },
       {
         "id": "sticker-7934",
-        "name": "Natus Vincere (Holo) | Shanghai 2024",
+        "name": "Natus Vincere (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19320,7 +19320,7 @@
       },
       {
         "id": "sticker-7938",
-        "name": "Vitality (Holo) | Shanghai 2024",
+        "name": "Vitality (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19330,7 +19330,7 @@
       },
       {
         "id": "sticker-7942",
-        "name": "Team Spirit (Holo) | Shanghai 2024",
+        "name": "Team Spirit (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19340,7 +19340,7 @@
       },
       {
         "id": "sticker-7946",
-        "name": "MOUZ (Holo) | Shanghai 2024",
+        "name": "MOUZ (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19350,7 +19350,7 @@
       },
       {
         "id": "sticker-7950",
-        "name": "FaZe Clan (Holo) | Shanghai 2024",
+        "name": "FaZe Clan (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19360,7 +19360,7 @@
       },
       {
         "id": "sticker-7954",
-        "name": "HEROIC (Holo) | Shanghai 2024",
+        "name": "HEROIC (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19370,7 +19370,7 @@
       },
       {
         "id": "sticker-7958",
-        "name": "3DMAX (Holo) | Shanghai 2024",
+        "name": "3DMAX (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19380,7 +19380,7 @@
       },
       {
         "id": "sticker-8026",
-        "name": "Perfect World (Holo) | Shanghai 2024",
+        "name": "Perfect World (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19390,7 +19390,7 @@
       },
       {
         "id": "sticker-7931",
-        "name": "G2 Esports (Gold) | Shanghai 2024",
+        "name": "G2 Esports (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19400,7 +19400,7 @@
       },
       {
         "id": "sticker-7935",
-        "name": "Natus Vincere (Gold) | Shanghai 2024",
+        "name": "Natus Vincere (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19410,7 +19410,7 @@
       },
       {
         "id": "sticker-7939",
-        "name": "Vitality (Gold) | Shanghai 2024",
+        "name": "Vitality (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19420,7 +19420,7 @@
       },
       {
         "id": "sticker-7943",
-        "name": "Team Spirit (Gold) | Shanghai 2024",
+        "name": "Team Spirit (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19430,7 +19430,7 @@
       },
       {
         "id": "sticker-7947",
-        "name": "MOUZ (Gold) | Shanghai 2024",
+        "name": "MOUZ (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19440,7 +19440,7 @@
       },
       {
         "id": "sticker-7951",
-        "name": "FaZe Clan (Gold) | Shanghai 2024",
+        "name": "FaZe Clan (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19450,7 +19450,7 @@
       },
       {
         "id": "sticker-7955",
-        "name": "HEROIC (Gold) | Shanghai 2024",
+        "name": "HEROIC (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19460,7 +19460,7 @@
       },
       {
         "id": "sticker-7959",
-        "name": "3DMAX (Gold) | Shanghai 2024",
+        "name": "3DMAX (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19470,7 +19470,7 @@
       },
       {
         "id": "sticker-8027",
-        "name": "Perfect World (Gold) | Shanghai 2024",
+        "name": "Perfect World (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19486,14 +19486,14 @@
   },
   {
     "id": "crate-4965",
-    "name": "Shanghai 2024 Challengers Sticker Capsule",
-    "description": "This capsule contains a single Shanghai 2024 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "name": "Κάψουλα Αυτοκόλλητων Διεκδικητών Σαγκάη 2024",
+    "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό αυτοκόλλητο ενός Διεκδικητή από το τουρνουά Σαγκάη 2024.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε από τα όπλα σας και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να σβηστεί εντελώς από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
     "contains": [
       {
         "id": "sticker-7960",
-        "name": "FURIA | Shanghai 2024",
+        "name": "FURIA | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19503,7 +19503,7 @@
       },
       {
         "id": "sticker-7964",
-        "name": "Virtus.pro | Shanghai 2024",
+        "name": "Virtus.pro | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19513,7 +19513,7 @@
       },
       {
         "id": "sticker-7968",
-        "name": "Team Liquid | Shanghai 2024",
+        "name": "Team Liquid | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19523,7 +19523,7 @@
       },
       {
         "id": "sticker-7972",
-        "name": "Complexity Gaming | Shanghai 2024",
+        "name": "Complexity Gaming | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19533,7 +19533,7 @@
       },
       {
         "id": "sticker-7976",
-        "name": "BIG | Shanghai 2024",
+        "name": "BIG | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19543,7 +19543,7 @@
       },
       {
         "id": "sticker-7980",
-        "name": "Fnatic | Shanghai 2024",
+        "name": "Fnatic | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19553,7 +19553,7 @@
       },
       {
         "id": "sticker-7984",
-        "name": "The MongolZ | Shanghai 2024",
+        "name": "The MongolZ | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19563,7 +19563,7 @@
       },
       {
         "id": "sticker-7988",
-        "name": "paiN Gaming | Shanghai 2024",
+        "name": "paiN Gaming | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19573,7 +19573,7 @@
       },
       {
         "id": "sticker-8024",
-        "name": "Perfect World | Shanghai 2024",
+        "name": "Perfect World | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19583,7 +19583,7 @@
       },
       {
         "id": "sticker-7961",
-        "name": "FURIA (Glitter) | Shanghai 2024",
+        "name": "FURIA (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19593,7 +19593,7 @@
       },
       {
         "id": "sticker-7965",
-        "name": "Virtus.pro (Glitter) | Shanghai 2024",
+        "name": "Virtus.pro (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19603,7 +19603,7 @@
       },
       {
         "id": "sticker-7969",
-        "name": "Team Liquid (Glitter) | Shanghai 2024",
+        "name": "Team Liquid (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19613,7 +19613,7 @@
       },
       {
         "id": "sticker-7973",
-        "name": "Complexity Gaming (Glitter) | Shanghai 2024",
+        "name": "Complexity Gaming (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19623,7 +19623,7 @@
       },
       {
         "id": "sticker-7977",
-        "name": "BIG (Glitter) | Shanghai 2024",
+        "name": "BIG (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19633,7 +19633,7 @@
       },
       {
         "id": "sticker-7981",
-        "name": "Fnatic (Glitter) | Shanghai 2024",
+        "name": "Fnatic (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19643,7 +19643,7 @@
       },
       {
         "id": "sticker-7985",
-        "name": "The MongolZ (Glitter) | Shanghai 2024",
+        "name": "The MongolZ (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19653,7 +19653,7 @@
       },
       {
         "id": "sticker-7989",
-        "name": "paiN Gaming (Glitter) | Shanghai 2024",
+        "name": "paiN Gaming (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19663,7 +19663,7 @@
       },
       {
         "id": "sticker-8025",
-        "name": "Perfect World (Glitter) | Shanghai 2024",
+        "name": "Perfect World (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19673,7 +19673,7 @@
       },
       {
         "id": "sticker-7962",
-        "name": "FURIA (Holo) | Shanghai 2024",
+        "name": "FURIA (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19683,7 +19683,7 @@
       },
       {
         "id": "sticker-7966",
-        "name": "Virtus.pro (Holo) | Shanghai 2024",
+        "name": "Virtus.pro (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19693,7 +19693,7 @@
       },
       {
         "id": "sticker-7970",
-        "name": "Team Liquid (Holo) | Shanghai 2024",
+        "name": "Team Liquid (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19703,7 +19703,7 @@
       },
       {
         "id": "sticker-7974",
-        "name": "Complexity Gaming (Holo) | Shanghai 2024",
+        "name": "Complexity Gaming (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19713,7 +19713,7 @@
       },
       {
         "id": "sticker-7978",
-        "name": "BIG (Holo) | Shanghai 2024",
+        "name": "BIG (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19723,7 +19723,7 @@
       },
       {
         "id": "sticker-7982",
-        "name": "Fnatic (Holo) | Shanghai 2024",
+        "name": "Fnatic (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19733,7 +19733,7 @@
       },
       {
         "id": "sticker-7986",
-        "name": "The MongolZ (Holo) | Shanghai 2024",
+        "name": "The MongolZ (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19743,7 +19743,7 @@
       },
       {
         "id": "sticker-7990",
-        "name": "paiN Gaming (Holo) | Shanghai 2024",
+        "name": "paiN Gaming (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19753,7 +19753,7 @@
       },
       {
         "id": "sticker-8026",
-        "name": "Perfect World (Holo) | Shanghai 2024",
+        "name": "Perfect World (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -19763,7 +19763,7 @@
       },
       {
         "id": "sticker-7963",
-        "name": "FURIA (Gold) | Shanghai 2024",
+        "name": "FURIA (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19773,7 +19773,7 @@
       },
       {
         "id": "sticker-7967",
-        "name": "Virtus.pro (Gold) | Shanghai 2024",
+        "name": "Virtus.pro (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19783,7 +19783,7 @@
       },
       {
         "id": "sticker-7971",
-        "name": "Team Liquid (Gold) | Shanghai 2024",
+        "name": "Team Liquid (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19793,7 +19793,7 @@
       },
       {
         "id": "sticker-7975",
-        "name": "Complexity Gaming (Gold) | Shanghai 2024",
+        "name": "Complexity Gaming (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19803,7 +19803,7 @@
       },
       {
         "id": "sticker-7979",
-        "name": "BIG (Gold) | Shanghai 2024",
+        "name": "BIG (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19813,7 +19813,7 @@
       },
       {
         "id": "sticker-7983",
-        "name": "Fnatic (Gold) | Shanghai 2024",
+        "name": "Fnatic (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19823,7 +19823,7 @@
       },
       {
         "id": "sticker-7987",
-        "name": "The MongolZ (Gold) | Shanghai 2024",
+        "name": "The MongolZ (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19833,7 +19833,7 @@
       },
       {
         "id": "sticker-7991",
-        "name": "paiN Gaming (Gold) | Shanghai 2024",
+        "name": "paiN Gaming (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19843,7 +19843,7 @@
       },
       {
         "id": "sticker-8027",
-        "name": "Perfect World (Gold) | Shanghai 2024",
+        "name": "Perfect World (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -19859,14 +19859,14 @@
   },
   {
     "id": "crate-4966",
-    "name": "Shanghai 2024 Contenders Sticker Capsule",
-    "description": "This capsule contains a single Shanghai 2024 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "name": "Κάψουλα Αυτοκόλλητων Ανταγωνιστών Σαγκάη 2024",
+    "description": "Αυτή η κάψουλα περιέχει ένα Χάρτινο, Γκλίτερ, Ολογραφικό ή Χρυσό αυτοκόλλητο ενός Ανταγωνιστή από το τουρνουά Σαγκάη 2024.\\n\\nΤο 50% των εσόδων από την πώληση αυτής της κάψουλας υποστηρίζει τους συμπεριλαμβανόμενους οργανισμούς.\\n\\nΑυτό το αυτοκόλλητο μπορεί να εφαρμοστεί σε οποιοδήποτε από τα όπλα σας και μπορεί να ξυθεί για να φαίνεται πιο φθαρμένο. Μπορείτε να ξύσετε το ίδιο αυτοκόλλητο πολλές φορές, κάνοντάς το όλο και πιο φθαρμένο κάθε φορά, μέχρι να σβηστεί εντελώς από το όπλο.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
     "contains": [
       {
         "id": "sticker-7992",
-        "name": "GamerLegion | Shanghai 2024",
+        "name": "GamerLegion | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19876,7 +19876,7 @@
       },
       {
         "id": "sticker-7996",
-        "name": "MIBR | Shanghai 2024",
+        "name": "MIBR | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19886,7 +19886,7 @@
       },
       {
         "id": "sticker-8000",
-        "name": "Cloud9 | Shanghai 2024",
+        "name": "Cloud9 | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19896,7 +19896,7 @@
       },
       {
         "id": "sticker-8004",
-        "name": "FlyQuest | Shanghai 2024",
+        "name": "FlyQuest | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19906,7 +19906,7 @@
       },
       {
         "id": "sticker-8008",
-        "name": "Passion UA | Shanghai 2024",
+        "name": "Passion UA | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19916,7 +19916,7 @@
       },
       {
         "id": "sticker-8012",
-        "name": "Wildcard | Shanghai 2024",
+        "name": "Wildcard | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19926,7 +19926,7 @@
       },
       {
         "id": "sticker-8016",
-        "name": "Rare Atom | Shanghai 2024",
+        "name": "Rare Atom | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19936,7 +19936,7 @@
       },
       {
         "id": "sticker-8020",
-        "name": "Imperial Esports | Shanghai 2024",
+        "name": "Imperial Esports | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19946,7 +19946,7 @@
       },
       {
         "id": "sticker-8024",
-        "name": "Perfect World | Shanghai 2024",
+        "name": "Perfect World | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_rare",
           "name": "High Grade",
@@ -19956,7 +19956,7 @@
       },
       {
         "id": "sticker-7993",
-        "name": "GamerLegion (Glitter) | Shanghai 2024",
+        "name": "GamerLegion (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19966,7 +19966,7 @@
       },
       {
         "id": "sticker-7997",
-        "name": "MIBR (Glitter) | Shanghai 2024",
+        "name": "MIBR (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19976,7 +19976,7 @@
       },
       {
         "id": "sticker-8001",
-        "name": "Cloud9 (Glitter) | Shanghai 2024",
+        "name": "Cloud9 (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19986,7 +19986,7 @@
       },
       {
         "id": "sticker-8005",
-        "name": "FlyQuest (Glitter) | Shanghai 2024",
+        "name": "FlyQuest (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -19996,7 +19996,7 @@
       },
       {
         "id": "sticker-8009",
-        "name": "Passion UA (Glitter) | Shanghai 2024",
+        "name": "Passion UA (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -20006,7 +20006,7 @@
       },
       {
         "id": "sticker-8013",
-        "name": "Wildcard (Glitter) | Shanghai 2024",
+        "name": "Wildcard (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -20016,7 +20016,7 @@
       },
       {
         "id": "sticker-8017",
-        "name": "Rare Atom (Glitter) | Shanghai 2024",
+        "name": "Rare Atom (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -20026,7 +20026,7 @@
       },
       {
         "id": "sticker-8021",
-        "name": "Imperial Esports (Glitter) | Shanghai 2024",
+        "name": "Imperial Esports (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -20036,7 +20036,7 @@
       },
       {
         "id": "sticker-8025",
-        "name": "Perfect World (Glitter) | Shanghai 2024",
+        "name": "Perfect World (Γκλίτερ) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Remarkable",
@@ -20046,7 +20046,7 @@
       },
       {
         "id": "sticker-7994",
-        "name": "GamerLegion (Holo) | Shanghai 2024",
+        "name": "GamerLegion (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -20056,7 +20056,7 @@
       },
       {
         "id": "sticker-7998",
-        "name": "MIBR (Holo) | Shanghai 2024",
+        "name": "MIBR (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -20066,7 +20066,7 @@
       },
       {
         "id": "sticker-8002",
-        "name": "Cloud9 (Holo) | Shanghai 2024",
+        "name": "Cloud9 (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -20076,7 +20076,7 @@
       },
       {
         "id": "sticker-8006",
-        "name": "FlyQuest (Holo) | Shanghai 2024",
+        "name": "FlyQuest (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -20086,7 +20086,7 @@
       },
       {
         "id": "sticker-8010",
-        "name": "Passion UA (Holo) | Shanghai 2024",
+        "name": "Passion UA (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -20096,7 +20096,7 @@
       },
       {
         "id": "sticker-8014",
-        "name": "Wildcard (Holo) | Shanghai 2024",
+        "name": "Wildcard (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -20106,7 +20106,7 @@
       },
       {
         "id": "sticker-8018",
-        "name": "Rare Atom (Holo) | Shanghai 2024",
+        "name": "Rare Atom (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -20116,7 +20116,7 @@
       },
       {
         "id": "sticker-8022",
-        "name": "Imperial Esports (Holo) | Shanghai 2024",
+        "name": "Imperial Esports (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -20126,7 +20126,7 @@
       },
       {
         "id": "sticker-8026",
-        "name": "Perfect World (Holo) | Shanghai 2024",
+        "name": "Perfect World (Ολογρ.) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Exotic",
@@ -20136,7 +20136,7 @@
       },
       {
         "id": "sticker-7995",
-        "name": "GamerLegion (Gold) | Shanghai 2024",
+        "name": "GamerLegion (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -20146,7 +20146,7 @@
       },
       {
         "id": "sticker-7999",
-        "name": "MIBR (Gold) | Shanghai 2024",
+        "name": "MIBR (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -20156,7 +20156,7 @@
       },
       {
         "id": "sticker-8003",
-        "name": "Cloud9 (Gold) | Shanghai 2024",
+        "name": "Cloud9 (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -20166,7 +20166,7 @@
       },
       {
         "id": "sticker-8007",
-        "name": "FlyQuest (Gold) | Shanghai 2024",
+        "name": "FlyQuest (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -20176,7 +20176,7 @@
       },
       {
         "id": "sticker-8011",
-        "name": "Passion UA (Gold) | Shanghai 2024",
+        "name": "Passion UA (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -20186,7 +20186,7 @@
       },
       {
         "id": "sticker-8015",
-        "name": "Wildcard (Gold) | Shanghai 2024",
+        "name": "Wildcard (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -20196,7 +20196,7 @@
       },
       {
         "id": "sticker-8019",
-        "name": "Rare Atom (Gold) | Shanghai 2024",
+        "name": "Rare Atom (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -20206,7 +20206,7 @@
       },
       {
         "id": "sticker-8023",
-        "name": "Imperial Esports (Gold) | Shanghai 2024",
+        "name": "Imperial Esports (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",
@@ -20216,7 +20216,7 @@
       },
       {
         "id": "sticker-8027",
-        "name": "Perfect World (Gold) | Shanghai 2024",
+        "name": "Perfect World (Χρυσό) | Σαγκάη 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Extraordinary",

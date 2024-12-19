@@ -19113,8 +19113,8 @@
   },
   {
     "id": "crate-4964",
-    "name": "Shanghai 2024 Legends Sticker Capsule",
-    "description": "This capsule contains a single Shanghai 2024 Legends participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "name": "Капсула със стикери на легенди от Shanghai 2024",
+    "description": "<b><font color='#F2A93E'>Shanghai 2024 Legends Sticker Capsule</font></b>\\n \\nТази капсула съдържа един хартиен, блестящ, холограмен или златен стикер на участник от легендите през Shanghai 2024.\\n\\n50% от приходите при продажбата на тази капсула подкрепят включените организации.\\n\\nТози стикер може да се прилага на всяко оръжие, което притежавате. Също така може да бъде одраскан за постигане на по-износен вид. Можете да извършите това многократно, което го прави малко по-износен с всеки следващ път, докато накрая бъде премахнат от оръжието.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
     "contains": [
@@ -19210,7 +19210,7 @@
       },
       {
         "id": "sticker-7929",
-        "name": "G2 Esports (Glitter) | Shanghai 2024",
+        "name": "G2 Esports (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19220,7 +19220,7 @@
       },
       {
         "id": "sticker-7933",
-        "name": "Natus Vincere (Glitter) | Shanghai 2024",
+        "name": "Natus Vincere (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19240,7 +19240,7 @@
       },
       {
         "id": "sticker-7941",
-        "name": "Team Spirit (Glitter) | Shanghai 2024",
+        "name": "Team Spirit (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19260,7 +19260,7 @@
       },
       {
         "id": "sticker-7949",
-        "name": "FaZe Clan (Glitter) | Shanghai 2024",
+        "name": "FaZe Clan (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19290,7 +19290,7 @@
       },
       {
         "id": "sticker-8025",
-        "name": "Perfect World (Glitter) | Shanghai 2024",
+        "name": "Perfect World (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19310,7 +19310,7 @@
       },
       {
         "id": "sticker-7934",
-        "name": "Natus Vincere (Holo) | Shanghai 2024",
+        "name": "Natus Vincere (холограмен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Екзотичен тип",
@@ -19380,7 +19380,7 @@
       },
       {
         "id": "sticker-8026",
-        "name": "Perfect World (Holo) | Shanghai 2024",
+        "name": "Perfect World (холограмен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Екзотичен тип",
@@ -19400,7 +19400,7 @@
       },
       {
         "id": "sticker-7935",
-        "name": "Natus Vincere (Gold) | Shanghai 2024",
+        "name": "Natus Vincere (златен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Необикновен тип",
@@ -19470,7 +19470,7 @@
       },
       {
         "id": "sticker-8027",
-        "name": "Perfect World (Gold) | Shanghai 2024",
+        "name": "Perfect World (златен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Необикновен тип",
@@ -19486,7 +19486,7 @@
   },
   {
     "id": "crate-4965",
-    "name": "Shanghai 2024 Challengers Sticker Capsule",
+    "name": "Капсула със стикери на претенденти от Shanghai 2024",
     "description": "This capsule contains a single Shanghai 2024 Challengers participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
@@ -19593,7 +19593,7 @@
       },
       {
         "id": "sticker-7965",
-        "name": "Virtus.pro (Glitter) | Shanghai 2024",
+        "name": "Virtus.pro (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19603,7 +19603,7 @@
       },
       {
         "id": "sticker-7969",
-        "name": "Team Liquid (Glitter) | Shanghai 2024",
+        "name": "Team Liquid (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19613,7 +19613,7 @@
       },
       {
         "id": "sticker-7973",
-        "name": "Complexity Gaming (Glitter) | Shanghai 2024",
+        "name": "Complexity Gaming (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19643,7 +19643,7 @@
       },
       {
         "id": "sticker-7985",
-        "name": "The MongolZ (Glitter) | Shanghai 2024",
+        "name": "The MongolZ (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19653,7 +19653,7 @@
       },
       {
         "id": "sticker-7989",
-        "name": "paiN Gaming (Glitter) | Shanghai 2024",
+        "name": "paiN Gaming (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19663,7 +19663,7 @@
       },
       {
         "id": "sticker-8025",
-        "name": "Perfect World (Glitter) | Shanghai 2024",
+        "name": "Perfect World (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19703,7 +19703,7 @@
       },
       {
         "id": "sticker-7974",
-        "name": "Complexity Gaming (Holo) | Shanghai 2024",
+        "name": "Complexity Gaming (холограмен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Екзотичен тип",
@@ -19753,7 +19753,7 @@
       },
       {
         "id": "sticker-8026",
-        "name": "Perfect World (Holo) | Shanghai 2024",
+        "name": "Perfect World (холограмен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Екзотичен тип",
@@ -19793,7 +19793,7 @@
       },
       {
         "id": "sticker-7975",
-        "name": "Complexity Gaming (Gold) | Shanghai 2024",
+        "name": "Complexity Gaming (златен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Необикновен тип",
@@ -19843,7 +19843,7 @@
       },
       {
         "id": "sticker-8027",
-        "name": "Perfect World (Gold) | Shanghai 2024",
+        "name": "Perfect World (златен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Необикновен тип",
@@ -19859,8 +19859,8 @@
   },
   {
     "id": "crate-4966",
-    "name": "Shanghai 2024 Contenders Sticker Capsule",
-    "description": "This capsule contains a single Shanghai 2024 Contenders participant Paper, Glitter, Holo, or Gold sticker.\\n\\n50% of the proceeds from the sale of this capsule support the included organizations.\\n\\nThat sticker can be applied to any weapon you own and can be scraped to look more worn. You can scrape the same sticker multiple times, making it a bit more worn each time, until it is removed from the weapon.",
+    "name": "Капсула със стикери на съперници от Shanghai 2024",
+    "description": "<b><font color='#F2A93E'>Shanghai 2024 Contenders Sticker Capsule</font></b>\\n \\nТази капсула съдържа един хартиен, блестящ, холограмен или златен стикер на участник от съперниците през Shanghai 2024.\\n\\n50% от приходите при продажбата на тази капсула подкрепят включените организации.\\n\\nТози стикер може да се прилага на всяко оръжие, което притежавате. Също така може да бъде одраскан за постигане на по-износен вид. Можете да извършите това многократно, което го прави малко по-износен с всеки следващ път, докато накрая бъде премахнат от оръжието.",
     "type": "Sticker Capsule",
     "first_sale_date": null,
     "contains": [
@@ -19956,7 +19956,7 @@
       },
       {
         "id": "sticker-7993",
-        "name": "GamerLegion (Glitter) | Shanghai 2024",
+        "name": "GamerLegion (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -19996,7 +19996,7 @@
       },
       {
         "id": "sticker-8009",
-        "name": "Passion UA (Glitter) | Shanghai 2024",
+        "name": "Passion UA (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -20006,7 +20006,7 @@
       },
       {
         "id": "sticker-8013",
-        "name": "Wildcard (Glitter) | Shanghai 2024",
+        "name": "Wildcard (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -20016,7 +20016,7 @@
       },
       {
         "id": "sticker-8017",
-        "name": "Rare Atom (Glitter) | Shanghai 2024",
+        "name": "Rare Atom (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -20026,7 +20026,7 @@
       },
       {
         "id": "sticker-8021",
-        "name": "Imperial Esports (Glitter) | Shanghai 2024",
+        "name": "Imperial Esports (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -20036,7 +20036,7 @@
       },
       {
         "id": "sticker-8025",
-        "name": "Perfect World (Glitter) | Shanghai 2024",
+        "name": "Perfect World (блестящ) | Shanghai 2024",
         "rarity": {
           "id": "rarity_mythical",
           "name": "Забележителен тип",
@@ -20116,7 +20116,7 @@
       },
       {
         "id": "sticker-8022",
-        "name": "Imperial Esports (Holo) | Shanghai 2024",
+        "name": "Imperial Esports (холограмен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Екзотичен тип",
@@ -20126,7 +20126,7 @@
       },
       {
         "id": "sticker-8026",
-        "name": "Perfect World (Holo) | Shanghai 2024",
+        "name": "Perfect World (холограмен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_legendary",
           "name": "Екзотичен тип",
@@ -20206,7 +20206,7 @@
       },
       {
         "id": "sticker-8023",
-        "name": "Imperial Esports (Gold) | Shanghai 2024",
+        "name": "Imperial Esports (златен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Необикновен тип",
@@ -20216,7 +20216,7 @@
       },
       {
         "id": "sticker-8027",
-        "name": "Perfect World (Gold) | Shanghai 2024",
+        "name": "Perfect World (златен) | Shanghai 2024",
         "rarity": {
           "id": "rarity_ancient",
           "name": "Необикновен тип",
