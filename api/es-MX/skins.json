@@ -125632,7 +125632,7 @@
   },
   {
     "id": "skin-329751792",
-    "name": "Guantes de conductor ★ | Verde de competición",
+    "name": "Guantes de conductor ★ | Verde de competencia",
     "description": "Estos guantes de conducir protegen de las adversidades climatológicas sin perder el sentido del tacto. Este par de guantes verdes se ha decorado con cuero gris tejido en un patrón de chebrón.",
     "weapon": {
       "id": "slick_gloves",
@@ -125644,7 +125644,7 @@
     },
     "pattern": {
       "id": "slick_stitched_green_grey",
-      "name": "Verde de competición"
+      "name": "Verde de competencia"
     },
     "min_float": 0.06,
     "max_float": 0.8,
