@@ -564,14 +564,16 @@ const getItemFromKey = (key) => {
 
     const regex = /\[(?<name>.+?)\](?<type>.+)/;
     const match = key.match(regex);
-    if (!match) {
-        return;
-    }
+    if (!match) return;
     const { name, type } = match.groups;
 
     switch (type) {
-        case "sticker":
+        case "sticker": {
             const sticker = stickerKitsObj[name];
+            if (!sticker) {
+                console.warn(`Missing sticker: ${name}`);
+                return;
+            }
             return {
                 id: `${type}-${sticker.object_id}`,
                 name: sticker.item_name,
@@ -580,16 +582,29 @@ const getItemFromKey = (key) => {
                     `econ/stickers/${sticker.sticker_material.toLowerCase()}`
                 ),
             };
-        case "patch":
+        }
+
+        case "patch": {
             const patch = stickerKitsObj[name];
+            if (!patch) {
+                console.warn(`Missing patch: ${name}`);
+                return;
+            }
             return {
                 id: `${type}-${patch.object_id}`,
                 name: patch.item_name,
                 rarity: `rarity_${patch.item_rarity}`,
                 image: getImageUrl(`econ/patches/${patch.patch_material}`),
             };
-        case "spray":
+        }
+
+        case "spray": {
             const graffiti = stickerKitsObj[name];
+            if (!graffiti) {
+                console.warn(`Missing spray/graffiti: ${name}`);
+                return;
+            }
+
             const variations = getGraffitiVariations(name);
             const variationsIndex =
                 variations[0] === 0
@@ -615,8 +630,14 @@ const getItemFromKey = (key) => {
                     `econ/stickers/${graffiti.sticker_material}`
                 ),
             };
-        case "musickit":
+        }
+
+        case "musickit": {
             const kit = musicDefinitionsObj[name];
+            if (!kit) {
+                console.warn(`Missing music kit: ${name}`);
+                return;
+            }
             const exclusive = isExclusive(kit.name);
             return {
                 id: `music_kit-${kit.object_id}`,
@@ -624,15 +645,12 @@ const getItemFromKey = (key) => {
                 rarity: "rarity_rare",
                 image: getImageUrl(kit.image_inventory),
             };
-        // The rest are skins
-        default:
-            let id = "";
-            let itemName = "";
-            let paint_index = null;
-            let phase = null;
-            let image = null;
+        }
+
+        // Default: Skins
+        default: {
             const translatedName = !isNotWeapon(type)
-                ? items[type].item_name_prefab
+                ? items[type]?.item_name_prefab
                 : items[type]?.item_name;
 
             const isKnife =
@@ -640,68 +658,63 @@ const getItemFromKey = (key) => {
                 type.includes("weapon_bayonet");
 
             const rarity = !isNotWeapon(type)
-                ? `rarity_${rarities[key.toLocaleLowerCase()].rarity}_weapon`
+                ? `rarity_${rarities[key.toLocaleLowerCase()]?.rarity || "common"}_weapon`
                 : isKnife
-                ? // Knives are 'Covert'
-                  `rarity_ancient_weapon`
-                : // Gloves are 'Extraordinary'
-                  `rarity_ancient`;
+                ? `rarity_ancient_weapon`
+                : `rarity_ancient`;
 
-            // Not the best way to add vanilla knives.
             if (name === "vanilla") {
-                const knife = knives.find((k) => k.name == type);
-                id = `skin-vanilla-${type}`;
-                itemName = {
-                    tKey: "rare_special_vanilla",
-                    weapon: knife.item_name,
+                const knife = knives.find((k) => k.name === type);
+                return {
+                    id: `skin-vanilla-${type}`,
+                    name: {
+                        tKey: "rare_special_vanilla",
+                        weapon: knife?.item_name ?? "Unknown Knife",
+                    },
+                    rarity,
+                    image: getImageUrl(`econ/weapons/base_weapons/${knife?.name}`),
                 };
-                image = getImageUrl(`econ/weapons/base_weapons/${knife.name}`);
-            } else {
-                const weaponIcons = Object.entries(
-                    itemsGame.alternate_icons2.weapon_icons
-                ).find(
-                    ([, value]) =>
-                        value.icon_path.includes(name) &&
-                        value.icon_path.includes(type) &&
-                        (name.includes("newcs2")
-                            ? true
-                            : !value.icon_path.includes("newcs2"))
-                );
+            }
 
-                // TODO: Remove this in the future.
-                // Added because of a problem loading `Revolution Case` skin's images.
-                // if (weaponIcons[1].icon_path.includes("_newcs2")) {
-                // weaponIcons[1].icon_path = weaponIcons[1].icon_path.replace(
-                //     "_newcs2",
-                //     ""
-                // );
-                // }
+            const iconsObj = itemsGame?.alternate_icons2?.weapon_icons;
+            if (!iconsObj) {
+                console.warn(`Missing weapon_icons for key: ${key}`);
+                return;
+            }
 
-                id = `skin-${weaponIcons[0]}`;
-                itemName = {
-                    ...(isNotWeapon(type) && { tKey: "rare_special" }),
-                    weapon: translatedName.replace("#", ""),
-                    pattern: paintKits[
-                        name.toLowerCase()
-                    ].description_tag.replace("#", ""),
-                };
-                paint_index = paintKits[name.toLowerCase()]?.paint_index;
-                phase = getDopplerPhase(
-                    paintKits[name.toLowerCase()].paint_index
-                );
-                image = getImageUrl(
-                    `${weaponIcons[1].icon_path.toLowerCase()}`
-                );
+            const weaponIcons = Object.entries(iconsObj).find(
+                ([, value]) =>
+                    value.icon_path.includes(name) &&
+                    value.icon_path.includes(type) &&
+                    (name.includes("newcs2")
+                        ? true
+                        : !value.icon_path.includes("newcs2"))
+            );
+
+            if (!weaponIcons) {
+                console.warn(`Could not find weapon icon for: ${key}`);
+                return;
+            }
+
+            const paintKit = paintKits[name.toLowerCase()];
+            if (!paintKit) {
+                console.warn(`Missing paint kit for: ${name}`);
+                return;
             }
 
             return {
-                id,
-                name: itemName,
+                id: `skin-${weaponIcons[0]}`,
+                name: {
+                    ...(isNotWeapon(type) && { tKey: "rare_special" }),
+                    weapon: translatedName?.replace("#", "") ?? "Unknown",
+                    pattern: paintKit.description_tag.replace("#", ""),
+                },
                 rarity,
-                paint_index,
-                phase,
-                image,
+                paint_index: paintKit.paint_index,
+                phase: getDopplerPhase(paintKit.paint_index),
+                image: getImageUrl(`${weaponIcons[1].icon_path.toLowerCase()}`),
             };
+        }
     }
 };
 
