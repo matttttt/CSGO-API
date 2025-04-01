@@ -11,7 +11,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Civil Protection Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_04_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_04_png.png"
   },
   {
     "id": "collectible-4683",
@@ -25,7 +25,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Sustenance! Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_07_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_07_png.png"
   },
   {
     "id": "collectible-4684",
@@ -39,7 +39,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Vortigaunt Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_09_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_09_png.png"
   },
   {
     "id": "collectible-4685",
@@ -53,7 +53,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Headcrab Glyph Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_05_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_05_png.png"
   },
   {
     "id": "collectible-4686",
@@ -67,7 +67,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Health Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_12_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_12_png.png"
   },
   {
     "id": "collectible-4687",
@@ -81,7 +81,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Lambda Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_01_png.png"
   },
   {
     "id": "collectible-4688",
@@ -95,7 +95,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Copper Lambda Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_02_png.png"
   },
   {
     "id": "collectible-4689",
@@ -109,7 +109,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "CMB Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_03_png.png"
   },
   {
     "id": "collectible-4690",
@@ -123,7 +123,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Black Mesa Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_06_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_06_png.png"
   },
   {
     "id": "collectible-4691",
@@ -137,7 +137,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Combine Helmet Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_08_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_08_png.png"
   },
   {
     "id": "collectible-4692",
@@ -151,7 +151,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "City 17 Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_11_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_11_png.png"
   },
   {
     "id": "collectible-6001",
@@ -165,7 +165,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_dust2_png.png"
   },
   {
     "id": "collectible-6002",
@@ -179,7 +179,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_guardianelite_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_guardianelite_png.png"
   },
   {
     "id": "collectible-6003",
@@ -193,7 +193,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_mirage_png.png"
   },
   {
     "id": "collectible-6004",
@@ -207,7 +207,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_inferno_png.png"
   },
   {
     "id": "collectible-6005",
@@ -221,7 +221,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_italy_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_italy_png.png"
   },
   {
     "id": "collectible-6006",
@@ -235,7 +235,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_victory_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_victory_png.png"
   },
   {
     "id": "collectible-6007",
@@ -249,7 +249,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_militia_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_militia_png.png"
   },
   {
     "id": "collectible-6008",
@@ -263,7 +263,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_nuke_png.png"
   },
   {
     "id": "collectible-6009",
@@ -277,7 +277,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_train_png.png"
   },
   {
     "id": "collectible-6010",
@@ -291,7 +291,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_guardian_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_guardian_png.png"
   },
   {
     "id": "collectible-6011",
@@ -305,7 +305,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_tactics_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_tactics_png.png"
   },
   {
     "id": "collectible-6012",
@@ -319,7 +319,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_guardian_2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_guardian_2_png.png"
   },
   {
     "id": "collectible-6013",
@@ -333,7 +333,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_bravo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_bravo_png.png"
   },
   {
     "id": "collectible-6014",
@@ -347,7 +347,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_baggage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_baggage_png.png"
   },
   {
     "id": "collectible-6015",
@@ -361,7 +361,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_phoenix_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_phoenix_png.png"
   },
   {
     "id": "collectible-6016",
@@ -375,7 +375,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_office_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_office_png.png"
   },
   {
     "id": "collectible-6017",
@@ -389,7 +389,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_cobblestone_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_cobblestone_png.png"
   },
   {
     "id": "collectible-6018",
@@ -403,7 +403,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_overpass_png.png"
   },
   {
     "id": "collectible-6019",
@@ -417,7 +417,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_bloodhound_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_bloodhound_png.png"
   },
   {
     "id": "collectible-6020",
@@ -431,7 +431,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_cache_png.png"
   },
   {
     "id": "collectible-6021",
@@ -445,7 +445,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_valeria_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_valeria_png.png"
   },
   {
     "id": "collectible-6022",
@@ -459,7 +459,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_chroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_chroma_png.png"
   },
   {
     "id": "collectible-6023",
@@ -473,7 +473,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_guardian_3_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_guardian_3_png.png"
   },
   {
     "id": "collectible-6024",
@@ -487,7 +487,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_canals_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_canals_png.png"
   },
   {
     "id": "collectible-6025",
@@ -501,7 +501,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_welcome_to_the_clutch_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_welcome_to_the_clutch_png.png"
   },
   {
     "id": "collectible-6026",
@@ -515,7 +515,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_death_sentence_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_death_sentence_png.png"
   },
   {
     "id": "collectible-6027",
@@ -529,7 +529,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_inferno_2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_inferno_2_png.png"
   },
   {
     "id": "collectible-6028",
@@ -543,7 +543,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_wildfire_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_wildfire_png.png"
   },
   {
     "id": "collectible-6029",
@@ -557,7 +557,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_easy_peasy_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_easy_peasy_png.png"
   },
   {
     "id": "collectible-6030",
@@ -571,7 +571,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_aces_high_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_aces_high_png.png"
   },
   {
     "id": "collectible-6031",
@@ -585,7 +585,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_hydra_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_hydra_png.png"
   },
   {
     "id": "collectible-6032",
@@ -599,7 +599,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_howl_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_howl_png.png"
   },
   {
     "id": "collectible-6033",
@@ -613,7 +613,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_brigadier_general_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_brigadier_general_png.png"
   },
   {
     "id": "collectible-6034",
@@ -627,7 +627,7 @@
     "type": "Pin",
     "genuine": true,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_10_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_10_png.png"
   },
   {
     "id": "collectible-6101",
@@ -641,7 +641,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Dust II Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_dust2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_dust2_png.png"
   },
   {
     "id": "collectible-6102",
@@ -655,7 +655,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Guardian Elite Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_guardianelite_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_guardianelite_png.png"
   },
   {
     "id": "collectible-6103",
@@ -669,7 +669,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Mirage Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_mirage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_mirage_png.png"
   },
   {
     "id": "collectible-6104",
@@ -683,7 +683,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Inferno Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_inferno_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_inferno_png.png"
   },
   {
     "id": "collectible-6105",
@@ -697,7 +697,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Italy Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_italy_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_italy_png.png"
   },
   {
     "id": "collectible-6106",
@@ -711,7 +711,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Victory Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_victory_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_victory_png.png"
   },
   {
     "id": "collectible-6107",
@@ -725,7 +725,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Militia Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_militia_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_militia_png.png"
   },
   {
     "id": "collectible-6108",
@@ -739,7 +739,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Nuke Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_nuke_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_nuke_png.png"
   },
   {
     "id": "collectible-6109",
@@ -753,7 +753,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Train Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_train_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_train_png.png"
   },
   {
     "id": "collectible-6110",
@@ -767,7 +767,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Guardian Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_guardian_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_guardian_png.png"
   },
   {
     "id": "collectible-6111",
@@ -781,7 +781,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Tactics Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_tactics_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_tactics_png.png"
   },
   {
     "id": "collectible-6112",
@@ -795,7 +795,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Guardian 2 Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_guardian_2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_guardian_2_png.png"
   },
   {
     "id": "collectible-6113",
@@ -809,7 +809,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Bravo Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_bravo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_bravo_png.png"
   },
   {
     "id": "collectible-6114",
@@ -823,7 +823,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Baggage Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_baggage_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_baggage_png.png"
   },
   {
     "id": "collectible-6115",
@@ -837,7 +837,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Phoenix Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_phoenix_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_phoenix_png.png"
   },
   {
     "id": "collectible-6116",
@@ -851,7 +851,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Office Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_office_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_office_png.png"
   },
   {
     "id": "collectible-6117",
@@ -865,7 +865,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Cobblestone Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_cobblestone_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_cobblestone_png.png"
   },
   {
     "id": "collectible-6118",
@@ -879,7 +879,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Overpass Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_overpass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_overpass_png.png"
   },
   {
     "id": "collectible-6119",
@@ -893,7 +893,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Bloodhound Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_bloodhound_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_bloodhound_png.png"
   },
   {
     "id": "collectible-6120",
@@ -907,7 +907,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Cache Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_cache_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_cache_png.png"
   },
   {
     "id": "collectible-6121",
@@ -921,7 +921,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Valeria Phoenix Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_valeria_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_valeria_png.png"
   },
   {
     "id": "collectible-6122",
@@ -935,7 +935,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Chroma Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_chroma_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_chroma_png.png"
   },
   {
     "id": "collectible-6123",
@@ -949,7 +949,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Guardian 3 Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_guardian_3_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_guardian_3_png.png"
   },
   {
     "id": "collectible-6124",
@@ -963,7 +963,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Canals Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_canals_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_canals_png.png"
   },
   {
     "id": "collectible-6125",
@@ -977,7 +977,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Welcome to the Clutch Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_welcome_to_the_clutch_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_welcome_to_the_clutch_png.png"
   },
   {
     "id": "collectible-6126",
@@ -991,7 +991,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Death Sentence Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_death_sentence_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_death_sentence_png.png"
   },
   {
     "id": "collectible-6127",
@@ -1005,7 +1005,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Inferno 2 Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_inferno_2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_inferno_2_png.png"
   },
   {
     "id": "collectible-6128",
@@ -1019,7 +1019,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Wildfire Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_wildfire_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_wildfire_png.png"
   },
   {
     "id": "collectible-6129",
@@ -1033,7 +1033,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Easy Peasy Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_easy_peasy_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_easy_peasy_png.png"
   },
   {
     "id": "collectible-6130",
@@ -1047,7 +1047,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Aces High Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_aces_high_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_aces_high_png.png"
   },
   {
     "id": "collectible-6131",
@@ -1061,7 +1061,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Hydra Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_hydra_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_hydra_png.png"
   },
   {
     "id": "collectible-6132",
@@ -1075,7 +1075,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Howl Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_howl_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_howl_png.png"
   },
   {
     "id": "collectible-6133",
@@ -1089,7 +1089,7 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Brigadier General Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_brigadier_general_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_brigadier_general_png.png"
   },
   {
     "id": "collectible-6134",
@@ -1103,6 +1103,6 @@
     "type": "Pin",
     "genuine": false,
     "market_hash_name": "Alyx Pin",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/collectible_pin_alyx_10_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/collectible_pin_alyx_10_png.png"
   }
 ]

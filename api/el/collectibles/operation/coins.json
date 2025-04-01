@@ -11,7 +11,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/community_support_pass_coin1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/community_support_pass_coin1_png.png"
   },
   {
     "id": "collectible-1002",
@@ -25,7 +25,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/community_support_pass_coin2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/community_support_pass_coin2_png.png"
   },
   {
     "id": "collectible-1003",
@@ -39,7 +39,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/community_support_pass_coin3_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/community_support_pass_coin3_png.png"
   },
   {
     "id": "collectible-1013",
@@ -53,7 +53,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_bravo_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_bravo_bronze_png.png"
   },
   {
     "id": "collectible-1014",
@@ -67,7 +67,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_bravo_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_bravo_silver_png.png"
   },
   {
     "id": "collectible-1015",
@@ -81,7 +81,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_bravo_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_bravo_gold_png.png"
   },
   {
     "id": "collectible-1024",
@@ -95,7 +95,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_phoenix_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_phoenix_bronze_png.png"
   },
   {
     "id": "collectible-1025",
@@ -109,7 +109,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_phoenix_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_phoenix_silver_png.png"
   },
   {
     "id": "collectible-1026",
@@ -123,7 +123,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_phoenix_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_phoenix_gold_png.png"
   },
   {
     "id": "collectible-1028",
@@ -137,7 +137,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_breakout_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_breakout_bronze_png.png"
   },
   {
     "id": "collectible-1029",
@@ -151,7 +151,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_breakout_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_breakout_silver_png.png"
   },
   {
     "id": "collectible-1030",
@@ -165,7 +165,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_breakout_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_breakout_gold_png.png"
   },
   {
     "id": "collectible-1316",
@@ -179,7 +179,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_vanguard_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_vanguard_bronze_png.png"
   },
   {
     "id": "collectible-1317",
@@ -193,7 +193,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_vanguard_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_vanguard_silver_png.png"
   },
   {
     "id": "collectible-1318",
@@ -207,7 +207,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_vanguard_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_vanguard_gold_png.png"
   },
   {
     "id": "collectible-1327",
@@ -221,7 +221,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_6_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_6_bronze_png.png"
   },
   {
     "id": "collectible-1328",
@@ -235,7 +235,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_6_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_6_silver_png.png"
   },
   {
     "id": "collectible-1329",
@@ -249,7 +249,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_6_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_6_gold_png.png"
   },
   {
     "id": "collectible-1336",
@@ -263,7 +263,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_7_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_7_bronze_png.png"
   },
   {
     "id": "collectible-1337",
@@ -277,7 +277,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_7_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_7_silver_png.png"
   },
   {
     "id": "collectible-1338",
@@ -291,7 +291,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_7_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_7_gold_png.png"
   },
   {
     "id": "collectible-4353",
@@ -305,7 +305,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_8_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_8_bronze_png.png"
   },
   {
     "id": "collectible-4354",
@@ -319,7 +319,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_8_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_8_silver_png.png"
   },
   {
     "id": "collectible-4355",
@@ -333,7 +333,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_8_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_8_gold_png.png"
   },
   {
     "id": "collectible-4356",
@@ -347,7 +347,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_8_platinum_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_8_platinum_png.png"
   },
   {
     "id": "collectible-4550",
@@ -361,7 +361,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_9_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_9_bronze_png.png"
   },
   {
     "id": "collectible-4551",
@@ -375,7 +375,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_9_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_9_silver_png.png"
   },
   {
     "id": "collectible-4552",
@@ -389,7 +389,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_9_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_9_gold_png.png"
   },
   {
     "id": "collectible-4553",
@@ -403,7 +403,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_9_platinum_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_9_platinum_png.png"
   },
   {
     "id": "collectible-4700",
@@ -417,7 +417,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_10_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_10_bronze_png.png"
   },
   {
     "id": "collectible-4701",
@@ -431,7 +431,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_10_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_10_silver_png.png"
   },
   {
     "id": "collectible-4702",
@@ -445,7 +445,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_10_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_10_gold_png.png"
   },
   {
     "id": "collectible-4703",
@@ -459,7 +459,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_10_platinum_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_10_platinum_png.png"
   },
   {
     "id": "collectible-4759",
@@ -473,7 +473,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_11_bronze_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_11_bronze_png.png"
   },
   {
     "id": "collectible-4760",
@@ -487,7 +487,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_11_silver_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_11_silver_png.png"
   },
   {
     "id": "collectible-4761",
@@ -501,7 +501,7 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_11_gold_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_11_gold_png.png"
   },
   {
     "id": "collectible-4762",
@@ -515,6 +515,6 @@
     "type": "Operation Coin",
     "genuine": false,
     "market_hash_name": null,
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_11_platinum_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_11_platinum_png.png"
   }
 ]

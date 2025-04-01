@@ -9,7 +9,8 @@
     "contains_rare": [],
     "market_hash_name": "Gift Package",
     "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/gift1player_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift1player_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1211",
@@ -21,7 +22,8 @@
     "contains_rare": [],
     "market_hash_name": "Pallet of Presents",
     "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/gift9players_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift9players_png.png",
+    "model_player": null
   },
   {
     "id": "crate-1215",
@@ -33,7 +35,8 @@
     "contains_rare": [],
     "market_hash_name": "Audience Participation Parcel",
     "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/gift25spectators_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/gift25spectators_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4668",
@@ -51,13 +54,14 @@
           "color": "#8847ff"
         },
         "paint_index": "125",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_cu_xray_p250_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_cu_xray_p250_light_png.png"
       }
     ],
     "contains_rare": [],
     "market_hash_name": "X-Ray P250 Package",
     "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_xray_p250_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_xray_p250_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4871",
@@ -74,7 +78,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_snappi_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_snappi_png.png"
       },
       {
         "id": "sticker-6090",
@@ -84,7 +88,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dycha_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dycha_png.png"
       },
       {
         "id": "sticker-6094",
@@ -94,7 +98,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_maden_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_maden_png.png"
       },
       {
         "id": "sticker-6098",
@@ -104,7 +108,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_v4lde_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_v4lde_png.png"
       },
       {
         "id": "sticker-6102",
@@ -114,7 +118,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sunpayus_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sunpayus_png.png"
       },
       {
         "id": "sticker-6106",
@@ -124,7 +128,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_karrigan_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_karrigan_png.png"
       },
       {
         "id": "sticker-6110",
@@ -134,7 +138,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rain_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rain_png.png"
       },
       {
         "id": "sticker-6114",
@@ -144,7 +148,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_twistzz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_twistzz_png.png"
       },
       {
         "id": "sticker-6118",
@@ -154,7 +158,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ropz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ropz_png.png"
       },
       {
         "id": "sticker-6122",
@@ -164,7 +168,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_broky_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_broky_png.png"
       },
       {
         "id": "sticker-6126",
@@ -174,7 +178,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_cadian_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_cadian_png.png"
       },
       {
         "id": "sticker-6130",
@@ -184,7 +188,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_teses_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_teses_png.png"
       },
       {
         "id": "sticker-6134",
@@ -194,7 +198,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sjuush_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sjuush_png.png"
       },
       {
         "id": "sticker-6138",
@@ -204,7 +208,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jabbi_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jabbi_png.png"
       },
       {
         "id": "sticker-6142",
@@ -214,7 +218,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_stavn_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_stavn_png.png"
       },
       {
         "id": "sticker-6146",
@@ -224,7 +228,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_b1t_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_b1t_png.png"
       },
       {
         "id": "sticker-6150",
@@ -234,7 +238,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_electronic_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_electronic_png.png"
       },
       {
         "id": "sticker-6154",
@@ -244,7 +248,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sdy_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sdy_png.png"
       },
       {
         "id": "sticker-6158",
@@ -254,7 +258,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_perfecto_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_perfecto_png.png"
       },
       {
         "id": "sticker-6162",
@@ -264,7 +268,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_s1mple_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_s1mple_png.png"
       },
       {
         "id": "sticker-6166",
@@ -274,7 +278,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_es3tag_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_es3tag_png.png"
       },
       {
         "id": "sticker-6170",
@@ -284,7 +288,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_aleksib_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_aleksib_png.png"
       },
       {
         "id": "sticker-6174",
@@ -294,7 +298,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rez_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rez_png.png"
       },
       {
         "id": "sticker-6178",
@@ -304,7 +308,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hampus_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hampus_png.png"
       },
       {
         "id": "sticker-6182",
@@ -314,7 +318,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_brollan_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_brollan_png.png"
       },
       {
         "id": "sticker-6186",
@@ -324,7 +328,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_slaxz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_slaxz_png.png"
       },
       {
         "id": "sticker-6190",
@@ -334,7 +338,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_launx_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_launx_png.png"
       },
       {
         "id": "sticker-6194",
@@ -344,7 +348,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_refrezh_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_refrezh_png.png"
       },
       {
         "id": "sticker-6198",
@@ -354,7 +358,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_staehr_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_staehr_png.png"
       },
       {
         "id": "sticker-6202",
@@ -364,7 +368,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_zyphon_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_zyphon_png.png"
       },
       {
         "id": "sticker-6206",
@@ -374,7 +378,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_yekindar_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_yekindar_png.png"
       },
       {
         "id": "sticker-6210",
@@ -384,7 +388,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_osee_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_osee_png.png"
       },
       {
         "id": "sticker-6214",
@@ -394,7 +398,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nitro_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nitro_png.png"
       },
       {
         "id": "sticker-6218",
@@ -404,7 +408,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_naf_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_naf_png.png"
       },
       {
         "id": "sticker-6222",
@@ -414,7 +418,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_elige_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_elige_png.png"
       },
       {
         "id": "sticker-6226",
@@ -424,7 +428,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_chopper_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_chopper_png.png"
       },
       {
         "id": "sticker-6230",
@@ -434,7 +438,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_magixx_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_magixx_png.png"
       },
       {
         "id": "sticker-6234",
@@ -444,7 +448,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_patsi_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_patsi_png.png"
       },
       {
         "id": "sticker-6238",
@@ -454,7 +458,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_s1ren_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_s1ren_png.png"
       },
       {
         "id": "sticker-6242",
@@ -464,7 +468,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_w0nderful_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_w0nderful_png.png"
       },
       {
         "id": "sticker-6246",
@@ -474,7 +478,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nqz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nqz_png.png"
       },
       {
         "id": "sticker-6250",
@@ -484,7 +488,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dav1deus_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dav1deus_png.png"
       },
       {
         "id": "sticker-6254",
@@ -494,7 +498,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_max_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_max_png.png"
       },
       {
         "id": "sticker-6258",
@@ -504,7 +508,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dgt_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dgt_png.png"
       },
       {
         "id": "sticker-6262",
@@ -514,7 +518,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_buda_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_buda_png.png"
       },
       {
         "id": "sticker-6266",
@@ -524,7 +528,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_gxx_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_gxx_png.png"
       },
       {
         "id": "sticker-6270",
@@ -534,7 +538,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sener1_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sener1_png.png"
       },
       {
         "id": "sticker-6274",
@@ -544,7 +548,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_juanflatroo_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_juanflatroo_png.png"
       },
       {
         "id": "sticker-6278",
@@ -554,7 +558,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rigon_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rigon_png.png"
       },
       {
         "id": "sticker-6282",
@@ -564,7 +568,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sinnopsyy_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sinnopsyy_png.png"
       },
       {
         "id": "sticker-6286",
@@ -574,7 +578,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_faven_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_faven_png.png"
       },
       {
         "id": "sticker-6290",
@@ -584,7 +588,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_krimbo_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_krimbo_png.png"
       },
       {
         "id": "sticker-6294",
@@ -594,7 +598,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_k1to_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_k1to_png.png"
       },
       {
         "id": "sticker-6298",
@@ -604,7 +608,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_tabsen_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_tabsen_png.png"
       },
       {
         "id": "sticker-6302",
@@ -614,7 +618,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_syrson_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_syrson_png.png"
       },
       {
         "id": "sticker-6306",
@@ -624,7 +628,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sh1ro_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sh1ro_png.png"
       },
       {
         "id": "sticker-6310",
@@ -634,7 +638,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nafany_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nafany_png.png"
       },
       {
         "id": "sticker-6314",
@@ -644,7 +648,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ax1le_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ax1le_png.png"
       },
       {
         "id": "sticker-6318",
@@ -654,7 +658,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_interz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_interz_png.png"
       },
       {
         "id": "sticker-6322",
@@ -664,7 +668,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hobbit_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hobbit_png.png"
       },
       {
         "id": "sticker-6326",
@@ -674,7 +678,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_autimatic_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_autimatic_png.png"
       },
       {
         "id": "sticker-6330",
@@ -684,7 +688,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nealan_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nealan_png.png"
       },
       {
         "id": "sticker-6334",
@@ -694,7 +698,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_brehze_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_brehze_png.png"
       },
       {
         "id": "sticker-6338",
@@ -704,7 +708,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hext_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hext_png.png"
       },
       {
         "id": "sticker-6342",
@@ -714,7 +718,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_cerq_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_cerq_png.png"
       },
       {
         "id": "sticker-6346",
@@ -724,7 +728,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_frozen_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_frozen_png.png"
       },
       {
         "id": "sticker-6350",
@@ -734,7 +738,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dexter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dexter_png.png"
       },
       {
         "id": "sticker-6354",
@@ -744,7 +748,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jdc_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jdc_png.png"
       },
       {
         "id": "sticker-6358",
@@ -754,7 +758,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_torzsi_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_torzsi_png.png"
       },
       {
         "id": "sticker-6362",
@@ -764,7 +768,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_xertion_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_xertion_png.png"
       },
       {
         "id": "sticker-6366",
@@ -774,7 +778,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nexa_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nexa_png.png"
       },
       {
         "id": "sticker-6370",
@@ -784,7 +788,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_neofrag_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_neofrag_png.png"
       },
       {
         "id": "sticker-6374",
@@ -794,7 +798,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_flamez_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_flamez_png.png"
       },
       {
         "id": "sticker-6378",
@@ -804,7 +808,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_degster_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_degster_png.png"
       },
       {
         "id": "sticker-6382",
@@ -814,7 +818,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_f1ku_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_f1ku_png.png"
       },
       {
         "id": "sticker-6386",
@@ -824,7 +828,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dupreeh_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dupreeh_png.png"
       },
       {
         "id": "sticker-6390",
@@ -834,7 +838,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_magisk_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_magisk_png.png"
       },
       {
         "id": "sticker-6394",
@@ -844,7 +848,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_apex_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_apex_png.png"
       },
       {
         "id": "sticker-6398",
@@ -854,7 +858,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_spinx_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_spinx_png.png"
       },
       {
         "id": "sticker-6402",
@@ -864,7 +868,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_zywoo_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_zywoo_png.png"
       },
       {
         "id": "sticker-6406",
@@ -874,7 +878,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_taco_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_taco_png.png"
       },
       {
         "id": "sticker-6410",
@@ -884,7 +888,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_coldzera_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_coldzera_png.png"
       },
       {
         "id": "sticker-6414",
@@ -894,7 +898,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_try_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_try_png.png"
       },
       {
         "id": "sticker-6418",
@@ -904,7 +908,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_latto_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_latto_png.png"
       },
       {
         "id": "sticker-6422",
@@ -914,7 +918,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dumau_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dumau_png.png"
       },
       {
         "id": "sticker-6426",
@@ -924,7 +928,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_krimz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_krimz_png.png"
       },
       {
         "id": "sticker-6430",
@@ -934,7 +938,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_mezii_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_mezii_png.png"
       },
       {
         "id": "sticker-6434",
@@ -944,7 +948,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fashr_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fashr_png.png"
       },
       {
         "id": "sticker-6438",
@@ -954,7 +958,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_roej_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_roej_png.png"
       },
       {
         "id": "sticker-6442",
@@ -964,7 +968,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nicoodoz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nicoodoz_png.png"
       },
       {
         "id": "sticker-6446",
@@ -974,7 +978,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_kscerato_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_kscerato_png.png"
       },
       {
         "id": "sticker-6450",
@@ -984,7 +988,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_yuurih_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_yuurih_png.png"
       },
       {
         "id": "sticker-6454",
@@ -994,7 +998,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_drop_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_drop_png.png"
       },
       {
         "id": "sticker-6458",
@@ -1004,7 +1008,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_saffee_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_saffee_png.png"
       },
       {
         "id": "sticker-6462",
@@ -1014,7 +1018,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_art_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_art_png.png"
       },
       {
         "id": "sticker-6466",
@@ -1024,7 +1028,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_acor_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_acor_png.png"
       },
       {
         "id": "sticker-6470",
@@ -1034,7 +1038,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_im_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_im_png.png"
       },
       {
         "id": "sticker-6474",
@@ -1044,7 +1048,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_siuhy_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_siuhy_png.png"
       },
       {
         "id": "sticker-6478",
@@ -1054,7 +1058,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_keoz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_keoz_png.png"
       },
       {
         "id": "sticker-6482",
@@ -1064,7 +1068,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_isak_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_isak_png.png"
       },
       {
         "id": "sticker-6486",
@@ -1074,7 +1078,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ins_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ins_png.png"
       },
       {
         "id": "sticker-6490",
@@ -1084,7 +1088,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_vexite_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_vexite_png.png"
       },
       {
         "id": "sticker-6494",
@@ -1094,7 +1098,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sico_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sico_png.png"
       },
       {
         "id": "sticker-6498",
@@ -1104,7 +1108,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_liazz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_liazz_png.png"
       },
       {
         "id": "sticker-6502",
@@ -1114,7 +1118,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_alistair_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_alistair_png.png"
       },
       {
         "id": "sticker-6506",
@@ -1124,7 +1128,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sk0r_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sk0r_png.png"
       },
       {
         "id": "sticker-6510",
@@ -1134,7 +1138,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_techno4k_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_techno4k_png.png"
       },
       {
         "id": "sticker-6514",
@@ -1144,7 +1148,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_kabal_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_kabal_png.png"
       },
       {
         "id": "sticker-6518",
@@ -1154,7 +1158,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_blitz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_blitz_png.png"
       },
       {
         "id": "sticker-6522",
@@ -1164,7 +1168,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_annihilation_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_annihilation_png.png"
       },
       {
         "id": "sticker-6526",
@@ -1174,7 +1178,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fallen_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fallen_png.png"
       },
       {
         "id": "sticker-6530",
@@ -1184,7 +1188,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fer_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fer_png.png"
       },
       {
         "id": "sticker-6534",
@@ -1194,7 +1198,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_boltz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_boltz_png.png"
       },
       {
         "id": "sticker-6538",
@@ -1204,7 +1208,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_vini_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_vini_png.png"
       },
       {
         "id": "sticker-6542",
@@ -1214,7 +1218,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_chelo_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_chelo_png.png"
       },
       {
         "id": "sticker-6546",
@@ -1224,7 +1228,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fl1t_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fl1t_png.png"
       },
       {
         "id": "sticker-6550",
@@ -1234,7 +1238,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_n0rb3r7_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_n0rb3r7_png.png"
       },
       {
         "id": "sticker-6554",
@@ -1244,7 +1248,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jame_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jame_png.png"
       },
       {
         "id": "sticker-6558",
@@ -1254,7 +1258,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_qikert_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_qikert_png.png"
       },
       {
         "id": "sticker-6562",
@@ -1264,7 +1268,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fame_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fame_png.png"
       },
       {
         "id": "sticker-5961",
@@ -1274,7 +1278,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/ence_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ence_png.png"
       },
       {
         "id": "sticker-5965",
@@ -1284,7 +1288,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/faze_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/faze_png.png"
       },
       {
         "id": "sticker-5969",
@@ -1294,7 +1298,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/hero_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/hero_png.png"
       },
       {
         "id": "sticker-5973",
@@ -1304,7 +1308,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/navi_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/navi_png.png"
       },
       {
         "id": "sticker-5977",
@@ -1314,7 +1318,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/nip_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nip_png.png"
       },
       {
         "id": "sticker-5981",
@@ -1324,7 +1328,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/spr_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spr_png.png"
       },
       {
         "id": "sticker-5985",
@@ -1334,7 +1338,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/liq_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/liq_png.png"
       },
       {
         "id": "sticker-5989",
@@ -1344,7 +1348,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/spir_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spir_png.png"
       },
       {
         "id": "sticker-5993",
@@ -1354,7 +1358,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/nine_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nine_png.png"
       },
       {
         "id": "sticker-5997",
@@ -1364,7 +1368,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/bne_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/bne_png.png"
       },
       {
         "id": "sticker-6001",
@@ -1374,7 +1378,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/big_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/big_png.png"
       },
       {
         "id": "sticker-6005",
@@ -1384,7 +1388,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/c9_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/c9_png.png"
       },
       {
         "id": "sticker-6009",
@@ -1394,7 +1398,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/evl_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/evl_png.png"
       },
       {
         "id": "sticker-6013",
@@ -1404,7 +1408,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/mouz_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/mouz_png.png"
       },
       {
         "id": "sticker-6017",
@@ -1414,7 +1418,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/og_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/og_png.png"
       },
       {
         "id": "sticker-6021",
@@ -1424,7 +1428,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/vita_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/vita_png.png"
       },
       {
         "id": "sticker-6025",
@@ -1434,7 +1438,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/zzn_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/zzn_png.png"
       },
       {
         "id": "sticker-6029",
@@ -1444,7 +1448,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/fntc_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/fntc_png.png"
       },
       {
         "id": "sticker-6033",
@@ -1454,7 +1458,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/furi_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/furi_png.png"
       },
       {
         "id": "sticker-6037",
@@ -1464,7 +1468,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/gl_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gl_png.png"
       },
       {
         "id": "sticker-6041",
@@ -1474,7 +1478,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/gray_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gray_png.png"
       },
       {
         "id": "sticker-6045",
@@ -1484,7 +1488,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/ihc_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ihc_png.png"
       },
       {
         "id": "sticker-6049",
@@ -1494,7 +1498,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/imp_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/imp_png.png"
       },
       {
         "id": "sticker-6053",
@@ -1504,7 +1508,7 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/out_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/out_png.png"
       },
       {
         "id": "sticker-6057",
@@ -1514,13 +1518,14 @@
           "name": "Висок клас",
           "color": "#4b69ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/iem_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/iem_png.png"
       }
     ],
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Paper Stickers",
     "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/tools/casket_rio2022_0_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_0_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4872",
@@ -1537,7 +1542,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_snappi_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_snappi_glitter_png.png"
       },
       {
         "id": "sticker-6091",
@@ -1547,7 +1552,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dycha_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dycha_glitter_png.png"
       },
       {
         "id": "sticker-6095",
@@ -1557,7 +1562,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_maden_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_maden_glitter_png.png"
       },
       {
         "id": "sticker-6099",
@@ -1567,7 +1572,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_v4lde_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_v4lde_glitter_png.png"
       },
       {
         "id": "sticker-6103",
@@ -1577,7 +1582,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sunpayus_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sunpayus_glitter_png.png"
       },
       {
         "id": "sticker-6107",
@@ -1587,7 +1592,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_karrigan_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_karrigan_glitter_png.png"
       },
       {
         "id": "sticker-6111",
@@ -1597,7 +1602,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rain_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rain_glitter_png.png"
       },
       {
         "id": "sticker-6115",
@@ -1607,7 +1612,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_twistzz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_twistzz_glitter_png.png"
       },
       {
         "id": "sticker-6119",
@@ -1617,7 +1622,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ropz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ropz_glitter_png.png"
       },
       {
         "id": "sticker-6123",
@@ -1627,7 +1632,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_broky_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_broky_glitter_png.png"
       },
       {
         "id": "sticker-6127",
@@ -1637,7 +1642,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_cadian_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_cadian_glitter_png.png"
       },
       {
         "id": "sticker-6131",
@@ -1647,7 +1652,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_teses_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_teses_glitter_png.png"
       },
       {
         "id": "sticker-6135",
@@ -1657,7 +1662,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sjuush_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sjuush_glitter_png.png"
       },
       {
         "id": "sticker-6139",
@@ -1667,7 +1672,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jabbi_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jabbi_glitter_png.png"
       },
       {
         "id": "sticker-6143",
@@ -1677,7 +1682,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_stavn_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_stavn_glitter_png.png"
       },
       {
         "id": "sticker-6147",
@@ -1687,7 +1692,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_b1t_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_b1t_glitter_png.png"
       },
       {
         "id": "sticker-6151",
@@ -1697,7 +1702,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_electronic_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_electronic_glitter_png.png"
       },
       {
         "id": "sticker-6155",
@@ -1707,7 +1712,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sdy_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sdy_glitter_png.png"
       },
       {
         "id": "sticker-6159",
@@ -1717,7 +1722,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_perfecto_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_perfecto_glitter_png.png"
       },
       {
         "id": "sticker-6163",
@@ -1727,7 +1732,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_s1mple_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_s1mple_glitter_png.png"
       },
       {
         "id": "sticker-6167",
@@ -1737,7 +1742,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_es3tag_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_es3tag_glitter_png.png"
       },
       {
         "id": "sticker-6171",
@@ -1747,7 +1752,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_aleksib_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_aleksib_glitter_png.png"
       },
       {
         "id": "sticker-6175",
@@ -1757,7 +1762,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rez_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rez_glitter_png.png"
       },
       {
         "id": "sticker-6179",
@@ -1767,7 +1772,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hampus_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hampus_glitter_png.png"
       },
       {
         "id": "sticker-6183",
@@ -1777,7 +1782,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_brollan_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_brollan_glitter_png.png"
       },
       {
         "id": "sticker-6187",
@@ -1787,7 +1792,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_slaxz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_slaxz_glitter_png.png"
       },
       {
         "id": "sticker-6191",
@@ -1797,7 +1802,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_launx_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_launx_glitter_png.png"
       },
       {
         "id": "sticker-6195",
@@ -1807,7 +1812,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_refrezh_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_refrezh_glitter_png.png"
       },
       {
         "id": "sticker-6199",
@@ -1817,7 +1822,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_staehr_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_staehr_glitter_png.png"
       },
       {
         "id": "sticker-6203",
@@ -1827,7 +1832,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_zyphon_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_zyphon_glitter_png.png"
       },
       {
         "id": "sticker-6207",
@@ -1837,7 +1842,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_yekindar_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_yekindar_glitter_png.png"
       },
       {
         "id": "sticker-6211",
@@ -1847,7 +1852,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_osee_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_osee_glitter_png.png"
       },
       {
         "id": "sticker-6215",
@@ -1857,7 +1862,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nitro_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nitro_glitter_png.png"
       },
       {
         "id": "sticker-6219",
@@ -1867,7 +1872,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_naf_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_naf_glitter_png.png"
       },
       {
         "id": "sticker-6223",
@@ -1877,7 +1882,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_elige_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_elige_glitter_png.png"
       },
       {
         "id": "sticker-6227",
@@ -1887,7 +1892,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_chopper_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_chopper_glitter_png.png"
       },
       {
         "id": "sticker-6231",
@@ -1897,7 +1902,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_magixx_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_magixx_glitter_png.png"
       },
       {
         "id": "sticker-6235",
@@ -1907,7 +1912,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_patsi_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_patsi_glitter_png.png"
       },
       {
         "id": "sticker-6239",
@@ -1917,7 +1922,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_s1ren_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_s1ren_glitter_png.png"
       },
       {
         "id": "sticker-6243",
@@ -1927,7 +1932,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_w0nderful_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_w0nderful_glitter_png.png"
       },
       {
         "id": "sticker-6247",
@@ -1937,7 +1942,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nqz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nqz_glitter_png.png"
       },
       {
         "id": "sticker-6251",
@@ -1947,7 +1952,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dav1deus_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dav1deus_glitter_png.png"
       },
       {
         "id": "sticker-6255",
@@ -1957,7 +1962,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_max_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_max_glitter_png.png"
       },
       {
         "id": "sticker-6259",
@@ -1967,7 +1972,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dgt_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dgt_glitter_png.png"
       },
       {
         "id": "sticker-6263",
@@ -1977,7 +1982,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_buda_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_buda_glitter_png.png"
       },
       {
         "id": "sticker-6267",
@@ -1987,7 +1992,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_gxx_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_gxx_glitter_png.png"
       },
       {
         "id": "sticker-6271",
@@ -1997,7 +2002,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sener1_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sener1_glitter_png.png"
       },
       {
         "id": "sticker-6275",
@@ -2007,7 +2012,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_juanflatroo_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_juanflatroo_glitter_png.png"
       },
       {
         "id": "sticker-6279",
@@ -2017,7 +2022,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_rigon_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_rigon_glitter_png.png"
       },
       {
         "id": "sticker-6283",
@@ -2027,7 +2032,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sinnopsyy_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sinnopsyy_glitter_png.png"
       },
       {
         "id": "sticker-6287",
@@ -2037,7 +2042,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_faven_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_faven_glitter_png.png"
       },
       {
         "id": "sticker-6291",
@@ -2047,7 +2052,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_krimbo_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_krimbo_glitter_png.png"
       },
       {
         "id": "sticker-6295",
@@ -2057,7 +2062,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_k1to_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_k1to_glitter_png.png"
       },
       {
         "id": "sticker-6299",
@@ -2067,7 +2072,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_tabsen_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_tabsen_glitter_png.png"
       },
       {
         "id": "sticker-6303",
@@ -2077,7 +2082,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_syrson_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_syrson_glitter_png.png"
       },
       {
         "id": "sticker-6307",
@@ -2087,7 +2092,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sh1ro_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sh1ro_glitter_png.png"
       },
       {
         "id": "sticker-6311",
@@ -2097,7 +2102,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nafany_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nafany_glitter_png.png"
       },
       {
         "id": "sticker-6315",
@@ -2107,7 +2112,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ax1le_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ax1le_glitter_png.png"
       },
       {
         "id": "sticker-6319",
@@ -2117,7 +2122,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_interz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_interz_glitter_png.png"
       },
       {
         "id": "sticker-6323",
@@ -2127,7 +2132,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hobbit_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hobbit_glitter_png.png"
       },
       {
         "id": "sticker-6327",
@@ -2137,7 +2142,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_autimatic_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_autimatic_glitter_png.png"
       },
       {
         "id": "sticker-6331",
@@ -2147,7 +2152,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nealan_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nealan_glitter_png.png"
       },
       {
         "id": "sticker-6335",
@@ -2157,7 +2162,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_brehze_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_brehze_glitter_png.png"
       },
       {
         "id": "sticker-6339",
@@ -2167,7 +2172,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_hext_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_hext_glitter_png.png"
       },
       {
         "id": "sticker-6343",
@@ -2177,7 +2182,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_cerq_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_cerq_glitter_png.png"
       },
       {
         "id": "sticker-6347",
@@ -2187,7 +2192,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_frozen_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_frozen_glitter_png.png"
       },
       {
         "id": "sticker-6351",
@@ -2197,7 +2202,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dexter_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dexter_glitter_png.png"
       },
       {
         "id": "sticker-6355",
@@ -2207,7 +2212,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jdc_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jdc_glitter_png.png"
       },
       {
         "id": "sticker-6359",
@@ -2217,7 +2222,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_torzsi_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_torzsi_glitter_png.png"
       },
       {
         "id": "sticker-6363",
@@ -2227,7 +2232,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_xertion_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_xertion_glitter_png.png"
       },
       {
         "id": "sticker-6367",
@@ -2237,7 +2242,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nexa_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nexa_glitter_png.png"
       },
       {
         "id": "sticker-6371",
@@ -2247,7 +2252,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_neofrag_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_neofrag_glitter_png.png"
       },
       {
         "id": "sticker-6375",
@@ -2257,7 +2262,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_flamez_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_flamez_glitter_png.png"
       },
       {
         "id": "sticker-6379",
@@ -2267,7 +2272,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_degster_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_degster_glitter_png.png"
       },
       {
         "id": "sticker-6383",
@@ -2277,7 +2282,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_f1ku_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_f1ku_glitter_png.png"
       },
       {
         "id": "sticker-6387",
@@ -2287,7 +2292,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dupreeh_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dupreeh_glitter_png.png"
       },
       {
         "id": "sticker-6391",
@@ -2297,7 +2302,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_magisk_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_magisk_glitter_png.png"
       },
       {
         "id": "sticker-6395",
@@ -2307,7 +2312,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_apex_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_apex_glitter_png.png"
       },
       {
         "id": "sticker-6399",
@@ -2317,7 +2322,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_spinx_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_spinx_glitter_png.png"
       },
       {
         "id": "sticker-6403",
@@ -2327,7 +2332,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_zywoo_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_zywoo_glitter_png.png"
       },
       {
         "id": "sticker-6407",
@@ -2337,7 +2342,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_taco_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_taco_glitter_png.png"
       },
       {
         "id": "sticker-6411",
@@ -2347,7 +2352,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_coldzera_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_coldzera_glitter_png.png"
       },
       {
         "id": "sticker-6415",
@@ -2357,7 +2362,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_try_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_try_glitter_png.png"
       },
       {
         "id": "sticker-6419",
@@ -2367,7 +2372,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_latto_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_latto_glitter_png.png"
       },
       {
         "id": "sticker-6423",
@@ -2377,7 +2382,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_dumau_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_dumau_glitter_png.png"
       },
       {
         "id": "sticker-6427",
@@ -2387,7 +2392,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_krimz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_krimz_glitter_png.png"
       },
       {
         "id": "sticker-6431",
@@ -2397,7 +2402,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_mezii_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_mezii_glitter_png.png"
       },
       {
         "id": "sticker-6435",
@@ -2407,7 +2412,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fashr_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fashr_glitter_png.png"
       },
       {
         "id": "sticker-6439",
@@ -2417,7 +2422,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_roej_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_roej_glitter_png.png"
       },
       {
         "id": "sticker-6443",
@@ -2427,7 +2432,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_nicoodoz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_nicoodoz_glitter_png.png"
       },
       {
         "id": "sticker-6447",
@@ -2437,7 +2442,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_kscerato_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_kscerato_glitter_png.png"
       },
       {
         "id": "sticker-6451",
@@ -2447,7 +2452,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_yuurih_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_yuurih_glitter_png.png"
       },
       {
         "id": "sticker-6455",
@@ -2457,7 +2462,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_drop_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_drop_glitter_png.png"
       },
       {
         "id": "sticker-6459",
@@ -2467,7 +2472,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_saffee_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_saffee_glitter_png.png"
       },
       {
         "id": "sticker-6463",
@@ -2477,7 +2482,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_art_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_art_glitter_png.png"
       },
       {
         "id": "sticker-6467",
@@ -2487,7 +2492,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_acor_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_acor_glitter_png.png"
       },
       {
         "id": "sticker-6471",
@@ -2497,7 +2502,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_im_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_im_glitter_png.png"
       },
       {
         "id": "sticker-6475",
@@ -2507,7 +2512,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_siuhy_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_siuhy_glitter_png.png"
       },
       {
         "id": "sticker-6479",
@@ -2517,7 +2522,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_keoz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_keoz_glitter_png.png"
       },
       {
         "id": "sticker-6483",
@@ -2527,7 +2532,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_isak_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_isak_glitter_png.png"
       },
       {
         "id": "sticker-6487",
@@ -2537,7 +2542,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_ins_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_ins_glitter_png.png"
       },
       {
         "id": "sticker-6491",
@@ -2547,7 +2552,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_vexite_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_vexite_glitter_png.png"
       },
       {
         "id": "sticker-6495",
@@ -2557,7 +2562,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sico_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sico_glitter_png.png"
       },
       {
         "id": "sticker-6499",
@@ -2567,7 +2572,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_liazz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_liazz_glitter_png.png"
       },
       {
         "id": "sticker-6503",
@@ -2577,7 +2582,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_alistair_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_alistair_glitter_png.png"
       },
       {
         "id": "sticker-6507",
@@ -2587,7 +2592,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_sk0r_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_sk0r_glitter_png.png"
       },
       {
         "id": "sticker-6511",
@@ -2597,7 +2602,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_techno4k_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_techno4k_glitter_png.png"
       },
       {
         "id": "sticker-6515",
@@ -2607,7 +2612,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_kabal_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_kabal_glitter_png.png"
       },
       {
         "id": "sticker-6519",
@@ -2617,7 +2622,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_blitz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_blitz_glitter_png.png"
       },
       {
         "id": "sticker-6523",
@@ -2627,7 +2632,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_annihilation_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_annihilation_glitter_png.png"
       },
       {
         "id": "sticker-6527",
@@ -2637,7 +2642,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fallen_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fallen_glitter_png.png"
       },
       {
         "id": "sticker-6531",
@@ -2647,7 +2652,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fer_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fer_glitter_png.png"
       },
       {
         "id": "sticker-6535",
@@ -2657,7 +2662,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_boltz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_boltz_glitter_png.png"
       },
       {
         "id": "sticker-6539",
@@ -2667,7 +2672,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_vini_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_vini_glitter_png.png"
       },
       {
         "id": "sticker-6543",
@@ -2677,7 +2682,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_chelo_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_chelo_glitter_png.png"
       },
       {
         "id": "sticker-6547",
@@ -2687,7 +2692,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fl1t_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fl1t_glitter_png.png"
       },
       {
         "id": "sticker-6551",
@@ -2697,7 +2702,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_n0rb3r7_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_n0rb3r7_glitter_png.png"
       },
       {
         "id": "sticker-6555",
@@ -2707,7 +2712,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_jame_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_jame_glitter_png.png"
       },
       {
         "id": "sticker-6559",
@@ -2717,7 +2722,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_qikert_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_qikert_glitter_png.png"
       },
       {
         "id": "sticker-6563",
@@ -2727,7 +2732,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/sig_fame_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/sig_fame_glitter_png.png"
       },
       {
         "id": "sticker-5962",
@@ -2737,7 +2742,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/ence_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ence_glitter_png.png"
       },
       {
         "id": "sticker-5966",
@@ -2747,7 +2752,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/faze_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/faze_glitter_png.png"
       },
       {
         "id": "sticker-5970",
@@ -2757,7 +2762,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/hero_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/hero_glitter_png.png"
       },
       {
         "id": "sticker-5974",
@@ -2767,7 +2772,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/navi_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/navi_glitter_png.png"
       },
       {
         "id": "sticker-5978",
@@ -2777,7 +2782,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/nip_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nip_glitter_png.png"
       },
       {
         "id": "sticker-5982",
@@ -2787,7 +2792,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/spr_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spr_glitter_png.png"
       },
       {
         "id": "sticker-5986",
@@ -2797,7 +2802,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/liq_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/liq_glitter_png.png"
       },
       {
         "id": "sticker-5990",
@@ -2807,7 +2812,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/spir_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/spir_glitter_png.png"
       },
       {
         "id": "sticker-5994",
@@ -2817,7 +2822,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/nine_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/nine_glitter_png.png"
       },
       {
         "id": "sticker-5998",
@@ -2827,7 +2832,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/bne_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/bne_glitter_png.png"
       },
       {
         "id": "sticker-6002",
@@ -2837,7 +2842,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/big_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/big_glitter_png.png"
       },
       {
         "id": "sticker-6006",
@@ -2847,7 +2852,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/c9_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/c9_glitter_png.png"
       },
       {
         "id": "sticker-6010",
@@ -2857,7 +2862,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/evl_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/evl_glitter_png.png"
       },
       {
         "id": "sticker-6014",
@@ -2867,7 +2872,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/mouz_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/mouz_glitter_png.png"
       },
       {
         "id": "sticker-6018",
@@ -2877,7 +2882,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/og_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/og_glitter_png.png"
       },
       {
         "id": "sticker-6022",
@@ -2887,7 +2892,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/vita_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/vita_glitter_png.png"
       },
       {
         "id": "sticker-6026",
@@ -2897,7 +2902,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/zzn_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/zzn_glitter_png.png"
       },
       {
         "id": "sticker-6030",
@@ -2907,7 +2912,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/fntc_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/fntc_glitter_png.png"
       },
       {
         "id": "sticker-6034",
@@ -2917,7 +2922,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/furi_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/furi_glitter_png.png"
       },
       {
         "id": "sticker-6038",
@@ -2927,7 +2932,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/gl_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gl_glitter_png.png"
       },
       {
         "id": "sticker-6042",
@@ -2937,7 +2942,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/gray_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/gray_glitter_png.png"
       },
       {
         "id": "sticker-6046",
@@ -2947,7 +2952,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/ihc_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/ihc_glitter_png.png"
       },
       {
         "id": "sticker-6050",
@@ -2957,7 +2962,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/imp_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/imp_glitter_png.png"
       },
       {
         "id": "sticker-6054",
@@ -2967,7 +2972,7 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/out_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/out_glitter_png.png"
       },
       {
         "id": "sticker-6058",
@@ -2977,13 +2982,14 @@
           "name": "Забележителен тип",
           "color": "#8847ff"
         },
-        "image": "https://i.cs2inspects.com/images/econ/stickers/rio2022/iem_glitter_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/rio2022/iem_glitter_png.png"
       }
     ],
     "contains_rare": [],
     "market_hash_name": "Rio 2022 Storage Unit with Glitter Stickers",
     "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/tools/casket_rio2022_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/casket_rio2022_1_png.png",
+    "model_player": null
   },
   {
     "id": "crate-4882",
@@ -3001,7 +3007,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1237",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_revolver_gs_revolver_acanthus_bronze_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_revolver_gs_revolver_acanthus_bronze_light_png.png"
       },
       {
         "id": "skin-922472",
@@ -3012,7 +3018,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1242",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m249_cu_m249_scarab_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m249_cu_m249_scarab_light_png.png"
       },
       {
         "id": "skin-1643416",
@@ -3023,7 +3029,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1254",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_xm1014_cu_xm1014_pharaoh_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_xm1014_cu_xm1014_pharaoh_light_png.png"
       },
       {
         "id": "skin-2167672",
@@ -3034,7 +3040,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1246",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_gs_mp7_strone_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mp7_gs_mp7_strone_light_png.png"
       },
       {
         "id": "skin-529284",
@@ -3045,7 +3051,7 @@
           "color": "#b0c3d9"
         },
         "paint_index": "1249",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_hy_dune_trap_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_aug_hy_dune_trap_light_png.png"
       },
       {
         "id": "skin-3937132",
@@ -3056,7 +3062,7 @@
           "color": "#5e98d9"
         },
         "paint_index": "1243",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_milspec_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_milspec_light_png.png"
       },
       {
         "id": "skin-2626444",
@@ -3067,7 +3073,7 @@
           "color": "#5e98d9"
         },
         "paint_index": "1251",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ssg08_gs_ssg08_anubis_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ssg08_gs_ssg08_anubis_light_png.png"
       },
       {
         "id": "skin-4002708",
@@ -3078,7 +3084,7 @@
           "color": "#5e98d9"
         },
         "paint_index": "1253",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_usp_silencer_gs_usps_tactical_camo_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_usp_silencer_gs_usps_tactical_camo_light_png.png"
       },
       {
         "id": "skin-1119088",
@@ -3089,7 +3095,7 @@
           "color": "#5e98d9"
         },
         "paint_index": "1244",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_cu_mac10_scarab_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mac10_cu_mac10_scarab_light_png.png"
       },
       {
         "id": "skin-1971088",
@@ -3100,7 +3106,7 @@
           "color": "#4b69ff"
         },
         "paint_index": "1252",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_tec9_cu_tec9_mummy_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_tec9_cu_tec9_mummy_light_png.png"
       },
       {
         "id": "skin-463704",
@@ -3111,7 +3117,7 @@
           "color": "#4b69ff"
         },
         "paint_index": "1238",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_gs_ak47_strone_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_ak47_gs_ak47_strone_light_png.png"
       },
       {
         "id": "skin-594780",
@@ -3122,7 +3128,7 @@
           "color": "#4b69ff"
         },
         "paint_index": "1239",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_awp_gs_awp_strone_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_awp_gs_awp_strone_light_png.png"
       },
       {
         "id": "skin-1774452",
@@ -3133,7 +3139,7 @@
           "color": "#4b69ff"
         },
         "paint_index": "1245",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_gs_mag7_goold_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_mag7_gs_mag7_goold_light_png.png"
       },
       {
         "id": "skin-267104",
@@ -3144,7 +3150,7 @@
           "color": "#8847ff"
         },
         "paint_index": "1240",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_cu_glock_ramzes_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_glock_cu_glock_ramzes_light_png.png"
       },
       {
         "id": "skin-2298748",
@@ -3155,7 +3161,7 @@
           "color": "#8847ff"
         },
         "paint_index": "1247",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_gs_nova_sobek_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_nova_gs_nova_sobek_light_png.png"
       },
       {
         "id": "skin-1250184",
@@ -3166,7 +3172,7 @@
           "color": "#8847ff"
         },
         "paint_index": "1250",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p90_cu_p90_scarab_of_wisdom_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p90_cu_p90_scarab_of_wisdom_light_png.png"
       },
       {
         "id": "skin-660324",
@@ -3177,7 +3183,7 @@
           "color": "#d32ce6"
         },
         "paint_index": "1241",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_famas_cu_famas_holo_ocean_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_famas_cu_famas_holo_ocean_light_png.png"
       },
       {
         "id": "skin-2364288",
@@ -3188,7 +3194,7 @@
           "color": "#d32ce6"
         },
         "paint_index": "1248",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_gs_p250_apep_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_p250_gs_p250_apep_light_png.png"
       },
       {
         "id": "skin-1053596",
@@ -3199,1544 +3205,13 @@
           "color": "#eb4b4b"
         },
         "paint_index": "1255",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_gs_m4a4_ra_light_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/default_generated/weapon_m4a1_gs_m4a4_ra_light_png.png"
       }
     ],
     "contains_rare": [],
     "market_hash_name": "Anubis Collection Package",
     "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_anubis_storepromo_png.png"
-  },
-  {
-    "id": "crate-4967",
-    "name": "Сувенирен пакет Shanghai 2024 Inferno",
-    "description": null,
-    "type": null,
-    "first_sale_date": null,
-    "contains": [
-      {
-        "id": "skin-1573224",
-        "name": "UMP-45 | Тиня",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "90",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ump45_hy_mottled_sand_light_png.png"
-      },
-      {
-        "id": "skin-1510340",
-        "name": "MP5-SD | Калобран",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "753",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp5sd_sp_tape_short_rally_light_png.png"
-      },
-      {
-        "id": "skin-2231244",
-        "name": "MP9 | Поднасяне",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "755",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp9_hy_splatter3_light_png.png"
-      },
-      {
-        "id": "skin-527464",
-        "name": "AUG | Метачка",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "794",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_sp_mesh_safetyblack_light_png.png"
-      },
-      {
-        "id": "skin-1772488",
-        "name": "MAG-7 | Ръждиво покритие",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "754",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_aq_steel_inferno_light_png.png"
-      },
-      {
-        "id": "skin-1703948",
-        "name": "PP-Bizon | Захаросана ябълка",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "3",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_bizon_so_red_light_png.png"
-      },
-      {
-        "id": "skin-1117104",
-        "name": "MAC-10 | Телешка кожа",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "748",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_gs_mac10_checker_light_png.png"
-      },
-      {
-        "id": "skin-4197496",
-        "name": "Револвер R8 | Нитро",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "798",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_revolver_so_orange_accents3_light_png.png"
-      },
-      {
-        "id": "skin-265340",
-        "name": "Glock-18 | Дълги светлини",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "799",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_aa_vertigo_blue_light_png.png"
-      },
-      {
-        "id": "skin-2624444",
-        "name": "SSG 08 | Ръчна спирачка",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "751",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ssg08_gs_ssg08_checker_light_png.png"
-      },
-      {
-        "id": "skin-1051748",
-        "name": "M4A4 | Преобразовател",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "793",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_hy_red_hex_light_png.png"
-      },
-      {
-        "id": "skin-4000880",
-        "name": "USP-S | Проверка на двигателя",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "796",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_usp_silencer_sp_mesh_safetyred_light_png.png"
-      },
-      {
-        "id": "skin-1903732",
-        "name": "Скъсена цев | Стопове",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "797",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_sawedoff_aa_vertigo_red_light_png.png"
-      },
-      {
-        "id": "skin-2362292",
-        "name": "P250 | Първокласно вино",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "749",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_gs_p250_checker_light_png.png"
-      },
-      {
-        "id": "skin-2165696",
-        "name": "MP7 | Избледняване",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "752",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_aa_fade_mp7_light_png.png"
-      },
-      {
-        "id": "skin-461932",
-        "name": "AK-47 | Предпазна мрежа",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "795",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_hy_mesh_safetyorange_light_png.png"
-      },
-      {
-        "id": "skin-134060",
-        "name": "Два Beretta | Турбо чифт",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "747",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_elite_cu_dual_elites_rally_light_png.png"
-      },
-      {
-        "id": "skin-2558904",
-        "name": "SG 553 | Интеграл",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "750",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_sg556_cu_sg553_rally_light_png.png"
-      }
-    ],
-    "contains_rare": [],
-    "market_hash_name": "Shanghai 2024 Inferno Souvenir Package",
-    "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_inferno_png.png"
-  },
-  {
-    "id": "crate-4968",
-    "name": "Сувенирен пакет Shanghai 2024 Mirage",
-    "description": null,
-    "type": null,
-    "first_sale_date": null,
-    "contains": [
-      {
-        "id": "skin-2362596",
-        "name": "P250 | Суша",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "825",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_sp_desert_skulls_dawn_light_png.png"
-      },
-      {
-        "id": "skin-1707252",
-        "name": "PP-Bizon | Анолис",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "829",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_bizon_hy_lizard_skin_light_png.png"
-      },
-      {
-        "id": "skin-1772760",
-        "name": "MAG-7 | Тъмносин гланц",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "822",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_am_navy_shine_light_png.png"
-      },
-      {
-        "id": "skin-1117416",
-        "name": "MAC-10 | Охрена дамаска",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "826",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_sp_mirage_flowers_tan_light_png.png"
-      },
-      {
-        "id": "skin-2625180",
-        "name": "SSG 08 | Плячка",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "935",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ssg08_sp_zebracam_red_light_png.png"
-      },
-      {
-        "id": "skin-134368",
-        "name": "Два Beretta | Плаващи трупи",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "824",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_elite_sp_dry_wood_light_png.png"
-      },
-      {
-        "id": "skin-656320",
-        "name": "FAMAS | Калифорнийски пустинен камуфлаж",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "240",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_famas_hy_varicamo_desert_light_png.png"
-      },
-      {
-        "id": "skin-4132500",
-        "name": "CZ75-Auto | Среднощна палма",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "933",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_cz75a_sp_palm_night_light_png.png"
-      },
-      {
-        "id": "skin-1248496",
-        "name": "P90 | Пищна растителност",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "828",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p90_sp_moro_textile_green_vine_light_png.png"
-      },
-      {
-        "id": "skin-4000968",
-        "name": "USP-S | Лилава разпокъсана цифрова шарка",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "818",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_usp_silencer_am_ddpat_purple_light_png.png"
-      },
-      {
-        "id": "skin-2231504",
-        "name": "MP9 | Музикална кутия",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "820",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp9_am_mirage_flowers_metalic_light_png.png"
-      },
-      {
-        "id": "skin-920812",
-        "name": "M249 | Овлажнител",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "827",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m249_sp_moro_carving_burnt_light_png.png"
-      },
-      {
-        "id": "skin-2558964",
-        "name": "SG 553 | Пустинен разцвет",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "765",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_sg556_aa_desert_bloom_bright_light_png.png"
-      },
-      {
-        "id": "skin-1641684",
-        "name": "XM1014 | Елегантни лози",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "821",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_xm1014_am_moro_textile_bright_light_png.png"
-      },
-      {
-        "id": "skin-262480",
-        "name": "Glock-18 | Розова разпокъсана цифрова шарка",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "84",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_hy_ddpat_pink_light_png.png"
-      },
-      {
-        "id": "skin-527580",
-        "name": "AUG | Пясъчна буря",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "823",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_gs_aug_sand_storm_light_png.png"
-      },
-      {
-        "id": "skin-1511020",
-        "name": "MP5-SD | Оксиден оазис",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "923",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp5sd_gs_mp5_neon_flektarn_light_png.png"
-      },
-      {
-        "id": "skin-68592",
-        "name": "Desert Eagle | Фенек лисица",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "764",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_deagle_gs_deagle_fennec_light_png.png"
-      },
-      {
-        "id": "skin-593100",
-        "name": "AWP | Пустинна хидра",
-        "rarity": {
-          "id": "rarity_ancient_weapon",
-          "name": "Секретно оръжие",
-          "color": "#eb4b4b"
-        },
-        "paint_index": "819",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_awp_gs_awp_hydra_light_png.png"
-      }
-    ],
-    "contains_rare": [],
-    "market_hash_name": "Shanghai 2024 Mirage Souvenir Package",
-    "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_mirage_png.png"
-  },
-  {
-    "id": "crate-4969",
-    "name": "Сувенирен пакет Shanghai 2024 Anubis",
-    "description": null,
-    "type": null,
-    "first_sale_date": null,
-    "contains": [
-      {
-        "id": "skin-4199252",
-        "name": "Револвер R8 | Инкрустирано",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1237",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_revolver_gs_revolver_acanthus_bronze_light_png.png"
-      },
-      {
-        "id": "skin-922472",
-        "name": "M249 | Натопено",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1242",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m249_cu_m249_scarab_light_png.png"
-      },
-      {
-        "id": "skin-1643416",
-        "name": "XM1014 | Йероглиф",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1254",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_xm1014_cu_xm1014_pharaoh_light_png.png"
-      },
-      {
-        "id": "skin-2167672",
-        "name": "MP7 | Изсушено на слънце",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1246",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_gs_mp7_strone_light_png.png"
-      },
-      {
-        "id": "skin-529284",
-        "name": "AUG | Змийска яма",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1249",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_hy_dune_trap_light_png.png"
-      },
-      {
-        "id": "skin-3937132",
-        "name": "M4A1-S | Стандартен кален клас",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1243",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_milspec_light_png.png"
-      },
-      {
-        "id": "skin-2626444",
-        "name": "SSG 08 | Лазурен глиф",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1251",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ssg08_gs_ssg08_anubis_light_png.png"
-      },
-      {
-        "id": "skin-4002708",
-        "name": "USP-S | Пустинно тактическо",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1253",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_usp_silencer_gs_usps_tactical_camo_light_png.png"
-      },
-      {
-        "id": "skin-1119088",
-        "name": "MAC-10 | Отекващи пясъци",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1244",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_cu_mac10_scarab_light_png.png"
-      },
-      {
-        "id": "skin-1971088",
-        "name": "Tec-9 | Гниенето на мумията",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1252",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_tec9_cu_tec9_mummy_light_png.png"
-      },
-      {
-        "id": "skin-463704",
-        "name": "AK-47 | Стоманена делта",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1238",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_gs_ak47_strone_light_png.png"
-      },
-      {
-        "id": "skin-594780",
-        "name": "AWP | Черният нил",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1239",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_awp_gs_awp_strone_light_png.png"
-      },
-      {
-        "id": "skin-1774452",
-        "name": "MAG-7 | Медно покритие",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1245",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_gs_mag7_goold_light_png.png"
-      },
-      {
-        "id": "skin-267104",
-        "name": "Glock-18 | Досегът на Рамзес",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "1240",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_cu_glock_ramzes_light_png.png"
-      },
-      {
-        "id": "skin-2298748",
-        "name": "Nova | Захапката на Собек",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "1247",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_gs_nova_sobek_light_png.png"
-      },
-      {
-        "id": "skin-1250184",
-        "name": "P90 | Щурм на скараБей",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "1250",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p90_cu_p90_scarab_of_wisdom_light_png.png"
-      },
-      {
-        "id": "skin-660324",
-        "name": "FAMAS | Водите на Нефтида",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "1241",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_famas_cu_famas_holo_ocean_light_png.png"
-      },
-      {
-        "id": "skin-2364288",
-        "name": "P250 | Проклятието на Апофис",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "1248",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_gs_p250_apep_light_png.png"
-      },
-      {
-        "id": "skin-1053596",
-        "name": "M4A4 | Окото на Хор",
-        "rarity": {
-          "id": "rarity_ancient_weapon",
-          "name": "Секретно оръжие",
-          "color": "#eb4b4b"
-        },
-        "paint_index": "1255",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_gs_m4a4_ra_light_png.png"
-      }
-    ],
-    "contains_rare": [],
-    "market_hash_name": "Shanghai 2024 Anubis Souvenir Package",
-    "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_anubis_png.png"
-  },
-  {
-    "id": "crate-4970",
-    "name": "Сувенирен пакет Shanghai 2024 Dust II",
-    "description": null,
-    "type": null,
-    "first_sale_date": null,
-    "contains": [
-      {
-        "id": "skin-4198000",
-        "name": "Револвер R8 | Пустинен щрих",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "924",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_revolver_hy_brush_camo_tan_light_png.png"
-      },
-      {
-        "id": "skin-1248884",
-        "name": "P90 | Пустинна разпокъсана цифрова шарка",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "925",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p90_hy_ddpat_desert_light_png.png"
-      },
-      {
-        "id": "skin-2559640",
-        "name": "SG 553 | Избелено",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "934",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_sg556_sp_desert_skulls_light_png.png"
-      },
-      {
-        "id": "skin-2166428",
-        "name": "MP7 | Плячка",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "935",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_sp_zebracam_red_light_png.png"
-      },
-      {
-        "id": "skin-1904064",
-        "name": "Скъсена цев | Пресъхнал",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "880",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_sawedoff_hy_desert_bloom_light_png.png"
-      },
-      {
-        "id": "skin-527996",
-        "name": "AUG | Загнило дърво",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "927",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_hy_dry_wood_light_png.png"
-      },
-      {
-        "id": "skin-2231948",
-        "name": "MP9 | Стари корени",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "931",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp9_sp_moro_carving_yellow_light_png.png"
-      },
-      {
-        "id": "skin-200336",
-        "name": "Five-SeveN | Повехнала лоза",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "932",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_fiveseven_sp_moro_textile_purple_yellow_light_png.png"
-      },
-      {
-        "id": "skin-921236",
-        "name": "M249 | Среднощна палма",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "933",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m249_sp_palm_night_light_png.png"
-      },
-      {
-        "id": "skin-2363008",
-        "name": "P250 | Черно и жълто-кафяво",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "928",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_hy_desert_multicam_light_png.png"
-      },
-      {
-        "id": "skin-2297476",
-        "name": "Nova | Плаващ пясък",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "929",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_hy_torn_camo_paints_light_png.png"
-      },
-      {
-        "id": "skin-724616",
-        "name": "G3SG1 | Нови корени",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "930",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_g3sg1_sp_moro_carving_lightblue_light_png.png"
-      },
-      {
-        "id": "skin-852952",
-        "name": "Galil AR | Избледняващ кехлибар",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "246",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_galilar_aa_fade_metallic_light_png.png"
-      },
-      {
-        "id": "skin-4001384",
-        "name": "USP-S | Оранжев анолис",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "922",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_usp_silencer_am_lizard_red_light_png.png"
-      },
-      {
-        "id": "skin-1052280",
-        "name": "M4A4 | Червена разпокъсана цифрова шарка",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "926",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_hy_ddpat_urban_red_light_png.png"
-      },
-      {
-        "id": "skin-1114288",
-        "name": "MAC-10 | Закалено",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "44",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_aq_oiled_light_png.png"
-      },
-      {
-        "id": "skin-1576380",
-        "name": "UMP-45 | Избледняване",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "879",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ump45_aa_fade_ump_light_png.png"
-      },
-      {
-        "id": "skin-2625648",
-        "name": "SSG 08 | Смъртоносно нападение",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "1052",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ssg08_cu_ssg08_scorpion_light_png.png"
-      },
-      {
-        "id": "skin-462436",
-        "name": "AK-47 | Златна арабеска",
-        "rarity": {
-          "id": "rarity_ancient_weapon",
-          "name": "Секретно оръжие",
-          "color": "#eb4b4b"
-        },
-        "paint_index": "921",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_gs_ak47_gold_arabesque_light_png.png"
-      }
-    ],
-    "contains_rare": [],
-    "market_hash_name": "Shanghai 2024 Dust II Souvenir Package",
-    "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_dust2_png.png"
-  },
-  {
-    "id": "crate-4971",
-    "name": "Сувенирен пакет Shanghai 2024 Ancient",
-    "description": null,
-    "type": null,
-    "first_sale_date": null,
-    "contains": [
-      {
-        "id": "skin-1249264",
-        "name": "P90 | Антична Земя",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1020",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p90_aa_ancient_brown_light_png.png"
-      },
-      {
-        "id": "skin-2559992",
-        "name": "SG 553 | Тучно обрасли руини",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1022",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_sg556_aa_ruins_green_light_png.png"
-      },
-      {
-        "id": "skin-2294952",
-        "name": "Nova | Армейски гланц",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "298",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_am_army_shine_light_png.png"
-      },
-      {
-        "id": "skin-2622028",
-        "name": "SSG 08 | Покритие „джунгла“",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "147",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ssg08_sp_tape_short_jungle_light_png.png"
-      },
-      {
-        "id": "skin-4194464",
-        "name": "Револвер R8 | Нощно",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "40",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_revolver_so_night_light_png.png"
-      },
-      {
-        "id": "skin-2101228",
-        "name": "P2000 | Пантероподобен камуфлаж",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1019",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_hkp2000_am_black_panther_light_png.png"
-      },
-      {
-        "id": "skin-2166780",
-        "name": "MP7 | Висока трева",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1023",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_hy_drywood_green_light_png.png"
-      },
-      {
-        "id": "skin-725032",
-        "name": "G3SG1 | Античен ритуал",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1034",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_g3sg1_am_ancient_wine_light_png.png"
-      },
-      {
-        "id": "skin-4128896",
-        "name": "CZ75-Auto | Сребро",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "32",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_cz75a_an_silver_light_png.png"
-      },
-      {
-        "id": "skin-1970176",
-        "name": "Tec-9 | Проблясък от миналото",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1024",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_tec9_hy_ancient_tiles_peach_light_png.png"
-      },
-      {
-        "id": "skin-528420",
-        "name": "AUG | Издялан нефрит",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1033",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_am_jade_light_png.png"
-      },
-      {
-        "id": "skin-856096",
-        "name": "Galil AR | Сумрачни руини",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1032",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_galilar_hy_ruins_red_light_png.png"
-      },
-      {
-        "id": "skin-655600",
-        "name": "FAMAS | Черна вода",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "60",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_famas_am_zebra_dark_light_png.png"
-      },
-      {
-        "id": "skin-1642484",
-        "name": "XM1014 | Антична ерудиция",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "1021",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_xm1014_am_ancient_warm_light_png.png"
-      },
-      {
-        "id": "skin-1118212",
-        "name": "MAC-10 | Златно кюлче",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "1025",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_am_gold_brick_light_png.png"
-      },
-      {
-        "id": "skin-4001820",
-        "name": "USP-S | Антични видения",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "1031",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_usp_silencer_sp_ancient_bright_light_png.png"
-      },
-      {
-        "id": "skin-1249184",
-        "name": "P90 | Бягайте и се скрийте",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "1000",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p90_cu_jaguar_p90_light_png.png"
-      },
-      {
-        "id": "skin-462824",
-        "name": "AK-47 | Ягуар",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "1018",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_cu_ak_jaguar_light_png.png"
-      },
-      {
-        "id": "skin-3936164",
-        "name": "M4A1-S | Добре дошли в джунглата",
-        "rarity": {
-          "id": "rarity_ancient_weapon",
-          "name": "Секретно оръжие",
-          "color": "#eb4b4b"
-        },
-        "paint_index": "1001",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_snake_light_png.png"
-      }
-    ],
-    "contains_rare": [],
-    "market_hash_name": "Shanghai 2024 Ancient Souvenir Package",
-    "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_ancient_png.png"
-  },
-  {
-    "id": "crate-4972",
-    "name": "Сувенирен пакет Shanghai 2024 Nuke",
-    "description": null,
-    "type": null,
-    "first_sale_date": null,
-    "contains": [
-      {
-        "id": "skin-1707036",
-        "name": "PP-Bizon | Скицирано съоръжение",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "775",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_bizon_hy_blueprint_white_light_png.png"
-      },
-      {
-        "id": "skin-2362404",
-        "name": "P250 | Чертеж на съоръжение",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "777",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_hy_blueprint_red_light_png.png"
-      },
-      {
-        "id": "skin-1575976",
-        "name": "UMP-45 | Мрачно съоръжение",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "778",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ump45_hy_blueprint_bluered_light_png.png"
-      },
-      {
-        "id": "skin-199744",
-        "name": "Five-SeveN | Охладител",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "784",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_fiveseven_hy_ducts_green_light_png.png"
-      },
-      {
-        "id": "skin-2296900",
-        "name": "Nova | Дорник",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "785",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_hy_ducts_grey_light_png.png"
-      },
-      {
-        "id": "skin-1051696",
-        "name": "M4A4 | Мейнфрейм",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "780",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_am_circuitboard_silver_light_png.png"
-      },
-      {
-        "id": "skin-2165816",
-        "name": "MP7 | Дънна платка",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "782",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_am_circuitboard_green_light_png.png"
-      },
-      {
-        "id": "skin-1838140",
-        "name": "Negev | Преграда",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "783",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_negev_hy_ducts_yellow_light_png.png"
-      },
-      {
-        "id": "skin-855128",
-        "name": "Galil AR | Студен термоядрен синтез",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "790",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_galilar_hy_nuclear_skulls_aqua_light_png.png"
-      },
-      {
-        "id": "skin-1248288",
-        "name": "P90 | Негатив на съоръжение",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "776",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p90_hy_blueprint_aqua_light_png.png"
-      },
-      {
-        "id": "skin-1510452",
-        "name": "MP5-SD | Копроцесор",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "781",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp5sd_am_circuitboard_aqua_light_png.png"
-      },
-      {
-        "id": "skin-2362440",
-        "name": "P250 | Обменник",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "786",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_hy_ducts_blue_light_png.png"
-      },
-      {
-        "id": "skin-592976",
-        "name": "AWP | Ахерон",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "788",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_awp_hy_nuclear_skulls_redblue_light_png.png"
-      },
-      {
-        "id": "skin-527404",
-        "name": "AUG | Произволен достъп",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "779",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_am_circuitboard_orange_light_png.png"
-      },
-      {
-        "id": "skin-1772620",
-        "name": "MAG-7 | Пробив в ядрото",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "787",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_hy_nuclear_hotorange_light_png.png"
-      },
-      {
-        "id": "skin-265300",
-        "name": "Glock-18 | Ядрена градина",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "789",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_am_nuclear_skulls_green_light_png.png"
-      },
-      {
-        "id": "skin-1969244",
-        "name": "Tec-9 | Дистанционно управление",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "791",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_tec9_gs_tec9_envoy_light_png.png"
-      },
-      {
-        "id": "skin-3935328",
-        "name": "M4A1-S | Контролен панел",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "792",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_operator_light_png.png"
-      }
-    ],
-    "contains_rare": [],
-    "market_hash_name": "Shanghai 2024 Nuke Souvenir Package",
-    "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_nuke_png.png"
-  },
-  {
-    "id": "crate-4973",
-    "name": "Сувенирен пакет Shanghai 2024 Vertigo",
-    "description": null,
-    "type": null,
-    "first_sale_date": null,
-    "contains": [
-      {
-        "id": "skin-1118412",
-        "name": "MAC-10 | Стратегии",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1075",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_hy_vertigospray_blue_light_png.png"
-      },
-      {
-        "id": "skin-659624",
-        "name": "FAMAS | Неизправно окабеляване",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1066",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_famas_aa_wiring_yellow_light_png.png"
-      },
-      {
-        "id": "skin-1642712",
-        "name": "XM1014 | Синя гума",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1078",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_xm1014_sp_tire_tread_blue_light_png.png"
-      },
-      {
-        "id": "skin-4133072",
-        "name": "CZ75-Auto | Кофраж",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1076",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_cz75a_hy_vertigoillusion_light_png.png"
-      },
-      {
-        "id": "skin-135416",
-        "name": "Два Beretta | Смяна на маслото",
-        "rarity": {
-          "id": "rarity_common_weapon",
-          "name": "Потребителски клас",
-          "color": "#b0c3d9"
-        },
-        "paint_index": "1086",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_elite_sp_engine_dirty_light_png.png"
-      },
-      {
-        "id": "skin-266460",
-        "name": "Glock-18 | Червена гума",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1079",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_sp_tire_tread_red_light_png.png"
-      },
-      {
-        "id": "skin-1577204",
-        "name": "UMP-45 | Механизъм",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1085",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ump45_aa_engine_performance_light_png.png"
-      },
-      {
-        "id": "skin-2621720",
-        "name": "SSG 08 | Карбонови нишки",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "70",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ssg08_am_carbon_fiber_light_png.png"
-      },
-      {
-        "id": "skin-1708268",
-        "name": "PP-Bizon | Табло с прекъсвачи",
-        "rarity": {
-          "id": "rarity_uncommon_weapon",
-          "name": "Индустриален клас",
-          "color": "#5e98d9"
-        },
-        "paint_index": "1083",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_bizon_aa_wiring_light_png.png"
-      },
-      {
-        "id": "skin-463032",
-        "name": "AK-47 | Зелен ламинат",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1070",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_hy_ak47lam_green_light_png.png"
-      },
-      {
-        "id": "skin-1249480",
-        "name": "P90 | Схема",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1074",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p90_hy_vertigogeo_light_png.png"
-      },
-      {
-        "id": "skin-2298068",
-        "name": "Nova | Сключване",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1077",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_hy_vertigoillusion_yellow_light_png.png"
-      },
-      {
-        "id": "skin-1839328",
-        "name": "Negev | Инфраструктура",
-        "rarity": {
-          "id": "rarity_rare_weapon",
-          "name": "Стандартен военен клас",
-          "color": "#4b69ff"
-        },
-        "paint_index": "1080",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_negev_hy_vertigospray_light_png.png"
-      },
-      {
-        "id": "skin-856252",
-        "name": "Galil AR | ВНИМАНИЕ!",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "1071",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_galilar_sp_galil_caution_light_png.png"
-      },
-      {
-        "id": "skin-1773760",
-        "name": "MAG-7 | Тераса призма",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "1072",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_hy_geometric_steps_pearl_light_png.png"
-      },
-      {
-        "id": "skin-2363620",
-        "name": "P250 | Дигитален архитект",
-        "rarity": {
-          "id": "rarity_mythical_weapon",
-          "name": "Ограничено оръжие",
-          "color": "#8847ff"
-        },
-        "paint_index": "1081",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_aa_vertigogeo_neon_light_png.png"
-      },
-      {
-        "id": "skin-200936",
-        "name": "Five-SeveN | Риск от падане",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "1082",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_fiveseven_cu_vertigo_fiveseven_light_png.png"
-      },
-      {
-        "id": "skin-2560240",
-        "name": "SG 553 | Плащане на вредни",
-        "rarity": {
-          "id": "rarity_legendary_weapon",
-          "name": "Класифицирано оръжие",
-          "color": "#d32ce6"
-        },
-        "paint_index": "1084",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_sg556_cu_sg553_caution_light_png.png"
-      },
-      {
-        "id": "skin-3936452",
-        "name": "M4A1-S | Непосредствена опасност",
-        "rarity": {
-          "id": "rarity_ancient_weapon",
-          "name": "Секретно оръжие",
-          "color": "#eb4b4b"
-        },
-        "paint_index": "1073",
-        "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_gs_m4a1_vertigo_light_png.png"
-      }
-    ],
-    "contains_rare": [],
-    "market_hash_name": "Shanghai 2024 Vertigo Souvenir Package",
-    "rental": false,
-    "image": "https://i.cs2inspects.com/images/econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_anubis_storepromo_png.png",
+    "model_player": null
   }
 ]

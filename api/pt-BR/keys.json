@@ -8,25 +8,25 @@
       {
         "id": "crate-4001",
         "name": "Caixa de Armas do CS:GO",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_valve_1_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_valve_1_png.png"
       },
       {
         "id": "crate-4003",
         "name": "Caixa de Arma da Operação Bravo",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_operation_ii_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_operation_ii_png.png"
       },
       {
         "id": "crate-4004",
         "name": "2ª Caixa de Armas do CS:GO",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_valve_2_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_valve_2_png.png"
       },
       {
         "id": "crate-4010",
         "name": "3ª Caixa de Armas do CS:GO",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_valve_3_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_valve_3_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/weapon_case_key_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/weapon_case_key_png.png"
   },
   {
     "id": "key-1204",
@@ -37,20 +37,20 @@
       {
         "id": "crate-4002",
         "name": "Caixa de eSports de 2013",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_esports_2013_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esports_2013_png.png"
       },
       {
         "id": "crate-4005",
         "name": "Caixa de eSports de Fim de Ano de 2013",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_esports_2013_14_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esports_2013_14_png.png"
       },
       {
         "id": "crate-4019",
         "name": "Caixa de eSports de Férias de 2014",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_esports_2014_summer_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_esports_2014_summer_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/weapon_case_key_special_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/weapon_case_key_special_1_png.png"
   },
   {
     "id": "key-1212",
@@ -61,15 +61,15 @@
       {
         "id": "crate-4007",
         "name": "Cápsula de Adesivos",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_sticker_pack01_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack01_png.png"
       },
       {
         "id": "crate-4012",
         "name": "2ª Cápsula de Adesivos",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_sticker_pack02_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack02_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/sticker_crate_key_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/sticker_crate_key_png.png"
   },
   {
     "id": "key-1214",
@@ -80,10 +80,10 @@
       {
         "id": "crate-4009",
         "name": "Caixa de Armas da Ofensiva de Fim de Ano",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_1_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_1_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_1_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_1_png.png"
   },
   {
     "id": "key-1303",
@@ -94,10 +94,10 @@
       {
         "id": "crate-4011",
         "name": "Caixa de Armas da Operação Fênix",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_2_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_2_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_2_png.png"
   },
   {
     "id": "key-1304",
@@ -108,10 +108,10 @@
       {
         "id": "crate-4016",
         "name": "Cápsula de Adesivos I da Comunidade",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_sticker_pack_community01_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_community01_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/sticker_crate_key_community01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/sticker_crate_key_community01_png.png"
   },
   {
     "id": "key-1305",
@@ -122,10 +122,10 @@
       {
         "id": "crate-4017",
         "name": "Caixa de Armas do Caçador",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_3_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_3_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_3_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_3_png.png"
   },
   {
     "id": "key-1309",
@@ -136,10 +136,10 @@
       {
         "id": "crate-4018",
         "name": "Caixa de Armas da Operação Libertação",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_4_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_4_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_4_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_4_png.png"
   },
   {
     "id": "key-1322",
@@ -150,10 +150,10 @@
       {
         "id": "crate-4029",
         "name": "Caixa de Armas da Operação Vanguarda",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_5_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_5_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_5_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_5_png.png"
   },
   {
     "id": "key-1323",
@@ -164,10 +164,10 @@
       {
         "id": "crate-4061",
         "name": "Caixa Cromática",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_6_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_6_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_6_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_6_png.png"
   },
   {
     "id": "key-1325",
@@ -178,10 +178,10 @@
       {
         "id": "crate-4089",
         "name": "2ª Caixa Cromática",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_7_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_7_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_7_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_7_png.png"
   },
   {
     "id": "key-1330",
@@ -192,10 +192,10 @@
       {
         "id": "crate-4091",
         "name": "Caixa Falchion",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_8_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_8_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_8_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_8_png.png"
   },
   {
     "id": "key-1333",
@@ -206,10 +206,10 @@
       {
         "id": "crate-4138",
         "name": "Caixa Sombria",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_9_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_9_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_9_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_9_png.png"
   },
   {
     "id": "key-1334",
@@ -220,10 +220,10 @@
       {
         "id": "crate-4186",
         "name": "Caixa do Revólver",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_10_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_10_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_10_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_10_png.png"
   },
   {
     "id": "key-1347",
@@ -234,10 +234,10 @@
       {
         "id": "crate-4233",
         "name": "3ª Caixa Cromática",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_12_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_12_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_12_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_12_png.png"
   },
   {
     "id": "key-1350",
@@ -248,10 +248,10 @@
       {
         "id": "crate-4236",
         "name": "Caixa Gama",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_13_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_13_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_13_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_13_png.png"
   },
   {
     "id": "key-1351",
@@ -262,10 +262,10 @@
       {
         "id": "crate-4281",
         "name": "2ª Caixa Gama",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_gamma_2_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_gamma_2_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_gamma_2_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_gamma_2_png.png"
   },
   {
     "id": "key-1356",
@@ -276,10 +276,10 @@
       {
         "id": "crate-4288",
         "name": "Caixa das Luvas",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_15_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_15_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_15_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_15_png.png"
   },
   {
     "id": "key-1364",
@@ -290,10 +290,10 @@
       {
         "id": "crate-4351",
         "name": "Caixa Espectral",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_16_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_16_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_16_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_16_png.png"
   },
   {
     "id": "key-1365",
@@ -304,10 +304,10 @@
       {
         "id": "crate-4352",
         "name": "Caixa da Operação Hidra",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_17_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_17_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_17_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_17_png.png"
   },
   {
     "id": "key-1366",
@@ -318,10 +318,10 @@
       {
         "id": "crate-4403",
         "name": "2ª Caixa Espectral",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_18_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_18_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_18_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_18_png.png"
   },
   {
     "id": "key-1373",
@@ -332,10 +332,10 @@
       {
         "id": "crate-4471",
         "name": "Caixa do Aperto",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_19_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_19_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_19_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_19_png.png"
   },
   {
     "id": "key-1374",
@@ -346,10 +346,10 @@
       {
         "id": "crate-4482",
         "name": "Caixa do Horizonte",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_20_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_20_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_20_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_20_png.png"
   },
   {
     "id": "key-1375",
@@ -360,10 +360,10 @@
       {
         "id": "crate-4548",
         "name": "Caixa da Zona de Perigo",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_21_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_21_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_21_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_21_png.png"
   },
   {
     "id": "key-1383",
@@ -374,10 +374,10 @@
       {
         "id": "crate-4598",
         "name": "Caixa Prismática",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_22_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_22_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_22_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_22_png.png"
   },
   {
     "id": "key-1384",
@@ -388,10 +388,10 @@
       {
         "id": "crate-4620",
         "name": "Caixa da Teia Fragmentada",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_23_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_23_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_23_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_23_png.png"
   },
   {
     "id": "key-1385",
@@ -402,10 +402,10 @@
       {
         "id": "crate-4669",
         "name": "Caixa CS20",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_24_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_24_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_24_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_24_png.png"
   },
   {
     "id": "key-1386",
@@ -416,10 +416,10 @@
       {
         "id": "crate-4695",
         "name": "2ª Caixa Prismática",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_25_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_25_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_25_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_25_png.png"
   },
   {
     "id": "key-1387",
@@ -430,10 +430,10 @@
       {
         "id": "crate-4698",
         "name": "Caixa Fraturada",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_26_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_26_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_26_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_26_png.png"
   },
   {
     "id": "key-1388",
@@ -444,10 +444,10 @@
       {
         "id": "crate-4717",
         "name": "Caixa da Operação Presa Quebrada",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_27_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_27_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_27_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_27_png.png"
   },
   {
     "id": "key-1389",
@@ -458,10 +458,10 @@
       {
         "id": "crate-4747",
         "name": "Caixa do Ataque Ofídico",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_28_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_28_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_28_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_28_png.png"
   },
   {
     "id": "key-1390",
@@ -472,10 +472,10 @@
       {
         "id": "crate-4790",
         "name": "Caixa de Arma da Operação Correnteza",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_29_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_29_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_29_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_29_png.png"
   },
   {
     "id": "key-1391",
@@ -486,10 +486,10 @@
       {
         "id": "crate-4818",
         "name": "Caixa dos Sonhos e Pesadelos",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_30_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_30_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_30_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_30_png.png"
   },
   {
     "id": "key-1392",
@@ -500,10 +500,10 @@
       {
         "id": "crate-4846",
         "name": "Caixa do Coice",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_31_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_31_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_31_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_31_png.png"
   },
   {
     "id": "key-1393",
@@ -514,10 +514,10 @@
       {
         "id": "crate-4880",
         "name": "Caixa da Revolução",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_32_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_32_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_32_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_32_png.png"
   },
   {
     "id": "key-1394",
@@ -528,10 +528,10 @@
       {
         "id": "crate-4904",
         "name": "Caixa Quilowatt",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_33_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_33_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_33_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_33_png.png"
   },
   {
     "id": "key-7000",
@@ -542,10 +542,10 @@
       {
         "id": "crate-4187",
         "name": "Caixa de Arma da Operação Fogo Selvagem",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_11_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_11_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_11_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_11_png.png"
   },
   {
     "id": "key-7002",
@@ -556,9 +556,9 @@
       {
         "id": "crate-7003",
         "name": "Caixa da Galeria",
-        "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_34_png.png"
+        "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_community_34_png.png"
       }
     ],
-    "image": "https://i.cs2inspects.com/images/econ/tools/crate_key_community_34_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tools/crate_key_community_34_png.png"
   }
 ]

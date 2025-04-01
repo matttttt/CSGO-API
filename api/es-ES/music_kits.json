@@ -1,5 +1,31 @@
 [
   {
+    "id": "music_kit-1",
+    "name": "Valve, Counter‑Strike 2",
+    "description": "Kit de música oficial de Counter‑Strike 2.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": null,
+    "exclusive": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/valve_cs2_01_png.png"
+  },
+  {
+    "id": "music_kit-2",
+    "name": "Valve, CS:GO",
+    "description": "Kit de música por defecto de CS:GO, presentada con el lanzamiento de CS:GO en 2012.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": null,
+    "exclusive": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/valve_02_png.png"
+  },
+  {
     "id": "music_kit-3",
     "name": "Kit de música | Daniel Sadowski, Crimson Assault",
     "description": "El compositor Daniel Sadowski nos trae una combinación de acción frenética y ritmo endiablado en este estimulante lote musical.",
@@ -10,7 +36,7 @@
     },
     "market_hash_name": "Music Kit | Daniel Sadowski, Crimson Assault",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_01_png.png"
   },
   {
     "id": "music_kit-3_st",
@@ -23,7 +49,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, Crimson Assault",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_01_png.png"
   },
   {
     "id": "music_kit-4",
@@ -36,7 +62,7 @@
     },
     "market_hash_name": "Music Kit | Noisia, Sharpened",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/noisia_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisia_01_png.png"
   },
   {
     "id": "music_kit-4_st",
@@ -49,7 +75,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Noisia, Sharpened",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/noisia_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisia_01_png.png"
   },
   {
     "id": "music_kit-5",
@@ -62,7 +88,7 @@
     },
     "market_hash_name": "Music Kit | Robert Allaire, Insurgency",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/robertallaire_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/robertallaire_01_png.png"
   },
   {
     "id": "music_kit-5_st",
@@ -75,7 +101,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Robert Allaire, Insurgency",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/robertallaire_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/robertallaire_01_png.png"
   },
   {
     "id": "music_kit-6",
@@ -88,7 +114,7 @@
     },
     "market_hash_name": "Music Kit | Sean Murray, A*D*8",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/seanmurray_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/seanmurray_01_png.png"
   },
   {
     "id": "music_kit-6_st",
@@ -101,7 +127,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Sean Murray, A*D*8",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/seanmurray_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/seanmurray_01_png.png"
   },
   {
     "id": "music_kit-7",
@@ -114,7 +140,7 @@
     },
     "market_hash_name": "Music Kit | Feed Me, High Noon",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/feedme_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/feedme_01_png.png"
   },
   {
     "id": "music_kit-7_st",
@@ -127,7 +153,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Feed Me, High Noon",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/feedme_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/feedme_01_png.png"
   },
   {
     "id": "music_kit-8",
@@ -140,7 +166,7 @@
     },
     "market_hash_name": "Music Kit | Dren, Death's Head Demolition",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/dren_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/dren_01_png.png"
   },
   {
     "id": "music_kit-8_st",
@@ -153,7 +179,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Dren, Death's Head Demolition",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/dren_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/dren_01_png.png"
   },
   {
     "id": "music_kit-9",
@@ -166,7 +192,7 @@
     },
     "market_hash_name": "Music Kit | Austin Wintory, Desert Fire",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/austinwintory_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/austinwintory_01_png.png"
   },
   {
     "id": "music_kit-9_st",
@@ -179,7 +205,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Austin Wintory, Desert Fire",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/austinwintory_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/austinwintory_01_png.png"
   },
   {
     "id": "music_kit-10",
@@ -192,7 +218,7 @@
     },
     "market_hash_name": "Music Kit | Sasha, LNOE",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sasha_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sasha_01_png.png"
   },
   {
     "id": "music_kit-10_st",
@@ -205,7 +231,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Sasha, LNOE",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sasha_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sasha_01_png.png"
   },
   {
     "id": "music_kit-11",
@@ -218,7 +244,7 @@
     },
     "market_hash_name": "Music Kit | Skog, Metal",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/skog_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/skog_01_png.png"
   },
   {
     "id": "music_kit-11_st",
@@ -231,7 +257,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Skog, Metal",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/skog_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/skog_01_png.png"
   },
   {
     "id": "music_kit-12",
@@ -244,7 +270,7 @@
     },
     "market_hash_name": "Music Kit | Midnight Riders, All I Want for Christmas",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/midnightriders_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/midnightriders_01_png.png"
   },
   {
     "id": "music_kit-12_st",
@@ -257,7 +283,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Midnight Riders, All I Want for Christmas",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/midnightriders_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/midnightriders_01_png.png"
   },
   {
     "id": "music_kit-13",
@@ -270,7 +296,7 @@
     },
     "market_hash_name": "Music Kit | Matt Lange, IsoRhythm",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mattlange_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mattlange_01_png.png"
   },
   {
     "id": "music_kit-13_st",
@@ -283,7 +309,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Matt Lange, IsoRhythm",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mattlange_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mattlange_01_png.png"
   },
   {
     "id": "music_kit-14",
@@ -296,7 +322,7 @@
     },
     "market_hash_name": "Music Kit | Mateo Messina, For No Mankind",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mateomessina_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mateomessina_01_png.png"
   },
   {
     "id": "music_kit-14_st",
@@ -309,7 +335,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Mateo Messina, For No Mankind",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mateomessina_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mateomessina_01_png.png"
   },
   {
     "id": "music_kit-15",
@@ -322,7 +348,7 @@
     },
     "market_hash_name": "Music Kit | Various Artists, Hotline Miami",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/hotlinemiami_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/hotlinemiami_01_png.png"
   },
   {
     "id": "music_kit-15_st",
@@ -335,7 +361,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Various Artists, Hotline Miami",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/hotlinemiami_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/hotlinemiami_01_png.png"
   },
   {
     "id": "music_kit-16",
@@ -348,7 +374,7 @@
     },
     "market_hash_name": "Music Kit | Daniel Sadowski, Total Domination",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_02_png.png"
   },
   {
     "id": "music_kit-16_st",
@@ -361,7 +387,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, Total Domination",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_02_png.png"
   },
   {
     "id": "music_kit-17",
@@ -374,7 +400,7 @@
     },
     "market_hash_name": "Music Kit | Damjan Mravunac, The Talos Principle",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/damjanmravunac_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/damjanmravunac_01_png.png"
   },
   {
     "id": "music_kit-17_st",
@@ -387,7 +413,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Damjan Mravunac, The Talos Principle",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/damjanmravunac_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/damjanmravunac_01_png.png"
   },
   {
     "id": "music_kit-18",
@@ -400,7 +426,7 @@
     },
     "market_hash_name": "Music Kit | Proxy, Battlepack",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/proxy_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/proxy_01_png.png"
   },
   {
     "id": "music_kit-18_st",
@@ -413,7 +439,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Proxy, Battlepack",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/proxy_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/proxy_01_png.png"
   },
   {
     "id": "music_kit-19",
@@ -426,7 +452,7 @@
     },
     "market_hash_name": "Music Kit | Ki:Theory, MOLOTOV",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/kitheory_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/kitheory_01_png.png"
   },
   {
     "id": "music_kit-19_st",
@@ -439,7 +465,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Ki:Theory, MOLOTOV",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/kitheory_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/kitheory_01_png.png"
   },
   {
     "id": "music_kit-20",
@@ -452,7 +478,7 @@
     },
     "market_hash_name": "Music Kit | Troels Folmann, Uber Blasto Phone",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/troelsfolmann_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/troelsfolmann_01_png.png"
   },
   {
     "id": "music_kit-20_st",
@@ -465,7 +491,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Troels Folmann, Uber Blasto Phone",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/troelsfolmann_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/troelsfolmann_01_png.png"
   },
   {
     "id": "music_kit-21",
@@ -478,7 +504,7 @@
     },
     "market_hash_name": "Music Kit | Kelly Bailey, Hazardous Environments",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/kellybailey_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/kellybailey_01_png.png"
   },
   {
     "id": "music_kit-21_st",
@@ -491,7 +517,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Kelly Bailey, Hazardous Environments",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/kellybailey_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/kellybailey_01_png.png"
   },
   {
     "id": "music_kit-22",
@@ -504,7 +530,7 @@
     },
     "market_hash_name": "Music Kit | Skog, II-Headshot",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/skog_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/skog_02_png.png"
   },
   {
     "id": "music_kit-22_st",
@@ -517,7 +543,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Skog, II-Headshot",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/skog_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/skog_02_png.png"
   },
   {
     "id": "music_kit-23",
@@ -530,7 +556,7 @@
     },
     "market_hash_name": "Music Kit | Daniel Sadowski, The 8-Bit Kit",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_03_png.png"
   },
   {
     "id": "music_kit-23_st",
@@ -543,7 +569,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, The 8-Bit Kit",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_03_png.png"
   },
   {
     "id": "music_kit-24",
@@ -556,7 +582,7 @@
     },
     "market_hash_name": "Music Kit | AWOLNATION, I Am",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/awolnation_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/awolnation_01_png.png"
   },
   {
     "id": "music_kit-24_st",
@@ -569,7 +595,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | AWOLNATION, I Am",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/awolnation_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/awolnation_01_png.png"
   },
   {
     "id": "music_kit-25",
@@ -582,7 +608,7 @@
     },
     "market_hash_name": "Music Kit | Mord Fustang, Diamonds",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mordfustang_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mordfustang_01_png.png"
   },
   {
     "id": "music_kit-25_st",
@@ -595,7 +621,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Mord Fustang, Diamonds",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mordfustang_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mordfustang_01_png.png"
   },
   {
     "id": "music_kit-26",
@@ -608,7 +634,7 @@
     },
     "market_hash_name": "Music Kit | Michael Bross, Invasion!",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/michaelbross_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/michaelbross_01_png.png"
   },
   {
     "id": "music_kit-26_st",
@@ -621,7 +647,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Michael Bross, Invasion!",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/michaelbross_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/michaelbross_01_png.png"
   },
   {
     "id": "music_kit-27",
@@ -634,7 +660,7 @@
     },
     "market_hash_name": "Music Kit | Ian Hultquist, Lion's Mouth",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/ianhultquist_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/ianhultquist_01_png.png"
   },
   {
     "id": "music_kit-27_st",
@@ -647,7 +673,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Ian Hultquist, Lion's Mouth",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/ianhultquist_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/ianhultquist_01_png.png"
   },
   {
     "id": "music_kit-28",
@@ -660,7 +686,7 @@
     },
     "market_hash_name": "Music Kit | New Beat Fund, Sponge Fingerz",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/newbeatfund_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/newbeatfund_01_png.png"
   },
   {
     "id": "music_kit-28_st",
@@ -673,7 +699,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | New Beat Fund, Sponge Fingerz",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/newbeatfund_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/newbeatfund_01_png.png"
   },
   {
     "id": "music_kit-29",
@@ -686,7 +712,7 @@
     },
     "market_hash_name": "Music Kit | Beartooth, Disgusting",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/beartooth_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/beartooth_01_png.png"
   },
   {
     "id": "music_kit-29_st",
@@ -699,7 +725,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Beartooth, Disgusting",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/beartooth_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/beartooth_01_png.png"
   },
   {
     "id": "music_kit-30",
@@ -712,7 +738,7 @@
     },
     "market_hash_name": "Music Kit | Lennie Moore, Java Havana Funkaloo",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/lenniemoore_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/lenniemoore_01_png.png"
   },
   {
     "id": "music_kit-30_st",
@@ -725,7 +751,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Lennie Moore, Java Havana Funkaloo",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/lenniemoore_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/lenniemoore_01_png.png"
   },
   {
     "id": "music_kit-31",
@@ -736,9 +762,9 @@
       "name": "de grado alto",
       "color": "#4b69ff"
     },
-    "market_hash_name": "Music Kit | Darude, Moments CS:GO",
+    "market_hash_name": "Music Kit | Darude, Moments CSGO",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/darude_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/darude_01_png.png"
   },
   {
     "id": "music_kit-31_st",
@@ -749,22 +775,9 @@
       "name": "de grado alto",
       "color": "#4b69ff"
     },
-    "market_hash_name": "StatTrak™ Music Kit | Darude, Moments CS:GO",
+    "market_hash_name": "StatTrak™ Music Kit | Darude, Moments CSGO",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/darude_01_png.png"
-  },
-  {
-    "id": "music_kit-32",
-    "name": "Kit de música | Beartooth, Aggressive",
-    "description": "Beartooth vuelve para la segunda ronda. Este nuevo kit de música llega con más fuerza y es mucho más agresivo. Además le hemos dado un toque más heavy al himno de Jugador Más Valioso, para que tus oponentes se sientan realmente mal cuando los aplastes.",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "de grado alto",
-      "color": "#4b69ff"
-    },
-    "market_hash_name": "Music Kit | Beartooth, Aggressive",
-    "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/beartooth_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/darude_01_png.png"
   },
   {
     "id": "music_kit-32_st",
@@ -777,20 +790,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Beartooth, Aggressive",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/beartooth_02_png.png"
-  },
-  {
-    "id": "music_kit-33",
-    "name": "Kit de música | Blitz Kids, The Good Youth",
-    "description": "La banda de pop/punk británica Blitz Kids presenta el kit de música perfecto para asaltar B mientras piensas en esos paseos nocturnos con tus amigos de la secundaria. Este kit es para sentirse joven y veloz.",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "de grado alto",
-      "color": "#4b69ff"
-    },
-    "market_hash_name": "Music Kit | Blitz Kids, The Good Youth",
-    "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/blitzkids_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/beartooth_02_png.png"
   },
   {
     "id": "music_kit-33_st",
@@ -803,20 +803,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Blitz Kids, The Good Youth",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/blitzkids_01_png.png"
-  },
-  {
-    "id": "music_kit-34",
-    "name": "Kit de música | Hundredth, FREE",
-    "description": "Hundredth tiñe el mundo de heavy con su particular estilo de hardcore melódico. Libérate o vuelve a Dust con esta banda sonora perfecta para fusilar al enemigo.",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "de grado alto",
-      "color": "#4b69ff"
-    },
-    "market_hash_name": "Music Kit | Hundredth, FREE",
-    "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/hundredth_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/blitzkids_01_png.png"
   },
   {
     "id": "music_kit-34_st",
@@ -829,20 +816,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Hundredth, FREE",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/hundredth_01_png.png"
-  },
-  {
-    "id": "music_kit-35",
-    "name": "Kit de música | Neck Deep, Life's Not Out To Get You",
-    "description": "A veces solo necesitas un poco de pop punk para superar el día. Ya sea por tener que lidiar con los campers o porque acaban de estropearte una racha increíble, aquí está Neck Deep para demostrar que la vida no viene a por ti, pero el otro equipo sí.",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "de grado alto",
-      "color": "#4b69ff"
-    },
-    "market_hash_name": "Music Kit | Neck Deep, Life's Not Out To Get You",
-    "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/neckdeep_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/hundredth_01_png.png"
   },
   {
     "id": "music_kit-35_st",
@@ -855,20 +829,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Neck Deep, Life's Not Out To Get You",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/neckdeep_01_png.png"
-  },
-  {
-    "id": "music_kit-36",
-    "name": "Kit de música | Roam, Backbone",
-    "description": "Roam ofrece un pop punk rápido y directo que hace moverse tanto al público como a los jugadores. Demuestra tus agallas con esta banda sonora, perfecta para lanzarse sobre el otro equipo y arrasarlo sin darles tiempo a percatarse de que ya están muertos.",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "de grado alto",
-      "color": "#4b69ff"
-    },
-    "market_hash_name": "Music Kit | Roam, Backbone",
-    "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/roam_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/neckdeep_01_png.png"
   },
   {
     "id": "music_kit-36_st",
@@ -881,20 +842,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Roam, Backbone",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/roam_01_png.png"
-  },
-  {
-    "id": "music_kit-37",
-    "name": "Kit de música | Twin Atlantic, GLA",
-    "description": "Twin Atlantic llegan a CS:GO más heavies, rabiosos y fuertes que nunca para ayudarte a derretir caras con la potencia de fuego del rock escocés.",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "de grado alto",
-      "color": "#4b69ff"
-    },
-    "market_hash_name": "Music Kit | Twin Atlantic, GLA",
-    "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/twinatlantic_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/roam_01_png.png"
   },
   {
     "id": "music_kit-37_st",
@@ -907,20 +855,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Twin Atlantic, GLA",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/twinatlantic_01_png.png"
-  },
-  {
-    "id": "music_kit-38",
-    "name": "Kit de música | Skog, III-Arena",
-    "description": "Skog está de vuelta con un tercer kit de metal demoledor. Esta vez le da un giro electro-orgánico a su música, combinando inmensos riffs de guitarra con no menos colosales drops, bucles y pedales.",
-    "rarity": {
-      "id": "rarity_rare",
-      "name": "de grado alto",
-      "color": "#4b69ff"
-    },
-    "market_hash_name": "Music Kit | Skog, III-Arena",
-    "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/skog_03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/twinatlantic_01_png.png"
   },
   {
     "id": "music_kit-38_st",
@@ -933,7 +868,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Skog, III-Arena",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/skog_03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/skog_03_png.png"
   },
   {
     "id": "music_kit-39",
@@ -946,7 +881,7 @@
     },
     "market_hash_name": "Music Kit | The Verkkars, EZ4ENCE",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/theverkkars_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/theverkkars_01_png.png"
   },
   {
     "id": "music_kit-39_st",
@@ -959,7 +894,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | The Verkkars, EZ4ENCE",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/theverkkars_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/theverkkars_01_png.png"
   },
   {
     "id": "music_kit-40",
@@ -972,7 +907,7 @@
     },
     "market_hash_name": null,
     "exclusive": true,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/halo_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/halo_01_png.png"
   },
   {
     "id": "music_kit-41",
@@ -985,7 +920,7 @@
     },
     "market_hash_name": "Music Kit | Scarlxrd: King, Scar",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/scarlxrd_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/scarlxrd_01_png.png"
   },
   {
     "id": "music_kit-41_st",
@@ -998,7 +933,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Scarlxrd: King, Scar",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/scarlxrd_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/scarlxrd_01_png.png"
   },
   {
     "id": "music_kit-42",
@@ -1011,7 +946,7 @@
     },
     "market_hash_name": null,
     "exclusive": true,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/hlalyx_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/hlalyx_01_png.png"
   },
   {
     "id": "music_kit-43",
@@ -1024,7 +959,7 @@
     },
     "market_hash_name": "Music Kit | Austin Wintory, Bachram",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/austinwintory_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/austinwintory_02_png.png"
   },
   {
     "id": "music_kit-43_st",
@@ -1037,7 +972,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Austin Wintory, Bachram",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/austinwintory_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/austinwintory_02_png.png"
   },
   {
     "id": "music_kit-44",
@@ -1050,7 +985,7 @@
     },
     "market_hash_name": "Music Kit | Dren, Gunman Taco Truck",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/dren_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/dren_02_png.png"
   },
   {
     "id": "music_kit-44_st",
@@ -1063,7 +998,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Dren, Gunman Taco Truck",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/dren_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/dren_02_png.png"
   },
   {
     "id": "music_kit-45",
@@ -1076,7 +1011,7 @@
     },
     "market_hash_name": "Music Kit | Daniel Sadowski, Eye of the Dragon",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_04_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_04_png.png"
   },
   {
     "id": "music_kit-45_st",
@@ -1089,7 +1024,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, Eye of the Dragon",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_04_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_04_png.png"
   },
   {
     "id": "music_kit-46",
@@ -1102,7 +1037,7 @@
     },
     "market_hash_name": "Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/treeadams_benbromfield_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/treeadams_benbromfield_01_png.png"
   },
   {
     "id": "music_kit-46_st",
@@ -1115,7 +1050,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/treeadams_benbromfield_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/treeadams_benbromfield_01_png.png"
   },
   {
     "id": "music_kit-47",
@@ -1128,7 +1063,7 @@
     },
     "market_hash_name": "Music Kit | Tim Huling, Neo Noir",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/timhuling_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/timhuling_01_png.png"
   },
   {
     "id": "music_kit-47_st",
@@ -1141,7 +1076,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Tim Huling, Neo Noir",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/timhuling_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/timhuling_01_png.png"
   },
   {
     "id": "music_kit-48",
@@ -1154,7 +1089,7 @@
     },
     "market_hash_name": "Music Kit | Sam Marshall, Bodacious",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sammarshall_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sammarshall_01_png.png"
   },
   {
     "id": "music_kit-48_st",
@@ -1167,7 +1102,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Sam Marshall, Bodacious",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sammarshall_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sammarshall_01_png.png"
   },
   {
     "id": "music_kit-49",
@@ -1180,7 +1115,7 @@
     },
     "market_hash_name": "Music Kit | Matt Levine, Drifter",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mattlevine_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mattlevine_01_png.png"
   },
   {
     "id": "music_kit-49_st",
@@ -1193,7 +1128,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Matt Levine, Drifter",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mattlevine_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mattlevine_01_png.png"
   },
   {
     "id": "music_kit-50",
@@ -1206,7 +1141,7 @@
     },
     "market_hash_name": "Music Kit | Amon Tobin, All for Dust",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/amontobin_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/amontobin_01_png.png"
   },
   {
     "id": "music_kit-50_st",
@@ -1219,7 +1154,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Amon Tobin, All for Dust",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/amontobin_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/amontobin_01_png.png"
   },
   {
     "id": "music_kit-51",
@@ -1232,7 +1167,7 @@
     },
     "market_hash_name": null,
     "exclusive": true,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/hades_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/hades_01_png.png"
   },
   {
     "id": "music_kit-52",
@@ -1245,7 +1180,7 @@
     },
     "market_hash_name": "Music Kit | Neck Deep, The Lowlife Pack",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/neckdeep_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/neckdeep_02_png.png"
   },
   {
     "id": "music_kit-52_st",
@@ -1258,7 +1193,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Neck Deep, The Lowlife Pack",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/neckdeep_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/neckdeep_02_png.png"
   },
   {
     "id": "music_kit-53",
@@ -1271,7 +1206,7 @@
     },
     "market_hash_name": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/scarlxrd_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/scarlxrd_02_png.png"
   },
   {
     "id": "music_kit-53_st",
@@ -1284,7 +1219,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/scarlxrd_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/scarlxrd_02_png.png"
   },
   {
     "id": "music_kit-54",
@@ -1297,7 +1232,7 @@
     },
     "market_hash_name": "Music Kit | Austin Wintory, Mocha Petal",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/austinwintory_03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/austinwintory_03_png.png"
   },
   {
     "id": "music_kit-54_st",
@@ -1310,7 +1245,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Austin Wintory, Mocha Petal",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/austinwintory_03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/austinwintory_03_png.png"
   },
   {
     "id": "music_kit-55",
@@ -1323,7 +1258,7 @@
     },
     "market_hash_name": "Music Kit | Chipzel, ~Yellow Magic~",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/chipzel_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/chipzel_01_png.png"
   },
   {
     "id": "music_kit-55_st",
@@ -1336,7 +1271,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Chipzel, ~Yellow Magic~",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/chipzel_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/chipzel_01_png.png"
   },
   {
     "id": "music_kit-56",
@@ -1349,7 +1284,7 @@
     },
     "market_hash_name": "Music Kit | Freaky DNA, Vici",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/freakydna_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/freakydna_01_png.png"
   },
   {
     "id": "music_kit-56_st",
@@ -1362,7 +1297,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Freaky DNA, Vici",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/freakydna_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/freakydna_01_png.png"
   },
   {
     "id": "music_kit-57",
@@ -1375,7 +1310,7 @@
     },
     "market_hash_name": "Music Kit | Jesse Harlin, Astro Bellum",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/jesseharlin_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/jesseharlin_01_png.png"
   },
   {
     "id": "music_kit-57_st",
@@ -1388,7 +1323,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Jesse Harlin, Astro Bellum",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/jesseharlin_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/jesseharlin_01_png.png"
   },
   {
     "id": "music_kit-58",
@@ -1401,7 +1336,7 @@
     },
     "market_hash_name": "Music Kit | Laura Shigihara: Work Hard, Play Hard",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/laurashigihara_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/laurashigihara_01_png.png"
   },
   {
     "id": "music_kit-58_st",
@@ -1414,7 +1349,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Laura Shigihara: Work Hard, Play Hard",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/laurashigihara_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/laurashigihara_01_png.png"
   },
   {
     "id": "music_kit-59",
@@ -1427,7 +1362,7 @@
     },
     "market_hash_name": "Music Kit | Sarah Schachner, KOLIBRI",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sarahschachner_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sarahschachner_01_png.png"
   },
   {
     "id": "music_kit-59_st",
@@ -1440,7 +1375,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Sarah Schachner, KOLIBRI",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sarahschachner_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sarahschachner_01_png.png"
   },
   {
     "id": "music_kit-60",
@@ -1453,7 +1388,7 @@
     },
     "market_hash_name": "Music Kit | bbno$, u mad!",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/bbnos_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/bbnos_01_png.png"
   },
   {
     "id": "music_kit-60_st",
@@ -1466,7 +1401,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | bbno$, u mad!",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/bbnos_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/bbnos_01_png.png"
   },
   {
     "id": "music_kit-61",
@@ -1479,7 +1414,7 @@
     },
     "market_hash_name": "Music Kit | The Verkkars & n0thing, Flashbang Dance",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/theverkkars_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/theverkkars_02_png.png"
   },
   {
     "id": "music_kit-61_st",
@@ -1492,7 +1427,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | The Verkkars & n0thing, Flashbang Dance",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/theverkkars_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/theverkkars_02_png.png"
   },
   {
     "id": "music_kit-62",
@@ -1505,7 +1440,7 @@
     },
     "market_hash_name": "Music Kit | 3kliksphilip, Heading for the Source",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/3kliksphilip_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/3kliksphilip_01_png.png"
   },
   {
     "id": "music_kit-62_st",
@@ -1518,7 +1453,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | 3kliksphilip, Heading for the Source",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/3kliksphilip_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/3kliksphilip_01_png.png"
   },
   {
     "id": "music_kit-63",
@@ -1531,7 +1466,7 @@
     },
     "market_hash_name": "Music Kit | Humanity's Last Breath, Void",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/hlb_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/hlb_01_png.png"
   },
   {
     "id": "music_kit-63_st",
@@ -1544,7 +1479,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Humanity's Last Breath, Void",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/hlb_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/hlb_01_png.png"
   },
   {
     "id": "music_kit-64",
@@ -1557,7 +1492,7 @@
     },
     "market_hash_name": "Music Kit | Juelz, Shooters",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/juelz_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/juelz_01_png.png"
   },
   {
     "id": "music_kit-64_st",
@@ -1570,7 +1505,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Juelz, Shooters",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/juelz_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/juelz_01_png.png"
   },
   {
     "id": "music_kit-65",
@@ -1583,7 +1518,7 @@
     },
     "market_hash_name": "Music Kit | Knock2, dashstar*",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/knock2_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/knock2_01_png.png"
   },
   {
     "id": "music_kit-65_st",
@@ -1596,7 +1531,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Knock2, dashstar*",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/knock2_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/knock2_01_png.png"
   },
   {
     "id": "music_kit-66",
@@ -1609,7 +1544,7 @@
     },
     "market_hash_name": "Music Kit | Meechy Darko, Gothic Luxury",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/meechydarko_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/meechydarko_01_png.png"
   },
   {
     "id": "music_kit-66_st",
@@ -1622,7 +1557,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Meechy Darko, Gothic Luxury",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/meechydarko_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/meechydarko_01_png.png"
   },
   {
     "id": "music_kit-67",
@@ -1635,7 +1570,7 @@
     },
     "market_hash_name": "Music Kit | Sullivan King, Lock Me Up",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sullivanking_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sullivanking_01_png.png"
   },
   {
     "id": "music_kit-67_st",
@@ -1648,7 +1583,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Sullivan King, Lock Me Up",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sullivanking_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sullivanking_01_png.png"
   },
   {
     "id": "music_kit-68",
@@ -1661,7 +1596,7 @@
     },
     "market_hash_name": "Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/perfectworld_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/perfectworld_01_png.png"
   },
   {
     "id": "music_kit-68_st",
@@ -1674,7 +1609,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/perfectworld_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/perfectworld_01_png.png"
   },
   {
     "id": "music_kit-69",
@@ -1687,7 +1622,7 @@
     },
     "market_hash_name": "Music Kit | Denzel Curry, ULTIMATE",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/denzelcurry_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/denzelcurry_01_png.png"
   },
   {
     "id": "music_kit-69_st",
@@ -1700,7 +1635,20 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Denzel Curry, ULTIMATE",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/denzelcurry_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/denzelcurry_01_png.png"
+  },
+  {
+    "id": "music_kit-70",
+    "name": "Valve, CS:GO",
+    "description": "Kit de música por defecto de CS:GO, presentada con el lanzamiento de CS:GO en 2012.",
+    "rarity": {
+      "id": "rarity_rare",
+      "name": "de grado alto",
+      "color": "#4b69ff"
+    },
+    "market_hash_name": null,
+    "exclusive": false,
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/valve_01_png.png"
   },
   {
     "id": "music_kit-71",
@@ -1713,7 +1661,7 @@
     },
     "market_hash_name": "Music Kit | DRYDEN, Feel The Power",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/dryden_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/dryden_01_png.png"
   },
   {
     "id": "music_kit-71_st",
@@ -1726,7 +1674,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | DRYDEN, Feel The Power",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/dryden_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/dryden_01_png.png"
   },
   {
     "id": "music_kit-72",
@@ -1739,7 +1687,7 @@
     },
     "market_hash_name": "Music Kit | ISOxo, inhuman",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/isoxo_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/isoxo_01_png.png"
   },
   {
     "id": "music_kit-72_st",
@@ -1752,7 +1700,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | ISOxo, inhuman",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/isoxo_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/isoxo_01_png.png"
   },
   {
     "id": "music_kit-73",
@@ -1765,7 +1713,7 @@
     },
     "market_hash_name": "Music Kit | KILL SCRIPT, All Night",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/killscript_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/killscript_01_png.png"
   },
   {
     "id": "music_kit-73_st",
@@ -1778,7 +1726,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | KILL SCRIPT, All Night",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/killscript_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/killscript_01_png.png"
   },
   {
     "id": "music_kit-74",
@@ -1791,7 +1739,7 @@
     },
     "market_hash_name": "Music Kit | Knock2, Make U SWEAT!",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/knock2_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/knock2_02_png.png"
   },
   {
     "id": "music_kit-74_st",
@@ -1804,7 +1752,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Knock2, Make U SWEAT!",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/knock2_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/knock2_02_png.png"
   },
   {
     "id": "music_kit-75",
@@ -1817,7 +1765,7 @@
     },
     "market_hash_name": "Music Kit | Rad Cat, Reason",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/radcat_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/radcat_01_png.png"
   },
   {
     "id": "music_kit-75_st",
@@ -1830,7 +1778,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Rad Cat, Reason",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/radcat_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/radcat_01_png.png"
   },
   {
     "id": "music_kit-76",
@@ -1841,9 +1789,9 @@
       "name": "de grado alto",
       "color": "#4b69ff"
     },
-    "market_hash_name": "Music Kit | TWERL, Ekko & Sidetrack, Under Bright Lights",
+    "market_hash_name": "Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/twerl_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/twerl_01_png.png"
   },
   {
     "id": "music_kit-76_st",
@@ -1856,7 +1804,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | TWERL and Ekko & Sidetrack, Under Bright Lights",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/twerl_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/twerl_01_png.png"
   },
   {
     "id": "music_kit-78",
@@ -1867,9 +1815,9 @@
       "name": "de grado alto",
       "color": "#4b69ff"
     },
-    "market_hash_name": "Music Kit | Austin Wintory, The Devil Went Clubbing In Georgia",
+    "market_hash_name": "Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/austinwintory_04_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/austinwintory_04_png.png"
   },
   {
     "id": "music_kit-78_st",
@@ -1880,9 +1828,9 @@
       "name": "de grado alto",
       "color": "#4b69ff"
     },
-    "market_hash_name": "StatTrak™ Music Kit | Austin Wintory, The Devil Went Clubbing In Georgia",
+    "market_hash_name": "StatTrak™ Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/austinwintory_04_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/austinwintory_04_png.png"
   },
   {
     "id": "music_kit-79",
@@ -1895,7 +1843,7 @@
     },
     "market_hash_name": "Music Kit | Ben Bromfield, Rabbit Hole",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/benbromfield_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/benbromfield_01_png.png"
   },
   {
     "id": "music_kit-79_st",
@@ -1908,7 +1856,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Ben Bromfield, Rabbit Hole",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/benbromfield_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/benbromfield_01_png.png"
   },
   {
     "id": "music_kit-80",
@@ -1921,7 +1869,7 @@
     },
     "market_hash_name": "Music Kit | Daniel Sadowski, Dead Shot",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_05_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_05_png.png"
   },
   {
     "id": "music_kit-80_st",
@@ -1934,7 +1882,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Daniel Sadowski, Dead Shot",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/danielsadowski_05_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/danielsadowski_05_png.png"
   },
   {
     "id": "music_kit-81",
@@ -1947,7 +1895,7 @@
     },
     "market_hash_name": "Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/dren_03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/dren_03_png.png"
   },
   {
     "id": "music_kit-81_st",
@@ -1960,7 +1908,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/dren_03_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/dren_03_png.png"
   },
   {
     "id": "music_kit-82",
@@ -1973,7 +1921,7 @@
     },
     "market_hash_name": "Music Kit | Matt Levine, Agency",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mattlevine_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mattlevine_02_png.png"
   },
   {
     "id": "music_kit-82_st",
@@ -1986,7 +1934,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Matt Levine, Agency",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/mattlevine_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/mattlevine_02_png.png"
   },
   {
     "id": "music_kit-83",
@@ -1999,7 +1947,7 @@
     },
     "market_hash_name": "Music Kit | Sam Marshall, Clutch",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sammarshall_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sammarshall_02_png.png"
   },
   {
     "id": "music_kit-83_st",
@@ -2012,7 +1960,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Sam Marshall, Clutch",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/sammarshall_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/sammarshall_02_png.png"
   },
   {
     "id": "music_kit-84",
@@ -2025,7 +1973,7 @@
     },
     "market_hash_name": "Music Kit | Tim Huling, Devil's Paintbrush",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/timhuling_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/timhuling_02_png.png"
   },
   {
     "id": "music_kit-84_st",
@@ -2038,7 +1986,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Tim Huling, Devil's Paintbrush",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/timhuling_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/timhuling_02_png.png"
   },
   {
     "id": "music_kit-85",
@@ -2051,7 +1999,7 @@
     },
     "market_hash_name": "Music Kit | Tree Adams, Seventh Moon",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/treeadams_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/treeadams_01_png.png"
   },
   {
     "id": "music_kit-85_st",
@@ -2064,7 +2012,7 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Tree Adams, Seventh Moon",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/treeadams_01_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/treeadams_01_png.png"
   },
   {
     "id": "music_kit-86",
@@ -2077,7 +2025,7 @@
     },
     "market_hash_name": "Music Kit | Perfect World, Ay Hey",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/perfectworld_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/perfectworld_02_png.png"
   },
   {
     "id": "music_kit-86_st",
@@ -2090,6 +2038,6 @@
     },
     "market_hash_name": "StatTrak™ Music Kit | Perfect World, Ay Hey",
     "exclusive": false,
-    "image": "https://i.cs2inspects.com/images/econ/music_kits/perfectworld_02_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/perfectworld_02_png.png"
   }
 ]

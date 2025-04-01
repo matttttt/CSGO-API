@@ -11,7 +11,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Payback Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/community_support_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/community_support_pass_png.png"
   },
   {
     "id": "collectible-1012",
@@ -25,7 +25,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Bravo Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_bravo_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_bravo_pass_png.png"
   },
   {
     "id": "collectible-1023",
@@ -39,7 +39,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Phoenix Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_phoenix_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_phoenix_pass_png.png"
   },
   {
     "id": "collectible-1027",
@@ -53,7 +53,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Breakout All Access Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_breakout_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_breakout_pass_png.png"
   },
   {
     "id": "collectible-1315",
@@ -67,7 +67,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Vanguard Access Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_vanguard_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_vanguard_pass_png.png"
   },
   {
     "id": "collectible-1326",
@@ -81,7 +81,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Bloodhound Access Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_6_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_6_pass_png.png"
   },
   {
     "id": "collectible-1335",
@@ -95,7 +95,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Wildfire Access Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_7_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_7_pass_png.png"
   },
   {
     "id": "collectible-1352",
@@ -109,7 +109,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Hydra Access Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_8_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_8_pass_png.png"
   },
   {
     "id": "collectible-4549",
@@ -123,7 +123,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Shattered Web Premium Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_9_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_9_pass_png.png"
   },
   {
     "id": "collectible-4554",
@@ -137,7 +137,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Katowice 2019 Viewer Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/katowice_pickem_2019_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/katowice_pickem_2019_pass_png.png"
   },
   {
     "id": "collectible-4622",
@@ -151,7 +151,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Berlin 2019 Viewer Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/starladder_pickem_2019_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/starladder_pickem_2019_pass_png.png"
   },
   {
     "id": "collectible-4627",
@@ -165,7 +165,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/starladder_pickem_2019_pass_pack_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/starladder_pickem_2019_pass_pack_png.png"
   },
   {
     "id": "collectible-4628",
@@ -179,7 +179,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Berlin 2019 Souvenir Token",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/starladder_pickem_2019_pass_charge_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/starladder_pickem_2019_pass_charge_png.png"
   },
   {
     "id": "collectible-4699",
@@ -193,7 +193,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Broken Fang Premium Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_10_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_10_pass_png.png"
   },
   {
     "id": "collectible-4758",
@@ -207,7 +207,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Operation Riptide Premium Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/operation_11_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/operation_11_pass_png.png"
   },
   {
     "id": "collectible-4796",
@@ -221,7 +221,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Stockholm 2021 Viewer Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pgl_pickem_2021_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2021_pass_png.png"
   },
   {
     "id": "collectible-4801",
@@ -235,7 +235,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Stockholm 2021 Viewer Pass + 3 Souvenir Tokens",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pgl_pickem_2021_pass_pack_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2021_pass_pack_png.png"
   },
   {
     "id": "collectible-4802",
@@ -249,7 +249,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Stockholm 2021 Souvenir Token",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pgl_pickem_2021_pass_charge_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2021_pass_charge_png.png"
   },
   {
     "id": "collectible-4825",
@@ -263,7 +263,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Antwerp 2022 Viewer Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pgl_pickem_2022_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2022_pass_png.png"
   },
   {
     "id": "collectible-4830",
@@ -277,7 +277,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Antwerp 2022 Viewer Pass + 3 Souvenir Tokens",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pgl_pickem_2022_pass_pack_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2022_pass_pack_png.png"
   },
   {
     "id": "collectible-4831",
@@ -291,7 +291,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Antwerp 2022 Souvenir Token",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pgl_pickem_2022_pass_charge_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2022_pass_charge_png.png"
   },
   {
     "id": "collectible-4850",
@@ -305,7 +305,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Rio 2022 Viewer Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/iem_pickem_2022_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/iem_pickem_2022_pass_png.png"
   },
   {
     "id": "collectible-4855",
@@ -319,7 +319,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Rio 2022 Viewer Pass + 3 Souvenir Tokens",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/iem_pickem_2022_pass_pack_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/iem_pickem_2022_pass_pack_png.png"
   },
   {
     "id": "collectible-4856",
@@ -333,7 +333,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Rio 2022 Souvenir Token",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/iem_pickem_2022_pass_charge_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/iem_pickem_2022_pass_charge_png.png"
   },
   {
     "id": "collectible-4883",
@@ -347,7 +347,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Paris 2023 Viewer Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/blast_pickem_2023_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/blast_pickem_2023_pass_png.png"
   },
   {
     "id": "collectible-4888",
@@ -361,7 +361,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Paris 2023 Viewer Pass + 3 Souvenir Tokens",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/blast_pickem_2023_pass_pack_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/blast_pickem_2023_pass_pack_png.png"
   },
   {
     "id": "collectible-4889",
@@ -375,7 +375,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Paris 2023 Souvenir Token",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/blast_pickem_2023_pass_charge_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/blast_pickem_2023_pass_charge_png.png"
   },
   {
     "id": "collectible-4916",
@@ -389,7 +389,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Copenhagen 2024 Viewer Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pgl_pickem_2024_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2024_pass_png.png"
   },
   {
     "id": "collectible-4921",
@@ -403,7 +403,7 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Copenhagen 2024 Viewer Pass + 3 Souvenir Tokens",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pgl_pickem_2024_pass_pack_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2024_pass_pack_png.png"
   },
   {
     "id": "collectible-4922",
@@ -417,48 +417,48 @@
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Copenhagen 2024 Souvenir Package",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pgl_pickem_2024_pass_charge_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pgl_pickem_2024_pass_charge_png.png"
   },
   {
     "id": "collectible-4957",
     "name": "Pase de espectador de Shanghái 2024",
     "description": "Este es un pase de espectador precintado del Campeonato Major de CS2 Perfect World Shanghái 2024. Una vez abierto, te proporcionará una moneda de Shanghái 2024 que registra tu progreso a lo largo del evento, te otorga acceso completo al Desafío Pick'Em de Shanghái 2024, íconos para el chat de Steam.tv, desafíos de moneda y oportunidades ilimitadas para obtener grafitis en el juego durante todo el evento.\\n\\nPuedes subir de nivel tu moneda de Shanghái 2024 completando desafíos. Obtendrás una ficha de recuerdo cada vez que la moneda suba de nivel.\\n\\nEl 50 % de las ganancias de la venta de este pase será destinado a las organizaciones participantes.",
     "rarity": {
-      "id": null,
-      "name": null,
-      "color": null
+      "id": "rarity_common",
+      "name": "de grado básico",
+      "color": "#b0c3d9"
     },
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Shanghai 2024 Viewer Pass",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pw_pickem_2024_pass_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pw_pickem_2024_pass_png.png"
   },
   {
     "id": "collectible-4962",
     "name": "Pase de espectador de Shanghái 2024 + 3 fichas de recuerdo",
     "description": "Este es un pase de espectador precintado del Campeonato Major de CS2 Perfect World Shanghái 2024. Una vez abierto, te proporcionará una moneda de Shanghái 2024 que registra tu progreso a lo largo del evento, acceso completo al Desafío Pick'Em de Shanghái 2024, íconos para el chat de Steam.tv, desafíos de moneda y oportunidades ilimitadas para obtener grafitis en el juego durante todo el evento.\\n\\nPuedes subir de nivel tu moneda de Shanghái 2024 completando desafíos. Obtendrás una ficha regalo cada vez que la moneda suba de nivel.\\n\\nEste pase de espectador preactivará tu moneda de Shanghái 2024 con 3 fichas de recuerdo.\\n\\nEl 50 % de las ganancias de la venta de este pase será destinado a las organizaciones participantes.",
     "rarity": {
-      "id": null,
-      "name": null,
-      "color": null
+      "id": "rarity_common",
+      "name": "de grado básico",
+      "color": "#b0c3d9"
     },
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Shanghai 2024 Viewer Pass + 3 Souvenir Tokens",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pw_pickem_2024_pass_pack_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pw_pickem_2024_pass_pack_png.png"
   },
   {
     "id": "collectible-4963",
     "name": "Paquete de recuerdo de Shanghái 2024",
     "description": "Este es un paquete de recuerdo precintado del Campeonato Major de CS2 Perfect World Shanghái 2024.",
     "rarity": {
-      "id": null,
-      "name": null,
-      "color": null
+      "id": "rarity_common",
+      "name": "de grado básico",
+      "color": "#b0c3d9"
     },
     "type": "Pass",
     "genuine": false,
     "market_hash_name": "Shanghai 2024 Souvenir Package",
-    "image": "https://i.cs2inspects.com/images/econ/status_icons/pw_pickem_2024_pass_charge_png.png"
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/pw_pickem_2024_pass_charge_png.png"
   }
 ]
