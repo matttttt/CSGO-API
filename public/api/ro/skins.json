@@ -57607,12 +57607,12 @@
  },
  {
   "id": "skin-dc8b0d73c0e6",
-  "name": "Cuțit Gut (★) | Fade",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori transparente peste un strat de bază cromat, folosindu-se aerograful.\\n\\n<i>Aceasta nu e o simplă armă, este un subiect de conversație – Imogen, traficant de arme în pregătire</i>",
+  "name": "Cuțit de eviscerat (★) | Fade",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori transparente peste un strat de bază cromat, folosindu-se aerograful.\\n\\n<i>Aceasta nu e o simplă armă, este un subiect de conversație – Imogen, traficant de arme în pregătire</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57709,12 +57709,12 @@
  },
  {
   "id": "skin-acfbb1341406",
-  "name": "Cuțit Gut (★) | Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
+  "name": "Cuțit de eviscerat (★) | Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57772,12 +57772,12 @@
  },
  {
   "id": "skin-03613511fcf8",
-  "name": "Cuțit Gut (★) | Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
+  "name": "Cuțit de eviscerat (★) | Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57835,12 +57835,12 @@
  },
  {
   "id": "skin-f489e258578a",
-  "name": "Cuțit Gut (★) | Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
+  "name": "Cuțit de eviscerat (★) | Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57898,12 +57898,12 @@
  },
  {
   "id": "skin-a07dad6154a3",
-  "name": "Cuțit Gut (★) | Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
+  "name": "Cuțit de eviscerat (★) | Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57961,12 +57961,12 @@
  },
  {
   "id": "skin-9ab6bdaf448a",
-  "name": "Cuțit Gut (★) | Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
+  "name": "Cuțit de eviscerat (★) | Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58024,12 +58024,12 @@
  },
  {
   "id": "skin-09f3db24ac92",
-  "name": "Cuțit Gut (★) | Gamma Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
+  "name": "Cuțit de eviscerat (★) | Gamma Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58082,12 +58082,12 @@
  },
  {
   "id": "skin-269da039cfd1",
-  "name": "Cuțit Gut (★) | Gamma Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
+  "name": "Cuțit de eviscerat (★) | Gamma Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58140,12 +58140,12 @@
  },
  {
   "id": "skin-1293e75e74a2",
-  "name": "Cuțit Gut (★) | Gamma Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
+  "name": "Cuțit de eviscerat (★) | Gamma Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58198,12 +58198,12 @@
  },
  {
   "id": "skin-0b5970739187",
-  "name": "Cuțit Gut (★) | Gamma Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
+  "name": "Cuțit de eviscerat (★) | Gamma Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58256,12 +58256,12 @@
  },
  {
   "id": "skin-5ae9fd916f90",
-  "name": "Cuțit Gut (★) | Gamma Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
+  "name": "Cuțit de eviscerat (★) | Gamma Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu vopsele metalice negre și argintii folosind un material care imită marmura, după care a primit un strat colorat.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58314,12 +58314,12 @@
  },
  {
   "id": "skin-a5ee841493d7",
-  "name": "Cuțit Gut (★) | Marble Fade",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un strat în trei culori.\\n\\n<i>Lama are multe culori, dar în curând numai una va domina: roșul</i>",
+  "name": "Cuțit de eviscerat (★) | Marble Fade",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un strat în trei culori.\\n\\n<i>Lama are multe culori, dar în curând numai una va domina: roșul</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58376,12 +58376,12 @@
  },
  {
   "id": "skin-148940445bd3",
-  "name": "Cuțit Gut (★) | Freehand",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu negru și mov, după care a fost decorată cu un marker metalic.",
+  "name": "Cuțit de eviscerat (★) | Freehand",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu negru și mov, după care a fost decorată cu un marker metalic.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58445,12 +58445,12 @@
  },
  {
   "id": "skin-83fcea8883e0",
-  "name": "Cuțit Gut (★) | Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
+  "name": "Cuțit de eviscerat (★) | Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58508,12 +58508,12 @@
  },
  {
   "id": "skin-9bd22462a312",
-  "name": "Cuțit Gut (★) | Doppler",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
+  "name": "Cuțit de eviscerat (★) | Doppler",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită în culori metalice de negru și argintiu folosind un model de marmură, după care a fost acoperită cu un alt strat.\\n\\n<i>Culoarea asta te poate pierde</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58571,12 +58571,12 @@
  },
  {
   "id": "skin-9505695d72d4",
-  "name": "Cuțit Gut (★) | Slaughter",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită un cu un model de dungi de zebră în culori de aluminiu și crom cu diferite grade de reflexie și a fost acoperită cu un strat de culoarea bomboanelor roșii.\\n\\n<i>Valeria nu-l plătește pe Javier să pună întrebări... ci să obțină răspunsuri<i>",
+  "name": "Cuțit de eviscerat (★) | Slaughter",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită un cu un model de dungi de zebră în culori de aluminiu și crom cu diferite grade de reflexie și a fost acoperită cu un strat de culoarea bomboanelor roșii.\\n\\n<i>Valeria nu-l plătește pe Javier să pună întrebări... ci să obțină răspunsuri<i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58677,12 +58677,12 @@
  },
  {
   "id": "skin-bd3422fa907e",
-  "name": "Cuțit Gut (★) | Tiger Tooth",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost eloxată în oranj și a fost gravată manual cu un model de dungi de tigru.\\n\\n<i>Rară ca și tigrul... și la fel de letală...</i>",
+  "name": "Cuțit de eviscerat (★) | Tiger Tooth",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost eloxată în oranj și a fost gravată manual cu un model de dungi de tigru.\\n\\n<i>Rară ca și tigrul... și la fel de letală...</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58739,12 +58739,12 @@
  },
  {
   "id": "skin-56da0f69874d",
-  "name": "Cuțit Gut (★) | Blue Steel",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost albăstrită la rece.\\n\\n<i>Acesta este malbecul designului de arme – Booth, traficant de arme</i>",
+  "name": "Cuțit de eviscerat (★) | Blue Steel",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost albăstrită la rece.\\n\\n<i>Acesta este malbecul designului de arme – Booth, traficant de arme</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58853,12 +58853,12 @@
  },
  {
   "id": "skin-3d2819b666d2",
-  "name": "Cuțit Gut (★) | Damascus Steel",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Are câteva componente fabricate folosind oțel din Damasc.",
+  "name": "Cuțit de eviscerat (★) | Damascus Steel",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Are câteva componente fabricate folosind oțel din Damasc.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -58927,12 +58927,12 @@
  },
  {
   "id": "skin-0193aa320ffe",
-  "name": "Cuțit Gut (★) | Stained",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a primit o patină prin aplicarea de picături de lămâie și muștar pe suprafața ei.\\n\\n<i>Dacă acum ți se pare murdară, așteaptă s-o vezi la lumina ultravioletă</i>",
+  "name": "Cuțit de eviscerat (★) | Stained",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a primit o patină prin aplicarea de picături de lămâie și muștar pe suprafața ei.\\n\\n<i>Dacă acum ți se pare murdară, așteaptă s-o vezi la lumina ultravioletă</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59041,12 +59041,12 @@
  },
  {
   "id": "skin-5fe88d3459a1",
-  "name": "Cuțit Gut (★) | Case Hardened",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Culoarea acestei arme a fost cementată prin aplicarea unui strat de cărbune lemnos la temperaturi ridicate.\\n\\n<i>Puțină culoare nu strică nimănui</i>",
+  "name": "Cuțit de eviscerat (★) | Case Hardened",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Culoarea acestei arme a fost cementată prin aplicarea unui strat de cărbune lemnos la temperaturi ridicate.\\n\\n<i>Puțină culoare nu strică nimănui</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59155,12 +59155,12 @@
  },
  {
   "id": "skin-432c5e3957be",
-  "name": "Cuțit Gut (★) | Rust Coat",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Acest suvenir de pe harta Siege e perfect funcțional, chiar dacă suprafețele exterioare au fost ruginite.\\n\\n<i>Cicatricile îți îmbunătățesc caracterul</i>",
+  "name": "Cuțit de eviscerat (★) | Rust Coat",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Acest suvenir de pe harta Siege e perfect funcțional, chiar dacă suprafețele exterioare au fost ruginite.\\n\\n<i>Cicatricile îți îmbunătățesc caracterul</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59217,12 +59217,12 @@
  },
  {
   "id": "skin-3dc72614017d",
-  "name": "Cuțit Gut (★) | Lore",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită personalizat cu un model cu noduri.",
+  "name": "Cuțit de eviscerat (★) | Lore",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită personalizat cu un model cu noduri.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59286,12 +59286,12 @@
  },
  {
   "id": "skin-c29bbccdc2db",
-  "name": "Cuțit Gut (★) | Black Laminate",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. A primit un aspect utilizat și un mâner negru laminat.",
+  "name": "Cuțit de eviscerat (★) | Black Laminate",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. A primit un aspect utilizat și un mâner negru laminat.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59355,12 +59355,12 @@
  },
  {
   "id": "skin-15218dde9913",
-  "name": "Cuțit Gut (★) | Autotronic",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. A fost anodizată roșu și folosește o pânză de metal pentru a reduce greutatea.",
+  "name": "Cuțit de eviscerat (★) | Autotronic",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. A fost anodizată roșu și folosește o pânză de metal pentru a reduce greutatea.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59424,12 +59424,12 @@
  },
  {
   "id": "skin-1e6bf3fc8157",
-  "name": "Cuțit Gut (★) | Forest DDPAT",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită utilizând un model hidrografic disruptiv digital (DDPAT).\\n\\n<i>Dacă ești suficient de aproape să poți observa pixelii, este deja prea târziu</i>",
+  "name": "Cuțit de eviscerat (★) | Forest DDPAT",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită utilizând un model hidrografic disruptiv digital (DDPAT).\\n\\n<i>Dacă ești suficient de aproape să poți observa pixelii, este deja prea târziu</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59538,12 +59538,12 @@
  },
  {
   "id": "skin-f02460b450ee",
-  "name": "Cuțit Gut (★) | Boreal Forest",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu un tipar hidrografic de camuflaj pentru pădure.\\n\\n<i>Pădurea poate fi un loc periculos... niciodată să nu călătorești singur</i>",
+  "name": "Cuțit de eviscerat (★) | Boreal Forest",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită cu un tipar hidrografic de camuflaj pentru pădure.\\n\\n<i>Pădurea poate fi un loc periculos... niciodată să nu călătorești singur</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59652,12 +59652,12 @@
  },
  {
   "id": "skin-9d2b852515e0",
-  "name": "Cuțit Gut (★) | Bright Water",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită folosind un model hidrografic de camuflaj albastru.",
+  "name": "Cuțit de eviscerat (★) | Bright Water",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită folosind un model hidrografic de camuflaj albastru.",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59721,12 +59721,12 @@
  },
  {
   "id": "skin-7504048c7e1c",
-  "name": "Cuțit Gut (★) | Crimson Web",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită folosind un model hidrografic de pânză de păianjen peste un strat de bază roșu și finisată cu un strat semilucios.\\n\\n<i>Fii atent pe unde calci; niciodată nu știi unde e pânza</i>",
+  "name": "Cuțit de eviscerat (★) | Crimson Web",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită folosind un model hidrografic de pânză de păianjen peste un strat de bază roșu și finisată cu un strat semilucios.\\n\\n<i>Fii atent pe unde calci; niciodată nu știi unde e pânza</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59835,12 +59835,12 @@
  },
  {
   "id": "skin-4dc9191ed25b",
-  "name": "Cuțit Gut (★) | Night",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Are componente individuale vopsite cu spray pe baza unui șablon industrial night ops.\\n\\n<i>Este șoapta vântului... este mușcătura de pe gâtul tău</i>",
+  "name": "Cuțit de eviscerat (★) | Night",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Are componente individuale vopsite cu spray pe baza unui șablon industrial night ops.\\n\\n<i>Este șoapta vântului... este mușcătura de pe gâtul tău</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -59949,12 +59949,12 @@
  },
  {
   "id": "skin-9f78ed49c640",
-  "name": "Cuțit Gut (★) | Ultraviolet",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Are componente individuale vopsite cu spray pe baza unui șablon industrial negru-violet.\\n\\n<i>Un design elegant însoțit de intenții brutale</i>",
+  "name": "Cuțit de eviscerat (★) | Ultraviolet",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Are componente individuale vopsite cu spray pe baza unui șablon industrial negru-violet.\\n\\n<i>Un design elegant însoțit de intenții brutale</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -60023,12 +60023,12 @@
  },
  {
   "id": "skin-6d584fd9f141",
-  "name": "Cuțit Gut (★) | Scorched",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită prin pulverizare cu un model de arsuri.\\n\\n<i>Phoenixul nu este un simbol al distrugerii... este simbolul renașterii - Valeria Jenner, revoluționară</i>",
+  "name": "Cuțit de eviscerat (★) | Scorched",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită prin pulverizare cu un model de arsuri.\\n\\n<i>Phoenixul nu este un simbol al distrugerii... este simbolul renașterii - Valeria Jenner, revoluționară</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -60137,12 +60137,12 @@
  },
  {
   "id": "skin-69e941b17b76",
-  "name": "Cuțit Gut (★) | Safari Mesh",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită prin pulverizare folosind un șablon de grilaje de plasă și decupaje din carton.\\n\\n<i>Un prădător rămâne un prădător, oriunde s-ar afla</i>",
+  "name": "Cuțit de eviscerat (★) | Safari Mesh",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită prin pulverizare folosind un șablon de grilaje de plasă și decupaje din carton.\\n\\n<i>Un prădător rămâne un prădător, oriunde s-ar afla</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -60251,12 +60251,12 @@
  },
  {
   "id": "skin-5ce8a8a7844a",
-  "name": "Cuțit Gut (★) | Urban Masked",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită prin pulverizare folosind un șablon de bandă adezivă.\\n\\n<i>Adevărata putere cere o aplicare subtilă</i>",
+  "name": "Cuțit de eviscerat (★) | Urban Masked",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță. Această armă a fost vopsită prin pulverizare folosind un șablon de bandă adezivă.\\n\\n<i>Adevărata putere cere o aplicare subtilă</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -143524,12 +143524,12 @@
  },
  {
   "id": "skin-vanilla-weapon_knife_gut",
-  "name": "Cuțit Gut (★)",
-  "description": "Cea mai notabilă caracteristică a unui cuțit de vânătoare este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță.",
+  "name": "Cuțit de eviscerat (★)",
+  "description": "Cea mai notabilă caracteristică a unui cuțit de eviscerat este cârligul special de pe spatele lamei. Folosit inițial pentru jupuirea vânatului, cârligul poate tăia cu ușurință și materiale fibroase precum funii, țesături sau centuri de siguranță.",
   "weapon": {
    "id": "sfui_wpnhud_knifegut",
    "weapon_id": 506,
-   "name": "Cuțit Gut"
+   "name": "Cuțit de eviscerat"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
