@@ -137558,7 +137558,7 @@
  {
   "id": "skin-9c09911caf5c",
   "name": "USP 消音版 | 黑莲花",
-  "description": "从《反恐精英：起源》中穿越而来，是玩家们的最爱，消音版 USP 手枪装有一个可拆卸的消音器，降低后坐力的同时还能抑制住容易引起注意的枪声。 这把武器在滑套上采用黑色莲花图案进行了自定义涂装。\\n\\n<i>手枪局中增加三杀，然后弃之</i>",
+  "description": "从《反恐精英：起源》中穿越而来，是玩家们的最爱，消音版 USP 手枪装有一个可拆卸的消音器，降低后坐力的同时还能抑制住容易引起注意的枪声。 It has been custom painted with a black lotus flower on the slide.\\n\\n<i>Adds 3 kills during pistol round, then is discarded</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
