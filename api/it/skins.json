@@ -137558,7 +137558,7 @@
  {
   "id": "skin-9c09911caf5c",
   "name": "USP-S | Black Lotus",
-  "description": "Un'arma amata dai fan di Counter-Strike: Source, la pistola silenziata USP è dotata di un silenziatore smontabile che fornisce un rinculo minore e contemporaneamente evita che il rumore dello sparo attiri troppo l'attenzione. È stato verniciato con un fiore di loto nero sul carrello.\\n\\n<i>Aggiunge 3 uccisioni durante il round delle pistole, poi viene scartata.</i>",
+  "description": "Un'arma amata dai fan di Counter-Strike: Source, la pistola silenziata USP è dotata di un silenziatore smontabile che fornisce un rinculo minore e contemporaneamente evita che il rumore dello sparo attiri troppo l'attenzione. È stato verniciato con un fiore di loto nero sul carrello.\\n\\n<i>Aggiunge 3 uccisioni durante il round della pistola, poi viene scartata.</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
