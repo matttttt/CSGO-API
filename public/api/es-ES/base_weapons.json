@@ -266,7 +266,7 @@
  {
   "id": "base_weapon-weapon_m4a1",
   "name": "M4A4",
-  "description": "Más precisa pero menos potente que su equivalente, el AK-47, la M4A4 es el rifle de asalto automático disponible para los antiterroristas.",
+  "description": "Más preciso pero menos potente que su equivalente, el AK-47, el M4A4 es el rifle de asalto automático disponible para los antiterroristas.",
   "image": "https://i.cs2inspects.com/images/econ/weapons/base_weapons/weapon_m4a1_png.png"
  },
  {
@@ -374,7 +374,7 @@
  {
   "id": "base_weapon-weapon_taser",
   "name": "Zeus x27",
-  "description": "Perfecta para emboscadas a corta distancia y combate en espacios cerrados, la Zeus x27 puede incapacitar a un enemigo de un solo disparo.",
+  "description": "Perfecta para emboscadas a corta distancia y combate en espacios cerrados, la Zeus x27 recargable puede incapacitar a un enemigo de un solo disparo.",
   "image": "https://i.cs2inspects.com/images/econ/weapons/base_weapons/weapon_taser_png.png"
  },
  {
