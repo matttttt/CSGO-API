@@ -89655,6 +89655,70 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_png.png"
  },
  {
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1 消音型 | 幽独",
+  "description": "消音版 M4A1 相对于它那没有消音器的同行来说弹匣更小，枪声也较为“沉默”，还拥有更小的后坐力和更高的精准度。 它采用了山脉地形涂装。\\n\\n<i>独处是特权，而非负担</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1 消音型"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "soch_mountains_m4a1s",
+   "name": "幽独"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "保密",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1338",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "限定物品",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+ },
+ {
   "id": "skin-d89f3dc16ecd",
   "name": "M4A1 消音型 | 气泡流行",
   "description": "消音版 M4A1 相对于它那没有消音器的同行来说弹匣更小，枪声也较为“沉默”，还拥有更小的后坐力和更高的精准度。 这把武器绘有棕褐色和红色的复古技术灵感图案\\n\\n<i>打仗要靠情报取胜</i>",

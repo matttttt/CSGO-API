@@ -89655,6 +89655,70 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_png.png"
  },
  {
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1-S | Solitude",
+  "description": "Dù có băng đạn nhỏ hơn người song sinh, khẩu M4A1-S bù lại điểm yếu bằng việc làm giảm tiếng ồn và độ giật, cũng như tăng độ chính xác. Được sơn với họa tiết địa hình núi.\\n\\n<i>Đơn độc là quyền lợi, không phải gánh nặng</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Súng trường"
+  },
+  "pattern": {
+   "id": "soch_mountains_m4a1s",
+   "name": "Solitude"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Hạng tuyệt mật",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1338",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "FN - Mới cứng"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "MW - Trầy ít"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "FT - Qua thực chiến"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "WW - Khá mòn"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "BS - Mòn qua thực chiến"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "Vật phẩm phiên bản giới hạn",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Chống khủng bố"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+ },
+ {
   "id": "skin-d89f3dc16ecd",
   "name": "M4A1-S | Fizzy POP",
   "description": "Dù có băng đạn nhỏ hơn người song sinh, khẩu M4A1-S bù lại điểm yếu bằng việc làm giảm tiếng ồn và độ giật, cũng như tăng độ chính xác. Được sơn màu nâu tanin và đỏ với họa tiết lấy cảm hứng từ phong cách retro techno.\\n\\n<i>Thắng chiến tranh bằng thông tin</i>",

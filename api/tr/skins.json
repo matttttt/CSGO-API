@@ -89655,6 +89655,70 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_png.png"
  },
  {
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1-S | Issızlık",
+  "description": "Susturuculu M4A1, susturucu çıkarılmış haline nazaran daha küçük bir şarjör haznesine sahip olmakla beraber daha az geri tepme ve daha iyi kesinlik ile daha sessiz atışlar sağlar. Dağlık arazi deseniyle boyanmıştır.\\n\\n<i>Yalnız olmak bir yük değil, ayrıcalıktır.</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Tüfekler"
+  },
+  "pattern": {
+   "id": "soch_mountains_m4a1s",
+   "name": "Issızlık"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Gizli",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1338",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikadan Yeni Çıkmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Az Aşınmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Görevde Kullanılmış"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Eskimiş"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Savaş Görmüş"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "Sınırlı Sürüm Eşyası",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terörist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+ },
+ {
   "id": "skin-d89f3dc16ecd",
   "name": "M4A1-S | Gazoz",
   "description": "Susturuculu M4A1, susturucu çıkarılmış haline nazaran daha küçük bir şarjör haznesine sahip olmakla beraber daha az geri tepme ve daha iyi kesinlik ile daha sessiz atışlar sağlar. Ten ve kırmızı renkli retro tekno temalı bir desenle boyanmıştır.\\n\\n<i>Savaşlar bilgiyle kazanılır</i>",
