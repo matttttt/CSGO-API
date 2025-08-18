@@ -89655,6 +89655,70 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_png.png"
  },
  {
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1-S | Solitude",
+  "description": "A M4A1 com silenciador tem menos capacidade de carregador do que a M4A4, mas dá disparos menos barulhentos, tem um menor recuo e uma melhor precisão. Esta arma em particular foi decorada com um padrão de terreno montanhoso.\\n\\n<i>Estar sozinho é um privilégio, não um fardo</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Espingardas"
+  },
+  "pattern": {
+   "id": "soch_mountains_m4a1s",
+   "name": "Solitude"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Confidencial",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1338",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Original de Fábrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Com Pouco Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testado no Terreno"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Com Muito Uso"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Gasto"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "Item de edição limitada",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contraterroristas"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+ },
+ {
   "id": "skin-d89f3dc16ecd",
   "name": "M4A1-S | Fizzy POP",
   "description": "A M4A1 com silenciador tem menos capacidade de carregador do que a M4A4, mas dá disparos menos barulhentos, tem um menor recuo e uma melhor precisão. Esta arma em particular foi decorada com um padrão techno/retro bege e vermelho.\\n\\n<i>A informação é a chave para a vitória numa guerra</i>",

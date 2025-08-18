@@ -89655,6 +89655,70 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_png.png"
  },
  {
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1-S | Solitude",
+  "description": "Med et mindre magasin enn sitt høylytte motstykke, gir den lyddempende M4A1 støysvake skudd med mindre rekyl og bedre nøyaktighet. Den er påført et fjellandskap.\\n\\n<i>Å være alene er et fortrinn, ikke en byrde.</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "soch_mountains_m4a1s",
+   "name": "Solitude"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Klassifisert",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1338",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabrikkny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lite slitasje"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Felttestet"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Velbrukt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Krigssåret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "Begrenset opplag",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antiterrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+ },
+ {
   "id": "skin-d89f3dc16ecd",
   "name": "M4A1-S | Fizzy POP",
   "description": "Med et mindre magasin enn sitt høylytte motstykke, gir den lyddempende M4A1 støysvake skudd med mindre rekyl og bedre nøyaktighet. Den er påført et gyllenbrunt og rødt teknoinspirert retromønster.\\n\\n<i>Kriger vinnes med informasjon.</i>",

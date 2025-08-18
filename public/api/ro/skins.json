@@ -89655,6 +89655,70 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_png.png"
  },
  {
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1-S | Solitude",
+  "description": "Cu un încărcător mai mic decât omologul său „zgomotos”, arma M4A1 cu amortizor oferă focuri mai silențioase cu un recul redus și o precizie mai bună. A fost aplicat un model de teren montan.\\n\\n<i>Singurătatea e un privilegiu, nu o povară</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Puști ghintuite"
+  },
+  "pattern": {
+   "id": "soch_mountains_m4a1s",
+   "name": "Solitude"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Secret(ă)",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1338",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Nouă"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Uzură minimă"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testată"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Uzată"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Deteriorată"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "Obiect în ediție limitată",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Contrateroriști"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+ },
+ {
   "id": "skin-d89f3dc16ecd",
   "name": "M4A1-S | Fizzy POP",
   "description": "Cu un încărcător mai mic decât omologul său „zgomotos”, arma M4A1 cu amortizor oferă focuri mai silențioase cu un recul redus și o precizie mai bună. A fost aplicat un model retro în culori bej și roșu de inspirație tehnică.\\n\\n<i>Războaiele se câștigă cu informații</i>",

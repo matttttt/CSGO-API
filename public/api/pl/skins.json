@@ -89655,6 +89655,70 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_png.png"
  },
  {
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1-S | Samotność",
+  "description": "Posiadający mniejszy magazynek niż jego niewytłumiony odpowiednik, karabin M4A1-S zapewnia cichsze strzały, mniejszy odrzut i lepszą celność. Broń została pokryta motywem górzystego terenu.\\n\\n<i>Bycie samemu to przywilej, nie ciężar.</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Karabiny"
+  },
+  "pattern": {
+   "id": "soch_mountains_m4a1s",
+   "name": "Samotność"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "klasy „poufne”",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1338",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "prosto z fabryki"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "lekkie zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "po testach bojowych"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "mocne zużycie"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "po ciężkich walkach"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "Przedmiot z edycji limitowanej",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Antyterroryści"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+ },
+ {
   "id": "skin-d89f3dc16ecd",
   "name": "M4A1-S | Technowojna",
   "description": "Posiadający mniejszy magazynek niż jego niewytłumiony odpowiednik, karabin M4A1-S zapewnia cichsze strzały, mniejszy odrzut i lepszą celność. Broń została pokryta brązowo-czerwonym wzorem w stylu retro inspirowanym technologią.\\n\\n<i>Wojny wygrywa się informacjami.</i>",
@@ -130001,7 +130065,7 @@
  {
   "id": "skin-91147006443a",
   "name": "Zeus x27 | Smocze chrapanie",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Smok oplata swym ciałem tego radosnego, pomalowanego na zamówienie Zeusa x27.\\n\\n<i>Z najwyższej komnaty w najwyższej wieży.</i>",
+  "description": "Idealny do zastawiania pułapek z bliska i w starciach na zamkniętych przestrzeniach ładowalny paralizator Zeus x27 potrafi obezwładnić wroga jednym strzałem. Smok oplata swym ciałem tego radosnego, pomalowanego na zamówienie Zeusa x27.\\n\\n<i>Z najwyższej komnaty w najwyższej wieży.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130065,7 +130129,7 @@
  {
   "id": "skin-f7171c75986f",
   "name": "Zeus x27 | Bagienny DDPAT",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Na broń nałożono hydrografikę w kolorach zieleni i piasku w postaci wzoru cyfrowego moro.\\n\\n<i>Spójrz 2 razy, a potem jeszcze raz.</i>",
+  "description": "Idealny do zastawiania pułapek z bliska i w starciach na zamkniętych przestrzeniach ładowalny paralizator Zeus x27 potrafi obezwładnić wroga jednym strzałem. Na broń nałożono hydrografikę w kolorach zieleni i piasku w postaci wzoru cyfrowego moro.\\n\\n<i>Spójrz 2 razy, a potem jeszcze raz.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130129,7 +130193,7 @@
  {
   "id": "skin-55264b2a150c",
   "name": "Zeus x27 | Elektryczny błękit",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Broń została pomalowana na jednolity niebieski kolor.\\n\\n<i>Za grosz subtelności.</i>",
+  "description": "Idealny do zastawiania pułapek z bliska i w starciach na zamkniętych przestrzeniach ładowalny paralizator Zeus x27 potrafi obezwładnić wroga jednym strzałem. Broń została pomalowana na jednolity niebieski kolor.\\n\\n<i>Za grosz subtelności.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130193,7 +130257,7 @@
  {
   "id": "skin-9446ef74272b",
   "name": "Zeus x27 | Naładowany",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Broń została pokryta warstwą żółtego podkładu i wykończona czarnymi i czerwonymi akcentami.\\n\\n<i>UWAGA: JASKRAWE ŚWIATŁO. UNIKAĆ EKSPOZYCJI.</i>",
+  "description": "Idealny do zastawiania pułapek z bliska i w starciach na zamkniętych przestrzeniach ładowalny paralizator Zeus x27 potrafi obezwładnić wroga jednym strzałem. Broń została pokryta warstwą żółtego podkładu i wykończona czarnymi i czerwonymi akcentami.\\n\\n<i>UWAGA: JASKRAWE ŚWIATŁO. UNIKAĆ EKSPOZYCJI.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130263,7 +130327,7 @@
  {
   "id": "skin-9eb2feb216c5",
   "name": "Zeus x27 | Olimp",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Ten wykonany na zamówienie wzór przedstawia Zeusa, boga piorunów.\\n\\n<i>Powietrze trzeszczy...</i>",
+  "description": "Idealny do zastawiania pułapek z bliska i w starciach na zamkniętych przestrzeniach ładowalny paralizator Zeus x27 potrafi obezwładnić wroga jednym strzałem. Ten wykonany na zamówienie wzór przedstawia Zeusa, boga piorunów.\\n\\n<i>Powietrze trzeszczy...</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130333,7 +130397,7 @@
  {
   "id": "skin-27a11235665e",
   "name": "Zeus x27 | Tosai",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Broń została ozdobiona na zamówienie wzorem przedstawiającym młodego karpia koi, zwanego także tosai.\\n\\n<i>Niechaj fortuna ci sprzyja.</i>",
+  "description": "Idealny do zastawiania pułapek z bliska i w starciach na zamkniętych przestrzeniach ładowalny paralizator Zeus x27 potrafi obezwładnić wroga jednym strzałem. Broń została ozdobiona na zamówienie wzorem przedstawiającym młodego karpia koi, zwanego także tosai.\\n\\n<i>Niechaj fortuna ci sprzyja.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,

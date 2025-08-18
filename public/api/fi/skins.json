@@ -89655,6 +89655,70 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_png.png"
  },
  {
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1-S | Ylhäinen yksinäisyys",
+  "description": "Äänenvaimentimella varustettu M4A1 on pienilippaisempi ja hiljaisempi vaihtoehto, joka takaa tarkat laukaukset. Siihen on maalattu vuoristomaastokuvioita.\\n\\n<i>Yksinäisyys ei ole ongelma</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Kiväärit"
+  },
+  "pattern": {
+   "id": "soch_mountains_m4a1s",
+   "name": "Ylhäinen yksinäisyys"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Luottamuksellinen",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1338",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Suoraan tehtaalta"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Vähän käytetty"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Käytössä kokeiltu"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Aikansa elänyt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Reissussa rähjääntynyt"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "Harvinainen esine",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Erikoisjoukot"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+ },
+ {
   "id": "skin-d89f3dc16ecd",
   "name": "M4A1-S | Poreileva pamaus",
   "description": "Äänenvaimentimella varustettu M4A1 on pienilippaisempi ja hiljaisempi vaihtoehto, joka takaa tarkat laukaukset. Asetta koristaa sinivihreällä ja punaisella maalattu retro teknokuvio.\\n\\n<i>Sodat voitetaan tiedon voimalla.</i>",
@@ -130001,7 +130065,7 @@
  {
   "id": "skin-91147006443a",
   "name": "Zeus x27 | Lohikäärme",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Käsin maalattu lohikäärme kiertyy hilpeästi x27:n ympärille.\\n\\n<i>Korkeimman tornin korkeimmasta huoneesta.</i>",
+  "description": "Uudelleen ladattava Zeus x27 on täydellinen lähikantaman väijytyksiin ja suljettujen tilojen taisteluihin, sillä se voi lamauttaa vihollisen yhdellä osumalla. Käsin maalattu lohikäärme kiertyy hilpeästi x27:n ympärille.\\n\\n<i>Korkeimman tornin korkeimmasta huoneesta.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130065,7 +130129,7 @@
  {
   "id": "skin-f7171c75986f",
   "name": "Zeus x27 | Suossa: DDPAT",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Päällystetty vihreällä ja hiekanvärisellä digitaalisella maastokuviohydrografilla.\\n\\n<i>Katso uudemman kerran, ja sitten vielä kerran</i>",
+  "description": "Uudelleen ladattava Zeus x27 on täydellinen lähikantaman väijytyksiin ja suljettujen tilojen taisteluihin, sillä se voi lamauttaa vihollisen yhdellä osumalla. Päällystetty vihreällä ja hiekanvärisellä digitaalisella maastokuviohydrografilla.\\n\\n<i>Katso uudemman kerran, ja sitten vielä kerran</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130129,7 +130193,7 @@
  {
   "id": "skin-55264b2a150c",
   "name": "Zeus x27 | Sähkönsininen",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Maalattu kauttaaltaan siniseksi.\\n\\n<i>Ei arvailua</i>",
+  "description": "Uudelleen ladattava Zeus x27 on täydellinen lähikantaman väijytyksiin ja suljettujen tilojen taisteluihin, sillä se voi lamauttaa vihollisen yhdellä osumalla. Maalattu kauttaaltaan siniseksi.\\n\\n<i>Ei arvailua</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130193,7 +130257,7 @@
  {
   "id": "skin-9446ef74272b",
   "name": "Zeus x27 | Sata salamaa",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Maalaus koostuu keltaisesta pohjaväristä sekä mustista ja punaisista yksityiskohdista.\\n\\n<i>VAROITUS! KIRKKAITA VALOJA, VÄLTÄ PITKÄAIKAISTA ALTISTUMISTA</i>",
+  "description": "Uudelleen ladattava Zeus x27 on täydellinen lähikantaman väijytyksiin ja suljettujen tilojen taisteluihin, sillä se voi lamauttaa vihollisen yhdellä osumalla. Maalaus koostuu keltaisesta pohjaväristä sekä mustista ja punaisista yksityiskohdista.\\n\\n<i>VAROITUS! KIRKKAITA VALOJA, VÄLTÄ PITKÄAIKAISTA ALTISTUMISTA</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130263,7 +130327,7 @@
  {
   "id": "skin-9eb2feb216c5",
   "name": "Zeus x27 | Olympus",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Asetta koristaa ukkosenjumala Zeus.\\n\\n<i>Rytinää ja räiskettä</i>",
+  "description": "Uudelleen ladattava Zeus x27 on täydellinen lähikantaman väijytyksiin ja suljettujen tilojen taisteluihin, sillä se voi lamauttaa vihollisen yhdellä osumalla. Asetta koristaa ukkosenjumala Zeus.\\n\\n<i>Rytinää ja räiskettä</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130333,7 +130397,7 @@
  {
   "id": "skin-27a11235665e",
   "name": "Zeus x27 | Tosai",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Maalauksessa on tosai eli nuori koikarppi.\\n\\n<i>Onnea ja pitkää ikää!</i>",
+  "description": "Uudelleen ladattava Zeus x27 on täydellinen lähikantaman väijytyksiin ja suljettujen tilojen taisteluihin, sillä se voi lamauttaa vihollisen yhdellä osumalla. Maalauksessa on tosai eli nuori koikarppi.\\n\\n<i>Onnea ja pitkää ikää!</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,

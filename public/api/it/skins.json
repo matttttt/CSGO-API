@@ -89655,6 +89655,70 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_so_orange_accents_light_png.png"
  },
  {
+  "id": "skin-fc8f37597f72",
+  "name": "M4A1-S | Solitude",
+  "description": "Meno costoso e dotato di un caricatore di capacità inferiore rispetto alla sua versione normale, l'M4A1 silenziato garantisce colpi più difficili da udire, un rinculo ridotto ed una maggior precisione. È stato applicato un motivo con un terreno montano.\\n\\n<i>La solitudine è un privilegio, non un peso.</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Fucili"
+  },
+  "pattern": {
+   "id": "soch_mountains_m4a1s",
+   "name": "Solitude"
+  },
+  "min_float": 0,
+  "max_float": 0.7,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Confidenziale",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1338",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Nuovo di fabbrica"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Usura minima"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Testato sul campo"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Consumato"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Segnato dalle battaglie"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-xpshop-wpn-01",
+    "name": "Oggetto in edizione limitata",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_xpshop_wpn_01_png.png"
+   }
+  ],
+  "crates": [],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Anti-Terroristi"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_soch_mountains_m4a1s_light_png.png"
+ },
+ {
   "id": "skin-d89f3dc16ecd",
   "name": "M4A1-S | Fizzy POP",
   "description": "Meno costoso e dotato di un caricatore di capacità inferiore rispetto alla sua versione normale, l'M4A1 silenziato garantisce colpi più difficili da udire, un rinculo ridotto ed una maggior precisione. È stato applicato un motivo di ispirazione techno-retrò marroncino e rosso.\\n\\n<i>Le guerre si vincono con le informazioni.</i>",
@@ -130001,7 +130065,7 @@
  {
   "id": "skin-91147006443a",
   "name": "Zeus x27 | Dragon Snore",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Un drago avvolge questo x27 spensierato e dipinto su misura.\\n\\n<i>Dalla stanza più alta della torre più alta.</i>",
+  "description": "Perfetto per le imboscate a corta distanza e per gli scontri ravvicinati, lo Zeus x27 ricaricabile è in grado di rendere inoffensivo un nemico in un solo colpo. Un drago avvolge questo x27 spensierato e dipinto su misura.\\n\\n<i>Dalla stanza più alta della torre più alta.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130065,7 +130129,7 @@
  {
   "id": "skin-f7171c75986f",
   "name": "Zeus x27 | Swamp DDPAT",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. È stato applicato un motivo mimetico digitale idrografico verde e color sabbia.\\n\\n<i>Guarda due volte, poi guarda ancora.</i>",
+  "description": "Perfetto per le imboscate a corta distanza e per gli scontri ravvicinati, lo Zeus x27 ricaricabile è in grado di rendere inoffensivo un nemico in un solo colpo. È stato applicato un motivo mimetico digitale idrografico verde e color sabbia.\\n\\n<i>Guarda due volte, poi guarda ancora.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130129,7 +130193,7 @@
  {
   "id": "skin-55264b2a150c",
   "name": "Zeus x27 | Electric Blue",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. L'arma è stata verniciata di blu a tinta unita\\n\\n<i>Manca di sottigliezza.</i>",
+  "description": "Perfetto per le imboscate a corta distanza e per gli scontri ravvicinati, lo Zeus x27 ricaricabile è in grado di rendere inoffensivo un nemico in un solo colpo. L'arma è stata verniciata di blu a tinta unita\\n\\n<i>Manca di sottigliezza.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130193,7 +130257,7 @@
  {
   "id": "skin-9446ef74272b",
   "name": "Zeus x27 | Charged Up",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. È stato verniciato con una base gialla e rifinito con dettagli neri e rossi.\\n\\n<i>ATTENZIONE: LUCE INTENSA, EVITARE L'ESPOSIZIONE.</i>",
+  "description": "Perfetto per le imboscate a corta distanza e per gli scontri ravvicinati, lo Zeus x27 ricaricabile è in grado di rendere inoffensivo un nemico in un solo colpo. È stato verniciato con una base gialla e rifinito con dettagli neri e rossi.\\n\\n<i>ATTENZIONE: LUCE INTENSA, EVITARE L'ESPOSIZIONE.</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130263,7 +130327,7 @@
  {
   "id": "skin-9eb2feb216c5",
   "name": "Zeus x27 | Olympus",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. Questa verniciatura personalizzata rappresenta Zeus, il Dio del tuono.\\n\\n<i>L'aria è elettrica...</i>",
+  "description": "Perfetto per le imboscate a corta distanza e per gli scontri ravvicinati, lo Zeus x27 ricaricabile è in grado di rendere inoffensivo un nemico in un solo colpo. Questa verniciatura personalizzata rappresenta Zeus, il Dio del tuono.\\n\\n<i>L'aria è elettrica...</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
@@ -130333,7 +130397,7 @@
  {
   "id": "skin-27a11235665e",
   "name": "Zeus x27 | Tosai",
-  "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit. È stato verniciato con un giovane pesce koi, chiamato anche tosai.\\n\\n<i>Porta fortuna!</i>",
+  "description": "Perfetto per le imboscate a corta distanza e per gli scontri ravvicinati, lo Zeus x27 ricaricabile è in grado di rendere inoffensivo un nemico in un solo colpo. È stato verniciato con un giovane pesce koi, chiamato anche tosai.\\n\\n<i>Porta fortuna!</i>",
   "weapon": {
    "id": "weapon_taser",
    "weapon_id": 31,
