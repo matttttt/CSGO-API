@@ -54849,12 +54849,12 @@
  },
  {
   "id": "skin-c414cd2f0b52",
-  "name": "★ 折りたたみナイフ | Fade",
+  "name": "★ Flip ナイフ | Fade",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 クロムの下地に透過性のある塗料のエアブラシで相互に色が薄くなるようにペイントされている。\\n\\n<i>これはただの武器ではない。芸術品だー武器商人見習い イモジェン</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -54951,12 +54951,12 @@
  },
  {
   "id": "skin-90511e74f417",
-  "name": "★ 折りたたみナイフ | Doppler",
+  "name": "★ Flip ナイフ | Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。\\n\\n<i>色に見とれていると命取りになる</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55014,12 +55014,12 @@
  },
  {
   "id": "skin-42475fda0b01",
-  "name": "★ 折りたたみナイフ | Doppler",
+  "name": "★ Flip ナイフ | Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。\\n\\n<i>色に見とれていると命取りになる</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55077,12 +55077,12 @@
  },
  {
   "id": "skin-cdee260faab7",
-  "name": "★ 折りたたみナイフ | Doppler",
+  "name": "★ Flip ナイフ | Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。\\n\\n<i>色に見とれていると命取りになる</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55140,12 +55140,12 @@
  },
  {
   "id": "skin-f6818bb7cb50",
-  "name": "★ 折りたたみナイフ | Doppler",
+  "name": "★ Flip ナイフ | Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。\\n\\n<i>色に見とれていると命取りになる</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55203,12 +55203,12 @@
  },
  {
   "id": "skin-fe0c683eb115",
-  "name": "★ 折りたたみナイフ | Doppler",
+  "name": "★ Flip ナイフ | Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。\\n\\n<i>色に見とれていると命取りになる</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55266,12 +55266,12 @@
  },
  {
   "id": "skin-3d89f1fbeff4",
-  "name": "★ 折りたたみナイフ | Gamma Doppler",
+  "name": "★ Flip ナイフ | Gamma Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55324,12 +55324,12 @@
  },
  {
   "id": "skin-ef3b101f525b",
-  "name": "★ 折りたたみナイフ | Gamma Doppler",
+  "name": "★ Flip ナイフ | Gamma Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55382,12 +55382,12 @@
  },
  {
   "id": "skin-c7719cc84562",
-  "name": "★ 折りたたみナイフ | Gamma Doppler",
+  "name": "★ Flip ナイフ | Gamma Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55440,12 +55440,12 @@
  },
  {
   "id": "skin-86a655f8f525",
-  "name": "★ 折りたたみナイフ | Gamma Doppler",
+  "name": "★ Flip ナイフ | Gamma Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55498,12 +55498,12 @@
  },
  {
   "id": "skin-ade57110a03a",
-  "name": "★ 折りたたみナイフ | Gamma Doppler",
+  "name": "★ Flip ナイフ | Gamma Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55556,12 +55556,12 @@
  },
  {
   "id": "skin-c6d244df9c44",
-  "name": "★ 折りたたみナイフ | Marble Fade",
+  "name": "★ Flip ナイフ | Marble Fade",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料でマーブリングし、3色のキャンディコーティングを施している。\\n\\n<i>カラフルなブレードだが、やがては真紅に染まる</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55618,12 +55618,12 @@
  },
  {
   "id": "skin-546d3bfe8243",
-  "name": "★ 折りたたみナイフ | Freehand",
+  "name": "★ Flip ナイフ | Freehand",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒と紫にペイントし、メタリックマーカーで装飾を入れている。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55687,12 +55687,12 @@
  },
  {
   "id": "skin-55c076549857",
-  "name": "★ 折りたたみナイフ | Doppler",
+  "name": "★ Flip ナイフ | Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。\\n\\n<i>色に見とれていると命取りになる</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55750,12 +55750,12 @@
  },
  {
   "id": "skin-513cb8f9233c",
-  "name": "★ 折りたたみナイフ | Doppler",
+  "name": "★ Flip ナイフ | Doppler",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 黒とシルバーのメタリック塗料をマーブリングし、さらにキャンディコーティングを施している。\\n\\n<i>色に見とれていると命取りになる</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55813,12 +55813,12 @@
  },
  {
   "id": "skin-66d8b7a8bda6",
-  "name": "★ 折りたたみナイフ | Slaughter",
+  "name": "★ Flip ナイフ | Slaughter",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 異なる反射率を持つアルミニウムとクロムを使って縞模様がペイントされ、トマトレッドでキャンディーコーティングが施されている。\\n\\n<i>ヴァレリアがハビエルに金を払ったのは質問するためではない… 答えを聞き出すためだ<i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55919,12 +55919,12 @@
  },
  {
   "id": "skin-7a40ba207ae9",
-  "name": "★ 折りたたみナイフ | Tiger Tooth",
+  "name": "★ Flip ナイフ | Tiger Tooth",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 オレンジ色のアルマイト加工を施し、虎縞を手作業でエッチングしている。\\n\\n<i>虎のように希少で、虎のように危険</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -55981,12 +55981,12 @@
  },
  {
   "id": "skin-202cf7145f74",
-  "name": "★ 折りたたみナイフ | Blue Steel",
+  "name": "★ Flip ナイフ | Blue Steel",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 コールドブルーでペイントされている。\\n\\n<i>これは武器デザインのマルベックだー武器商人 ブース</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56095,12 +56095,12 @@
  },
  {
   "id": "skin-2c8f433e1746",
-  "name": "★ 折りたたみナイフ | Damascus Steel",
+  "name": "★ Flip ナイフ | Damascus Steel",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 一部のパーツにダマスカス鋼が使用されている。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56169,12 +56169,12 @@
  },
  {
   "id": "skin-1b555a34a243",
-  "name": "★ 折りたたみナイフ | Stained",
+  "name": "★ Flip ナイフ | Stained",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 表面にレモンとマスタードを塗って装飾錆を発生させたもの。\\n\\n<i>もしこの状態で汚く見えるのなら、ブラックライトで見るまで待つといい</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56283,12 +56283,12 @@
  },
  {
   "id": "skin-3196a307017b",
-  "name": "★ 折りたたみナイフ | Case Hardened",
+  "name": "★ Flip ナイフ | Case Hardened",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 高温の木炭を使った彩色による表面硬化処理が施されている。\\n\\n<i>少しぐらい派手でも、誰も困りはしない</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56397,12 +56397,12 @@
  },
  {
   "id": "skin-57b42777d395",
-  "name": "★ 折りたたみナイフ | Rust Coat",
+  "name": "★ Flip ナイフ | Rust Coat",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 この Siege 記念モデルは、外面こそ錆びているが問題なく使用できる。\\n\\n<i>傷跡が個性を築く</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56459,12 +56459,12 @@
  },
  {
   "id": "skin-eaed0ca35456",
-  "name": "★ 折りたたみナイフ | Lore",
+  "name": "★ Flip ナイフ | Lore",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 ノットワーク柄のカスタムペイント。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56528,12 +56528,12 @@
  },
  {
   "id": "skin-4033ec4a42d7",
-  "name": "★ 折りたたみナイフ | Black Laminate",
+  "name": "★ Flip ナイフ | Black Laminate",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 ストーンウォッシュ加工され、ハンドル部分に黒ラミネートを使用。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56597,12 +56597,12 @@
  },
  {
   "id": "skin-0b3d583b0443",
-  "name": "★ 折りたたみナイフ | Autotronic",
+  "name": "★ Flip ナイフ | Autotronic",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 アルマイト加工によって赤くし、スチールメッシュを使って軽量化している。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56666,12 +56666,12 @@
  },
  {
   "id": "skin-a0b0805f9c1d",
-  "name": "★ 折りたたみナイフ | Forest DDPAT",
+  "name": "★ Flip ナイフ | Forest DDPAT",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 デジタルディストラクティブパターン(DDPAT) が水圧転写されている。\\n\\n<i>それが画素だと気づけるほど近づいたときにはもう手遅れだ</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56780,12 +56780,12 @@
  },
  {
   "id": "skin-765df44f120e",
-  "name": "★ 折りたたみナイフ | Boreal Forest",
+  "name": "★ Flip ナイフ | Boreal Forest",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 森迷彩柄が水圧転写されている。\\n\\n<i>森は危険な場所だ… 1人で踏み入ってはならない</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56894,12 +56894,12 @@
  },
  {
   "id": "skin-5e8c819037fe",
-  "name": "★ 折りたたみナイフ | Bright Water",
+  "name": "★ Flip ナイフ | Bright Water",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 ブルー迷彩が水圧転写されている。",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -56963,12 +56963,12 @@
  },
  {
   "id": "skin-5bda95544824",
-  "name": "★ 折りたたみナイフ | Crimson Web",
+  "name": "★ Flip ナイフ | Crimson Web",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 赤色の下地にクモの巣模様が水圧転写され、半光沢のトップコートで仕上げられている。\\n\\n<i>歩く場所にご注意。どこにクモの巣が広がっているかわからない</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57077,12 +57077,12 @@
  },
  {
   "id": "skin-ba43884c26b8",
-  "name": "★ 折りたたみナイフ | Night",
+  "name": "★ Flip ナイフ | Night",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 パーツごとに夜間作戦用カラーでスプレーペイント。\\n\\n<i>風がささやき…あなたの首をかみ切る</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57191,12 +57191,12 @@
  },
  {
   "id": "skin-6bfda02174ab",
-  "name": "★ 折りたたみナイフ | Ultraviolet",
+  "name": "★ Flip ナイフ | Ultraviolet",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 パーツごとに黒色と紫色の配色でスプレーペイント。\\n\\n<i>優雅なデザインと残虐な目的の融合</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57265,12 +57265,12 @@
  },
  {
   "id": "skin-569f95a6f7ce",
-  "name": "★ 折りたたみナイフ | Scorched",
+  "name": "★ Flip ナイフ | Scorched",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 木漏れ日の模様がスプレーペイントされている。\\n\\n<i>フェニックスは破壊の象徴ではない... 再生の象徴なのだ。ー革命家 ヴァレリア・ジェンナー</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57379,12 +57379,12 @@
  },
  {
   "id": "skin-60b115694045",
-  "name": "★ 折りたたみナイフ | Safari Mesh",
+  "name": "★ Flip ナイフ | Safari Mesh",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 ステンシルとしてメッシュフェンスと段ボールの切り抜きを用いてスプレーペイント。\\n\\n<i>捕食者は、捕食者である。どんな環境にあろうとも</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -57493,12 +57493,12 @@
  },
  {
   "id": "skin-8ac1f3907102",
-  "name": "★ 折りたたみナイフ | Urban Masked",
+  "name": "★ Flip ナイフ | Urban Masked",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。 ステンシルとして絡まったマスキングテープを用いてスプレーペイント。\\n\\n<i>真の力は、巧みに応用する場合に発揮される</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
@@ -143501,12 +143501,12 @@
  },
  {
   "id": "skin-vanilla-weapon_knife_flip",
-  "name": "★ 折りたたみナイフ",
+  "name": "★ Flip ナイフ",
   "description": "Flip ナイフはペルシャ式の反り身と鋭利な切先が特徴となっている。切先自体は脆いが、Flip ナイフの全体は驚くほど頑強だ。",
   "weapon": {
    "id": "sfui_wpnhud_knifeflip",
    "weapon_id": 505,
-   "name": "折りたたみナイフ"
+   "name": "Flip ナイフ"
   },
   "category": {
    "id": "sfui_invpanel_filter_melee",
