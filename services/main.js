@@ -894,7 +894,7 @@ export const getManifestId = async () => {
 export const getManifestIdFromImageTracker = async () => {
     return axios
         .get(
-            `https://raw.githubusercontent.com/matttttt/counter-strike-image-tracker/main/static/manifestId.txt`
+            `https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/manifestId.txt`
         )
         .then((data) => data.data)
         .catch(() => {
