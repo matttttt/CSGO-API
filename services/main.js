@@ -141,7 +141,7 @@ export const loadItemsGame = async () => {
         });
 
     await axios
-        .get("https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/default_generated.json")
+        .get("https://raw.githubusercontent.com/matttttt/counter-strike-image-tracker/refs/heads/main/static/default_generated.json")
         .then((data) => {
             state.itemsGame.alternate_icons2.weapon_icons = data.data.filter(item => {
                 // We have heavy, light and medium
@@ -883,7 +883,7 @@ const getItemFromKey = (key) => {
 export const getManifestId = async () => {
     return axios
         .get(
-            `https://raw.githubusercontent.com/ByMykel/counter-strike-file-tracker/main/static/manifestId.txt`
+            `https://raw.githubusercontent.com/matttttt/counter-strike-file-tracker/main/static/manifestId.txt`
         )
         .then((data) => data.data)
         .catch(() => {
@@ -894,7 +894,7 @@ export const getManifestId = async () => {
 export const getManifestIdFromImageTracker = async () => {
     return axios
         .get(
-            `https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/manifestId.txt`
+            `https://raw.githubusercontent.com/matttttt/counter-strike-image-tracker/main/static/manifestId.txt`
         )
         .then((data) => data.data)
         .catch(() => {
