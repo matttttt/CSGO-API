@@ -5158,6 +5158,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_ak47_explosive_light_png.png"
  },
  {
+  "id": "skin-4608abab8351",
+  "name": "AK-47 | The Oligarch",
+  "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "ak47_puffer_custom",
+   "name": "The Oligarch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "隐秘",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1352",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_ak47_puffer_custom_light_png.png"
+ },
+ {
   "id": "skin-ad56dc47a4c4",
   "name": "AK-47 | 局外人",
   "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 这款定制涂装为T方在不同场景中的简笔画。\\n\\n<i>公交车上的T方赢了一局又一局，一局又一局，一局又一局</i>",
@@ -9749,7 +9819,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1198",
   "wears": [
    {
@@ -9863,6 +9933,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_aug_puffer_light_png.png"
+ },
+ {
+  "id": "skin-ab9a15ef8110",
+  "name": "AUG | 后发制人",
+  "description": "强大且精准，AUG 瞄准型突击步枪以其低扩散和高射速来弥补换弹时间久的缺陷。 A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "aug_trigger_discipline_velco",
+   "name": "后发制人"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1339",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_aug_trigger_discipline_velco_light_png.png"
  },
  {
   "id": "skin-6f4ba747e1a4",
@@ -12580,6 +12720,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_awp_aq_awp_twine_light_png.png"
  },
  {
+  "id": "skin-a5be0877a3d7",
+  "name": "AWP | 可燃冰",
+  "description": "高风险，高回报，恶名昭彰的 AWP 因其标志性的枪声和一枪一个的准则而为人熟知。 这把武器采用醒目的绿色和蓝色渐变进行了自定义涂装。\\n\\n<i>触感冰冷</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "awp_ice_coaled",
+   "name": "可燃冰"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "保密",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1346",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_awp_awp_ice_coaled_light_png.png"
+ },
+ {
   "id": "skin-42c6a7e245d3",
   "name": "AWP | 灵缇",
   "description": "高风险，高回报，恶名昭彰的 AWP 因其标志性的枪声和一枪一个的准则而为人熟知。 它采用了列车停放站里楼梯间处的涂鸦进行定制涂装。\\n\\n<i>“世界上最棒的狗狗，正在家中等你归来”</i>",
@@ -12604,7 +12814,7 @@
    "color": "#eb4b4b"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1213",
   "wears": [
    {
@@ -21001,7 +21211,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1195",
   "wears": [
    {
@@ -27610,6 +27820,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_elite_dual_berettas_lethal_grin_light_png.png"
  },
  {
+  "id": "skin-94f44ac08438",
+  "name": "双持贝瑞塔 | Angel Eyes",
+  "description": "两把具有大弹匣的贝瑞塔同时开火会降低精准度，并增加换弹时间。不过你得往好处想，这不，别人只有一把枪，而你可以同时用两把贝瑞塔射个痛快。 They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "双持贝瑞塔"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "dual_elite_biblical_angel",
+   "name": "Angel Eyes"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1347",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_elite_dual_elite_biblical_angel_light_png.png"
+ },
+ {
   "id": "skin-8300a7de7ac6",
   "name": "双持贝瑞塔 | 水枪冲击",
   "description": "两把具有大弹匣的贝瑞塔同时开火会降低精准度，并增加换弹时间。不过你得往好处想，这不，别人只有一把枪，而你可以同时用两把贝瑞塔射个痛快。 这款定制涂装为蓝色和橙色。水滴效果暗示武器可能仍然是湿的。\\n\\n<i>最好的武器是你敌人最意想不到的那一把</i>",
@@ -31106,7 +31386,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1202",
   "wears": [
    {
@@ -39582,7 +39862,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "294",
   "wears": [
    {
@@ -42880,6 +43160,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_glock_chomper_light_png.png"
  },
  {
+  "id": "skin-a59908982432",
+  "name": "格洛克 18 型 | Mirror Mosaic",
+  "description": "格洛克 18 型是把耐用的第一回合手枪，非常适合对付那些没有穿护甲的对手，并且可以进行三连发爆炸开火。 It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "格洛克 18 型"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "glock_mirror_maze_v2_pearl",
+   "name": "Mirror Mosaic"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "保密",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1348",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_glock_mirror_maze_v2_pearl_light_png.png"
+ },
+ {
   "id": "skin-a7838b4ba71f",
   "name": "格洛克 18 型 | 忍瞳",
   "description": "格洛克 18 型是把耐用的第一回合手枪，非常适合对付那些没有穿护甲的对手，并且可以进行三连发爆炸开火。 它在套筒上定制涂装了一位戴着 SR 科技「尊享版」隐形眼镜的女性。\\n\\n<i>“SR科技——助您专注每一次交火”</i>",
@@ -42974,7 +43324,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1200",
   "wears": [
    {
@@ -46503,6 +46853,76 @@
   },
   "legacy_model": true,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_hkp2000_hy_poly_camo_light_png.png"
+ },
+ {
+  "id": "skin-53b81168eea3",
+  "name": "P2000 | Red Wing",
+  "description": "精准、可控，这把德国制造的耐用第一回合手枪非常适合对付那些没有穿护甲的对手。 It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "weapon": {
+   "id": "weapon_hkp2000",
+   "weapon_id": 32,
+   "name": "P2000"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "p2000_deep_red",
+   "name": "Red Wing"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1342",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_hkp2000_p2000_deep_red_light_png.png"
  },
  {
   "id": "skin-8bda61ff439a",
@@ -85017,7 +85437,7 @@
    "color": "#d32ce6"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1209",
   "wears": [
    {
@@ -86609,6 +87029,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_m4a4_green_camo_light_png.png"
+ },
+ {
+  "id": "skin-e7c2a01982dd",
+  "name": "M4A4 | Full Throttle",
+  "description": "与同级的 AK-47 相比更精准，但杀伤力更低，M4A4 是反恐精英可选的全自动突击步枪。 It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "m4a4_skrrrt_green",
+   "name": "Full Throttle"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "隐秘",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1353",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_m4a4_skrrrt_green_light_png.png"
  },
  {
   "id": "skin-0e160542d6d4",
@@ -89508,6 +89998,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_black_lotus_light_png.png"
+ },
+ {
+  "id": "skin-41345355b55a",
+  "name": "M4A1 消音型 | 液化",
+  "description": "消音版 M4A1 相对于它那没有消音器的同行来说弹匣更小，枪声也较为“沉默”，还拥有更小的后坐力和更高的精准度。 Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1 消音型"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "m4a1s_quick_liquidation",
+   "name": "液化"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1340",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_quick_liquidation_light_png.png"
  },
  {
   "id": "skin-aa9558c8a01f",
@@ -93426,6 +93986,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_mac10_illusion_light_png.png"
  },
  {
+  "id": "skin-0befed15aba5",
+  "name": "MAC-10 | Cat Fight",
+  "description": "本质上就是个能射出子弹的盒子，MAC-10 微型冲锋枪拥有高频率的射速，作为交换，它还拥有略逊一筹的精准度和高后坐力。 It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "mac10_kamicatze",
+   "name": "Cat Fight"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1349",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "T"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_mac10_kamicatze_light_png.png"
+ },
+ {
   "id": "skin-1328a63c72b5",
   "name": "MAC-10 | 赛博恶魔",
   "description": "本质上就是个能射出子弹的盒子，MAC-10 微型冲锋枪拥有高频率的射速，作为交换，它还拥有略逊一筹的精准度和高后坐力。 这款定制涂装的侧面和线托之间为赛博恶魔图案。\\n\\n<i>噼啪作响的能量与冷酷的钢铁</i>",
@@ -93520,7 +94150,7 @@
    "color": "#8847ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1204",
   "wears": [
    {
@@ -96405,6 +97035,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_mag7_ammo_box_light_png.png"
  },
  {
+  "id": "skin-e8947585ba24",
+  "name": "MAG-7 | MAGnitude",
+  "description": "反恐精英专用的 Mag-7 带来毁灭性的近距离杀伤力。它快速的弹仓式装弹方式使其成为一个不错的战术选择。 This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "weapon": {
+   "id": "weapon_mag7",
+   "weapon_id": 27,
+   "name": "MAG-7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重型武器"
+  },
+  "pattern": {
+   "id": "mag7_circle_copper",
+   "name": "MAGnitude"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1355",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_mag7_circle_copper_light_png.png"
+ },
+ {
   "id": "skin-5e738163a3b5",
   "name": "MAG-7 | 海鸟",
   "description": "反恐精英专用的 Mag-7 带来毁灭性的近距离杀伤力。它快速的弹仓式装弹方式使其成为一个不错的战术选择。 这把武器的部分零件以浅绿色和褐色的配色方案进行了整体喷漆。\\n\\n<i>我的。</i>",
@@ -98453,6 +99153,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp5sd_mp5_statics_blue_light_png.png"
+ },
+ {
+  "id": "skin-e051c197f5af",
+  "name": "MP5-SD | Focus",
+  "description": "一直被模仿，但从未被超越。经典的 MP5 也许是世界上用法最通用、最受欢迎的微型冲锋枪。此 SD 变种最大特点在于已配有消音器，本已令人胆寒的武器如今杀人于无声之间。 It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "weapon": {
+   "id": "weapon_mp5sd",
+   "weapon_id": 23,
+   "name": "MP5-SD"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "mp5sd_chrome",
+   "name": "Focus"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1344",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp5sd_mp5sd_chrome_light_png.png"
  },
  {
   "id": "skin-9a6d2fd4886e",
@@ -100646,6 +101416,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_mp7_just_smile_light_png.png"
+ },
+ {
+  "id": "skin-270e56729de6",
+  "name": "MP7 | Smoking Kills",
+  "description": "非常好用，但价格昂贵，德国制造的 MP7 微型冲锋枪非常适合高强度的近距离作战。 It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "mp7_smoking_kills_v2",
+   "name": "Smoking Kills"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "保密",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1354",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_mp7_smoking_kills_v2_light_png.png"
  },
  {
   "id": "skin-f64e51a70f37",
@@ -102888,7 +103728,7 @@
    "color": "#d32ce6"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1211",
   "wears": [
    {
@@ -103976,6 +104816,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp9_mp9_nexus_light_png.png"
+ },
+ {
+  "id": "skin-fb7ae83c1e81",
+  "name": "MP9 | Broken Record",
+  "description": "由瑞士制造，尖端的 MP9 微型冲锋枪是一把符合人类工效学的聚合物武器，深受私人保安公司青睐。 It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "mp9_vinyl",
+   "name": "Broken Record"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1341",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp9_mp9_vinyl_light_png.png"
  },
  {
   "id": "skin-65e7edddd8b7",
@@ -108690,6 +109600,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_nova_drakkar_light_png.png"
  },
  {
+  "id": "skin-f58ac1d8b31c",
+  "name": "新星 | Ocular",
+  "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "新星"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "重型武器"
+  },
+  "pattern": {
+   "id": "nova_ocular",
+   "name": "Ocular"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1350",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_nova_ocular_light_png.png"
+ },
+ {
   "id": "skin-aef077455139",
   "name": "新星 | 初升之樱",
   "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 它采用了仿日式彩绘玻璃涂装。\\n\\n<i>阳光下更震撼——实习军火商伊莫金</i>",
@@ -109616,7 +110596,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1337",
   "wears": [
    {
@@ -110420,7 +111400,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1212",
   "wears": [
    {
@@ -112826,6 +113806,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_hye_pink_coral_light_png.png"
+ },
+ {
+  "id": "skin-8ec9dd302f30",
+  "name": "P250 | Bullfrog",
+  "description": "一把低后坐力和高射速的手枪，在对付穿了护甲的对手时，P250 是一个相对便宜的选择。 It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "手枪"
+  },
+  "pattern": {
+   "id": "p250_bullfrog",
+   "name": "Bullfrog"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1345",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_p250_bullfrog_light_png.png"
  },
  {
   "id": "skin-71be2ee4feeb",
@@ -116649,7 +117699,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1199",
   "wears": [
    {
@@ -123579,6 +124629,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_scar20_scar20_fury_topo_light_png.png"
  },
  {
+  "id": "skin-e8ce6f07d5e7",
+  "name": "SCAR-20 | Caged",
+  "description": "SCAR-20 是一把以迟缓的移动速度和高昂的价格为代价，换取高射速及强大的远距离杀伤力的半自动狙击步枪。 A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "步枪"
+  },
+  "pattern": {
+   "id": "scar_refraction_v4",
+   "name": "Caged"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "军规级",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1343",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "CT"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_scar20_scar_refraction_v4_light_png.png"
+ },
+ {
   "id": "skin-2da4350cc477",
   "name": "SCAR-20 | 赭石短调",
   "description": "SCAR-20 是一把以迟缓的移动速度和高昂的价格为代价，换取高射速及强大的远距离杀伤力的半自动狙击步枪。 它采用了深浅不一的黄色调涂装。\\n\\n<i>新素材登场……</i>",
@@ -127706,10 +128826,6 @@
   "paint_index": "304",
   "wears": [
    {
-    "id": "SFUI_InvTooltip_Wear_Amount_1",
-    "name": "略有磨损"
-   },
-   {
     "id": "SFUI_InvTooltip_Wear_Amount_2",
     "name": "久经沙场"
    },
@@ -130279,7 +131395,7 @@
    "color": "#8847ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1205",
   "wears": [
    {
@@ -133266,7 +134382,7 @@
    "color": "#8847ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1214",
   "wears": [
    {
@@ -136844,6 +137960,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ump45_ump45_assembled_engine_light_png.png"
  },
  {
+  "id": "skin-822f252e3894",
+  "name": "UMP-45 | Continuum",
+  "description": "饱受误解的微型冲锋枪大家族中的中间儿，UMP45 弹匣较小是它唯一的缺点，否则它就是近距离自动枪械中的多面手了。 This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "weapon": {
+   "id": "weapon_ump45",
+   "weapon_id": 24,
+   "name": "UMP-45"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "微型冲锋枪"
+  },
+  "pattern": {
+   "id": "ump45_illumina_v2",
+   "name": "Continuum"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "受限",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1351",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "崭新出厂"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "略有磨损"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "久经沙场"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "破损不堪"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "战痕累累"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "双方团队"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ump45_ump45_illumina_v2_light_png.png"
+ },
+ {
   "id": "skin-52c02605493f",
   "name": "UMP-45 | 黑色魅影",
   "description": "饱受误解的微型冲锋枪大家族中的中间儿，UMP45 弹匣较小是它唯一的缺点，否则它就是近距离自动枪械中的多面手了。 这款定制涂装为一名蓝紫色调的女性形象，背景为灰度图案。\\n\\n<i>“手握利刃，她决定是时候站出来了”</i>",
@@ -137008,7 +138194,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1203",
   "wears": [
    {
@@ -143190,7 +144376,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1201",
   "wears": [
    {

@@ -5158,6 +5158,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_ak47_explosive_light_png.png"
  },
  {
+  "id": "skin-4608abab8351",
+  "name": "AK-47 | The Oligarch",
+  "description": "AK-47, kraftfuld og pålidelig, er en af de mest populære kamprifler i verden. Den er mest dødelig i korte, kontrollerede salver af skud. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "weapon": {
+   "id": "weapon_ak47",
+   "weapon_id": 7,
+   "name": "AK-47"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "ak47_puffer_custom",
+   "name": "The Oligarch"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Tilsløret",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1352",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ak47_ak47_puffer_custom_light_png.png"
+ },
+ {
   "id": "skin-ad56dc47a4c4",
   "name": "AK-47 | The Outsiders",
   "description": "AK-47, kraftfuld og pålidelig, er en af de mest populære kamprifler i verden. Den er mest dødelig i korte, kontrollerede salver af skud. Den er blevet specialmalet med rå afbildninger af T'er i forskellige situationer.\\n\\n<i>T'erne på bussen vinder runder, runder, runder, runder, runder, runder</i>",
@@ -9749,7 +9819,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1198",
   "wears": [
    {
@@ -9863,6 +9933,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_aug_puffer_light_png.png"
+ },
+ {
+  "id": "skin-ab9a15ef8110",
+  "name": "AUG | Trigger Discipline",
+  "description": "Den kraftfulde og nøjagtige AUG-kampriffel med kikkertsigte kompenserer for dens lange genladningstider med en lille spredning og en høj skudhastighed. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "weapon": {
+   "id": "weapon_aug",
+   "weapon_id": 8,
+   "name": "AUG"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "aug_trigger_discipline_velco",
+   "name": "Trigger Discipline"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1339",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_aug_aug_trigger_discipline_velco_light_png.png"
  },
  {
   "id": "skin-6f4ba747e1a4",
@@ -12580,6 +12720,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_awp_aq_awp_twine_light_png.png"
  },
  {
+  "id": "skin-a5be0877a3d7",
+  "name": "AWP | Ice Coaled",
+  "description": "Den berygtede AWP, med stor risiko og stor gevinst, er genkendelig med dens signaturrapport og ét skud, ét drab-politik. Den er blevet specialmalet med en prangende grøn og blå graduering.\\n\\n<i>Kold at røre ved</i>",
+  "weapon": {
+   "id": "weapon_awp",
+   "weapon_id": 9,
+   "name": "AWP"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "awp_ice_coaled",
+   "name": "Ice Coaled"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Klassificeret",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1346",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_awp_awp_ice_coaled_light_png.png"
+ },
+ {
   "id": "skin-42c6a7e245d3",
   "name": "AWP | LongDog",
   "description": "Den berygtede AWP, med stor risiko og stor gevinst, er genkendelig med dens signaturrapport og ét skud, ét drab-politik. Den er blevet specialmalet med LongDog-graffitien fra Train.\\n\\n<i>\\\"Den bedste hund i verden er den, der venter på dig derhjemme\\\"</i>",
@@ -12604,7 +12814,7 @@
    "color": "#eb4b4b"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1213",
   "wears": [
    {
@@ -21001,7 +21211,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1195",
   "wears": [
    {
@@ -27610,6 +27820,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_elite_dual_berettas_lethal_grin_light_png.png"
  },
  {
+  "id": "skin-94f44ac08438",
+  "name": "Dual Berettas | Angel Eyes",
+  "description": "At affyre to stormagasin-Berettaer på samme tid gør præcisionen mindre og forøger ladetider. På den lyse side får du lov til at affyre to stormagasin-Berettaer på samme tid. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "weapon": {
+   "id": "weapon_elite",
+   "weapon_id": 2,
+   "name": "Dual Berettas"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "dual_elite_biblical_angel",
+   "name": "Angel Eyes"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1347",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_elite_dual_elite_biblical_angel_light_png.png"
+ },
+ {
   "id": "skin-8300a7de7ac6",
   "name": "Dual Berettas | Hydro Strike",
   "description": "At affyre to stormagasin-Berettaer på samme tid gør præcisionen mindre og forøger ladetider. På den lyse side får du lov til at affyre to stormagasin-Berettaer på samme tid. Den er blevet specialmalet i blå og orange. Dråberne antyder, at våbnene muligvis stadig er våde.\\n\\n<i>Det bedste våben er det, dine fjender mindst forventer</i>",
@@ -31106,7 +31386,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1202",
   "wears": [
    {
@@ -39582,7 +39862,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "294",
   "wears": [
    {
@@ -42880,6 +43160,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_glock_chomper_light_png.png"
  },
  {
+  "id": "skin-a59908982432",
+  "name": "Glock-18 | Mirror Mosaic",
+  "description": "Glock 18 er en brugbar pistol til første runde, der virker bedst mod upansrede modstandere og er i stand til at affyre tre-skudssalver. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "weapon": {
+   "id": "weapon_glock",
+   "weapon_id": 4,
+   "name": "Glock-18"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "glock_mirror_maze_v2_pearl",
+   "name": "Mirror Mosaic"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Klassificeret",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1348",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_glock_glock_mirror_maze_v2_pearl_light_png.png"
+ },
+ {
   "id": "skin-a7838b4ba71f",
   "name": "Glock-18 | Shinobu",
   "description": "Glock 18 er en brugbar pistol til første runde, der virker bedst mod upansrede modstandere og er i stand til at affyre tre-skudssalver. Den er blevet specialmalet med en kvinde på skinnen, som bruger \\\"Premium\\\" kontaktlinser fra SR Tech.\\n\\n<i>\\\"SR Tech – holder dig fokuseret på én skudduel ad gangen\\\"</i>",
@@ -42974,7 +43324,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1200",
   "wears": [
    {
@@ -46503,6 +46853,76 @@
   },
   "legacy_model": true,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_hkp2000_hy_poly_camo_light_png.png"
+ },
+ {
+  "id": "skin-53b81168eea3",
+  "name": "P2000 | Red Wing",
+  "description": "Den tysklavede P2000, præcis og kontrollerbar, er en brugbar pistol til første runde, der virker bedst mod upansrede modstandere. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "weapon": {
+   "id": "weapon_hkp2000",
+   "weapon_id": 32,
+   "name": "P2000"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "p2000_deep_red",
+   "name": "Red Wing"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1342",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_hkp2000_p2000_deep_red_light_png.png"
  },
  {
   "id": "skin-8bda61ff439a",
@@ -85017,7 +85437,7 @@
    "color": "#d32ce6"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1209",
   "wears": [
    {
@@ -86609,6 +87029,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_m4a4_green_camo_light_png.png"
+ },
+ {
+  "id": "skin-e7c2a01982dd",
+  "name": "M4A4 | Full Throttle",
+  "description": "M4A4, mere præcis men mindre skadende end sit AK-47-modstykke, er den mest populære fuldautomatiske riffel for CT'ere. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "weapon": {
+   "id": "weapon_m4a1",
+   "weapon_id": 16,
+   "name": "M4A4"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "m4a4_skrrrt_green",
+   "name": "Full Throttle"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_ancient_weapon",
+   "name": "Tilsløret",
+   "color": "#eb4b4b"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1353",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_m4a4_skrrrt_green_light_png.png"
  },
  {
   "id": "skin-0e160542d6d4",
@@ -89508,6 +89998,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_black_lotus_light_png.png"
+ },
+ {
+  "id": "skin-41345355b55a",
+  "name": "M4A1-S | Liquidation",
+  "description": "Med et mindre magasin end sit udæmpede modstykke, giver den lydløse M4A1 støjsvage skud med mindre rekyl og bedre præcision. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "weapon": {
+   "id": "weapon_m4a1_silencer",
+   "weapon_id": 60,
+   "name": "M4A1-S"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "m4a1s_quick_liquidation",
+   "name": "Liquidation"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1340",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_m4a1_silencer_m4a1s_quick_liquidation_light_png.png"
  },
  {
   "id": "skin-aa9558c8a01f",
@@ -93426,6 +93986,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_mac10_illusion_light_png.png"
  },
  {
+  "id": "skin-0befed15aba5",
+  "name": "MAC-10 | Cat Fight",
+  "description": "MAC-10-maskinpistolen, der egentlig bare er en kasse, som kugler kommer ud af, har en hurtig skudhastighed men med dårlig præcision og høj rekyl til afvejning. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "weapon": {
+   "id": "weapon_mac10",
+   "weapon_id": 17,
+   "name": "MAC-10"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "mac10_kamicatze",
+   "name": "Cat Fight"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1349",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "terrorists",
+   "name": "Terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mac10_mac10_kamicatze_light_png.png"
+ },
+ {
   "id": "skin-1328a63c72b5",
   "name": "MAC-10 | Saibā Oni",
   "description": "MAC-10-maskinpistolen, der egentlig bare er en kasse, som kugler kommer ud af, har en hurtig skudhastighed men med dårlig præcision og høj rekyl til afvejning. Den er blevet specialmalet med en kybernetisk dæmon på siden og kolben.\\n\\n<i>Knitrende energi og koldt stål</i>",
@@ -93520,7 +94150,7 @@
    "color": "#8847ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1204",
   "wears": [
    {
@@ -96405,6 +97035,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_mag7_ammo_box_light_png.png"
  },
  {
+  "id": "skin-e8947585ba24",
+  "name": "MAG-7 | MAGnitude",
+  "description": "Den CT-eksklusive Mag-7 leverer en katastrofal mængde skade ved kort afstand. Dens hurtige magasin-stil-genladninger gør den til et godt taktisk valg. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "weapon": {
+   "id": "weapon_mag7",
+   "weapon_id": 27,
+   "name": "MAG-7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Tunge"
+  },
+  "pattern": {
+   "id": "mag7_circle_copper",
+   "name": "MAGnitude"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1355",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mag7_mag7_circle_copper_light_png.png"
+ },
+ {
   "id": "skin-5e738163a3b5",
   "name": "MAG-7 | Seabird",
   "description": "Den CT-eksklusive Mag-7 leverer en katastrofal mængde skade ved kort afstand. Dens hurtige magasin-stil-genladninger gør den til et godt taktisk valg. Den har individuelle dele spraymalet solide farver i et turkis og gyldenbrunt farveskema.\\n\\n<i>Min.</i>",
@@ -98453,6 +99153,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp5sd_mp5_statics_blue_light_png.png"
+ },
+ {
+  "id": "skin-e051c197f5af",
+  "name": "MP5-SD | Focus",
+  "description": "Ofte imiteret, men aldrig set lignende: Den ikoniske MP5 er måske den mest alsidige og populære maskinpistol i verden. Denne SD-variant er udstyret med en integreret lyddæmper, som gør et allerede formidabelt våben stille som hvisken. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "weapon": {
+   "id": "weapon_mp5sd",
+   "weapon_id": 23,
+   "name": "MP5-SD"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "mp5sd_chrome",
+   "name": "Focus"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1344",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp5sd_mp5sd_chrome_light_png.png"
  },
  {
   "id": "skin-9a6d2fd4886e",
@@ -100646,6 +101416,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_mp7_just_smile_light_png.png"
+ },
+ {
+  "id": "skin-270e56729de6",
+  "name": "MP7 | Smoking Kills",
+  "description": "Den tysklavede MP7-maskinpistol, fleksibel men dyr, er det perfekte valg til kamp på korte afstande med stor virkning. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "weapon": {
+   "id": "weapon_mp7",
+   "weapon_id": 33,
+   "name": "MP7"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "mp7_smoking_kills_v2",
+   "name": "Smoking Kills"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_legendary_weapon",
+   "name": "Klassificeret",
+   "color": "#d32ce6"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1354",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp7_mp7_smoking_kills_v2_light_png.png"
  },
  {
   "id": "skin-f64e51a70f37",
@@ -102888,7 +103728,7 @@
    "color": "#d32ce6"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1211",
   "wears": [
    {
@@ -103976,6 +104816,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp9_mp9_nexus_light_png.png"
+ },
+ {
+  "id": "skin-fb7ae83c1e81",
+  "name": "MP9 | Broken Record",
+  "description": "Den banebrydende MP9-maskinpistol, der fremstilles i Schweiz, er et våben af ergonomisk polymer, som mange private sikkerhedsfirmaer foretrækker. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "weapon": {
+   "id": "weapon_mp9",
+   "weapon_id": 34,
+   "name": "MP9"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "mp9_vinyl",
+   "name": "Broken Record"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1341",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_mp9_mp9_vinyl_light_png.png"
  },
  {
   "id": "skin-65e7edddd8b7",
@@ -108690,6 +109600,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_nova_drakkar_light_png.png"
  },
  {
+  "id": "skin-f58ac1d8b31c",
+  "name": "Nova | Ocular",
+  "description": "Novas bundpris gør den til et godt bagholdsangrebsvåben for et pengemanglende hold. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "weapon": {
+   "id": "weapon_nova",
+   "weapon_id": 35,
+   "name": "Nova"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_heavy",
+   "name": "Tunge"
+  },
+  "pattern": {
+   "id": "nova_ocular",
+   "name": "Ocular"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1350",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_nova_nova_ocular_light_png.png"
+ },
+ {
   "id": "skin-aef077455139",
   "name": "Nova | Rising Sun",
   "description": "Novas bundpris gør den til et godt bagholdsangrebsvåben for et pengemanglende hold. Den er blevet specialmalet for at ligne farvet japansk glasmønster.\\n\\n<i>Bare vent, indtil du ser det i sollys – Imogen, våbenhandler i træning</i>",
@@ -109616,7 +110596,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1337",
   "wears": [
    {
@@ -110420,7 +111400,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1212",
   "wears": [
    {
@@ -112826,6 +113806,76 @@
   },
   "legacy_model": false,
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_hye_pink_coral_light_png.png"
+ },
+ {
+  "id": "skin-8ec9dd302f30",
+  "name": "P250 | Bullfrog",
+  "description": "P250, et lavrekyl-skydevåben med høj skudhastighed, er et relativt billigt valg mod pansrede fjender. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "weapon": {
+   "id": "weapon_p250",
+   "weapon_id": 36,
+   "name": "P250"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_pistols",
+   "name": "Pistoler"
+  },
+  "pattern": {
+   "id": "p250_bullfrog",
+   "name": "Bullfrog"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1345",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_p250_p250_bullfrog_light_png.png"
  },
  {
   "id": "skin-71be2ee4feeb",
@@ -116649,7 +117699,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1199",
   "wears": [
    {
@@ -123579,6 +124629,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_scar20_scar20_fury_topo_light_png.png"
  },
  {
+  "id": "skin-e8ce6f07d5e7",
+  "name": "SCAR-20 | Caged",
+  "description": "SCAR-20 er en halvautomatisk snigskytteriffel, der med en høj skudhastighed og kraftig lang-afstandsskade dog har langsom bevægelseshastighed og høj pris. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "weapon": {
+   "id": "weapon_scar20",
+   "weapon_id": 38,
+   "name": "SCAR-20"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_rifles",
+   "name": "Rifler"
+  },
+  "pattern": {
+   "id": "scar_refraction_v4",
+   "name": "Caged"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_rare_weapon",
+   "name": "Mil-spec-kvalitet",
+   "color": "#4b69ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1343",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "counter-terrorists",
+   "name": "Counter-terrorist"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_scar20_scar_refraction_v4_light_png.png"
+ },
+ {
   "id": "skin-2da4350cc477",
   "name": "SCAR-20 | Short Ochre",
   "description": "SCAR-20 er en halvautomatisk snigskytteriffel, der med en høj skudhastighed og kraftig lang-afstandsskade dog har langsom bevægelseshastighed og høj pris. Den er blevet malet med forskellige gule nuancer.\\n\\n<i>Her er der noget nyt materiale...</i>",
@@ -127706,10 +128826,6 @@
   "paint_index": "304",
   "wears": [
    {
-    "id": "SFUI_InvTooltip_Wear_Amount_1",
-    "name": "Lidt slidt"
-   },
-   {
     "id": "SFUI_InvTooltip_Wear_Amount_2",
     "name": "Afprøvet i marken"
    },
@@ -130279,7 +131395,7 @@
    "color": "#8847ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1205",
   "wears": [
    {
@@ -133266,7 +134382,7 @@
    "color": "#8847ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1214",
   "wears": [
    {
@@ -136844,6 +137960,76 @@
   "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ump45_ump45_assembled_engine_light_png.png"
  },
  {
+  "id": "skin-822f252e3894",
+  "name": "UMP-45 | Continuum",
+  "description": "UMP45, maskinpistol-familiens misforståede mellembarn, har én ulempe som er dens lille magasin, men den er derudover et fleksibelt automatvåben til nærkamp. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "weapon": {
+   "id": "weapon_ump45",
+   "weapon_id": 24,
+   "name": "UMP-45"
+  },
+  "category": {
+   "id": "csgo_inventory_weapon_category_smgs",
+   "name": "Maskinpistoler"
+  },
+  "pattern": {
+   "id": "ump45_illumina_v2",
+   "name": "Continuum"
+  },
+  "min_float": 0,
+  "max_float": 1,
+  "rarity": {
+   "id": "rarity_mythical_weapon",
+   "name": "Begrænset",
+   "color": "#8847ff"
+  },
+  "stattrak": false,
+  "souvenir": false,
+  "paint_index": "1351",
+  "wears": [
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_0",
+    "name": "Fabriksny"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_1",
+    "name": "Lidt slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_2",
+    "name": "Afprøvet i marken"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_3",
+    "name": "Meget slidt"
+   },
+   {
+    "id": "SFUI_InvTooltip_Wear_Amount_4",
+    "name": "Kampvansiret"
+   }
+  ],
+  "collections": [
+   {
+    "id": "collection-set-community-36",
+    "name": "The Genesis Collection",
+    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
+   }
+  ],
+  "crates": [
+   {
+    "id": "crate-5176",
+    "name": "Sealed Genesis Terminal",
+    "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
+   }
+  ],
+  "team": {
+   "id": "both",
+   "name": "Begge hold"
+  },
+  "legacy_model": false,
+  "image": "https://i.cs2inspects.com/images/econ/default_generated/weapon_ump45_ump45_illumina_v2_light_png.png"
+ },
+ {
   "id": "skin-52c02605493f",
   "name": "UMP-45 | Neo-Noir",
   "description": "UMP45, maskinpistol-familiens misforståede mellembarn, har én ulempe som er dens lille magasin, men den er derudover et fleksibelt automatvåben til nærkamp. Den er blevet specialmalet med en stiliseret rødblå kvinde på en gråtonet baggrund.\\n\\n<i>\\\"Med klingen i hånden besluttede hun, det var tid til at forsvare sig\\\"</i>",
@@ -137008,7 +138194,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1203",
   "wears": [
    {
@@ -143190,7 +144376,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1201",
   "wears": [
    {
