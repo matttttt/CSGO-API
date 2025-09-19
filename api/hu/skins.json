@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Biztos Kézzel",
-  "description": "A pontos és jól kezelhető német gyártású P2000 használható első körös pisztoly, mely páncélozatlan ellenfelek ellen működik a legjobban. Fraktálmintás fegyveracél-szürke egyedi festést kapott, narancsszínű díszítésekkel.\\n\\n<i>>>FEGYVERFESTÉS-TEXTÚRA KÍSÉRLET, ELSŐ PRÓBÁLKOZÁS<<</i>",
+  "description": "A pontos és jól kezelhető német gyártású P2000 használható első körös pisztoly, mely páncélozatlan ellenfelek ellen működik a legjobban. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,

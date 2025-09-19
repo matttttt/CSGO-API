@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "Precisa e controllabile, la P2000, di fabbricazione tedesca, è un'utile pistola per il primo round che si dimostra efficace contro gli avversari senza giubbotto antiproiettile. È stato verniciato in grigio canna di fucile utilizzando disegni frattali e rifinito con accenti arancioni.\\n\\n<i>>>ESPERIMENTI SULLE FINITURE DELLE ARMI. PROVA UNO.<<</i>",
+  "description": "Precisa e controllabile, la P2000, di fabbricazione tedesca, è un'utile pistola per il primo round che si dimostra efficace contro gli avversari senza giubbotto antiproiettile. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,

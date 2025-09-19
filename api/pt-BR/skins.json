@@ -5209,7 +5209,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -7513,7 +7513,7 @@
  },
  {
   "id": "skin-1b3ca668024e",
-  "name": "AK-47 | Imperatriz",
+  "name": "AK-47 | A Imperatriz",
   "description": "Poderoso e confiável, o AK-47 é um dos rifles de assalto mais populares do mundo. Ele é mais mortal em rajadas curtas e controladas. Esta arma foi pintada usando a carta de tarô da Imperatriz como inspiração.\\n\\n<i>A riqueza tem várias formas</i> ",
   "weapon": {
    "id": "weapon_ak47",
@@ -7526,7 +7526,7 @@
   },
   "pattern": {
    "id": "gs_ak47_empress",
-   "name": "Imperatriz"
+   "name": "A Imperatriz"
   },
   "min_float": 0,
   "max_float": 1,
@@ -9986,7 +9986,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -11627,7 +11627,7 @@
  {
   "id": "skin-b01bdbd2c238",
   "name": "AUG | Contratante",
-  "description": "Poderoso e preciso, o rifle de assalto com lente de aproximação AUG compensa a sua recarga demorada com a sua precisão e rápido disparo. As partes desta arma foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
+  "description": "Poderoso e preciso, o rifle de assalto com lente de aproximação AUG compensa a sua recarga demorada com a sua precisão e rápido disparo. Estas armas foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -11702,7 +11702,7 @@
  {
   "id": "skin-758678f3176d",
   "name": "AUG | Colônia",
-  "description": "Poderoso e preciso, o rifle de assalto com lente de aproximação AUG compensa a sua recarga demorada com a sua precisão e rápido disparo. As partes desta arma foram pintadas individualmente de cáqui e cinza.",
+  "description": "Poderoso e preciso, o rifle de assalto com lente de aproximação AUG compensa a sua recarga demorada com a sua precisão e rápido disparo. Estas armas foram pintadas individualmente de cáqui e cinza.",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -12771,7 +12771,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -14264,7 +14264,7 @@
  },
  {
   "id": "skin-549330dac6c0",
-  "name": "AWP | Príncipe",
+  "name": "AWP | O Príncipe",
   "description": "A infame AWP é conhecida por recompensar aqueles que arriscam, sendo famosa pelo funcionamento \\\"Um tiro, uma morte\\\". Esta arma foi pintada em cima de uma base vermelha com filigranas douradas.\\n\\n<i>Que a paz esteja convosco</i>",
   "weapon": {
    "id": "weapon_awp",
@@ -14277,7 +14277,7 @@
   },
   "pattern": {
    "id": "gs_awp_enamel",
-   "name": "Príncipe"
+   "name": "O Príncipe"
   },
   "min_float": 0,
   "max_float": 0.6,
@@ -16969,7 +16969,7 @@
  {
   "id": "skin-39cf8d0afb88",
   "name": "Baioneta ★ | Manchado",
-  "description": "Com design relativamente inalterado desde a Segunda Guerra Mundial, a baioneta ainda tem um lugar em estratégias militares modernas. Investidas de baionetas continuam eficazes, como visto recentemente na segunda Guerra do Golfo e na guerra no Afeganistão. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Com design relativamente inalterado desde a Segunda Guerra Mundial, a baioneta ainda tem um lugar em estratégias militares modernas. Investidas de baionetas continuam eficazes, como visto recentemente na segunda Guerra do Golfo e na guerra no Afeganistão. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_bayonet",
    "weapon_id": 500,
@@ -21764,7 +21764,7 @@
  {
   "id": "skin-5f1ca8e9f44f",
   "name": "CZ75-Auto | Esmeralda",
-  "description": "Uma variante automática da CZ75, a CZ75-Auto é a escolha de curto prazo ideal para virar o jogo e levar a arma do seu adversário. Mas com pouca munição fornecida, é necessária sabedoria na hora de apertar o gatilho. Esta arma foi pintada com um revestimento cromado e com detalhes de tinta com efeito esmeralda transparente.\\n\\n<i>O grande Sebastien Hennequet se reduziu a isto? Uma professora rabugenta? O que aconteceu com você... — O Professor e o Iconoclasta, Parte 2</i>",
+  "description": "Uma variante automática da CZ75, a CZ75-Auto é a escolha de curto prazo ideal para virar o jogo e levar a arma do seu adversário. Mas com pouca munição fornecida, é necessária sabedoria na hora de apertar o gatilho. Estas armas foram pintadas com um revestimento cromado e com detalhes de tinta com efeito esmeralda transparente.\\n\\n<i>O grande Sebastien Hennequet se reduziu a isto? Um professor rabugento? O que aconteceu com você... — O Professor e o Iconoclasta, Parte 2</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23231,7 +23231,7 @@
  {
   "id": "skin-11ddb95a9bd7",
   "name": "CZ75-Auto | Nitro",
-  "description": "Uma variante automática da CZ75, a CZ75-Auto é a escolha de curto prazo ideal para virar o jogo e levar a arma do seu adversário. Mas com pouca munição fornecida, é necessária sabedoria na hora de apertar o gatilho. As partes desta arma foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
+  "description": "Uma variante automática da CZ75, a CZ75-Auto é a escolha de curto prazo ideal para virar o jogo e levar a arma do seu adversário. Mas com pouca munição fornecida, é necessária sabedoria na hora de apertar o gatilho. Partes destas armas foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23858,7 +23858,7 @@
  {
   "id": "skin-3b1a5d288858",
   "name": "Desert Eagle | Meteorito",
-  "description": "Tão cara quanto poderosa, a Desert Eagle é uma pistola icônica difícil de domar, mas surpreendentemente precisa a longa distância. Esta arma foi pintada com tinta metálica e usa uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
+  "description": "Tão cara quanto poderosa, a Desert Eagle é uma pistola icônica difícil de domar, mas surpreendentemente precisa a longa distância. Estas armas foram pintadas com tinta metálica e usam uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
   "weapon": {
    "id": "weapon_deagle",
    "weapon_id": 1,
@@ -24104,7 +24104,7 @@
  {
   "id": "skin-953912490f9b",
   "name": "Desert Eagle | O Bronze",
-  "description": "Tão cara quanto poderosa, a Desert Eagle é uma pistola icônica difícil de domar, mas surpreendentemente precisa a longa distância. Esta arma foi pintada com um padrão multicolorido de números aleatórios.\\n\\n<i>Os números não mentem. Mas eu, sim</i>",
+  "description": "Tão cara quanto poderosa, a Desert Eagle é uma pistola icônica difícil de domar, mas surpreendentemente precisa a longa distância. Esta arma foi pintada com um padrão multicolorido de números aleatórios.\\n\\n<i>Os números não mentem. Diferente de mim</i>",
   "weapon": {
    "id": "weapon_deagle",
    "weapon_id": 1,
@@ -26670,7 +26670,7 @@
  {
   "id": "skin-0feaf11a3f2d",
   "name": "Berettas Duplas | Quartzo de Cobalto",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com tinta metálica e usa uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com tinta metálica e usam uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -26741,7 +26741,7 @@
  {
   "id": "skin-9fa2b66165fd",
   "name": "Berettas Duplas | Assalto",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. A base desta arma foi pintada com um padrão de mapa em bege anodizado. Parece que alguém desenhou no mapa após a pintura.\\n\\n<i>Planejar é um coisa, executar é outra...</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. As bases destas armas foram pintadas com um padrão de mapa em bege anodizado. Parece que alguém desenhou no mapa após a pintura.\\n\\n<i>Planejar é um coisa, executar é outra...</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -26805,7 +26805,7 @@
  {
   "id": "skin-5eadf3687ff5",
   "name": "Berettas Duplas | Hemoglobina",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com um hidrográfico vermelho abstrato transparente sobre um revestimento metálico.",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com um hidrográfico vermelho abstrato transparente sobre um revestimento metálico.",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -26867,7 +26867,7 @@
  {
   "id": "skin-077ca0be4b1f",
   "name": "Berettas Duplas | Esmeralda",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com um revestimento cromado e com detalhes de tinta com efeito esmeralda transparente.\\n\\n<i>O grande Sebastien Hennequet se reduziu a isto? Uma professora rabugenta? O que aconteceu com você... — O Professor e o Iconoclasta, Parte 2</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com um revestimento cromado e com detalhes de tinta com efeito esmeralda transparente.\\n\\n<i>O grande Sebastien Hennequet se reduziu a isto? Um professor rabugento? O que aconteceu com você... — O Professor e o Iconoclasta, Parte 2</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -26919,7 +26919,7 @@
  {
   "id": "skin-ddc4aeda27ca",
   "name": "Berettas Duplas | Azul-marinho Metalizado",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com um revestimento cromado e com detalhes de tinta com efeito de azul-marinho transparente.",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com um revestimento cromado e com detalhes de tinta com efeito de azul-marinho transparente.",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27012,7 +27012,7 @@
  {
   "id": "skin-df294c189613",
   "name": "Berettas Duplas | Cartel",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi gravada com desenhos de esqueletos, flores e serpentes.\\n\\n<i>É por isso que Huxley faz o trabalho pesado, tudo o que temos que fazer é acompanhá-la... — A Serpente e o Investigador da Verdade, Parte 2",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram gravadas com desenhos de esqueletos, flores e serpentes.\\n\\n<i>É por isso que Huxley faz o trabalho pesado, tudo o que temos que fazer é acompanhá-la... — A Serpente e o Investigador da Verdade, Parte 2",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27082,7 +27082,7 @@
  {
   "id": "skin-c4a250807703",
   "name": "Berettas Duplas | Manchado",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27227,7 +27227,7 @@
  {
   "id": "skin-248559e8b343",
   "name": "Berettas Duplas | Twin Turbo",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada prestando homenagem a um carro de corrida italiano.\\n\\n<i>Sempre o azarão</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas prestando homenagem a um carro de corrida italiano.\\n\\n<i>Sempre o azarão</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27342,7 +27342,7 @@
  {
   "id": "skin-3b525708df85",
   "name": "Berettas Duplas | Dragões em Dobro",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma possui dragões gravados a laser no ferrolho e no barril.\\n\\n<i>Marian sempre foi mais legal que Sylvia</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas possuem dragões gravados a laser no ferrolho e no barril.\\n\\n<i>Marian sempre foi mais legal que Sylvia</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27412,7 +27412,7 @@
  {
   "id": "skin-53e4dc76b3e5",
   "name": "Berettas Duplas | Melandrama",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Essas Berettas foram pintadas com uma forma distorcida e assustadora de melancia sobre um fundo azul-marinho.\\n\\n<i>Bons sonhos...</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas Berettas foram pintadas com uma forma distorcida e assustadora de melancia sobre um fundo azul-marinho.\\n\\n<i>Bons sonhos...</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27482,7 +27482,7 @@
  {
   "id": "skin-25ead8f88d62",
   "name": "Berettas Duplas | Choque Urbano",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com uma camuflagem urbana com detalhes azuis.\\n\\n<i>Não há relâmpagos sem trovões</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com uma camuflagem urbana com detalhes azuis.\\n\\n<i>Não há relâmpagos sem trovões</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27552,7 +27552,7 @@
  {
   "id": "skin-6e1eac6f1a57",
   "name": "Berettas Duplas | Doces Anjinhos",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com dois querubins sobre uma base de grafite brilhante.\\n\\n<i>Ahhh, olhe como são tão… preciosos</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com dois querubins sobre uma base de grafite brilhante.\\n\\n<i>Ahhh, olhe como são tão… preciosos</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27616,7 +27616,7 @@
  {
   "id": "skin-011747eede4b",
   "name": "Berettas Duplas | Retribuição",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com um design militar.",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com um design militar.",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27752,7 +27752,7 @@
  {
   "id": "skin-8d6879f0a2bc",
   "name": "Berettas Duplas | Esconderijo",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com um design multicolorido.\\n\\n<i></i>Dê um passo à frente, não tenha vergonha</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com um design multicolorido.\\n\\n<i>Dê um passo à frente, não tenha vergonha</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27871,7 +27871,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -27892,7 +27892,7 @@
  {
   "id": "skin-8300a7de7ac6",
   "name": "Berettas Duplas | Ataque Aquático",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada de azul e laranja. As gotas insinuam que as armas ainda podem estar molhadas.\\n\\n<i>A melhor arma é aquela que os seus inimigos menos esperam</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas de azul e laranja. As gotas insinuam que as armas ainda podem estar molhadas.\\n\\n<i>A melhor arma é aquela que os seus inimigos menos esperam</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28102,7 +28102,7 @@
  {
   "id": "skin-2643362b3ca1",
   "name": "Berettas Duplas | Elite 1.6",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. As partes destas Dual Berettas clássicas foram estampadas com a palavra \\\"ELITE\\\" na lateral.\\n\\n<i>Material Source</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas Dual Berettas clássicas foram estampadas com a palavra \\\"ELITE\\\" na lateral.\\n\\n<i>Material Source</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28242,7 +28242,7 @@
  {
   "id": "skin-6f46742a68e4",
   "name": "Berettas Duplas | Equilíbrio",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Ambas as partes desta arma foram pintadas com rosas vermelha na empunhadura, sobre uma base preta com filigranas prateadas.\\n\\n<i>Em todas as coisas</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com rosas vermelha na empunhadura, sobre uma base preta com filigranas prateadas.\\n\\n<i>Em todas as coisas</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28448,7 +28448,7 @@
  {
   "id": "skin-195edfb272ee",
   "name": "Berettas Duplas | Duelista",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Algumas partes desta arma foram pintadas de madrepérola, além de receber uma pátina escura forçada.\\n\\n<i>Chiclete não incluso</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Algumas partes destas armas foram pintadas de madrepérola, além de receberem uma pátina escura forçada.\\n\\n<i>Chiclete não incluso</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28512,7 +28512,7 @@
  {
   "id": "skin-b7fcc2dc0ddc",
   "name": "Berettas Duplas | Piras",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada usando um hidrográfico de cor de ferrugem com rabiscos feitos com caneta de gel.\\n\\n<i>Honre a sua morte</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas usando um hidrográfico de cor de ferrugem com rabiscos feitos com caneta de gel.\\n\\n<i>Honre a sua morte</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28576,7 +28576,7 @@
  {
   "id": "skin-6c5c32b4624e",
   "name": "Berettas Duplas | Marina",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com um hidrográfico usando um padrão contrastante de amarelo e azul.\\n\\n<i>Alguns o chamarão de herói... outros de vilão</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com um hidrográfico usando um padrão contrastante de amarelo e azul.\\n\\n<i>Alguns o chamarão de herói... outros de vilão</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28646,7 +28646,7 @@
  {
   "id": "skin-eb4eeaac0039",
   "name": "Berettas Duplas | Quadro Elétrico",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com um padrão multicolorido de números aleatórios.\\n\\n<i>Os números não mentem. Mas eu, sim</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com um padrão multicolorido de números aleatórios.\\n\\n<i>Os números não mentem. Diferente de mim</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28710,7 +28710,7 @@
  {
   "id": "skin-ef6a97d9de03",
   "name": "Berettas Duplas | Roseira",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com um hidrográfico de flores e videiras.\\n\\n<i>O beijo do amor verdadeiro não pode lhe salvar dos seus espinhos</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com um hidrográfico de flores e videiras.\\n\\n<i>O beijo do amor verdadeiro não pode lhe salvar dos seus espinhos</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28817,7 +28817,7 @@
  {
   "id": "skin-21943029cea7",
   "name": "Berettas Duplas | Lua em Libra",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada usando um hidrográfico com tema de zodíaco.\\n\\n<i>Hoje é um ótimo dia para encontrar o seu amor e matar os seus rivais</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas usando um hidrográfico com tema de zodíaco.\\n\\n<i>Hoje é um ótimo dia para encontrar o seu amor e matar os seus rivais</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28881,7 +28881,7 @@
  {
   "id": "skin-c5fb77a6d76c",
   "name": "Berettas Duplas | Pantera",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com uma combinação de preto, cinza e vermelho.",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com uma combinação de preto, cinza e vermelho.",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -28951,7 +28951,7 @@
  {
   "id": "skin-87624ab1abed",
   "name": "Berettas Duplas | Contratante",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. As partes desta arma foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -29026,7 +29026,7 @@
  {
   "id": "skin-e04a45208ba1",
   "name": "Berettas Duplas | Colônia",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. As partes desta arma foram pintadas individualmente de cáqui e cinza.",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas individualmente de cáqui e cinza.",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -29151,7 +29151,7 @@
  {
   "id": "skin-e019fef33708",
   "name": "Berettas Duplas | Demolição",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. As partes desta arma foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Partes destas armas foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -29405,7 +29405,7 @@
  {
   "id": "skin-9ae29431fe9d",
   "name": "Berettas Duplas | Madeira Flutuante",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com spray marrom em um padrão semelhante a madeira ressecada.\\n\\n<i>Bata na madeira... Você vai precisar de toda a sorte possível — Felix Riley, comandante</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com spray marrom em um padrão semelhante a madeira ressecada.\\n\\n<i>Bata na madeira... Você vai precisar de toda a sorte possível — Felix Riley, comandante</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -29505,7 +29505,7 @@
  {
   "id": "skin-f52c5b815155",
   "name": "Berettas Duplas | Ranhura",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com spray com riscos azuis e brancos em uma base preta.\\n\\n<i>Às vezes a manobra dá errado</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com spray com riscos azuis e brancos em uma base preta.\\n\\n<i>Às vezes a manobra dá errado</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -29575,7 +29575,7 @@
  {
   "id": "skin-8ec2f49d34a9",
   "name": "Berettas Duplas | Troca de Óleo",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Esta arma foi pintada com spray formando um padrão de componentes de motor.\\n\\n<i>\\\"Não parece bom...\\\"</i>",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com spray formando um padrão de componentes de motor.\\n\\n<i>\\\"Não parece bom...\\\"</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -30020,7 +30020,7 @@
  {
   "id": "skin-d73f5bc23efd",
   "name": "FAMAS | Conspiração Numérica",
-  "description": "Uma opção barata para jogadores com pouco dinheiro, o FAMAS preenche bem o nicho entre os rifles mais caros e as submetralhadoras menos eficientes. Esta arma foi pintada com um padrão multicolorido de números aleatórios.\\n\\n<i>Os números não mentem. Mas eu, sim</i>",
+  "description": "Uma opção barata para jogadores com pouco dinheiro, o FAMAS preenche bem o nicho entre os rifles mais caros e as submetralhadoras menos eficientes. Esta arma foi pintada com um padrão multicolorido de números aleatórios.\\n\\n<i>Os números não mentem. Diferente de mim</i>",
   "weapon": {
    "id": "weapon_famas",
    "weapon_id": 10,
@@ -31797,7 +31797,7 @@
  {
   "id": "skin-e56f49876bdd",
   "name": "FAMAS | Colônia",
-  "description": "Uma opção barata para jogadores com pouco dinheiro, o FAMAS preenche bem o nicho entre os rifles mais caros e as submetralhadoras menos eficientes. As partes desta arma foram pintadas individualmente de cáqui e cinza.",
+  "description": "Uma opção barata para jogadores com pouco dinheiro, o FAMAS preenche bem o nicho entre os rifles mais caros e as submetralhadoras menos eficientes. Estas armas foram pintadas individualmente de cáqui e cinza.",
   "weapon": {
    "id": "weapon_famas",
    "weapon_id": 10,
@@ -32649,7 +32649,7 @@
  {
   "id": "skin-45614ab4f605",
   "name": "Five-SeveN | Quartzo de Prata",
-  "description": "Altamente precisa e perfurante, a Five-Seven é cara e lenta para recarregar, porém compensa com o seu pente de 20 balas e um coice generoso. Esta arma foi pintada com tinta metálica e usa uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
+  "description": "Altamente precisa e perfurante, a Five-Seven é cara e lenta para recarregar, porém compensa com o seu pente de 20 balas e um coice generoso. Estas armas foram pintadas com tinta metálica e usam uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -34858,7 +34858,7 @@
  {
   "id": "skin-b40e5d3bf2ff",
   "name": "Five-SeveN | Nitro",
-  "description": "Altamente precisa e perfurante, a Five-Seven é cara e lenta para recarregar, porém compensa com o seu pente de 20 balas e um coice generoso. As partes desta arma foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
+  "description": "Altamente precisa e perfurante, a Five-Seven é cara e lenta para recarregar, porém compensa com o seu pente de 20 balas e um coice generoso. Partes destas armas foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -34922,7 +34922,7 @@
  {
   "id": "skin-36008b7f9240",
   "name": "Five-SeveN | Contratante",
-  "description": "Altamente precisa e perfurante, a Five-Seven é cara e lenta para recarregar, porém compensa com o seu pente de 20 balas e um coice generoso. As partes desta arma foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
+  "description": "Altamente precisa e perfurante, a Five-Seven é cara e lenta para recarregar, porém compensa com o seu pente de 20 balas e um coice generoso. Estas armas foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -37098,7 +37098,7 @@
  {
   "id": "skin-16f10fccd525",
   "name": "G3SG1 | Contratante",
-  "description": "A G3SG1 é cara e diminui a velocidade do usuário consideravelmente, mas compensa com uma taxa de disparo maior do que os outros rifles de precisão. As partes desta arma foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
+  "description": "A G3SG1 é cara e diminui a velocidade do usuário consideravelmente, mas compensa com uma taxa de disparo maior do que os outros rifles de precisão. Estas armas foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
   "weapon": {
    "id": "weapon_g3sg1",
    "weapon_id": 11,
@@ -43161,7 +43161,7 @@
  },
  {
   "id": "skin-a59908982432",
-  "name": "Glock-18 | Mirror Mosaic",
+  "name": "Glock-18 | Mosaico Espelhado",
   "description": "A Glock-18 é uma boa pistola para começar a partida. É mais eficiente contra oponentes sem proteção e é capaz de disparar rajadas de três balas. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
   "weapon": {
    "id": "weapon_glock",
@@ -43174,7 +43174,7 @@
   },
   "pattern": {
    "id": "glock_mirror_maze_v2_pearl",
-   "name": "Mirror Mosaic"
+   "name": "Mosaico Espelhado"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43211,7 +43211,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -45254,7 +45254,7 @@
  {
   "id": "skin-6e56f8710eff",
   "name": "P2000 | Despacho",
-  "description": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos. Esta arma foi pintada com um padrão multicolorido de números aleatórios.\\n\\n<i>Os números não mentem. Mas eu, sim</i>",
+  "description": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos. Esta arma foi pintada com um padrão multicolorido de números aleatórios.\\n\\n<i>Os números não mentem. Diferente de mim</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46906,7 +46906,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Antiderrapante",
-  "description": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos. Esta arma foi pintada de cinza metálico usando padrões fractais, recebendo detalhes laranja.\\n\\n<i>>>EXPERIMENTOS DE TEXTURA PARA REVESTIMENTOS DE ARMAS, PRIMEIRA TENTATIVA<<</i>",
+  "description": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -48520,7 +48520,7 @@
  {
   "id": "skin-c537f6da0a92",
   "name": "Canivete Borboleta ★ | Manchado",
-  "description": "Este é um canivete borboleta. A maior característica deste tipo de arma é a forma como ela se abre, girando livremente em um movimento de rotação que permite um saque rápido. Como consequência, portar um canivete borboleta é proibido em muitos países. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Este é um canivete borboleta. A maior característica deste tipo de arma é a forma como ela se abre, girando livremente em um movimento de rotação que permite um saque rápido. Como consequência, portar um canivete borboleta é proibido em muitos países. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_butterfly",
    "weapon_id": 515,
@@ -50224,7 +50224,7 @@
  {
   "id": "skin-2501d0454acd",
   "name": "Faca de Sobrevivência ★ | Manchado",
-  "description": "Esta faca dobrável multiuso tem uma lâmina serrada para rasgar materiais grossos, como osso e fibra, além de uma ponta afiada em forma de gancho. O cabo de material entalhado é aferrolhado até a lâmina com porcas. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Esta faca dobrável multiuso tem uma lâmina serrada para rasgar materiais grossos, como osso e fibra, além de uma ponta afiada em forma de gancho. O cabo de material entalhado é aferrolhado até a lâmina com porcas. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_canis",
    "weapon_id": 518,
@@ -51687,7 +51687,7 @@
  {
   "id": "skin-994b6de08816",
   "name": "Faca de Cordame ★ | Manchado",
-  "description": "Esta faca de sobrevivência de lâmina fixa foi desenhada para poder ser usada como arma ou ferramenta para, por exemplo, armar armadilhas, caçar animais ou cortar folhagem. O cabo é enrolado com cordame multiuso. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Esta faca de sobrevivência de lâmina fixa foi desenhada para poder ser usada como arma ou ferramenta para, por exemplo, armar armadilhas, caçar animais ou cortar folhagem. O cabo é enrolado com cordame multiuso. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_cord",
    "weapon_id": 517,
@@ -52596,7 +52596,7 @@
  {
   "id": "skin-a0f65fc7111e",
   "name": "Faca Clássica ★ | Manchado",
-  "description": "Um clássico da série Counter-Strike, a lâmina desta faca é feita de estelite pressurizada, perfeitamente estabilizada em harmonia com o titânio do resto do corpo. A empunhadura é feita a partir de marfim fossilizado de mastodonte, envolto em fibra de carbono. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Um clássico da série Counter-Strike, a lâmina desta faca é feita de estelite pressurizada, perfeitamente estabilizada em harmonia com o titânio do resto do corpo. A empunhadura é feita a partir de marfim fossilizado de mastodonte, envolto em fibra de carbono. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_css",
    "weapon_id": 503,
@@ -54292,7 +54292,7 @@
  {
   "id": "skin-964697eb04aa",
   "name": "Canivete Falchion ★ | Manchado",
-  "description": "Uma homenagem à espada falchion, esta lâmina côncava possui uma ponta curvada. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Uma homenagem à espada falchion, esta lâmina côncava possui uma ponta curvada. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_falchion",
    "weapon_id": 512,
@@ -56590,7 +56590,7 @@
  {
   "id": "skin-1b555a34a243",
   "name": "Canivete ★ | Manchado",
-  "description": "Os canivetes têm uma lâmina curva de estilo persa com uma ponta afiada. Apesar dessa ponta ser frágil, a estrutura geral do canivete inteira é surpreendentemente durável. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Os canivetes têm uma lâmina curva de estilo persa com uma ponta afiada. Apesar dessa ponta ser frágil, a estrutura geral do canivete inteira é surpreendentemente durável. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_flip",
    "weapon_id": 505,
@@ -59348,7 +59348,7 @@
  {
   "id": "skin-0193aa320ffe",
   "name": "Faca Gut Hook ★ | Manchado",
-  "description": "O que mais chama a atenção em uma faca Gut Hook é o gancho no dorso da lâmina. Popularizada inicialmente para auxiliar em caças, a Gut Hook também é excelente para cortar materiais fibrosos como cordas, redes ou cintos de segurança com facilidade. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "O que mais chama a atenção em uma faca Gut Hook é o gancho no dorso da lâmina. Popularizada inicialmente para auxiliar em caças, a Gut Hook também é excelente para cortar materiais fibrosos como cordas, redes ou cintos de segurança com facilidade. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_gut",
    "weapon_id": 506,
@@ -61562,7 +61562,7 @@
  {
   "id": "skin-9be2a16f0d99",
   "name": "Faca Navaja ★ | Manchado",
-  "description": "Este canivete com punho de mármore esconde uma lâmina pequena, mas extremamente afiada. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Este canivete com punho de mármore esconde uma lâmina pequena, mas extremamente afiada. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_gypsy_jackknife",
    "weapon_id": 520,
@@ -63629,7 +63629,7 @@
  {
   "id": "skin-00ad6b64e94d",
   "name": "Karambit ★ | Manchado",
-  "description": "Com a sua lâmina curva imitando uma garra de tigre, a Karambit foi criada como parte da tradição marcial de \\\"silat\\\" do Sudeste Asiático. Esta faca geralmente é usada com um cabo invertido, com o dedo indicador no aro. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Com a sua lâmina curva imitando uma garra de tigre, a Karambit foi criada como parte da tradição marcial de \\\"silat\\\" do Sudeste Asiático. Esta faca geralmente é usada com um cabo invertido, com o dedo indicador no aro. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_karambit",
    "weapon_id": 507,
@@ -65254,7 +65254,7 @@
  {
   "id": "skin-d1ab66316ff3",
   "name": "Faca Kukri ★ | Manchado",
-  "description": "Usada em rituais tradicionais, como casamentos e esfaqueamentos. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Usada em rituais tradicionais, como casamentos e esfaqueamentos. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_kukri",
    "weapon_id": 526,
@@ -67195,7 +67195,7 @@
  {
   "id": "skin-bab9cbb31702",
   "name": "Baioneta M9 ★ | Manchado",
-  "description": "Esta é a Baioneta M-9. Criada originalmente para ser acoplada em um rifle, ela também serve para combates corpo a corpo. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Esta é a Baioneta M-9. Criada originalmente para ser acoplada em um rifle, ela também serve para combates corpo a corpo. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_m9_bayonet",
    "weapon_id": 508,
@@ -69359,7 +69359,7 @@
  {
   "id": "skin-f4a9c9dd0929",
   "name": "Faca Nômade ★ | Manchado",
-  "description": "Esta faca de caça dobrável e ergonômica tem uma lâmina com trava firme e larga, boa para cortar e abrir materiais, vem com cabo entalhado. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Esta faca de caça dobrável e ergonômica tem uma lâmina com trava firme e larga, boa para cortar e abrir materiais, vem com cabo entalhado. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_outdoor",
    "weapon_id": 521,
@@ -71216,7 +71216,7 @@
  {
   "id": "skin-1601c5aa4c49",
   "name": "Adagas Sombrias ★ | Manchado",
-  "description": "Projetadas para brutalidade eficaz, usar uma adaga é simples como dar um soco. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Projetadas para brutalidade eficaz, usar uma adaga é simples como dar um soco. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_push",
    "weapon_id": 516,
@@ -72920,7 +72920,7 @@
  {
   "id": "skin-2148778af5b2",
   "name": "Faca Esqueleto ★ | Manchado",
-  "description": "A empunhadura desta faca esqueletizada foi envolta em fita para possibilitar um melhor manuseio. O buraco no centro permite que a faca seja segurada com um dedo de uma forma estável e segura. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "A empunhadura desta faca esqueletizada foi envolta em fita para possibilitar um melhor manuseio. O buraco no centro permite que a faca seja segurada com um dedo de uma forma estável e segura. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_skeleton",
    "weapon_id": 525,
@@ -74433,7 +74433,7 @@
  {
   "id": "skin-f68bbee06eed",
   "name": "Faca Stiletto ★ | Manchado",
-  "description": "Historicamente alvo de disputas e até regulamentações, este stiletto italiano vem com uma lâmina a mola, que pode ser acionada quase que instantaneamente no pressionar de uma trava. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Historicamente alvo de disputas e até regulamentações, este stiletto italiano vem com uma lâmina a mola, que pode ser acionada quase que instantaneamente no pressionar de uma trava. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_stiletto",
    "weapon_id": 522,
@@ -76300,7 +76300,7 @@
  {
   "id": "skin-54fdbad83f86",
   "name": "Faca Bowie ★ | Manchado",
-  "description": "Esta faca Bowie, com uma lâmina de dorso serrilhado e perfeitamente fixada em seu cabo, foi projetada para uso intensivo em situações brutais de sobrevivência. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Esta faca Bowie, com uma lâmina de dorso serrilhado e perfeitamente fixada em seu cabo, foi projetada para uso intensivo em situações brutais de sobrevivência. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_survival_bowie",
    "weapon_id": 514,
@@ -78398,7 +78398,7 @@
  {
   "id": "skin-705833a883f2",
   "name": "Faca do Caçador ★ | Manchado",
-  "description": "Uma faca projetada para operações táticas modernas, cuja lâmina é adequada tanto para combate como para fins utilitários. O gume distinto permite um nível máximo de penetração através da mais rígida das superfícies. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Uma faca projetada para operações táticas modernas, cuja lâmina é adequada tanto para combate como para fins utilitários. O gume distinto permite um nível máximo de penetração através da mais rígida das superfícies. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_tactical",
    "weapon_id": 509,
@@ -80152,7 +80152,7 @@
  {
   "id": "skin-c8c6bbd54e07",
   "name": "Faca Ursus ★ | Manchado",
-  "description": "Esta faca de sobrevivência estilo tantō possui uma lâmina facetada e de perfil integral, completa com empunhadura de impacto. Nenhum penduricalho ou peças móveis — apenas uma lâmina confiável pronta para o trabalho. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Esta faca de sobrevivência estilo tantō possui uma lâmina facetada e de perfil integral, completa com empunhadura de impacto. Nenhum penduricalho ou peças móveis — apenas uma lâmina confiável pronta para o trabalho. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_ursus",
    "weapon_id": 519,
@@ -81675,7 +81675,7 @@
  {
   "id": "skin-0788e11cab11",
   "name": "Faca Talon ★ | Manchado",
-  "description": "Esta karambit com punho de marfim vem com rebites de bronze e fio dentado, cortando na entrada e rasgando na saída. Esta arma foi pintada com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
+  "description": "Esta karambit com punho de marfim vem com rebites de bronze e fio dentado, cortando na entrada e rasgando na saída. Estas armas foram pintadas com pátina forçada, usando limão e mostarda respingados na superfície.\\n\\n<i>Se acha que já está suja, espere vê-la embaixo de uma luz negra</i>",
   "weapon": {
    "id": "weapon_knife_widowmaker",
    "weapon_id": 523,
@@ -87082,7 +87082,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -90051,7 +90051,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -90142,7 +90142,7 @@
  {
   "id": "skin-42f5954907eb",
   "name": "M4A1-S | Nitro",
-  "description": "Com menos balas no pente que o seu correspondente sem silenciador, o M4A1 silenciado tem disparos mais silenciosos com menor coice e melhor precisão. As partes desta arma foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
+  "description": "Com menos balas no pente que o seu correspondente sem silenciador, o M4A1 silenciado tem disparos mais silenciosos com menor coice e melhor precisão. Partes destas armas foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -94037,7 +94037,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -97086,7 +97086,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -99156,7 +99156,7 @@
  },
  {
   "id": "skin-e051c197f5af",
-  "name": "MP5-SD | Focus",
+  "name": "MP5-SD | Foco",
   "description": "Muito imitada mas nunca igualada, a icônica MP5 talvez seja a submetralhadora mais versátil e popular do mundo. Esta variante SD vem equipada com um silenciador integrado, deixando uma arma já formidável tão silenciosa quanto um sussurro. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
   "weapon": {
    "id": "weapon_mp5sd",
@@ -99169,7 +99169,7 @@
   },
   "pattern": {
    "id": "mp5sd_chrome",
-   "name": "Focus"
+   "name": "Foco"
   },
   "min_float": 0,
   "max_float": 1,
@@ -99206,7 +99206,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -99227,7 +99227,7 @@
  {
   "id": "skin-9a6d2fd4886e",
   "name": "MP5-SD | Nitro",
-  "description": "Muito imitada mas nunca igualada, a icônica MP5 talvez seja a submetralhadora mais versátil e popular do mundo. Esta variante SD vem equipada com um silenciador integrado, deixando uma arma já formidável tão silenciosa quanto um sussurro. As partes desta arma foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
+  "description": "Muito imitada mas nunca igualada, a icônica MP5 talvez seja a submetralhadora mais versátil e popular do mundo. Esta variante SD vem equipada com um silenciador integrado, deixando uma arma já formidável tão silenciosa quanto um sussurro. Partes destas armas foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -99870,7 +99870,7 @@
  {
   "id": "skin-16044409b9f9",
   "name": "MP7 | Azul-marinho Metalizado",
-  "description": "Versátil, porém cara, a submetralhadora alemã MP7 é a escolha perfeita para combate de alto impacto a curta distância. Esta arma foi pintada com um revestimento cromado e com detalhes de tinta com efeito de azul-marinho transparente.",
+  "description": "Versátil, porém cara, a submetralhadora alemã MP7 é a escolha perfeita para combate de alto impacto a curta distância. Estas armas foram pintadas com um revestimento cromado e com detalhes de tinta com efeito de azul-marinho transparente.",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101469,7 +101469,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -104869,7 +104869,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -105646,7 +105646,7 @@
  {
   "id": "skin-0eafc66d4417",
   "name": "Negev | Azul-marinho Metalizado",
-  "description": "A Negev é uma fera capaz de manter os inimigos a distância com os seus disparos supressivos, contanto que tenha à sua disposição o tempo para controlá-la. Esta arma foi pintada com um revestimento cromado e com detalhes de tinta com efeito de azul-marinho transparente.",
+  "description": "A Negev é uma fera capaz de manter os inimigos a distância com os seus disparos supressivos, contanto que tenha à sua disposição o tempo para controlá-la. Estas armas foram pintadas com um revestimento cromado e com detalhes de tinta com efeito de azul-marinho transparente.",
   "weapon": {
    "id": "weapon_negev",
    "weapon_id": 28,
@@ -107525,7 +107525,7 @@
  {
   "id": "skin-fefcd20ccc3b",
   "name": "Nova | Quartzo Vermelho",
-  "description": "O preço baixíssimo da Nova a torna uma ótima arma para emboscadas para equipes que não podem esbanjar dinheiro. Esta arma foi pintada com tinta metálica e usa uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
+  "description": "O preço baixíssimo da Nova a torna uma ótima arma para emboscadas para equipes que não podem esbanjar dinheiro. Estas armas foram pintadas com tinta metálica e usam uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109468,7 +109468,7 @@
  {
   "id": "skin-5e46ad75cd2f",
   "name": "Nova | Lua em Libra",
-  "description": "O preço baixíssimo da Nova a torna uma ótima arma para emboscadas para equipes que não podem esbanjar dinheiro. Esta arma foi pintada usando um hidrográfico com tema de zodíaco.\\n\\n<i>Hoje é um ótimo dia para encontrar o seu amor e matar os seus rivais</i>",
+  "description": "O preço baixíssimo da Nova a torna uma ótima arma para emboscadas para equipes que não podem esbanjar dinheiro. Estas armas foram pintadas usando um hidrográfico com tema de zodíaco.\\n\\n<i>Hoje é um ótimo dia para encontrar o seu amor e matar os seus rivais</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109651,7 +109651,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -113859,7 +113859,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -120215,7 +120215,7 @@
  {
   "id": "skin-c0b7375a375d",
   "name": "Revólver R8 | Nitro",
-  "description": "O Revólver R8 dispara balas precisas e poderosas em troca de um gatilho duro. Disparar rapidamente girando o cão pode ser a melhor opção quando for necessário um poder de parada à queima-roupa. As partes desta arma foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
+  "description": "O Revólver R8 dispara balas precisas e poderosas em troca de um gatilho duro. Disparar rapidamente girando o cão pode ser a melhor opção quando for necessário um poder de parada à queima-roupa. Partes destas armas foram pintadas individualmente de cores sólidas, resultando em uma combinação de preto e laranja-tangerina.\\n\\n<i>Rona é tão boa quanto pensa... ela só não é madura o suficiente para perceber que não deveria contar isso para todo mundo — Felix Riley, comandante</i>",
   "weapon": {
    "id": "weapon_revolver",
    "weapon_id": 64,
@@ -122451,7 +122451,7 @@
  {
   "id": "skin-cbf2a44a9320",
   "name": "Cano Curto | Emboscada Argilosa",
-  "description": "A clássica Cano Curto causa muitíssimo dano a curta distância, mas com uma precisão baixa, um desvio alto e uma taxa de disparo lenta, é melhor matar os seus alvos no primeiro tiro. Esta arma foi pintada com um padrão hidrográfico de listras de tigre em bege e marrom.\\n\\n<i>Geralmente predadores solitários, mas abrirão uma excessão</i>",
+  "description": "A clássica Cano Curto causa muitíssimo dano a curta distância, mas com uma precisão baixa, um desvio alto e uma taxa de disparo lenta, é melhor matar os seus alvos no primeiro tiro. Esta arma foi pintada com um padrão hidrográfico de listras de tigre em bege e marrom.\\n\\n<i>Geralmente predadores solitários, mas abrirão uma exceção para você</i>",
   "weapon": {
    "id": "weapon_sawedoff",
    "weapon_id": 29,
@@ -124630,7 +124630,7 @@
  },
  {
   "id": "skin-e8ce6f07d5e7",
-  "name": "SCAR-20 | Caged",
+  "name": "SCAR-20 | Enjaulada",
   "description": "O SCAR-20 é um rifle de precisão semiautomático que, em troca de uma velocidade de movimento menor e alto custo, fornece-lhe uma alta taxa de disparo e grande poder de dano a longa distância. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
   "weapon": {
    "id": "weapon_scar20",
@@ -124643,7 +124643,7 @@
   },
   "pattern": {
    "id": "scar_refraction_v4",
-   "name": "Caged"
+   "name": "Enjaulada"
   },
   "min_float": 0,
   "max_float": 1,
@@ -124680,7 +124680,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
@@ -124765,7 +124765,7 @@
  {
   "id": "skin-e68259d80f02",
   "name": "SCAR-20 | Contratante",
-  "description": "O SCAR-20 é um rifle de precisão semiautomático que, em troca de uma velocidade de movimento menor e alto custo, fornece-lhe uma alta taxa de disparo e grande poder de dano a longa distância. As partes desta arma foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
+  "description": "O SCAR-20 é um rifle de precisão semiautomático que, em troca de uma velocidade de movimento menor e alto custo, fornece-lhe uma alta taxa de disparo e grande poder de dano a longa distância. Estas armas foram pintadas individualmente de bege, azul-marinho e verde-escuro.\\n\\n<i>Rona Sabri ainda não perdoou Sebastian por não tê-la escolhido para ir atrás de Turner</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -125593,7 +125593,7 @@
  {
   "id": "skin-9556d6c4e652",
   "name": "SG 553 | Azul-marinho Metalizado",
-  "description": "Exclusiva dos Terroristas, a SG533 é uma arma de alto nível com lente de aproximação, sendo uma alternativa à AK-47 para combates a longa distância. Esta arma foi pintada com um revestimento cromado e com detalhes de tinta com efeito de azul-marinho transparente.",
+  "description": "Exclusiva dos Terroristas, a SG533 é uma arma de alto nível com lente de aproximação, sendo uma alternativa à AK-47 para combates a longa distância. Estas armas foram pintadas com um revestimento cromado e com detalhes de tinta com efeito de azul-marinho transparente.",
   "weapon": {
    "id": "weapon_sg556",
    "weapon_id": 39,
@@ -131583,7 +131583,7 @@
  {
   "id": "skin-d2229d2ac419",
   "name": "Tec-9 | Quartzo Vermelho",
-  "description": "Uma pistola ideal para Terroristas que rotacionam pelo mapa, a Tec-9 é letal nos combates em ambientes confinados e possui um pente que porta bastante munição. Esta arma foi pintada com tinta metálica e usa uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
+  "description": "Uma pistola ideal para Terroristas que rotacionam pelo mapa, a Tec-9 é letal nos combates em ambientes confinados e possui um pente que porta bastante munição. Estas armas foram pintadas com tinta metálica e usam uma máscara cristalizadora para criar um padrão.\\n\\n<i>Todos querem deixar a sua marca</i>",
   "weapon": {
    "id": "weapon_tec9",
    "weapon_id": 30,
@@ -137961,7 +137961,7 @@
  },
  {
   "id": "skin-822f252e3894",
-  "name": "UMP-45 | Continuum",
+  "name": "UMP-45 | Contínuo",
   "description": "Malcompreendida e filha do meio da família das submetralhadoras, o curto cartucho da UMP45 é o único inconveniente desta versátil arma automática de curta distância. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
   "weapon": {
    "id": "weapon_ump45",
@@ -137974,7 +137974,7 @@
   },
   "pattern": {
    "id": "ump45_illumina_v2",
-   "name": "Continuum"
+   "name": "Contínuo"
   },
   "min_float": 0,
   "max_float": 1,
@@ -138011,7 +138011,7 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "A Coleção Gênese",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],

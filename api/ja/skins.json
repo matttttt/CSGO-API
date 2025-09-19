@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "正確で制御しやすく、第1ラウンド向きの実用的なドイツ製ピストル。防具を着用していない敵に有効。 ガンメタルグレーのフラクタルデザインでカスタムペイントし、オレンジのアクセントで仕上げられている。\\n\\n<i>>>武器スキンテクスチャ実験：エントリ 1<<</i>",
+  "description": "正確で制御しやすく、第1ラウンド向きの実用的なドイツ製ピストル。防具を着用していない敵に有効。 It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,

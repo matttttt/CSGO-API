@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Poigne de fer",
-  "description": "Précis et facile à prendre en main, le P2000 de fabrication allemande est un bon pistolet de première manche qui est très efficace contre des adversaires sans protection. Cette arme a été personnalisée en bronze gris avec des motifs fractals et une touche d'orange.\\n\\n<i>>>ESSAIS DE TEXTURES POUR FINITION D'ARME, TENTATIVE N°1<<</i>",
+  "description": "Précis et facile à prendre en main, le P2000 de fabrication allemande est un bon pistolet de première manche qui est très efficace contre des adversaires sans protection. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
