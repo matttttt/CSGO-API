@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "Precis și controlabil, pistolul german P2000 este un pistol utilizabil din primă rundă care este eficient împotriva oponenților fără armură. Această armă a fost vopsită personalizat cu modele fractale de culoare gri metalizat și finisată cu accente portocalii.\\n\\n<i>>>EXPERIMENTE CU TEXTURI DE FINISAJE PENTRU ARME, PRIMA ÎNCERCARE<<</i>",
+  "description": "Precis și controlabil, pistolul german P2000 este un pistol utilizabil din primă rundă care este eficient împotriva oponenților fără armură. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,

@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | 穩固抓握",
-  "description": "準確且容易掌握，由德國工藝製成的 P2000 是把能夠在開局回合中有效對抗未著防彈衣的對手的利器。 客製化塗裝以砲銅色碎形設計為主，並加上橘色局部裝飾。\\n\\n<i>>>武器外觀材質實驗，項目一<<</i>",
+  "description": "準確且容易掌握，由德國工藝製成的 P2000 是把能夠在開局回合中有效對抗未著防彈衣的對手的利器。 It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,

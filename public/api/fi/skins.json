@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Tukeva ote",
-  "description": "Tarkka ja hallittava saksalaisvalmisteinen P2000 on hyödyllinen ensimmäisen erän pistooli, joka toimii parhaiten suojattomia vihollisia vastaan. Metallinharmaa maalaus koostuu fraktaalikuvioista ja oranssinvärisistä tehosteista.\\n\\n<i>>>ASEEN MAALAUSKOE, YRITYS NUMERO YKSI<<</i>",
+  "description": "Tarkka ja hallittava saksalaisvalmisteinen P2000 on hyödyllinen ensimmäisen erän pistooli, joka toimii parhaiten suojattomia vihollisia vastaan. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,

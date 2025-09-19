@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "Přesná a lehce ovladatelná německá pistole P2000 je vhodná pro první kolo a proti neobrněným protivníkům. Na zbraň byly metalickou šedou barvou naneseny fraktální vzory a následně byla dozdobena oranžovými částmi.\\n\\n<i>>>EXPERIMENT S TEXTUROU ZBRANĚ, ZÁZNAM PRVNÍ<<</i>",
+  "description": "Přesná a lehce ovladatelná německá pistole P2000 je vhodná pro první kolo a proti neobrněným protivníkům. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,

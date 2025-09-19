@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Griffig",
-  "description": "Mit ihrer hohen Präzision und Kontrollierbarkeit ist die in Deutschland hergestellte P2000 eine brauchbare Pistole für die erste Runde, die im Einsatz gegen ungepanzerte Gegner am effektivsten ist. Die Waffe wurde mit einer Sonderlackierung versehen, die ein metallisch-graues Fraktalmuster mit orangefarbenen Akzenten zeigt.\\n\\n<i>TEXTUREXPERIMENTE FÜR WAFFENLACKIERUNGEN, EINTRAG EINS</i>",
+  "description": "Mit ihrer hohen Präzision und Kontrollierbarkeit ist die in Deutschland hergestellte P2000 eine brauchbare Pistole für die erste Runde, die im Einsatz gegen ungepanzerte Gegner am effektivsten ist. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,

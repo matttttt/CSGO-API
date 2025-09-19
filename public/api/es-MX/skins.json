@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Agarre seguro",
-  "description": "Precisa y controlable, la alemana P2000 es una servicial pistola de primera ronda que funciona mejor contra enemigos sin protección. Se personalizó en color gris metálico con motivos fractales y detalles naranjas.\\n\\n<i>>>EXPERIMENTOS DE TEXTURAS PARA ACABADOS DE ARMAS, PRIMERA PRUEBA<<</i>",
+  "description": "Precisa y controlable, la alemana P2000 es una servicial pistola de primera ronda que funciona mejor contra enemigos sin protección. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,

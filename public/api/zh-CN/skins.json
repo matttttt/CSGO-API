@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | 防滑握把",
-  "description": "精准、可控，这把德国制造的耐用第一回合手枪非常适合对付那些没有穿护甲的对手。 它采用了枪灰分形纹路和橙纹点缀涂装。\\n\\n<i>武器涂装材质实验·记录一<<</i>",
+  "description": "精准、可控，这把德国制造的耐用第一回合手枪非常适合对付那些没有穿护甲的对手。 It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
