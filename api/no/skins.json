@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "Den tysklagde P2000 er presis og kontrollerbar, og det er en anvendelig pistol i den første runden, da den fungerer best mot motstandere uten verneutstyr. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "Den tysklagde P2000 er presis og kontrollerbar, og det er en anvendelig pistol i den første runden, da den fungerer best mot motstandere uten verneutstyr. Den er spesiallakkert i kanonmetallgrå med fraktale design, og avsluttet med oransje detaljer.\\n\\n<i>&gt;&gt;VÅPENLAKKERING – TEKSTUREKSPERIMENTER – OPPFØRING ÉN&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidation",
-  "description": "Med et mindre magasin enn sitt høylytte motstykke, gir den lyddempende M4A1 støysvake skudd med mindre rekyl og bedre nøyaktighet. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "Med et mindre magasin enn sitt høylytte motstykke, gir den lyddempende M4A1 støysvake skudd med mindre rekyl og bedre nøyaktighet. Den mørke grunningen og nøye utvalgte røde og blå detaljer gjør at denne lakkerte M4A1-S-en ser ut som om den gløder under omgivelseslys.\\n\\n<i>Stille refleksjon.</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -93988,7 +93988,7 @@
  {
   "id": "skin-0befed15aba5",
   "name": "MAC-10 | Cat Fight",
-  "description": "Kort fortalt en eske som kuler kommer ut av. Maskinpistolen MAC-10 gir en høy skuddtakt i bytte mot lav nøyaktighet og mye rekyl. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "description": "Kort fortalt en eske som kuler kommer ut av. Maskinpistolen MAC-10 gir en høy skuddtakt i bytte mot lav nøyaktighet og mye rekyl. Den er spesiallakkert med en snerrende katt og et mål bak på rammestykket.\\n\\n<i>En katt med klør …</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -101420,7 +101420,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | Smoking Kills",
-  "description": "Den tyskproduserte MP7-maskinpistolen er allsidig, men dyr, og den er det perfekte valget for intens nærkamp. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "description": "Den tyskproduserte MP7-maskinpistolen er allsidig, men dyr, og den er det perfekte valget for intens nærkamp. Den er spesiallakkert med et fargerikt design med en kvinne med briller som røyker en sigarett.\\n\\n<i>«Dette kan gå raskt eller sakte. Det er opp til deg.»</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,

@@ -5159,8 +5159,8 @@
  },
  {
   "id": "skin-4608abab8351",
-  "name": "AK-47 | The Oligarch",
-  "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "name": "AK-47 | Az Oligarcha",
+  "description": "Az erős és megbízható AK-47 az egyik legnépszerűbb gépkarabély a világon. Rövid, célzott sorozattűz leadásakor a leghalálosabb. Egy fekete-fehér luxus pufidzseki kinézetét és érzetét adó egyedi festést és arany színű díszítéseket kapott.\\n\\n<i>Keresd, szerezd meg és tartsd meg a hatalmat.</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5172,7 +5172,7 @@
   },
   "pattern": {
    "id": "ak47_puffer_custom",
-   "name": "The Oligarch"
+   "name": "Az Oligarcha"
   },
   "min_float": 0,
   "max_float": 1,
@@ -5209,14 +5209,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -9986,14 +9986,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -12771,14 +12771,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -27821,8 +27821,8 @@
  },
  {
   "id": "skin-94f44ac08438",
-  "name": "Dupla Beretta | Angel Eyes",
-  "description": "Két nagy táras Berettával egyszerre lőve csökken a pontosság és nő az újratöltési idő. A jó hír viszont, hogy egyszerre két nagy táras Berettával fogsz lőni. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "name": "Dupla Beretta | Angyalszemek",
+  "description": "Két nagy táras Berettával egyszerre lőve csökken a pontosság és nő az újratöltési idő. A jó hír viszont, hogy egyszerre két nagy táras Berettával fogsz lőni. Egyedi festést kaptak, szemekkel a markolatokon és mennyei mintákkal a szánon.\\n\\n<i>Szemmel vagy tartva – ötszörösen.</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27834,7 +27834,7 @@
   },
   "pattern": {
    "id": "dual_elite_biblical_angel",
-   "name": "Angel Eyes"
+   "name": "Angyalszemek"
   },
   "min_float": 0,
   "max_float": 1,
@@ -27871,14 +27871,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -43161,8 +43161,8 @@
  },
  {
   "id": "skin-a59908982432",
-  "name": "Glock-18 | Mirror Mosaic",
-  "description": "A Glock 18 használható első körös pisztoly, amely páncél nélküli ellenfelekkel szemben működik a legjobban, és háromlövéses sorozattűzre képes. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "name": "Glock-18 | Tükörmozaik",
+  "description": "A Glock 18 használható első körös pisztoly, amely páncél nélküli ellenfelekkel szemben működik a legjobban, és háromlövéses sorozattűzre képes. Tükörmozaikra emlékeztető egyedi festést kapott.\\n\\n<i>Saját gondolataid csapdájában.</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43174,7 +43174,7 @@
   },
   "pattern": {
    "id": "glock_mirror_maze_v2_pearl",
-   "name": "Mirror Mosaic"
+   "name": "Tükörmozaik"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43211,14 +43211,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46856,7 +46856,7 @@
  },
  {
   "id": "skin-53b81168eea3",
-  "name": "P2000 | Red Wing",
+  "name": "P2000 | Piros Szárny",
   "description": "A pontos és jól kezelhető német gyártású P2000 használható első körös pisztoly, mely páncélozatlan ellenfelek ellen működik a legjobban. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
   "weapon": {
    "id": "weapon_hkp2000",
@@ -46869,7 +46869,7 @@
   },
   "pattern": {
    "id": "p2000_deep_red",
-   "name": "Red Wing"
+   "name": "Piros Szárny"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46906,14 +46906,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -87032,7 +87032,7 @@
  },
  {
   "id": "skin-e7c2a01982dd",
-  "name": "M4A4 | Full Throttle",
+  "name": "M4A4 | Padlógáz",
   "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
   "weapon": {
    "id": "weapon_m4a1",
@@ -87045,7 +87045,7 @@
   },
   "pattern": {
    "id": "m4a4_skrrrt_green",
-   "name": "Full Throttle"
+   "name": "Padlógáz"
   },
   "min_float": 0,
   "max_float": 1,
@@ -87082,14 +87082,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -90051,14 +90051,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -93987,8 +93987,8 @@
  },
  {
   "id": "skin-0befed15aba5",
-  "name": "MAC-10 | Cat Fight",
-  "description": "A MAC-10 géppisztoly, mely lényegében egy doboz, amiből golyók jönnek ki, magas tűzgyorsasággal büszkélkedhet, cserébe viszont rossz a szórásképe és nagy a visszarúgása. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "name": "MAC-10 | Cicaharc",
+  "description": "A MAC-10 géppisztoly, mely lényegében egy doboz, amiből golyók jönnek ki, magas tűzgyorsasággal büszkélkedhet, cserébe viszont rossz a szórásképe és nagy a visszarúgása. Egy vicsorgó macskát és a tok hátulján céltáblát ábrázoló egyedi festést kapott.\\n\\n<i>Cicusnak karmai vannak...</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94000,7 +94000,7 @@
   },
   "pattern": {
    "id": "mac10_kamicatze",
-   "name": "Cat Fight"
+   "name": "Cicaharc"
   },
   "min_float": 0,
   "max_float": 1,
@@ -94037,14 +94037,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -97036,7 +97036,7 @@
  },
  {
   "id": "skin-e8947585ba24",
-  "name": "MAG-7 | MAGnitude",
+  "name": "MAG-7 | MAGnitúdó",
   "description": "A T-E exkluzív Mag-7 pusztító mennyiségű sebzést ad közelre. Gyors, szekrénytár-megoldású újratöltése nagyszerű taktikai választássá teszi. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
   "weapon": {
    "id": "weapon_mag7",
@@ -97049,7 +97049,7 @@
   },
   "pattern": {
    "id": "mag7_circle_copper",
-   "name": "MAGnitude"
+   "name": "MAGnitúdó"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97086,14 +97086,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -99156,7 +99156,7 @@
  },
  {
   "id": "skin-e051c197f5af",
-  "name": "MP5-SD | Focus",
+  "name": "MP5-SD | Fókusz",
   "description": "A gyakran, de mindig sikertelenül másolt ikonikus MP5 talán a világ legsokoldalúbb és legnépszerűbb géppisztolya. Az SD változat beépített hangtompítóval érkezik, egy már félelmetes fegyvert suttogóan csendessé téve. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
   "weapon": {
    "id": "weapon_mp5sd",
@@ -99169,7 +99169,7 @@
   },
   "pattern": {
    "id": "mp5sd_chrome",
-   "name": "Focus"
+   "name": "Fókusz"
   },
   "min_float": 0,
   "max_float": 1,
@@ -99206,14 +99206,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -101419,8 +101419,8 @@
  },
  {
   "id": "skin-270e56729de6",
-  "name": "MP7 | Smoking Kills",
-  "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "name": "MP7 | A Dohányzás Öl",
+  "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. Egy szemüveges, cigarettázó nőt ábrázoló színes mintás egyedi festést kapott.\\n\\n<i>„Csinálhatjuk gyorsan vagy lassan. Te döntesz.”</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101432,7 +101432,7 @@
   },
   "pattern": {
    "id": "mp7_smoking_kills_v2",
-   "name": "Smoking Kills"
+   "name": "A Dohányzás Öl"
   },
   "min_float": 0,
   "max_float": 1,
@@ -101469,14 +101469,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -104819,7 +104819,7 @@
  },
  {
   "id": "skin-fb7ae83c1e81",
-  "name": "MP9 | Broken Record",
+  "name": "MP9 | Lejárt Lemez",
   "description": "A Svájcban gyártott élvonalbeli MP9 géppisztoly egy ergonomikus polimer fegyver, amely a magán biztonsági cégek nagy kedvence. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
   "weapon": {
    "id": "weapon_mp9",
@@ -104832,7 +104832,7 @@
   },
   "pattern": {
    "id": "mp9_vinyl",
-   "name": "Broken Record"
+   "name": "Lejárt Lemez"
   },
   "min_float": 0,
   "max_float": 1,
@@ -104869,14 +104869,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -109601,7 +109601,7 @@
  },
  {
   "id": "skin-f58ac1d8b31c",
-  "name": "Nova | Ocular",
+  "name": "Nova | Szemmel Látható",
   "description": "A Nova potom árcédulája miatt nagyszerű rajtaütő fegyver egy pénzszűkében levő csapatnak. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
   "weapon": {
    "id": "weapon_nova",
@@ -109614,7 +109614,7 @@
   },
   "pattern": {
    "id": "nova_ocular",
-   "name": "Ocular"
+   "name": "Szemmel Látható"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109651,14 +109651,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -113809,7 +113809,7 @@
  },
  {
   "id": "skin-8ec9dd302f30",
-  "name": "P250 | Bullfrog",
+  "name": "P250 | Kecskebéka",
   "description": "A kis visszarúgású és nagy tűzgyorsaságú P250 viszonylag olcsó választás páncélozott célok ellen. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
   "weapon": {
    "id": "weapon_p250",
@@ -113822,7 +113822,7 @@
   },
   "pattern": {
    "id": "p250_bullfrog",
-   "name": "Bullfrog"
+   "name": "Kecskebéka"
   },
   "min_float": 0,
   "max_float": 1,
@@ -113859,14 +113859,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -124680,14 +124680,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -137961,7 +137961,7 @@
  },
  {
   "id": "skin-822f252e3894",
-  "name": "UMP-45 | Continuum",
+  "name": "UMP-45 | Kontinuum",
   "description": "A géppisztolyok családjának félreértett középső gyermekének, az UMP45-nek csak a kis tára az egyetlen hátránya, egyébként sokoldalú automata közelharcfegyver. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
   "weapon": {
    "id": "weapon_ump45",
@@ -137974,7 +137974,7 @@
   },
   "pattern": {
    "id": "ump45_illumina_v2",
-   "name": "Continuum"
+   "name": "Kontinuum"
   },
   "min_float": 0,
   "max_float": 1,
@@ -138011,14 +138011,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Az Eredet Gyűjtemény",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Lezárt Eredet terminál",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],

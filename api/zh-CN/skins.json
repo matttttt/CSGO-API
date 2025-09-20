@@ -2546,7 +2546,7 @@
  {
   "id": "skin-fabc9079a914",
   "name": "专业手套（★） | 森林 DDPAT",
-  "description": "耐用、透气、时尚；这副手套是专门用来承受（和给予）打击的。 这套手缝皮革和粗糙的 DDPAT 印花织物进行了配对。\\n\\n<i>有些人就是不想弄脏他们的手</i>",
+  "description": "耐用、透气、时尚；这副手套是专门用来承受（和给予）打击的。 这套手缝皮革和粗糙的 数字迷彩（DDPAT）印花织物进行了配对。\\n\\n<i>有些人就是不想弄脏他们的手</i>",
   "weapon": {
    "id": "specialist_gloves",
    "weapon_id": 5034,
@@ -5159,7 +5159,7 @@
  },
  {
   "id": "skin-4608abab8351",
-  "name": "AK-47 | The Oligarch",
+  "name": "AK-47 | 流金王朝",
   "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
   "weapon": {
    "id": "weapon_ak47",
@@ -5172,7 +5172,7 @@
   },
   "pattern": {
    "id": "ak47_puffer_custom",
-   "name": "The Oligarch"
+   "name": "流金王朝"
   },
   "min_float": 0,
   "max_float": 1,
@@ -27821,7 +27821,7 @@
  },
  {
   "id": "skin-94f44ac08438",
-  "name": "双持贝瑞塔 | Angel Eyes",
+  "name": "双持贝瑞塔 | 天矢之眼",
   "description": "两把具有大弹匣的贝瑞塔同时开火会降低精准度，并增加换弹时间。不过你得往好处想，这不，别人只有一把枪，而你可以同时用两把贝瑞塔射个痛快。 They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
   "weapon": {
    "id": "weapon_elite",
@@ -27834,7 +27834,7 @@
   },
   "pattern": {
    "id": "dual_elite_biblical_angel",
-   "name": "Angel Eyes"
+   "name": "天矢之眼"
   },
   "min_float": 0,
   "max_float": 1,
@@ -33326,7 +33326,7 @@
  {
   "id": "skin-47d923c1512d",
   "name": "FN57 | 三位一体",
-  "description": "拥有极高的精准度，能穿透护甲，价格昂贵的 FN57 换弹时间较慢，作为补偿，它具有设计巧妙的 20 发子弹和较低的后坐力。 这把武器附上了了淡蓝色的 DDPAT 花纹和自定义涂装的滑套。\\n\\n<i>我不从战争中获利，我从人的境况中获利... - 军火商布兹</i>",
+  "description": "拥有极高的精准度，能穿透护甲，价格昂贵的 FN57 换弹时间较慢，作为补偿，它具有设计巧妙的 20 发子弹和较低的后坐力。 这把武器采用了浅蓝色数字迷彩（DDPAT）水转印工艺，滑套部位则额外进行了定制喷涂。\\n\\n<i>我不从战争中获利，我从人的境况中获利... - 军火商布兹</i>",
   "weapon": {
    "id": "weapon_fiveseven",
    "weapon_id": 3,
@@ -43161,7 +43161,7 @@
  },
  {
   "id": "skin-a59908982432",
-  "name": "格洛克 18 型 | Mirror Mosaic",
+  "name": "格洛克 18 型 | 镜面马赛克",
   "description": "格洛克 18 型是把耐用的第一回合手枪，非常适合对付那些没有穿护甲的对手，并且可以进行三连发爆炸开火。 It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
   "weapon": {
    "id": "weapon_glock",
@@ -43174,7 +43174,7 @@
   },
   "pattern": {
    "id": "glock_mirror_maze_v2_pearl",
-   "name": "Mirror Mosaic"
+   "name": "镜面马赛克"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46856,7 +46856,7 @@
  },
  {
   "id": "skin-53b81168eea3",
-  "name": "P2000 | Red Wing",
+  "name": "P2000 | 红翼",
   "description": "精准、可控，这把德国制造的耐用第一回合手枪非常适合对付那些没有穿护甲的对手。 It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
   "weapon": {
    "id": "weapon_hkp2000",
@@ -46869,7 +46869,7 @@
   },
   "pattern": {
    "id": "p2000_deep_red",
-   "name": "Red Wing"
+   "name": "红翼"
   },
   "min_float": 0,
   "max_float": 1,
@@ -86436,7 +86436,7 @@
  {
   "id": "skin-294fc9bca944",
   "name": "M4A4 | 红色 DDPAT",
-  "description": "与同级的 AK-47 相比更精准，但杀伤力更低，M4A4 是反恐精英可选的全自动突击步枪。 这把武器绘有红色的DDPAT（数字迷彩）图案。\\n\\n<i>见微知著，为时不晚</i>",
+  "description": "与同级的 AK-47 相比更精准，但杀伤力更低，M4A4 是反恐精英可选的全自动突击步枪。 这把武器绘有红色的数字迷彩（DDPAT）图案。\\n\\n<i>见微知著，为时不晚</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87032,7 +87032,7 @@
  },
  {
   "id": "skin-e7c2a01982dd",
-  "name": "M4A4 | Full Throttle",
+  "name": "M4A4 | 破浪狂飙",
   "description": "与同级的 AK-47 相比更精准，但杀伤力更低，M4A4 是反恐精英可选的全自动突击步枪。 It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
   "weapon": {
    "id": "weapon_m4a1",
@@ -87045,7 +87045,7 @@
   },
   "pattern": {
    "id": "m4a4_skrrrt_green",
-   "name": "Full Throttle"
+   "name": "破浪狂飙"
   },
   "min_float": 0,
   "max_float": 1,
@@ -93987,7 +93987,7 @@
  },
  {
   "id": "skin-0befed15aba5",
-  "name": "MAC-10 | Cat Fight",
+  "name": "MAC-10 | 纸老虎",
   "description": "本质上就是个能射出子弹的盒子，MAC-10 微型冲锋枪拥有高频率的射速，作为交换，它还拥有略逊一筹的精准度和高后坐力。 It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
   "weapon": {
    "id": "weapon_mac10",
@@ -94000,7 +94000,7 @@
   },
   "pattern": {
    "id": "mac10_kamicatze",
-   "name": "Cat Fight"
+   "name": "纸老虎"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97036,7 +97036,7 @@
  },
  {
   "id": "skin-e8947585ba24",
-  "name": "MAG-7 | MAGnitude",
+  "name": "MAG-7 | 震级",
   "description": "反恐精英专用的 Mag-7 带来毁灭性的近距离杀伤力。它快速的弹仓式装弹方式使其成为一个不错的战术选择。 This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
   "weapon": {
    "id": "weapon_mag7",
@@ -97049,7 +97049,7 @@
   },
   "pattern": {
    "id": "mag7_circle_copper",
-   "name": "MAGnitude"
+   "name": "震级"
   },
   "min_float": 0,
   "max_float": 1,
@@ -99156,7 +99156,7 @@
  },
  {
   "id": "skin-e051c197f5af",
-  "name": "MP5-SD | Focus",
+  "name": "MP5-SD | 专注",
   "description": "一直被模仿，但从未被超越。经典的 MP5 也许是世界上用法最通用、最受欢迎的微型冲锋枪。此 SD 变种最大特点在于已配有消音器，本已令人胆寒的武器如今杀人于无声之间。 It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
   "weapon": {
    "id": "weapon_mp5sd",
@@ -99169,7 +99169,7 @@
   },
   "pattern": {
    "id": "mp5sd_chrome",
-   "name": "Focus"
+   "name": "专注"
   },
   "min_float": 0,
   "max_float": 1,
@@ -101419,7 +101419,7 @@
  },
  {
   "id": "skin-270e56729de6",
-  "name": "MP7 | Smoking Kills",
+  "name": "MP7 | 吸烟有害健康",
   "description": "非常好用，但价格昂贵，德国制造的 MP7 微型冲锋枪非常适合高强度的近距离作战。 It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
   "weapon": {
    "id": "weapon_mp7",
@@ -101432,7 +101432,7 @@
   },
   "pattern": {
    "id": "mp7_smoking_kills_v2",
-   "name": "Smoking Kills"
+   "name": "吸烟有害健康"
   },
   "min_float": 0,
   "max_float": 1,
@@ -104819,7 +104819,7 @@
  },
  {
   "id": "skin-fb7ae83c1e81",
-  "name": "MP9 | Broken Record",
+  "name": "MP9 | 打口碟",
   "description": "由瑞士制造，尖端的 MP9 微型冲锋枪是一把符合人类工效学的聚合物武器，深受私人保安公司青睐。 It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
   "weapon": {
    "id": "weapon_mp9",
@@ -104832,7 +104832,7 @@
   },
   "pattern": {
    "id": "mp9_vinyl",
-   "name": "Broken Record"
+   "name": "打口碟"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109601,7 +109601,7 @@
  },
  {
   "id": "skin-f58ac1d8b31c",
-  "name": "新星 | Ocular",
+  "name": "新星 | 目镜",
   "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
   "weapon": {
    "id": "weapon_nova",
@@ -109614,7 +109614,7 @@
   },
   "pattern": {
    "id": "nova_ocular",
-   "name": "Ocular"
+   "name": "目镜"
   },
   "min_float": 0,
   "max_float": 1,
@@ -111632,7 +111632,7 @@
  {
   "id": "skin-a73d69feecaf",
   "name": "P250 | 红岩",
-  "description": "一把低后坐力和高射速的手枪，在对付穿了护甲的对手时，P250 是一个相对便宜的选择。 这把武器运用了黄与橙相间的DDPAT（数字迷彩）图案。\\n\\n<i>初现端倪</i>",
+  "description": "一把低后坐力和高射速的手枪，在对付穿了护甲的对手时，P250 是一个相对便宜的选择。 这把武器运用了黄与橙相间的数字迷彩（DDPAT）图案。\\n\\n<i>初现端倪</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113809,7 +113809,7 @@
  },
  {
   "id": "skin-8ec9dd302f30",
-  "name": "P250 | Bullfrog",
+  "name": "P250 | 牛蛙",
   "description": "一把低后坐力和高射速的手枪，在对付穿了护甲的对手时，P250 是一个相对便宜的选择。 It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
   "weapon": {
    "id": "weapon_p250",
@@ -113822,7 +113822,7 @@
   },
   "pattern": {
    "id": "p250_bullfrog",
-   "name": "Bullfrog"
+   "name": "牛蛙"
   },
   "min_float": 0,
   "max_float": 1,
@@ -124630,7 +124630,7 @@
  },
  {
   "id": "skin-e8ce6f07d5e7",
-  "name": "SCAR-20 | Caged",
+  "name": "SCAR-20 | 牢笼",
   "description": "SCAR-20 是一把以迟缓的移动速度和高昂的价格为代价，换取高射速及强大的远距离杀伤力的半自动狙击步枪。 A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
   "weapon": {
    "id": "weapon_scar20",
@@ -124643,7 +124643,7 @@
   },
   "pattern": {
    "id": "scar_refraction_v4",
-   "name": "Caged"
+   "name": "牢笼"
   },
   "min_float": 0,
   "max_float": 1,
@@ -137961,7 +137961,7 @@
  },
  {
   "id": "skin-822f252e3894",
-  "name": "UMP-45 | Continuum",
+  "name": "UMP-45 | 连续体",
   "description": "饱受误解的微型冲锋枪大家族中的中间儿，UMP45 弹匣较小是它唯一的缺点，否则它就是近距离自动枪械中的多面手了。 This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
   "weapon": {
    "id": "weapon_ump45",
@@ -137974,7 +137974,7 @@
   },
   "pattern": {
    "id": "ump45_illumina_v2",
-   "name": "Continuum"
+   "name": "连续体"
   },
   "min_float": 0,
   "max_float": 1,
@@ -138242,7 +138242,7 @@
  {
   "id": "skin-08730cd85d09",
   "name": "USP 消音版 | 紫色 DDPAT",
-  "description": "从《反恐精英：起源》中穿越而来，是玩家们的最爱，消音版 USP 手枪装有一个可拆卸的消音器，降低后坐力的同时还能抑制住容易引起注意的枪声。 这把武器绘有紫色的DDPAT（数字迷彩）图案。\\n\\n<i>见微知著，为时不晚</i>",
+  "description": "从《反恐精英：起源》中穿越而来，是玩家们的最爱，消音版 USP 手枪装有一个可拆卸的消音器，降低后坐力的同时还能抑制住容易引起注意的枪声。 这把武器绘有紫色的数字迷彩（DDPAT）图案。\\n\\n<i>见微知著，为时不晚</i>",
   "weapon": {
    "id": "weapon_usp_silencer",
    "weapon_id": 61,
@@ -143067,7 +143067,7 @@
  {
   "id": "skin-17ba4cfaa721",
   "name": "XM1014 | 铜斑迷彩",
-  "description": "XM1014 是一把强大的全自动霰弹枪，其高昂的价格赋予了它高射速和室内清剿的能力。 枪托、握把和护木上都采用了绿棕数位迷彩涂装。\\n\\n<i>好运全天候</i>",
+  "description": "XM1014 是一把强大的全自动霰弹枪，其高昂的价格赋予了它高射速和室内清剿的能力。 枪托、握把和护木上都采用了绿棕数字迷彩（DDPAT）涂装。\\n\\n<i>好运全天候</i>",
   "weapon": {
    "id": "weapon_xm1014",
    "weapon_id": 25,
