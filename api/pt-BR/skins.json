@@ -5160,7 +5160,7 @@
  {
   "id": "skin-4608abab8351",
   "name": "AK-47 | A Oligarca",
-  "description": "Poderoso e confiável, o AK-47 é um dos rifles de assalto mais populares do mundo. Ele é mais mortal em rajadas curtas e controladas. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "description": "Poderoso e confiável, o AK-47 é um dos rifles de assalto mais populares do mundo. Ele é mais mortal em rajadas curtas e controladas. Esta arma foi pintada de forma a replicar o visual e a sensação de uma jaqueta luxuosa em branco e preto, decorada com detalhes dourados.\\n\\n<i>Busque o poder, obtenha o poder, mantenha o poder</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Disciplina no Gatilho",
-  "description": "Poderoso e preciso, o rifle de assalto com lente de aproximação AUG compensa a sua recarga demorada com a sua precisão e rápido disparo. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "Poderoso e preciso, o rifle de assalto com lente de aproximação AUG compensa a sua recarga demorada com a sua precisão e rápido disparo. Esta arma foi pintada com um padrão isométrico azul, recebendo detalhes laranja.\\n\\n<i>Paciência é a própria recompensa</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -27821,8 +27821,8 @@
  },
  {
   "id": "skin-94f44ac08438",
-  "name": "Berettas Duplas | Angel Eyes",
-  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "name": "Berettas Duplas | Olhos Angelicais",
+  "description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo. Estas armas foram pintadas com olhos na empunhadura e murais celestiais no ferrolho.\\n\\n<i>De olho — cinco olhos, para ser exato — em você</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27834,7 +27834,7 @@
   },
   "pattern": {
    "id": "dual_elite_biblical_angel",
-   "name": "Angel Eyes"
+   "name": "Olhos Angelicais"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43162,7 +43162,7 @@
  {
   "id": "skin-a59908982432",
   "name": "Glock-18 | Mosaico Espelhado",
-  "description": "A Glock-18 é uma boa pistola para começar a partida. É mais eficiente contra oponentes sem proteção e é capaz de disparar rajadas de três balas. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "description": "A Glock-18 é uma boa pistola para começar a partida. É mais eficiente contra oponentes sem proteção e é capaz de disparar rajadas de três balas. Esta arma foi pintada de forma a se parecer com um mosaico de espelhos.\\n\\n<i>Preso nos seus próprios pensamentos</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -46856,8 +46856,8 @@
  },
  {
   "id": "skin-53b81168eea3",
-  "name": "P2000 | Red Wing",
-  "description": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "name": "P2000 | Asa Vermelha",
+  "description": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos. Esta arma foi pintada com um padrão de cores em carvão e vermelho escuro. \\n\\n<i>Espreitando a queda dos seus inimigos</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46869,7 +46869,7 @@
   },
   "pattern": {
    "id": "p2000_deep_red",
-   "name": "Red Wing"
+   "name": "Asa Vermelha"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Antiderrapante",
-  "description": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos. Esta arma foi pintada de cinza metálico usando padrões fractais, recebendo detalhes laranja.\\n\\n<i>&gt;&gt;EXPERIMENTOS DE TEXTURA PARA REVESTIMENTOS DE ARMAS, PRIMEIRA TENTATIVA&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87033,7 +87033,7 @@
  {
   "id": "skin-e7c2a01982dd",
   "name": "M4A4 | Velocidade Máxima",
-  "description": "Mais preciso e menos poderoso que o AK-47, o seu correspondente, o M4A4 é o rifle de assalto automático dos CTs. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "description": "Mais preciso e menos poderoso que o AK-47, o seu correspondente, o M4A4 é o rifle de assalto automático dos CTs. Esta arma foi pintada com uma base em verde neon e detalhada com logotipos fictícios em referência à cultura de tunagem automotiva.\\n\\n<i>Quando a pintura automotiva conhece o verdadeiro desempenho de entrada</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquefação",
-  "description": "Com menos balas no pente que o seu correspondente sem silenciador, o M4A1 silenciado tem disparos mais silenciosos com menor coice e melhor precisão. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "Com menos balas no pente que o seu correspondente sem silenciador, o M4A1 silenciado tem disparos mais silenciosos com menor coice e melhor precisão. Esta arma foi pintada com destaques em azul e vermelho cuidadosamente posicionados sobre uma base escura, fazendo-a parecer brilhar sob a luz do ambiente.\\n\\n<i>Reflexão silenciosa</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -93987,8 +93987,8 @@
  },
  {
   "id": "skin-0befed15aba5",
-  "name": "MAC-10 | Cat Fight",
-  "description": "Essencialmente uma caixa que lança balas, a submetralhadora MAC-10 possui uma alta taxa de disparo, que compensa a precisão ruim e o forte coice. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "name": "MAC-10 | Gatirador",
+  "description": "Essencialmente uma caixa que lança balas, a submetralhadora MAC-10 possui uma alta taxa de disparo, que compensa a precisão ruim e o forte coice. Esta arma foi pintada representando um gato na defensiva, com um alvo por trás do receptor.\\n\\n<i>O gatinho tem garras afiadas...</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94000,7 +94000,7 @@
   },
   "pattern": {
    "id": "mac10_kamicatze",
-   "name": "Cat Fight"
+   "name": "Gatirador"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "A Mag-7, exclusiva dos CTs, fornece uma quantidade devastadora de dano a curta distância. O seu recarregamento rápido a torna uma ótima escolha tática. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "A Mag-7, exclusiva dos CTs, fornece uma quantidade devastadora de dano a curta distância. O seu recarregamento rápido a torna uma ótima escolha tática. Esta arma foi pintada para parecer uma onda de choque emanando do parafuso logo acima do gatilho.\\n\\n<i>Que abalo</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | Foco",
-  "description": "Muito imitada mas nunca igualada, a icônica MP5 talvez seja a submetralhadora mais versátil e popular do mundo. Esta variante SD vem equipada com um silenciador integrado, deixando uma arma já formidável tão silenciosa quanto um sussurro. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "Muito imitada mas nunca igualada, a icônica MP5 talvez seja a submetralhadora mais versátil e popular do mundo. Esta variante SD vem equipada com um silenciador integrado, deixando uma arma já formidável tão silenciosa quanto um sussurro. Esta arma foi pintada de cinza metálico e decorada com detalhes vermelhos.\\n\\n<i>MANHTENHA O FOCO // MIRA PRECISA</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -101420,7 +101420,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | Fumar Mata",
-  "description": "Versátil, porém cara, a submetralhadora alemã MP7 é a escolha perfeita para combate de alto impacto a curta distância. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "description": "Versátil, porém cara, a submetralhadora alemã MP7 é a escolha perfeita para combate de alto impacto a curta distância. Esta arma foi pintada com um design de cores vibrantes representando uma mulher de óculos fumando um cigarro.\\n\\n<i>\\\"Podemos acabar com isso rápido ou lentamente, a decisão é sua\\\"</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -104819,8 +104819,8 @@
  },
  {
   "id": "skin-fb7ae83c1e81",
-  "name": "MP9 | Broken Record",
-  "description": "Fabricada na Suíça, a submetralhadora de ponta MP9 é uma arma ergonômica de polímero optada por empresas de segurança privada. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "name": "MP9 | Discoteco",
+  "description": "Fabricada na Suíça, a submetralhadora de ponta MP9 é uma arma ergonômica de polímero optada por empresas de segurança privada. Esta arma foi pintada para se parecer com um disco de vinil, com ranhuras e outros detalhes característicos.\\n\\n<i>Um clássico instantâneo</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104832,7 +104832,7 @@
   },
   "pattern": {
    "id": "mp9_vinyl",
-   "name": "Broken Record"
+   "name": "Discoteco"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
-  "description": "O preço baixíssimo da Nova a torna uma ótima arma para emboscadas para equipes que não podem esbanjar dinheiro. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "O preço baixíssimo da Nova a torna uma ótima arma para emboscadas para equipes que não podem esbanjar dinheiro. Esta arma foi pintada com formas geométricas simples e detalhes realistas inspirados no surrealismo abstrato e nos trabalhos de artistas do século XX.\\n\\n<i>Aos olhos de quem vê</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -113809,8 +113809,8 @@
  },
  {
   "id": "skin-8ec9dd302f30",
-  "name": "P250 | Bullfrog",
-  "description": "Uma arma de fogo com alta taxa de disparo e pouco coice, a P250 é uma escolha relativamente barata contra adversários bem protegidos. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "name": "P250 | Cururu",
+  "description": "Uma arma de fogo com alta taxa de disparo e pouco coice, a P250 é uma escolha relativamente barata contra adversários bem protegidos. Esta arma foi pintada com detalhes semelhantes a carros de corrida profissional em bronze e preto.\\n\\n<i>Na beira da pista!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113822,7 +113822,7 @@
   },
   "pattern": {
    "id": "p250_bullfrog",
-   "name": "Bullfrog"
+   "name": "Cururu"
   },
   "min_float": 0,
   "max_float": 1,
@@ -124631,7 +124631,7 @@
  {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Enjaulada",
-  "description": "O SCAR-20 é um rifle de precisão semiautomático que, em troca de uma velocidade de movimento menor e alto custo, fornece-lhe uma alta taxa de disparo e grande poder de dano a longa distância. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "description": "O SCAR-20 é um rifle de precisão semiautomático que, em troca de uma velocidade de movimento menor e alto custo, fornece-lhe uma alta taxa de disparo e grande poder de dano a longa distância. Esta arma foi pintada com um degradê de azul e roxo.\\n\\n<i>\\\"É muita arma para a sua jaulinha...\\\"</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -137962,7 +137962,7 @@
  {
   "id": "skin-822f252e3894",
   "name": "UMP-45 | Contínuo",
-  "description": "Malcompreendida e filha do meio da família das submetralhadoras, o curto cartucho da UMP45 é o único inconveniente desta versátil arma automática de curta distância. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "description": "Malcompreendida e filha do meio da família das submetralhadoras, o curto cartucho da UMP45 é o único inconveniente desta versátil arma automática de curta distância. Esta arma foi pintada com faixas alternadas em preto e azul.\\n\\n<i>Adentrando o vazio</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,

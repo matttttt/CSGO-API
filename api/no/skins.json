@@ -5160,7 +5160,7 @@
  {
   "id": "skin-4608abab8351",
   "name": "AK-47 | The Oligarch",
-  "description": "AK-47 er kraftig og pålitelig, og den er en av verdens mest populære rifler. Den er mest dødelig i korte, kontrollerte skuddsalver. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "description": "AK-47 er kraftig og pålitelig, og den er en av verdens mest populære rifler. Den er mest dødelig i korte, kontrollerte skuddsalver. Den er spesiallakkert til å ligne utseendet og følelsen til en hvit og svart dunjakke, og avsluttet med detaljer i gull.\\n<i><i>Søk makt, oppnå makt, behold makt.</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Trigger Discipline",
-  "description": "AUG er en kraftig og nøyaktig rifle, som kompenserer for lang ladetid med lav spredning og høy skuddtakt. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "AUG er en kraftig og nøyaktig rifle, som kompenserer for lang ladetid med lav spredning og høy skuddtakt. Den er påført et blått isometrisk mønster og avsluttet med oransje detaljer.\\n\\n<i>Tålmodighet er sin egen belønning.</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -27822,7 +27822,7 @@
  {
   "id": "skin-94f44ac08438",
   "name": "Dual Berettas | Angel Eyes",
-  "description": "Du får lavere treffsikkerhet og økt omladningstid av å avfyre to Berettaer med store magasin samtidig. På den lyse siden får du avfyre to Berettaer med store magasin samtidig. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "description": "Du får lavere treffsikkerhet og økt omladningstid av å avfyre to Berettaer med store magasin samtidig. På den lyse siden får du avfyre to Berettaer med store magasin samtidig. De er spesiallakkerte med øyne på skjeftene og himmelske veggmalerier på glidestykkene.\\n\\n<i>Holder et øye – eller fem – med deg.</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -43162,7 +43162,7 @@
  {
   "id": "skin-a59908982432",
   "name": "Glock-18 | Mirror Mosaic",
-  "description": "Glock 18 er anvendelig pistol i den første runden, som fungerer best mot motstandere uten verneutstyr, og den er i stand til å avfyre skuddsalver. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "description": "Glock 18 er anvendelig pistol i den første runden, som fungerer best mot motstandere uten verneutstyr, og den er i stand til å avfyre skuddsalver. Den er spesiallakkert til å ligne på speilmosaikk.\\n\\n<i>Fanget i sine egne tanker.</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -46857,7 +46857,7 @@
  {
   "id": "skin-53b81168eea3",
   "name": "P2000 | Red Wing",
-  "description": "Den tysklagde P2000 er presis og kontrollerbar, og det er en anvendelig pistol i den første runden, da den fungerer best mot motstandere uten verneutstyr. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "description": "Den tysklagde P2000 er presis og kontrollerbar, og det er en anvendelig pistol i den første runden, da den fungerer best mot motstandere uten verneutstyr. Den er spesiallakkert med et koksgrått og dyp rødt design. \\n\\n<i>Jakter fiendens undergang.</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87033,7 +87033,7 @@
  {
   "id": "skin-e7c2a01982dd",
   "name": "M4A4 | Full Throttle",
-  "description": "Mer nøyaktig, men mindre kraftig enn sin motpart – AK47. M4A4 er den helautomatiske riflen som gjelder for AT-ene. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "description": "Mer nøyaktig, men mindre kraftig enn sin motpart – AK47. M4A4 er den helautomatiske riflen som gjelder for AT-ene. Den er spesiallakkert med en neongrønn grunning og pyntet med fiktive logoer som er ment å fremkalle drifte- og mekkekultur.\\n\\n<i>«Der Globoil 1 Synthetics møter ENTRI PERFORMANCE.»</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "Den AT-eksklusive Mag-7 leverer en ødeleggende mengde skade på nært hold. Den raske, magasinbaserte lademekanismen gjør den til et godt taktisk valg. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "Den AT-eksklusive Mag-7 leverer en ødeleggende mengde skade på nært hold. Den raske, magasinbaserte lademekanismen gjør den til et godt taktisk valg. Denne spesiallakkeringen gir inntrykk av en sjokkbølge som kommer fra bolten over avtrekkeren.\\n\\n<i>Skjelver på hånden.</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | Focus",
-  "description": "Ofte etterlignet, men ingen er i nærheten av originalen. Den ikoniske MP5-en er kanskje den mest allsidige og populære maskinpistolen i verden. Denne SD-varianten har en integrert lyddemper, noe som gjør et allerede formidabelt våpen helt stillegående. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "Ofte etterlignet, men ingen er i nærheten av originalen. Den ikoniske MP5-en er kanskje den mest allsidige og populære maskinpistolen i verden. Denne SD-varianten har en integrert lyddemper, noe som gjør et allerede formidabelt våpen helt stillegående. Den er spesiallakkert med kanonmetallgrå og avsluttet med røde detaljer.\\n\\n<i>HOLD FOKUS // SIKT RIKTIG</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -104820,7 +104820,7 @@
  {
   "id": "skin-fb7ae83c1e81",
   "name": "MP9 | Broken Record",
-  "description": "Den banebrytende MP9-maskinpistolen er produsert i Sveits og er et ergonomisk polymervåpen foretrukket av private sikkerhetsfirmaer. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "description": "Den banebrytende MP9-maskinpistolen er produsert i Sveits og er et ergonomisk polymervåpen foretrukket av private sikkerhetsfirmaer. Den er spesiallakkert til å ligne på en vinylplate, med spor og alt.\\n\\n<i>Umiddelbar slager.</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
-  "description": "Novaens lave prislapp gjør den til et flott bakholdangrepsvåpen for et pengefattig lag. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "Novaens lave prislapp gjør den til et flott bakholdangrepsvåpen for et pengefattig lag. Denne spesiallakkeringen har enkle geometriske former og realistiske detaljer inspirert av abstrakt surrealisme og arbeidene til kunstnere fra det 20. århundre.\\n\\n<i>Øye som ser.</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Bullfrog",
-  "description": "P250 er et skytevåpen med lav rekyl og høy skuddtakt, som er et relativt billig valg mot motstandere med verneutstyr. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "P250 er et skytevåpen med lav rekyl og høy skuddtakt, som er et relativt billig valg mot motstandere med verneutstyr. Den er spesiallakkert med racingfarger i bronse og svart.\\n\\n<i>Hei, hvor det går!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -124631,7 +124631,7 @@
  {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
-  "description": "SCAR-20 er en semiautomatisk skarpskytterrifle som bytter en høy skuddtakt og langdistanseskade mot treg bevegelseshastighet og en stor prislapp. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "description": "SCAR-20 er en semiautomatisk skarpskytterrifle som bytter en høy skuddtakt og langdistanseskade mot treg bevegelseshastighet og en stor prislapp. Den er påført en blå og lilla forløpning.\\n\\n<i>«Det der er et stort våpen for et så lite bur …»</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -137962,7 +137962,7 @@
  {
   "id": "skin-822f252e3894",
   "name": "UMP-45 | Continuum",
-  "description": "UMP45 er det misforståtte mellomste barnet i maskinpistolfamilien. Det lille magasinet er det eneste negative med dette ellers meget anvendelige automatvåpenet for nærkamp. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "description": "UMP45 er det misforståtte mellomste barnet i maskinpistolfamilien. Det lille magasinet er det eneste negative med dette ellers meget anvendelige automatvåpenet for nærkamp. Spesiallakkeringen har vekslende bånd i svart og blått.\\n\\n<i>Inn i intet.</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
