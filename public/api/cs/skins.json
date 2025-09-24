@@ -5159,8 +5159,8 @@
  },
  {
   "id": "skin-4608abab8351",
-  "name": "AK-47 | The Oligarch",
-  "description": "Silná a spolehlivá útočná puška AK-47 je jednou z nejpopulárnějších zbraní na světě. Největší poškození uděluje v krátkých, kontrolovaných dávkách. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "name": "AK-47 | Oligarch",
+  "description": "Silná a spolehlivá útočná puška AK-47 je jednou z nejpopulárnějších zbraní na světě. Největší poškození uděluje v krátkých, kontrolovaných dávkách. Zbraň byla nabarvena tak, aby svým vzhledem připomínala luxusní černo-bílou péřovou bundu, a následně byla dozdobena zlatými částmi.\\n\\n<i>Najdi moc, získej moc, udrž moc</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5172,7 +5172,7 @@
   },
   "pattern": {
    "id": "ak47_puffer_custom",
-   "name": "The Oligarch"
+   "name": "Oligarch"
   },
   "min_float": 0,
   "max_float": 1,
@@ -5209,14 +5209,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Trigger Discipline",
-  "description": "AUG je silná a přesná útočná puška s možností přiblížení, která kompenzuje svoji dlouhou dobu přebíjení malým rozptylem a vysokou rychlostí střelby. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "AUG je silná a přesná útočná puška s možností přiblížení, která kompenzuje svoji dlouhou dobu přebíjení malým rozptylem a vysokou rychlostí střelby. Na zbraň byl nanesen modrý izometrický vzor, který byl následně dozdoben oranžovými částmi.\\n\\n<i>Protože trpělivost je odměnou sama o sobě</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -9986,14 +9986,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -12771,14 +12771,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -27822,7 +27822,7 @@
  {
   "id": "skin-94f44ac08438",
   "name": "Dual Berettas | Angel Eyes",
-  "description": "Střelba ze dvou pistolí značky Beretta s velkými zásobníky sníží tvoji přesnost a prodlouží dobu přebíjení. Na druhou stranu budeš střílet ze dvou pistolí s velkými zásobníky. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "description": "Střelba ze dvou pistolí značky Beretta s velkými zásobníky sníží tvoji přesnost a prodlouží dobu přebíjení. Na druhou stranu budeš střílet ze dvou pistolí s velkými zásobníky. Na rukojeti zbraní byly namalovány oči a jejich závěry zdobí obrazce připomínající nástěnné malby v kostelích.\\n\\n<i>Nespustím z tebe oči</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27871,14 +27871,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -43162,7 +43162,7 @@
  {
   "id": "skin-a59908982432",
   "name": "Glock-18 | Mirror Mosaic",
-  "description": "Glock 18 je pistole vhodná pro první kolo. Nejúčinnější je proti neobrněným protivníkům a je schopná střílet v dávkách po třech. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "description": "Glock 18 je pistole vhodná pro první kolo. Nejúčinnější je proti neobrněným protivníkům a je schopná střílet v dávkách po třech. Zbraň byla nabarvena tak, aby připomínala mozaiku složenou z rozbitých zrcadel.\\n\\n<i>Uvězněný ve vlastní hlavě</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43211,14 +43211,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46857,7 +46857,7 @@
  {
   "id": "skin-53b81168eea3",
   "name": "P2000 | Red Wing",
-  "description": "Přesná a lehce ovladatelná německá pistole P2000 je vhodná pro první kolo a proti neobrněným protivníkům. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "description": "Přesná a lehce ovladatelná německá pistole P2000 je vhodná pro první kolo a proti neobrněným protivníkům. Na zbraň byl nanesen vzor vyvedený v uhlově šedých a sytě červených barvách.\\n\\n<i>Kořist to má spočítané</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46906,14 +46906,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "Přesná a lehce ovladatelná německá pistole P2000 je vhodná pro první kolo a proti neobrněným protivníkům. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "Přesná a lehce ovladatelná německá pistole P2000 je vhodná pro první kolo a proti neobrněným protivníkům. Na zbraň byly metalickou šedou barvou naneseny fraktální vzory a následně byla dozdobena oranžovými částmi.\\n\\n<i>&gt;&gt;EXPERIMENT S TEXTUROU ZBRANĚ, ZÁZNAM PRVNÍ&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87033,7 +87033,7 @@
  {
   "id": "skin-e7c2a01982dd",
   "name": "M4A4 | Full Throttle",
-  "description": "M4A4, přesnější, avšak slabší protějšek AK-47, je plně automatická útočná puška exkluzivní pro CT. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "description": "M4A4, přesnější, avšak slabší protějšek AK-47, je plně automatická útočná puška exkluzivní pro CT. Zbraň byla nabarvena neonově zelenou základní barvou a následně byla dozdobena fiktivními logy evokujícími tuningovou scénu.\\n\\n<i>Když spojí síly Globoil 1 a ENTRI PERFORMANCE</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87082,14 +87082,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidation",
-  "description": "Tato varianta útočné pušky M4A1 s tlumičem umožňuje tišší střelbu a díky menšímu zpětnému rázu dosahuje vyšší přesnosti než její hlasitější verze, ovšem za cenu menšího zásobníku. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "Tato varianta útočné pušky M4A1 s tlumičem umožňuje tišší střelbu a díky menšímu zpětnému rázu dosahuje vyšší přesnosti než její hlasitější verze, ovšem za cenu menšího zásobníku. Díky tmavému základu a pečlivě zvoleným červeným a modrým částem by si člověk myslel, že tato zbraň září i za běžného světla.\\n\\n<i>Tichý, přesto smrticí odraz</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -90051,14 +90051,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -93988,7 +93988,7 @@
  {
   "id": "skin-0befed15aba5",
   "name": "MAC-10 | Cat Fight",
-  "description": "Samopal MAC-10, doslova krabice, ze které lítají kulky, se může pochlubit vysokou rychlostí střelby, kterou však kazí nízká přesnost a silný zpětný ráz. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "description": "Samopal MAC-10, doslova krabice, ze které lítají kulky, se může pochlubit vysokou rychlostí střelby, kterou však kazí nízká přesnost a silný zpětný ráz. Na zbraň byla nakreslena kočka s vyceněnými zuby a na zadní straně závěru je možné najít nakreslený terč.\\n\\n<i>Kočička má drápky...</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94037,14 +94037,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "Mag-7, brokovnice exkluzivní pro CT, udílí devastující poškození na krátkou vzdálenost a oplývá rychlým přebíjením, díky čemuž se jedná o vhodnou zbraň pro přestřelky v menších místnostech. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "Mag-7, brokovnice exkluzivní pro CT, udílí devastující poškození na krátkou vzdálenost a oplývá rychlým přebíjením, díky čemuž se jedná o vhodnou zbraň pro přestřelky v menších místnostech. Zbraň byla nabarvena tak, aby to vypadalo, že ze šroubu nad spouští vychází tlaková vlna.\\n\\n<i>Magnituda 2,0</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -97086,14 +97086,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | Focus",
-  "description": "Ačkoli se ho ostatní pokoušeli napodobit, kvalit ikonického a nesmírně populárního samopalu MP5 nikdy nedosáhli. Ve verzi SD navíc tenhle krasavec nabízí také tlumič, který z něj činí smrtící a zároveň tichou volbu. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "Ačkoli se ho ostatní pokoušeli napodobit, kvalit ikonického a nesmírně populárního samopalu MP5 nikdy nedosáhli. Ve verzi SD navíc tenhle krasavec nabízí také tlumič, který z něj činí smrtící a zároveň tichou volbu. Zbraň byla nabarvena šedou metalickou základní barvou a následně byla dozdobena červenými částmi.\\n\\n<i>SOUSTŘEDĚNÍ // JASNÝ CÍL</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -99206,14 +99206,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -101420,7 +101420,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | Smoking Kills",
-  "description": "Samopal MP7 německé výroby je univerzální, ale drahý pomocník pro boj na kratší vzdálenost. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "description": "Samopal MP7 německé výroby je univerzální, ale drahý pomocník pro boj na kratší vzdálenost. Na zbraň byl nakreslen barevný obrázek ženy s brýlemi a cigaretou v ústech.\\n\\n<i>Buď to uděláme rychle, nebo pomalu. Je to na tobě</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101469,14 +101469,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -104820,7 +104820,7 @@
  {
   "id": "skin-fb7ae83c1e81",
   "name": "MP9 | Broken Record",
-  "description": "Špičkový samopal MP9 švýcarské výroby je ergonomická, polymerová zbraň oblíbená zejména mezi soukromými bezpečnostními firmami. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "description": "Špičkový samopal MP9 švýcarské výroby je ergonomická, polymerová zbraň oblíbená zejména mezi soukromými bezpečnostními firmami. Zbraň byla nabarvena tak, aby připomínala vinylovou desku, a to včetně drážek.\\n\\n<i>Nadčasová klasika</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104869,14 +104869,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
-  "description": "Brokovnice Nova je díky své velmi nízké ceně vhodnou zbraní pro chudé hráče, kteří i přes stav svého konta chtějí přepadávat nepřátele s brokovnicí v ruce. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "Brokovnice Nova je díky své velmi nízké ceně vhodnou zbraní pro chudé hráče, kteří i přes stav svého konta chtějí přepadávat nepřátele s brokovnicí v ruce. Na zbraň byly nabarveny jednoduché geometrické tvary a realistické detaily inspirované abstraktním surrealismem a díly umělců z 20. století.\\n\\n<i>Oči pozorovatelů</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109651,14 +109651,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Bullfrog",
-  "description": "P250 je relativně levná pistole s malým zpětným rázem a vysokou rychlostí střelby, která se hodí i proti obrněným protivníkům. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "P250 je relativně levná pistole s malým zpětným rázem a vysokou rychlostí střelby, která se hodí i proti obrněným protivníkům. Na zbraň byly naneseny bronzové a černé vzory inspirované u závodních aut.\\n\\n<i>A už to sviští!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113859,14 +113859,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -124631,7 +124631,7 @@
  {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
-  "description": "SCAR-20 je polo-automatická odstřelovací puška, která svému majiteli za vysokou cenu a sníženou rychlost pohybu nabídne vysokou rychlost střelby a možnost udělit poškození i z velké vzdálenosti. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "description": "SCAR-20 je polo-automatická odstřelovací puška, která svému majiteli za vysokou cenu a sníženou rychlost pohybu nabídne vysokou rychlost střelby a možnost udělit poškození i z velké vzdálenosti. Na zbraň byl nanesen gradientní modrofialový vzor.\\n\\n<i>Ta nezůstane uvězněná dlouho...</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124680,14 +124680,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -137962,7 +137962,7 @@
  {
   "id": "skin-822f252e3894",
   "name": "UMP-45 | Continuum",
-  "description": "UMP45, nepochopené prostřední dítě z rodiny samopalů, je univerzální automatická zbraň, jejíž jedinou nevýhodou je malý zásobník. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "description": "UMP45, nepochopené prostřední dítě z rodiny samopalů, je univerzální automatická zbraň, jejíž jedinou nevýhodou je malý zásobník. Na zbraň byl nanesen vzor složený ze střídavých černých a modrých pruhů.\\n\\n<i>Brána do středu prázdnoty</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -138011,14 +138011,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Kolekce Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Zašifrovaný terminál | Genesis",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],

@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Tűzfegyelem",
-  "description": "Az erős és pontos AUG távcsöves gépkarabély hosszú újratöltési idejét kis szórásával és magas tűzgyorsaságával egyenlíti ki. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "Az erős és pontos AUG távcsöves gépkarabély hosszú újratöltési idejét kis szórásával és magas tűzgyorsaságával egyenlíti ki. Kék izometrikus mintát festettek rá, és narancssárga díszítéssel fejezték be.\\n\\n<i>A türelem önmaga jutalma.</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -46857,7 +46857,7 @@
  {
   "id": "skin-53b81168eea3",
   "name": "P2000 | Piros Szárny",
-  "description": "A pontos és jól kezelhető német gyártású P2000 használható első körös pisztoly, mely páncélozatlan ellenfelek ellen működik a legjobban. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "description": "A pontos és jól kezelhető német gyártású P2000 használható első körös pisztoly, mely páncélozatlan ellenfelek ellen működik a legjobban. Faszén és mélyvörös színű mintát festettek rá.\\n\\n<i>Ellenségeid bukásából táplálkozva.</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87033,7 +87033,7 @@
  {
   "id": "skin-e7c2a01982dd",
   "name": "M4A4 | Padlógáz",
-  "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "description": "A pontosabb, de AK-47-es megfelelőjénél kevesebbet sebző M4A4 teljes automata gépkarabély a T-E-k választása. Neonzöld alapra fiktív logókat festettek, melyek a drift és tuning kultúrát hivatottak megidézni.\\n\\n<i>Ahol a „Globoil 1 Synthetics” és az „ENTRI PERFORMANCE” találkozik.</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Likvidálás",
-  "description": "A némítatlan társánál kisebb tárral rendelkező hangtompítós M4A1 halkabb lövéseket biztosít kisebb visszarúgással és nagyobb pontossággal. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "A némítatlan társánál kisebb tárral rendelkező hangtompítós M4A1 halkabb lövéseket biztosít kisebb visszarúgással és nagyobb pontossággal. Sötét alapszíne és a gondosan megválasztott vörös és kék kiemelések miatt ez az M4A1-S olyan hatást kelt, mintha a környező fényt verné vissza.\\n\\n<i>Csöndes reflexió.</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitúdó",
-  "description": "A T-E exkluzív Mag-7 pusztító mennyiségű sebzést ad közelre. Gyors, szekrénytár-megoldású újratöltése nagyszerű taktikai választássá teszi. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "A T-E exkluzív Mag-7 pusztító mennyiségű sebzést ad közelre. Gyors, szekrénytár-megoldású újratöltése nagyszerű taktikai választássá teszi. Ez az egyedi festés olyan hatást kelt, mintha lökéshullám indulna ki az elsütőbillentyű fölötti csavarból.\\n\\n<i>Kettő pont nulla.</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | Fókusz",
-  "description": "A gyakran, de mindig sikertelenül másolt ikonikus MP5 talán a világ legsokoldalúbb és legnépszerűbb géppisztolya. Az SD változat beépített hangtompítóval érkezik, egy már félelmetes fegyvert suttogóan csendessé téve. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "A gyakran, de mindig sikertelenül másolt ikonikus MP5 talán a világ legsokoldalúbb és legnépszerűbb géppisztolya. Az SD változat beépített hangtompítóval érkezik, egy már félelmetes fegyvert suttogóan csendessé téve. Fegyveracél-szürkére festették és vörös mintákkal díszítették.\\n\\n<i>MARADJ FÓKUSZBAN // IGAZI CÉLTUDAT</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -101420,7 +101420,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | A Dohányzás Öl",
-  "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. Egy szemüveges, cigarettázó nőt ábrázoló színes mintás egyedi festést kapott.\\n\\n<i>„Csinálhatjuk gyorsan vagy lassan. Te döntesz.”</i>",
+  "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. Egy szemüveges, cigarettázó nőt ábrázoló, színes mintás egyedi festést kapott.\\n\\n<i>„Csinálhatjuk gyorsan vagy lassan. Te döntesz.”</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -104820,7 +104820,7 @@
  {
   "id": "skin-fb7ae83c1e81",
   "name": "MP9 | Lejárt Lemez",
-  "description": "A Svájcban gyártott élvonalbeli MP9 géppisztoly egy ergonomikus polimer fegyver, amely a magán biztonsági cégek nagy kedvence. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "description": "A Svájcban gyártott élvonalbeli MP9 géppisztoly egy ergonomikus polimer fegyver, amely a magán biztonsági cégek nagy kedvence. Régi hanglemezre emlékeztető egyedi mintát festettek rá, barázdákkal meg mindennel.\\n\\n<i>Azonnal klasszikus.</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Szemmel Látható",
-  "description": "A Nova potom árcédulája miatt nagyszerű rajtaütő fegyver egy pénzszűkében levő csapatnak. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "A Nova potom árcédulája miatt nagyszerű rajtaütő fegyver egy pénzszűkében levő csapatnak. Ez az egyedi festés egyszerű geometriai formákat és realisztikus részleteket tartalmaz, melyeket az absztrakt szürrealizmus és 20. századi művészek alkotásai ihlettek.\\n\\n<i>Kinek mi.</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Kecskebéka",
-  "description": "A kis visszarúgású és nagy tűzgyorsaságú P250 viszonylag olcsó választás páncélozott célok ellen. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "A kis visszarúgású és nagy tűzgyorsaságú P250 viszonylag olcsó választás páncélozott célok ellen. Autóversenyzés témájú fekete-bronz mintát festettek rá\\n\\n<i>Hogy száguldasz!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -124630,8 +124630,8 @@
  },
  {
   "id": "skin-e8ce6f07d5e7",
-  "name": "SCAR-20 | Caged",
-  "description": "A SCAR-20 félautomata mesterlövész puska, mely nagy tűzgyorsaságot és erős távolsági sebzést kínál lassú mozgásért és magas árért cserébe. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "name": "SCAR-20 | Ketrecbe Zárva",
+  "description": "A SCAR-20 félautomata mesterlövész puska, mely nagy tűzgyorsaságot és erős távolsági sebzést kínál lassú mozgásért és magas árért cserébe. Kék-lila színátmenetes mintát festettek rá.\\n\\n<i>„Nagy fegyver ez egy ilyen kis ketrecbe...”</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124643,7 +124643,7 @@
   },
   "pattern": {
    "id": "scar_refraction_v4",
-   "name": "Caged"
+   "name": "Ketrecbe Zárva"
   },
   "min_float": 0,
   "max_float": 1,
@@ -137962,7 +137962,7 @@
  {
   "id": "skin-822f252e3894",
   "name": "UMP-45 | Kontinuum",
-  "description": "A géppisztolyok családjának félreértett középső gyermekének, az UMP45-nek csak a kis tára az egyetlen hátránya, egyébként sokoldalú automata közelharcfegyver. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "description": "A géppisztolyok családjának félreértett középső gyermekének, az UMP45-nek csak a kis tára az egyetlen hátránya, egyébként sokoldalú automata közelharcfegyver. Ez az egyedi festés váltakozó fekete és kék sávokat tartalmaz.\\n\\n<i>Az ürességbe.</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,

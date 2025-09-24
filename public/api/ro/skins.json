@@ -5160,7 +5160,7 @@
  {
   "id": "skin-4608abab8351",
   "name": "AK-47 | The Oligarch",
-  "description": "Puternică și de încredere, AK-47 este una dintre cele mai populare arme de asalt din lume. Este extrem de eficientă când sunt trase focuri scurte controlate, în rafală. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "description": "Puternică și de încredere, AK-47 este una dintre cele mai populare arme de asalt din lume. Este extrem de eficientă când sunt trase focuri scurte controlate, în rafală. Această armă a fost vopsită personalizat pentru a imita aspectul și textura unei jachete de puf luxoase, de culoare alb-negru, cu accente aurii.\\n\\n<i>Caută puterea, obține-o și menține-o</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5209,14 +5209,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Trigger Discipline",
-  "description": "Puternică și precisă, arma de asalt cu lunetă AUG compensează timpii ridicați de încărcare cu un tir precis și o cadență de tragere mare. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "Puternică și precisă, arma de asalt cu lunetă AUG compensează timpii ridicați de încărcare cu un tir precis și o cadență de tragere mare. Un model izometric albastru a fost aplicat. Arma a fost finisată cu accente portocalii.\\n\\n<i>Răbdarea este propria sa recompensă</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -9986,14 +9986,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -12771,14 +12771,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -25069,7 +25069,7 @@
  {
   "id": "skin-337794166cad",
   "name": "Desert Eagle | Trigger Discipline",
-  "description": "Pe cât de scump, pe atât de puternic, Desert Eagle este un pistol simbolic care este dificil de stăpânit, dar surprinzător de precis la distanțe mari. Un model izometric a fost vopsit personalizat pe țeava acestei arme. Percutorul și cătarea au fost vopsite cu albastru deschis.\\n\\n<i>Răbdarea este o virtute</i>",
+  "description": "Pe cât de scump, pe atât de puternic, Desert Eagle este un pistol simbolic care este dificil de stăpânit, dar surprinzător de precis la distanțe mari. Un model izometric roz a fost vopsit personalizat pe țeava acestei arme. Percutorul și cătarea au fost vopsite cu albastru deschis.\\n\\n<i>Răbdarea este o virtute</i>",
   "weapon": {
    "id": "weapon_deagle",
    "weapon_id": 1,
@@ -27822,7 +27822,7 @@
  {
   "id": "skin-94f44ac08438",
   "name": "Dual Berettas | Angel Eyes",
-  "description": "Tirul simultan cu două pistoale Beretta echipate cu încărcătoare mari va reduce precizia focurilor și va mări timpii de încărcare. Partea bună este că vei putea să tragi simultan cu două pistoale Beretta echipate cu încărcătoare mari. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "description": "Tirul simultan cu două pistoale Beretta echipate cu încărcătoare mari va reduce precizia focurilor și va mări timpii de încărcare. Partea bună este că vei putea să tragi simultan cu două pistoale Beretta echipate cu încărcătoare mari. Aceste pistoale au fost vopsite personalizat cu ochi pe mânere și picturi murale celești pe manșoane.\\n\\n<i>Toți cei cinci ochi sunt pe tine</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27871,14 +27871,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -43162,7 +43162,7 @@
  {
   "id": "skin-a59908982432",
   "name": "Glock-18 | Mirror Mosaic",
-  "description": "Glock 18 este un pistol utilizabil din prima rundă care este eficient împotriva oponenților fără armură și este capabil de a trage rafale de câte trei gloanțe. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "description": "Glock 18 este un pistol utilizabil din prima rundă care este eficient împotriva oponenților fără armură și este capabil de a trage rafale de câte trei gloanțe. Această armă a fost vopsită personalizat pentru a semăna cu un mozaic de oglinzi.\\n\\n<i>Captiv în propria minte</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43211,14 +43211,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46857,7 +46857,7 @@
  {
   "id": "skin-53b81168eea3",
   "name": "P2000 | Red Wing",
-  "description": "Precis și controlabil, pistolul german P2000 este un pistol utilizabil din primă rundă care este eficient împotriva oponenților fără armură. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "description": "Precis și controlabil, pistolul german P2000 este un pistol utilizabil din primă rundă care este eficient împotriva oponenților fără armură. Această armă a fost vopsită cu un model de culoarea cărbunelui și roșu intens.\\n\\n<i>Pândește-ți inamicii</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46906,14 +46906,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "Precis și controlabil, pistolul german P2000 este un pistol utilizabil din primă rundă care este eficient împotriva oponenților fără armură. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "Precis și controlabil, pistolul german P2000 este un pistol utilizabil din primă rundă care este eficient împotriva oponenților fără armură. Această armă a fost vopsită personalizat cu modele fractale de culoare gri metalizat și finisată cu accente portocalii.\\n\\n<i>&gt;&gt;EXPERIMENTE CU TEXTURI DE FINISAJE PENTRU ARME, PRIMA ÎNCERCARE&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87033,7 +87033,7 @@
  {
   "id": "skin-e7c2a01982dd",
   "name": "M4A4 | Full Throttle",
-  "description": "Mai precisă, dar nu la fel de puternică precum omologa sa AK-47, M4A4 este arma de asalt complet automată preferată a contrateroriștilor. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "description": "Mai precisă, dar nu la fel de puternică precum omologa sa AK-47, M4A4 este arma de asalt complet automată preferată a contrateroriștilor. Această armă a fost vopsită personalizat cu un strat de bază de culoare verde neon și finisată cu logouri fictive menite să evoce culta driftului și a tuningului.\\n\\n<i>„Globoil 1 Synthetics” întâlnește „ENTRI PERFORMANCE”</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87082,14 +87082,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidation",
-  "description": "Cu un încărcător mai mic decât omologul său „zgomotos”, arma M4A1 cu amortizor oferă focuri mai silențioase cu un recul redus și o precizie mai bună. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "Cu un încărcător mai mic decât omologul său „zgomotos”, arma M4A1 cu amortizor oferă focuri mai silențioase cu un recul redus și o precizie mai bună. Acest M4A1-S a fost vopsit personalizat cu un strat de bază întunecat și accente de culoare roșie și albastră selectate cu multă grijă și pare că strălucește sub lumina ambientală.\\n\\n<i>Reflecție calmă</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -90051,14 +90051,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -93988,7 +93988,7 @@
  {
   "id": "skin-0befed15aba5",
   "name": "MAC-10 | Cat Fight",
-  "description": "Practic, o cutie din care ies gloanțe. Pistolul mitralieră MAC-10 are o cadență ridicată de tragere care este contrabalansată de o precizie relativ scăzută, cât și un recul considerabil. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "description": "Practic, o cutie din care ies gloanțe. Pistolul mitralieră MAC-10 are o cadență ridicată de tragere care este contrabalansată de o precizie relativ scăzută, cât și un recul considerabil. Această armă a fost vopsită personalizat cu o pisică mârâitoare și o țintă pe cutia mecanismelor.\\n\\n<i>Pisicuța asta are gheare...</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94037,14 +94037,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "Exclusivă contrateroriștilor, Mag-7 oferă o putere extraordinară pe distanțe mici. Iar timpii reduși de reîncărcare o fac să fie o alegere tactică ideală. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "Exclusivă contrateroriștilor, Mag-7 oferă o putere extraordinară pe distanțe mici. Iar timpii reduși de reîncărcare o fac să fie o alegere tactică ideală. Acest desen personalizat oferă aspectul unei unde de șoc provenite de la nitul de deasupra trăgaciului.\\n\\n<i>Doi punct zero</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -97086,14 +97086,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | Focus",
-  "description": "Adesea imitat, dar niciodată egalat, emblematicul MP5 este cel mai adaptabil și cunoscut pistol-mitralieră din lume. Această variantă SD este echipată cu un amortizor încorporat care transformă arma deja periculoasă într-una silențioasă. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "Adesea imitat, dar niciodată egalat, emblematicul MP5 este cel mai adaptabil și cunoscut pistol-mitralieră din lume. Această variantă SD este echipată cu un amortizor încorporat care transformă arma deja periculoasă într-una silențioasă. Această armă a fost vopsită personalizat cu un gri metalic și accente roșii.\\n\\n<i>RĂMÂI CONCENTRAT // ȚINTEȘTE ATENT</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -99206,14 +99206,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -101420,7 +101420,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | Smoking Kills",
-  "description": "Adaptabil, dar scump, pistolul-mitralieră german MP7 este alegerea perfectă pentru luptele intense de la distanțe mici. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "description": "Adaptabil, dar scump, pistolul-mitralieră german MP7 este alegerea perfectă pentru luptele intense de la distanțe mici. Această armă a fost vopsită personalizat cu un model grafic colorat care surprinde o femeie cu ochelari care fumează o țigară.\\n\\n<i>„O putem face rapid sau încet, cum dorești”</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101469,14 +101469,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -104820,7 +104820,7 @@
  {
   "id": "skin-fb7ae83c1e81",
   "name": "MP9 | Broken Record",
-  "description": "Produs în Elveția, pistolul-mitralieră de generație nouă MP9 este o armă realizată din polimeri apreciată de firmele private de securitate. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "description": "Produs în Elveția, pistolul-mitralieră de generație nouă MP9 este o armă realizată din polimeri apreciată de firmele private de securitate. Această armă a fost vopsită personalizat pentru a semăna cu un disc de vinil și canelurile sale.\\n\\n<i>Un clasic atemporal</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104869,14 +104869,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
-  "description": "Prețul derizoriu face din Nova o armă ideală de ambuscadă pentru echipele cu fonduri reduse. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "Prețul derizoriu face din Nova o armă ideală de ambuscadă pentru echipele cu fonduri reduse. Această armă a fost vopsită personalizat cu forme geometrice simple și detalii realiste inspirate de suprarealismul abstract și lucrările artiștilor din secolul XX.\\n\\n<i>Ochii privitorului</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109651,14 +109651,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Bullfrog",
-  "description": "Fiind o armă de foc cu recul mic și o cadență mare de tragere, P250 reprezintă o alegere relativ ieftină împotriva oponenților cu armură. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "Fiind o armă de foc cu recul mic și o cadență mare de tragere, P250 reprezintă o alegere relativ ieftină împotriva oponenților cu armură. Această armă a fost vopsită personalizat în bronz și negru cu un motiv inspirat de mașinile de curse.\\n\\n<i>Uită-te la tine!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113859,14 +113859,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -124631,7 +124631,7 @@
  {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
-  "description": "SCAR-20 este o armă semiautomată cu lunetă ce oferă o cadență de tragere ridicată și o putere considerabilă la distanțe mari, dar care încetinește ușor viteza de deplasare și care are un preț pe măsură. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "description": "SCAR-20 este o armă semiautomată cu lunetă ce oferă o cadență de tragere ridicată și o putere considerabilă la distanțe mari, dar care încetinește ușor viteza de deplasare și care are un preț pe măsură. A fost aplicat un model în degradeu de culoare albastră și violet.\\n\\n<i>„O armă destul de mare pentru o cușcă atât de mică...”</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124680,14 +124680,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -137962,7 +137962,7 @@
  {
   "id": "skin-822f252e3894",
   "name": "UMP-45 | Continuum",
-  "description": "Oaia neagră a pistoalelor-mitralieră, capacitatea mică a încărcătorului este singurul neajuns pentru UMP45, o armă altfel extrem de adaptabilă pentru luptele din apropiere. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "description": "Oaia neagră a pistoalelor-mitralieră, capacitatea mică a încărcătorului este singurul neajuns pentru UMP45, o armă altfel extrem de adaptabilă pentru luptele din apropiere. Această armă a fost vopsită personalizat cu dungi alternante de culoare neagră și albastră.\\n\\n<i>În abis</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -138011,14 +138011,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colecția Genesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Genesis sigilat",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
