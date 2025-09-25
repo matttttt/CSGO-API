@@ -5209,14 +5209,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Trigger Discipline",
-  "description": "Kraftfull och träffsäker, AUG automatkarbin med kikarsikte kompenserar sin långa omladdningstid med liten spridning och hög eldgivningshastighet. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "Kraftfull och träffsäker, AUG automatkarbin med kikarsikte kompenserar sin långa omladdningstid med liten spridning och hög eldgivningshastighet. Ett blått isometriskt mönster har applicerats och avslutats med orange detaljer.\\n\\n<i>Tålamod är sin egen belöning.</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -9986,14 +9986,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -12771,14 +12771,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -27871,14 +27871,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -43211,14 +43211,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46906,14 +46906,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -87082,14 +87082,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidation",
-  "description": "Den ljuddämpade M4A1 har ett mindre magasin än sin icke-dämpade motsvarighet, och levererar tystare skott med svagare rekyl och bättre träffsäkerhet. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "Den ljuddämpade M4A1 har ett mindre magasin än sin icke-dämpade motsvarighet, och levererar tystare skott med svagare rekyl och bättre träffsäkerhet. En mörk grund och noggrant utvalda röda och blå detaljer får denna specialmålade M4A1-S att se ut som att den glöder under omgivningsljus.\\n\\n<i>Stilla reflektion.</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -90051,14 +90051,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -94037,14 +94037,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -97086,14 +97086,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -99206,14 +99206,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -101469,14 +101469,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -104869,14 +104869,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -109651,14 +109651,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -113859,14 +113859,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -124680,14 +124680,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -138011,14 +138011,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-kollektionen",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Förseglad Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
