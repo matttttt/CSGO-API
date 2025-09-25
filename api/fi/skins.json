@@ -99156,7 +99156,7 @@
  },
  {
   "id": "skin-e051c197f5af",
-  "name": "MP5-SD | Focus",
+  "name": "MP5-SD | Keskittyminen",
   "description": "MP5 on ikoninen konepistooli, jota on yritetty turhaan jäljitellä. Se on ehkä maailman monikäyttöisin ja suosituin konepistooli. Tästä versiosta löytyy integroitu äänenvaimennin, joka tekee mahtavasta aseesta hiirenhiljaisen. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
   "weapon": {
    "id": "weapon_mp5sd",
@@ -99169,7 +99169,7 @@
   },
   "pattern": {
    "id": "mp5sd_chrome",
-   "name": "Focus"
+   "name": "Keskittyminen"
   },
   "min_float": 0,
   "max_float": 1,

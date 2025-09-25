@@ -5159,8 +5159,8 @@
  },
  {
   "id": "skin-4608abab8351",
-  "name": "AK-47 | The Oligarch",
-  "description": "Als eines der beliebtesten Sturmgewehre der Welt ist die AK-47 sehr stark und zuverlässig. Mit kurzen, kontrollierten Feuerstößen ist diese Waffe besonders tödlich. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "name": "AK-47 | Der Oligarch",
+  "description": "Als eines der beliebtesten Sturmgewehre der Welt ist die AK-47 sehr stark und zuverlässig. Mit kurzen, kontrollierten Feuerstößen ist diese Waffe besonders tödlich. Die Waffe wurde mit einer Sonderlackierung versehen, die das Aussehen und die Haptik einer luxuriösen weißen und blauen Daunenjacke mit goldenen Akzenten imitiert.\\n\\n<i>Macht anstreben, Macht erlangen, Macht ausüben</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5172,7 +5172,7 @@
   },
   "pattern": {
    "id": "ak47_puffer_custom",
-   "name": "The Oligarch"
+   "name": "Der Oligarch"
   },
   "min_float": 0,
   "max_float": 1,
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Feuerdisziplin",
-  "description": "Bekannt als mächtige und genaue Waffe kompensiert das mit einem Zielfernrohr ausgestattete AUG-Sturmgewehr seine lange Nachladezeit mit einem geringen Streuradius und einer hohen Feuerrate. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "Bekannt als mächtige und genaue Waffe kompensiert das mit einem Zielfernrohr ausgestattete AUG-Sturmgewehr seine lange Nachladezeit mit einem geringen Streuradius und einer hohen Feuerrate. Die Waffe wurde mit einem blauen isometrischen Muster versehen und mit orangefarbenen Akzenten veredelt.\\n\\n<i>Geduld zahlt sich aus</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -27821,7 +27821,7 @@
  },
  {
   "id": "skin-94f44ac08438",
-  "name": "Akimbo-Berettas | Angel Eyes",
+  "name": "Akimbo-Berettas | Engelsaugen",
   "description": "Das gleichzeitige Abfeuern zweier Berettas mit großen Magazinen verringert die Genauigkeit und erhöht die Nachladedauer. Wenn man es jedoch mal positiv betrachtet, so kommen Sie immerhin zum gleichzeitigen Abfeuern zweier Berettas mit großen Magazinen. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
   "weapon": {
    "id": "weapon_elite",
@@ -27834,7 +27834,7 @@
   },
   "pattern": {
    "id": "dual_elite_biblical_angel",
-   "name": "Angel Eyes"
+   "name": "Engelsaugen"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43161,8 +43161,8 @@
  },
  {
   "id": "skin-a59908982432",
-  "name": "Glock-18 | Mirror Mosaic",
-  "description": "Die Glock 18 ist eine brauchbare Pistole für die erste Runde, die am effektivsten gegen ungepanzerte Gegner eingesetzt werden kann und in der Lage ist, drei Kugeln gleichzeitig abzufeuern. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "name": "Glock-18 | Spiegelmosaik",
+  "description": "Die Glock 18 ist eine brauchbare Pistole für die erste Runde, die am effektivsten gegen ungepanzerte Gegner eingesetzt werden kann und in der Lage ist, drei Kugeln gleichzeitig abzufeuern. Die Waffe wurde mit einer Sonderlackierung versehen, die ein Mosaik aus Spiegelscherben zeigt.\\n\\n<i>Gefangen in den eigenen Gedanken</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43174,7 +43174,7 @@
   },
   "pattern": {
    "id": "glock_mirror_maze_v2_pearl",
-   "name": "Mirror Mosaic"
+   "name": "Spiegelmosaik"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46856,8 +46856,8 @@
  },
  {
   "id": "skin-53b81168eea3",
-  "name": "P2000 | Red Wing",
-  "description": "Mit ihrer hohen Präzision und Kontrollierbarkeit ist die in Deutschland hergestellte P2000 eine brauchbare Pistole für die erste Runde, die im Einsatz gegen ungepanzerte Gegner am effektivsten ist. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "name": "P2000 | Roter Flügel",
+  "description": "Mit ihrer hohen Präzision und Kontrollierbarkeit ist die in Deutschland hergestellte P2000 eine brauchbare Pistole für die erste Runde, die im Einsatz gegen ungepanzerte Gegner am effektivsten ist. Die Waffe wurde mit einer Sonderlackierung in einem dunkelgrauen und tiefroten Muster versehen.\\n\\n<i>Nutze den Sturz deiner Feinde aus</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46869,7 +46869,7 @@
   },
   "pattern": {
    "id": "p2000_deep_red",
-   "name": "Red Wing"
+   "name": "Roter Flügel"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Griffig",
-  "description": "Mit ihrer hohen Präzision und Kontrollierbarkeit ist die in Deutschland hergestellte P2000 eine brauchbare Pistole für die erste Runde, die im Einsatz gegen ungepanzerte Gegner am effektivsten ist. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "Mit ihrer hohen Präzision und Kontrollierbarkeit ist die in Deutschland hergestellte P2000 eine brauchbare Pistole für die erste Runde, die im Einsatz gegen ungepanzerte Gegner am effektivsten ist. Die Waffe wurde mit einer Sonderlackierung versehen, die ein metallisch-graues Fraktalmuster mit orangefarbenen Akzenten zeigt.\\n\\n<i>&gt;&gt;TEXTUREXPERIMENTE FÜR WAFFENLACKIERUNGEN, EINTRAG EINS&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87032,7 +87032,7 @@
  },
  {
   "id": "skin-e7c2a01982dd",
-  "name": "M4A4 | Full Throttle",
+  "name": "M4A4 | Vollgas",
   "description": "Mit höherer Präzision, aber geringerem Schaden als ihr Gegenstück AK-47 ist die M4A4 das bevorzugte vollautomatische Sturmgewehr der Antiterroreinheit. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
   "weapon": {
    "id": "weapon_m4a1",
@@ -87045,7 +87045,7 @@
   },
   "pattern": {
    "id": "m4a4_skrrrt_green",
-   "name": "Full Throttle"
+   "name": "Vollgas"
   },
   "min_float": 0,
   "max_float": 1,
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidierung",
-  "description": "Mit einem kleineren Magazin ausgestattet als das nicht schallgedämpfte Gegenstück, liefert die schallgedämpfte M4A1 leisere Schüsse mit weniger Rückschlag und besserer Präzision. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "Mit einem kleineren Magazin ausgestattet als das nicht schallgedämpfte Gegenstück, liefert die schallgedämpfte M4A1 leisere Schüsse mit weniger Rückschlag und besserer Präzision. Die dunkle Grundierung und die sorgfältig ausgewählten roten und blauen Akzente lassen diese sonderlackierte M4A1-S bei entsprechendem Lichteinfall aufleuchten.\\n\\n<i>Um stille, aber tödliche Akzente zu setzen</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -93987,8 +93987,8 @@
  },
  {
   "id": "skin-0befed15aba5",
-  "name": "MAC-10 | Cat Fight",
-  "description": "Die MAC-10, im Grunde genommen nur eine Box, die Kugeln ausspuckt, bietet eine hohe Feuerrate in Kombination mit geringer Präzision und hohem Rückstoß. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "name": "MAC-10 | Katzenkampf",
+  "description": "Die MAC-10, im Grunde genommen nur eine Box, die Kugeln ausspuckt, bietet eine hohe Feuerrate in Kombination mit geringer Präzision und hohem Rückstoß. Die Waffe wurde mit einer Sonderlackierung versehen, die eine fauchende Katze und eine Zielscheibe auf der Hinterseite des Verschlussgehäuses zeigt.\\n\\n<i>Dieses Kätzchen hat Krallen …</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94000,7 +94000,7 @@
   },
   "pattern": {
    "id": "mac10_kamicatze",
-   "name": "Cat Fight"
+   "name": "Katzenkampf"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "Die AT-exklusive MAG-7 richtet auf geringe Distanz verheerenden Schaden an. Ihre dank Magazinen kurze Nachladedauer macht sie zu einer großartigen taktischen Wahl. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "Die AT-exklusive MAG-7 richtet auf geringe Distanz verheerenden Schaden an. Ihre dank Magazinen kurze Nachladedauer macht sie zu einer großartigen taktischen Wahl. Diese Sonderlackierung erweckt den Anschein, als würden Schockwellen vom Bolzen über dem Abzug ausgehen.\\n\\n<i>Zwei Punkt null</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -99156,8 +99156,8 @@
  },
  {
   "id": "skin-e051c197f5af",
-  "name": "MP5-SD | Focus",
-  "description": "Die oft kopierte, aber nie erreichte, ikonische MP5 ist wahrscheinlich die vielseitigste und beliebteste MP der Welt. Diese SD-Veriante kommt mit einem integrierten Schalldämpfer und macht eine bereits beeindruckende Waffe flüsterleise. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "name": "MP5-SD | Fokus",
+  "description": "Die oft kopierte, aber nie erreichte, ikonische MP5 ist wahrscheinlich die vielseitigste und beliebteste MP der Welt. Diese SD-Veriante kommt mit einem integrierten Schalldämpfer und macht eine bereits beeindruckende Waffe flüsterleise. Die Waffe wurde mit einer Sonderlackierung versehen, die rote Akzente über einer metallisch-grauen Grundierung zeigt.\\n\\n<i>BLEIB FOKUSSIERT // PERFEKTE ZIELGENAUIGKEIT</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -99169,7 +99169,7 @@
   },
   "pattern": {
    "id": "mp5sd_chrome",
-   "name": "Focus"
+   "name": "Fokus"
   },
   "min_float": 0,
   "max_float": 1,
@@ -101419,8 +101419,8 @@
  },
  {
   "id": "skin-270e56729de6",
-  "name": "MP7 | Smoking Kills",
-  "description": "Als vielseitige aber teure Maschinenpistole ist die in Deutschland hergestellte MP7 die perfekte Wahl für den intensiven Nahkampf. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "name": "MP7 | Rauchen ist tödlich",
+  "description": "Als vielseitige aber teure Maschinenpistole ist die in Deutschland hergestellte MP7 die perfekte Wahl für den intensiven Nahkampf. Die Waffe wurde mit einer Sonderlackierung versehen, die ein farbenfrohes Design einer Frau mit Brille zeigt, die eine Zigarette raucht.\\n\\n<i>„Wir können dies schnell oder langsam angehen, deine Entscheidung!“</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101432,7 +101432,7 @@
   },
   "pattern": {
    "id": "mp7_smoking_kills_v2",
-   "name": "Smoking Kills"
+   "name": "Rauchen ist tödlich"
   },
   "min_float": 0,
   "max_float": 1,
@@ -104819,8 +104819,8 @@
  },
  {
   "id": "skin-fb7ae83c1e81",
-  "name": "MP9 | Broken Record",
-  "description": "Die in der Schweiz hergestellte, innovative Maschinenpistole MP9 ist eine ergonomische Polymer-Waffe, die von privaten Sicherheitsfirmen bevorzugt wird. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "name": "MP9 | Springende Schallplatte",
+  "description": "Die in der Schweiz hergestellte, innovative Maschinenpistole MP9 ist eine ergonomische Polymer-Waffe, die von privaten Sicherheitsfirmen bevorzugt wird. Die Waffe wurde mit einer Sonderlackierung versehen, die einer Schallplatte samt Rillen und allen Besonderheiten ähnelt.\\n\\n<i>Auf Anhieb ein Klassiker</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104832,7 +104832,7 @@
   },
   "pattern": {
    "id": "mp9_vinyl",
-   "name": "Broken Record"
+   "name": "Springende Schallplatte"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109601,7 +109601,7 @@
  },
  {
   "id": "skin-f58ac1d8b31c",
-  "name": "Nova | Ocular",
+  "name": "Nova | Okular",
   "description": "Der niedrige Preis der Nova macht sie zu einer großartigen Hinterhaltswaffe für ein Team in Geldnot. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
   "weapon": {
    "id": "weapon_nova",
@@ -109614,7 +109614,7 @@
   },
   "pattern": {
    "id": "nova_ocular",
-   "name": "Ocular"
+   "name": "Okular"
   },
   "min_float": 0,
   "max_float": 1,
@@ -113809,7 +113809,7 @@
  },
  {
   "id": "skin-8ec9dd302f30",
-  "name": "P250 | Bullfrog",
+  "name": "P250 | Ochsenfrosch",
   "description": "Als eine Waffe mit wenig Rückstoß und hoher Feuerrate erweist sich die P250 als eine relativ preiswerte Wahl gegen gepanzerte Gegner. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
   "weapon": {
    "id": "weapon_p250",
@@ -113822,7 +113822,7 @@
   },
   "pattern": {
    "id": "p250_bullfrog",
-   "name": "Bullfrog"
+   "name": "Ochsenfrosch"
   },
   "min_float": 0,
   "max_float": 1,
@@ -124630,8 +124630,8 @@
  },
  {
   "id": "skin-e8ce6f07d5e7",
-  "name": "SCAR-20 | Caged",
-  "description": "Die SCAR-20 ist ein halbautomatisches Scharfschützengewehr, deren hohe Feurrate und Durchschlagskraft auf lange Distanz mit eingeschränkter Beweglichkeit und hohen Kosten erkauft wird. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "name": "SCAR-20 | Käfig",
+  "description": "Die SCAR-20 ist ein halbautomatisches Scharfschützengewehr, deren hohe Feurrate und Durchschlagskraft auf lange Distanz mit eingeschränkter Beweglichkeit und hohen Kosten erkauft wird. Die Waffe wurde mit einer Sonderlackierung in einem blauen und violetten Farbverlauf versehen.\\n\\n<i>„Dieses Ding lässt sich nicht ewig einsperren …“</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124643,7 +124643,7 @@
   },
   "pattern": {
    "id": "scar_refraction_v4",
-   "name": "Caged"
+   "name": "Käfig"
   },
   "min_float": 0,
   "max_float": 1,
@@ -137961,8 +137961,8 @@
  },
  {
   "id": "skin-822f252e3894",
-  "name": "UMP-45 | Continuum",
-  "description": "Das verkannte Mittelkind der MP-Familie - Das kleine Magazin der UMP45 ist der einzige Nachteil einer ansonsten vielseitigen Automatikwaffe für Nahkampfeinsätze. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "name": "UMP-45 | Kontinuum",
+  "description": "Das verkannte Mittelkind der MP-Familie - Das kleine Magazin der UMP45 ist der einzige Nachteil einer ansonsten vielseitigen Automatikwaffe für Nahkampfeinsätze. Diese Sonderlackierung zeigt abwechselnd schwarze und blaue Streifen.\\n\\n<i>Reise in die Unendlichkeit</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -137974,7 +137974,7 @@
   },
   "pattern": {
    "id": "ump45_illumina_v2",
-   "name": "Continuum"
+   "name": "Kontinuum"
   },
   "min_float": 0,
   "max_float": 1,
