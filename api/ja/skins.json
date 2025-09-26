@@ -5160,7 +5160,7 @@
  {
   "id": "skin-4608abab8351",
   "name": "AK-47 | The Oligarch",
-  "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "description": "強力で信頼性の高い AK-47は、世界で最も有名なアサルトライフルの1つ。短いバーストで反動を抑えることで最大限に威力を引き出せる。 高級感のある白と黒のダウンジャケットの外観と質感を再現したカスタムペイントに、ゴールドのアクセントで仕上げ。\\n\\n<i>力を求め、力を得て、力を握れ</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5209,14 +5209,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Trigger Discipline",
-  "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "強力で精度が良い AUG 照準器付きアサルトライフルは、長い再装填時間を高い集弾率と高い射撃速度で補完している。 青のアイソメトリック模様が施され、オレンジのアクセントで仕上げ。\\n\\n<i>忍耐そのものが報酬である</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -9986,14 +9986,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -12771,14 +12771,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -27822,7 +27822,7 @@
  {
   "id": "skin-94f44ac08438",
   "name": "Dual Berettas | Angel Eyes",
-  "description": "大容量の弾倉を装着した2丁の Beretta を同時に撃つと、命中率が下がり、装填時間が伸びる。だが大容量の弾倉を備えた2丁の Beretta を同時に撃てるのだから、それで良しとしよう。 They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "description": "大容量の弾倉を装着した2丁の Beretta を同時に撃つと、命中率が下がり、装填時間が伸びる。だが大容量の弾倉を備えた2丁の Beretta を同時に撃てるのだから、それで良しとしよう。 グリップには目を、スライドには天体の壁画をカスタムペイント。\\n\\n<i>1つの目でしっかりと見ている…いや、5つの目で</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27871,14 +27871,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -43162,7 +43162,7 @@
  {
   "id": "skin-a59908982432",
   "name": "Glock-18 | Mirror Mosaic",
-  "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "description": "Glock 18 は第1ラウンドでの使用に適しており、防具を着用していない敵には特に有効である。3点バースト射撃が可能。 鏡のモザイクを模したカスタムペイント。\\n\\n<i>自身の思考に囚われて</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43211,14 +43211,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46857,7 +46857,7 @@
  {
   "id": "skin-53b81168eea3",
   "name": "P2000 | Red Wing",
-  "description": "正確で制御しやすく、第1ラウンド向きの実用的なドイツ製ピストル。防具を着用していない敵に有効。 It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "description": "正確で制御しやすく、第1ラウンド向きの実用的なドイツ製ピストル。防具を着用していない敵に有効。 木炭色と深紅のデザインでカスタムペイント。\\n\\n<i>落ち目の敵を餌にしろ</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46906,14 +46906,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "正確で制御しやすく、第1ラウンド向きの実用的なドイツ製ピストル。防具を着用していない敵に有効。 It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "正確で制御しやすく、第1ラウンド向きの実用的なドイツ製ピストル。防具を着用していない敵に有効。 ガンメタルグレーのフラクタルデザインでカスタムペイントし、オレンジのアクセントで仕上げられている。\\n\\n<i>&gt;&gt;武器スキンテクスチャ実験：エントリ 1&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87033,7 +87033,7 @@
  {
   "id": "skin-e7c2a01982dd",
   "name": "M4A4 | Full Throttle",
-  "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "description": "同等級の AK-47 より精度が高いがダメージが少ない M4A4 は、CT の第一選択肢となるフルオートのアサルトライフル。 ネオングリーンのベースにカスタムペイントし、ドリフトやチューニング文化を想起させるロゴ（フィクション）で仕上げられている。\\n\\n<i>\\\"Globoil 1 Synthetics\\\" と \\\"ENTRI PERFORMANCE\\\" が出会う場所</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87082,14 +87082,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidation",
-  "description": "消音器を外した同等品よりも弾倉が小さい消音器付き M4A1。反動が小さく、精度が高い上に発砲音が静かだ。 Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "消音器を外した同等品よりも弾倉が小さい消音器付き M4A1。反動が小さく、精度が高い上に発砲音が静かだ。 ダークなベースに精巧に配置された赤と青のハイライトで、M4A1-S がまるで環境光の下で輝いているように見える。\\n\\n<i>静かな輝き</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -90051,14 +90051,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -93988,7 +93988,7 @@
  {
   "id": "skin-0befed15aba5",
   "name": "MAC-10 | Cat Fight",
-  "description": "本質的には弾丸が出てくる箱である MAC-10 サブマシンガンは、高い射撃速度を誇るが、引き換えに集弾精度が低く、反動が激しい。 It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "description": "本質的には弾丸が出てくる箱である MAC-10 サブマシンガンは、高い射撃速度を誇るが、引き換えに集弾精度が低く、反動が激しい。 レシーバー後部に威嚇する猫とターゲットをカスタムペイント。\\n\\n<i>子猫にも爪はある…</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94037,14 +94037,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "CT 専用の Mag-7 は近距離では圧倒的なダメージ量を誇る。弾倉形式のためリロードが速く、戦術的な運用が可能。 This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "CT 専用の Mag-7 は近距離では圧倒的なダメージ量を誇る。弾倉形式のためリロードが速く、戦術的な運用が可能。 トリガー上部から衝撃波が放たれているような外観のカスタムペイント。\\n\\n<i>ツー・ポイント・オー</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -97086,14 +97086,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | Focus",
-  "description": "世界でもトップクラスの万能性と人気を誇る MP5 は、よく模造の対象となるが、本物には遠く及ばない。この SD モデルは一体化されたサイレンサーが特徴で、ただでさえ強力な SMG に静音性まで加わっている。 It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "世界でもトップクラスの万能性と人気を誇る MP5 は、よく模造の対象となるが、本物には遠く及ばない。この SD モデルは一体化されたサイレンサーが特徴で、ただでさえ強力な SMG に静音性まで加わっている。 ガンメタルグレイでカスタムペイントし、赤のアクセントで仕上げ。\\n\\n<i>集中せよ // 外すな</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -99206,14 +99206,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -101420,7 +101420,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | Smoking Kills",
-  "description": "万能だが高価なドイツ製の MP7 サブマシンガンは、激しい近接戦に最適な選択。 It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "description": "万能だが高価なドイツ製の MP7 サブマシンガンは、激しい近接戦に最適な選択。 メガネをかけてタバコを吸う女性を描いたカラフルなデザインでカスタムペイント。\\n\\n<i>「さっさとやるか、時間をかけるか――あんたが決めな」",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101469,14 +101469,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -104820,7 +104820,7 @@
  {
   "id": "skin-fb7ae83c1e81",
   "name": "MP9 | Broken Record",
-  "description": "スイス製の MP9 サブマシンガンは人間工学に基づいたポリマー素材の最先端武器で、民間警備会社も愛用している。 It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "description": "スイス製の MP9 サブマシンガンは人間工学に基づいたポリマー素材の最先端武器で、民間警備会社も愛用している。 レコード盤の溝まで再現したカスタムペイント。\\n\\n<i>あっという間にクラシック</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104869,14 +104869,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
-  "description": "Nova の安さは特筆に値する。資金に乏しいチームにとってはありがたい奇襲用武器だ。 This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "Nova の安さは特筆に値する。資金に乏しいチームにとってはありがたい奇襲用武器だ。 抽象的なシュールレアリスムと20世紀芸術家の作品に着想を得た、シンプルな幾何学模様と写実的なディテールが特徴的なカスタムペイント。\\n\\n<i>観る人の眼に宿る</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109651,14 +109651,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Bullfrog",
-  "description": "連射速度が高く低反動な P250 は、防具を着用した敵を相手にする際、比較的安価な選択肢となる。 It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "連射速度が高く低反動な P250 は、防具を着用した敵を相手にする際、比較的安価な選択肢となる。 ブロンズと黒のレーシングリバリーをカスタムペイント。\\n\\n<i>速いな！</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113859,14 +113859,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -124631,7 +124631,7 @@
  {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
-  "description": "セミオートマチックのスナイパーライフルである SCAR-20 は、高い連射速度と強力な遠距離ダメージを得られる一方で、移動速度が遅く、価格も高い。 A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "description": "セミオートマチックのスナイパーライフルである SCAR-20 は、高い連射速度と強力な遠距離ダメージを得られる一方で、移動速度が遅く、価格も高い。 青と紫のグラデーションデザインが施されている。\\n\\n<i>「こんな小さな檻にしては、ずいぶん大きな武器だな」</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124680,14 +124680,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -137962,7 +137962,7 @@
  {
   "id": "skin-822f252e3894",
   "name": "UMP-45 | Continuum",
-  "description": "UMP45 は不当な評価を受けやすいが、装弾数が少ないことを除けば万能の近接戦闘用オートマチック SMG と言える。 This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "description": "UMP45 は不当な評価を受けやすいが、装弾数が少ないことを除けば万能の近接戦闘用オートマチック SMG と言える。 黒と青の縞模様が交互にあしらわれたカスタムペイント。\\n\\n<i>虚無の彼方へ</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -138011,14 +138011,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis コレクション",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Genesis ターミナル（未使用）",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],

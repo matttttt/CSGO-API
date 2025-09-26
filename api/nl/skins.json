@@ -5160,7 +5160,7 @@
  {
   "id": "skin-4608abab8351",
   "name": "AK-47 | The Oligarch",
-  "description": "De krachtige, betrouwbare AK-47 is een van de populairste aanvalsgeweren ter wereld. Vooral dodelijk met korte, gecontroleerde vuurstoten. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "description": "De krachtige, betrouwbare AK-47 is een van de populairste aanvalsgeweren ter wereld. Vooral dodelijk met korte, gecontroleerde vuurstoten. Het wapen is zo beschilderd dat het net een zwart-wit gewatteerd jack is, afgewerkt met gouden accenten.\\n\\n<i>Streef naar macht, verover macht, hou macht vast</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5209,14 +5209,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Trigger Discipline",
-  "description": "De AUG is een krachtig en precies aanvalsgeweer met een vizier. Herladen duurt even, maar je krijgt er een kleine spreiding en een hoge vuursnelheid voor terug. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "De AUG is een krachtig en precies aanvalsgeweer met een vizier. Herladen duurt even, maar je krijgt er een kleine spreiding en een hoge vuursnelheid voor terug. Op het wapen is een blauw, isometrisch patroon aangebracht, met oranje accenten.\\n\\n<i>Geduld betaalt zich uit</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -9986,14 +9986,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -12771,14 +12771,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -27822,7 +27822,7 @@
  {
   "id": "skin-94f44ac08438",
   "name": "Dual Berettas | Angel Eyes",
-  "description": "Heel nauwkeurig wordt het niet als je twee Beretta's met grote magazijnen tegelijk afvuurt, en herladen duurt ook even. Maar je moet er wat voor overhebben om twee Beretta's tegelijk leeg te schieten, toch? They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "description": "Heel nauwkeurig wordt het niet als je twee Beretta's met grote magazijnen tegelijk afvuurt, en herladen duurt ook even. Maar je moet er wat voor overhebben om twee Beretta's tegelijk leeg te schieten, toch? Op de handgrepen van de pistolen zijn ogen geschilderd en op de sledes staan muurschilderingen.\\n\\n<i>Hou een oogje — of vijf — in het zeil</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27871,14 +27871,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -43162,7 +43162,7 @@
  {
   "id": "skin-a59908982432",
   "name": "Glock-18 | Mirror Mosaic",
-  "description": "De Glock 18 is een prima pistool voor de eerste ronde die korte metten maakt met ongepantserde tegenstanders. Je kunt er vuurstoten van drie kogels mee lanceren. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "description": "De Glock 18 is een prima pistool voor de eerste ronde die korte metten maakt met ongepantserde tegenstanders. Je kunt er vuurstoten van drie kogels mee lanceren. Op het wapen is een mozaïek van spiegels geschilderd.\\n\\n<i>Spiegeltje, spiegeltje...</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43211,14 +43211,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46857,7 +46857,7 @@
  {
   "id": "skin-53b81168eea3",
   "name": "P2000 | Red Wing",
-  "description": "De in Duitsland geproduceerde P2000 is een pistool waarmee je in de eerste ronde prima uit de voeten kunt, vooral tegen vijanden zonder pantser. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "description": "De in Duitsland geproduceerde P2000 is een pistool waarmee je in de eerste ronde prima uit de voeten kunt, vooral tegen vijanden zonder pantser. Op het wapen is een design van houtskoolzwart en dieprood aangebracht. \\n\\n<i>Maak in het rood je vijanden dood</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46906,14 +46906,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "De in Duitsland geproduceerde P2000 is een pistool waarmee je in de eerste ronde prima uit de voeten kunt, vooral tegen vijanden zonder pantser. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "De in Duitsland geproduceerde P2000 is een pistool waarmee je in de eerste ronde prima uit de voeten kunt, vooral tegen vijanden zonder pantser. Op het wapen is een metaalgrijze lak aangebracht, met fractaldesigns en oranje accenten.\\n\\n<i>&gt;&gt;WAPENSKIN MET EXPERIMENTELE TEXTUUR, POGING EEN&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87033,7 +87033,7 @@
  {
   "id": "skin-e7c2a01982dd",
   "name": "M4A4 | Full Throttle",
-  "description": "De M4A4 is nauwkeuriger dan de AK-47, maar richt minder schade aan. Het is een volautomatisch geweer dat populair is bij CT-agenten. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "description": "De M4A4 is nauwkeuriger dan de AK-47, maar richt minder schade aan. Het is een volautomatisch geweer dat populair is bij CT-agenten. Op het wapen is een neongroene grondlaag aangebracht met daarop fictieve logo's van tuningbedrijven.\\n\\n<i>Waar Globoil 1 Synthetics en ENTRI PERFORMANCE samenkomen</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87082,14 +87082,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidation",
-  "description": "De gedempte M4A1 heeft een kleiner magazijn dan de luidruchtigere variant, maar schiet stiller, nauwkeuriger en met een kleinere terugslag. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "De gedempte M4A1 heeft een kleiner magazijn dan de luidruchtigere variant, maar schiet stiller, nauwkeuriger en met een kleinere terugslag. Vanwege de donkere ondergrond en de rode en blauwe highlights lijkt het net alsof deze M4A1-S wordt verlicht door het omgevingslicht.\\n\\n<i>Lichte reflectie</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -90051,14 +90051,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -93988,7 +93988,7 @@
  {
   "id": "skin-0befed15aba5",
   "name": "MAC-10 | Cat Fight",
-  "description": "De MAC-10, die eruitziet als een doos die kogels uitspuwt, heeft een hoge vuursnelheid, maar de spreiding is onnauwkeurig en hij heeft een grote terugslag. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "description": "De MAC-10, die eruitziet als een doos die kogels uitspuwt, heeft een hoge vuursnelheid, maar de spreiding is onnauwkeurig en hij heeft een grote terugslag. Op dit wapen is een agressieve kat geschilderd, met op de achterzijde van de behuizing een doelwit.\\n\\n<i>Kattige kater...</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94037,14 +94037,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "De Mag-7, die alleen beschikbaar is voor de Contraterreureenheid, is verwoestend op korte afstand. Ook vanwege de korte herlaadtijd is het een geweldige tactische keuze. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "De Mag-7, die alleen beschikbaar is voor de Contraterreureenheid, is verwoestend op korte afstand. Ook vanwege de korte herlaadtijd is het een geweldige tactische keuze. De schroef boven de trekker van dit wapen lijkt het middelpunt van een schokgolf te zijn.\\n\\n<i>Schaal van Richter</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -97086,14 +97086,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | Focus",
-  "description": "De vaak geïmiteerde, maar nooit geëvenaarde MP5 is misschien wel het veelzijdigste en populairste machinepistool ter wereld. Dit is de SD-variant met een geïntegreerde demper, waarmee dit iconische wapen ook nog eens fluisterstil is. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "De vaak geïmiteerde, maar nooit geëvenaarde MP5 is misschien wel het veelzijdigste en populairste machinepistool ter wereld. Dit is de SD-variant met een geïntegreerde demper, waarmee dit iconische wapen ook nog eens fluisterstil is. Op het wapen is een metaalgrijze lak aangebracht, met rode accenten.\\n\\n<i>BLIJF GEFOCUST // BLIJF RICHTEN</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -99206,14 +99206,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -101420,7 +101420,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | Smoking Kills",
-  "description": "De veelzijdige, maar prijzige MP7 uit Duitsland is een machinepistool dat zich bij uitstek leent voor vuurgevechten op korte afstand. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "description": "De veelzijdige, maar prijzige MP7 uit Duitsland is een machinepistool dat zich bij uitstek leent voor vuurgevechten op korte afstand. Op het wapen is een kleurrijk design geschilderd met een bebrilde vrouw die een sigaret rookt.\\n\\n<i>\\\"We kunnen dit langzaam doen of snel, zeg het maar\\\"</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101469,14 +101469,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -104820,7 +104820,7 @@
  {
   "id": "skin-fb7ae83c1e81",
   "name": "MP9 | Broken Record",
-  "description": "De in Zwitserland gefabriceerde, hypermoderne MP9 is een ergonomisch wapen van kunststof dat populair is onder particuliere beveiligingsbedrijven. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "description": "De in Zwitserland gefabriceerde, hypermoderne MP9 is een ergonomisch wapen van kunststof dat populair is onder particuliere beveiligingsbedrijven. Op dit wapen is een elpee geschilderd, inclusief groeven.\\n\\n<i>Dit is een instant classic</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104869,14 +104869,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
-  "description": "De spotgoedkope Nova is het ideale hinderlaagwapen voor een team dat financieel aan de grond zit. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "De spotgoedkope Nova is het ideale hinderlaagwapen voor een team dat financieel aan de grond zit. Op dit wapen zijn eenvoudige, geometrische vormen en realistische details aangebracht, geïnspireerd door abstract surrealisme en kunstenaars uit de twintigste eeuw.\\n\\n<i>Oog om oog</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109651,14 +109651,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Bullfrog",
-  "description": "De P250, met zijn kleine terugslag en hoge vuursnelheid, is een betaalbaar alternatief tegen gepantserde tegenstanders. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "De P250, met zijn kleine terugslag en hoge vuursnelheid, is een betaalbaar alternatief tegen gepantserde tegenstanders. Op het wapen zijn bronskleurige en zwarte racestickers geschilderd.\\n\\n<i>Kijk 'm eens gaan!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113859,14 +113859,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -124631,7 +124631,7 @@
  {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
-  "description": "De SCAR-20 is een semiautomatisch snipergeweer met een hoge vuursnelheid dat veel schade kan aanrichten. Maar hij is niet makkelijk mee te nemen en peperduur. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "description": "De SCAR-20 is een semiautomatisch snipergeweer met een hoge vuursnelheid dat veel schade kan aanrichten. Maar hij is niet makkelijk mee te nemen en peperduur. Het wapen heeft een kleurverloopdesign met blauw en paars.\\n\\n<i>\\\"Da's een groot wapen voor zo'n kleine kooi...\\\"</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124680,14 +124680,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -137962,7 +137962,7 @@
  {
   "id": "skin-822f252e3894",
   "name": "UMP-45 | Continuum",
-  "description": "De UMP45, het zwarte schaap van de SMG-familie, heeft een klein magazijn, maar verder is het een veelzijdig, automatisch machinepistool voor korte afstanden. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "description": "De UMP45, het zwarte schaap van de SMG-familie, heeft een klein magazijn, maar verder is het een veelzijdig, automatisch machinepistool voor korte afstanden. Op dit wapen zijn afwisselende zwarte en blauwe banen geschilderd.\\n\\n<i>Psychedelisch</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -138011,14 +138011,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Genesis-collectie",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Verzegelde Genesis-terminal",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],

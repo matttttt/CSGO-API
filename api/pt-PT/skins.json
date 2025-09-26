@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "A MAG-7 é uma arma exclusiva da equipa Contraterrorista e causa uma quantidade devastadora de dano a curtas distâncias. O facto de usar carregadores em vez de cartuchos como as outras caçadeiras torna-a numa ótima opção tática. Esta arma em particular dá a aparência de uma onde de choque a surgir do parafuso por cima do gatilho.\\n\\n<i>Até rebenta a escala</i>",
+  "description": "A MAG-7 é uma arma exclusiva da equipa Contraterrorista e causa uma quantidade devastadora de dano a curtas distâncias. O facto de usar carregadores em vez de cartuchos como as outras caçadeiras torna-a numa ótima opção tática. Esta arma em particular dá a aparência de uma onda de choque a surgir do parafuso por cima do gatilho.\\n\\n<i>Até rebenta a escala</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
