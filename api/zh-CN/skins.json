@@ -5160,7 +5160,7 @@
  {
   "id": "skin-4608abab8351",
   "name": "AK-47 | 流金王朝",
-  "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "description": "强大又可靠，AK-47 是世上最流行的突击步枪之一。近距离内控制好的短点射极为致命。 这把武器的定制涂装复刻了奢华黑白羽绒夹克的外观与质感，并以金色装点。\\n\\n<i>追寻权力，获取权力，掌控权力</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5209,14 +5209,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | 后发制人",
-  "description": "强大且精准，AUG 瞄准型突击步枪以其低扩散和高射速来弥补换弹时间久的缺陷。 A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "强大且精准，AUG 瞄准型突击步枪以其低扩散和高射速来弥补换弹时间久的缺陷。 蓝色等距几何图案被涂装在枪身上，并以橙色勾边点缀。\\n\\n<i>耐心自有回报</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -9986,14 +9986,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -12771,14 +12771,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -27822,7 +27822,7 @@
  {
   "id": "skin-94f44ac08438",
   "name": "双持贝瑞塔 | 天矢之眼",
-  "description": "两把具有大弹匣的贝瑞塔同时开火会降低精准度，并增加换弹时间。不过你得往好处想，这不，别人只有一把枪，而你可以同时用两把贝瑞塔射个痛快。 They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "description": "两把具有大弹匣的贝瑞塔同时开火会降低精准度，并增加换弹时间。不过你得往好处想，这不，别人只有一把枪，而你可以同时用两把贝瑞塔射个痛快。 这把武器的握把处绘有眼睛图案，滑套部分则饰以天体主题壁画。\\n\\n<i>用五只——或更多——眼睛紧紧注视着你</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27871,14 +27871,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -43162,7 +43162,7 @@
  {
   "id": "skin-a59908982432",
   "name": "格洛克 18 型 | 镜面马赛克",
-  "description": "格洛克 18 型是把耐用的第一回合手枪，非常适合对付那些没有穿护甲的对手，并且可以进行三连发爆炸开火。 It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "description": "格洛克 18 型是把耐用的第一回合手枪，非常适合对付那些没有穿护甲的对手，并且可以进行三连发爆炸开火。 这把武器的定制涂装呈现出马赛克镜面般的视觉效果。\\n\\n<i>困于自我思绪之境</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43211,14 +43211,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46857,7 +46857,7 @@
  {
   "id": "skin-53b81168eea3",
   "name": "P2000 | 红翼",
-  "description": "精准、可控，这把德国制造的耐用第一回合手枪非常适合对付那些没有穿护甲的对手。 It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "description": "精准、可控，这把德国制造的耐用第一回合手枪非常适合对付那些没有穿护甲的对手。 这把武器采用了炭黑和深红色调进行了自定义涂装。\\n\\n<i>静候敌人的溃败</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46906,14 +46906,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | 防滑握把",
-  "description": "精准、可控，这把德国制造的耐用第一回合手枪非常适合对付那些没有穿护甲的对手。 It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "精准、可控，这把德国制造的耐用第一回合手枪非常适合对付那些没有穿护甲的对手。 它采用了枪灰分形纹路和橙纹点缀涂装。\\n\\n<i>&gt;&gt;武器涂装材质实验·记录一&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87033,7 +87033,7 @@
  {
   "id": "skin-e7c2a01982dd",
   "name": "M4A4 | 破浪狂飙",
-  "description": "与同级的 AK-47 相比更精准，但杀伤力更低，M4A4 是反恐精英可选的全自动突击步枪。 It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "description": "与同级的 AK-47 相比更精准，但杀伤力更低，M4A4 是反恐精英可选的全自动突击步枪。 这把武器的底色被定制涂装为霓虹绿，其表面印有虚构标识，意在彰显漂移与改装文化风格。\\n\\n<i>当 “环球石油 1 号合成燃料” 遇上 “恩特里性能改装”</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87082,14 +87082,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1 消音型 | 液化",
-  "description": "消音版 M4A1 相对于它那没有消音器的同行来说弹匣更小，枪声也较为“沉默”，还拥有更小的后坐力和更高的精准度。 Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "消音版 M4A1 相对于它那没有消音器的同行来说弹匣更小，枪声也较为“沉默”，还拥有更小的后坐力和更高的精准度。 深色基底与精挑细选的红蓝撞色点缀，使这把M4A1 消音型的定制涂装在环境光下宛若发光。\\n\\n<i>寂静沉思</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -90051,14 +90051,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -93988,7 +93988,7 @@
  {
   "id": "skin-0befed15aba5",
   "name": "MAC-10 | 纸老虎",
-  "description": "本质上就是个能射出子弹的盒子，MAC-10 微型冲锋枪拥有高频率的射速，作为交换，它还拥有略逊一筹的精准度和高后坐力。 It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "description": "本质上就是个能射出子弹的盒子，MAC-10 微型冲锋枪拥有高频率的射速，作为交换，它还拥有略逊一筹的精准度和高后坐力。 这把武器涂装了一只哈气咪，其枪身尾部的机匣处还印有靶心图案。\\n\\n<i>咪可是也有爪子的……</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94037,14 +94037,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | 震级",
-  "description": "反恐精英专用的 Mag-7 带来毁灭性的近距离杀伤力。它快速的弹仓式装弹方式使其成为一个不错的战术选择。 This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "反恐精英专用的 Mag-7 带来毁灭性的近距离杀伤力。它快速的弹仓式装弹方式使其成为一个不错的战术选择。 这款定制涂装的设计是一道冲击波自扳机上方的枪栓处迸发。\\n\\n<i>2.0升级版</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -97086,14 +97086,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | 专注",
-  "description": "一直被模仿，但从未被超越。经典的 MP5 也许是世界上用法最通用、最受欢迎的微型冲锋枪。此 SD 变种最大特点在于已配有消音器，本已令人胆寒的武器如今杀人于无声之间。 It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "一直被模仿，但从未被超越。经典的 MP5 也许是世界上用法最通用、最受欢迎的微型冲锋枪。此 SD 变种最大特点在于已配有消音器，本已令人胆寒的武器如今杀人于无声之间。 这把武器的定制涂装以枪灰色为基底，并辅以红色点缀。\\n\\n<i>保持专注 // 精确瞄准</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -99206,14 +99206,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -101420,7 +101420,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | 吸烟有害健康",
-  "description": "非常好用，但价格昂贵，德国制造的 MP7 微型冲锋枪非常适合高强度的近距离作战。 It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "description": "非常好用，但价格昂贵，德国制造的 MP7 微型冲锋枪非常适合高强度的近距离作战。 这把武器使用彩色设计，描绘了一位戴眼镜吞云吐雾的女性。\\n\\n<i>\\\"速战速决还是慢慢享用，你说了算\\\"</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101469,14 +101469,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -104820,7 +104820,7 @@
  {
   "id": "skin-fb7ae83c1e81",
   "name": "MP9 | 打口碟",
-  "description": "由瑞士制造，尖端的 MP9 微型冲锋枪是一把符合人类工效学的聚合物武器，深受私人保安公司青睐。 It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "description": "由瑞士制造，尖端的 MP9 微型冲锋枪是一把符合人类工效学的聚合物武器，深受私人保安公司青睐。 这把武器的定制涂装复刻了黑胶唱片的外观，连纹路细节都清晰呈现。\\n\\n<i>瞬间成为经典</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104869,14 +104869,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "新星 | 目镜",
-  "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "廉价的新星对于手头紧的玩家来说是一把不错的伏击武器。 这款定制涂装包含简洁的几何形状与写实细节，其灵感来源于抽象超现实主义及20世纪艺术家的作品。\\n\\n<i>眼见为实</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109651,14 +109651,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | 牛蛙",
-  "description": "一把低后坐力和高射速的手枪，在对付穿了护甲的对手时，P250 是一个相对便宜的选择。 It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "一把低后坐力和高射速的手枪，在对付穿了护甲的对手时，P250 是一个相对便宜的选择。 这把武器使用青铜与黑色相间的赛车主题进行了自定义涂装。\\n\\n<i>看你疾驰如电！</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113859,14 +113859,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -124631,7 +124631,7 @@
  {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | 牢笼",
-  "description": "SCAR-20 是一把以迟缓的移动速度和高昂的价格为代价，换取高射速及强大的远距离杀伤力的半自动狙击步枪。 A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "description": "SCAR-20 是一把以迟缓的移动速度和高昂的价格为代价，换取高射速及强大的远距离杀伤力的半自动狙击步枪。 这把武器采用了蓝紫渐变色进行了自定义涂装。\\n\\n<i>“笼子这么小，武器却这么大……”</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124680,14 +124680,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -137962,7 +137962,7 @@
  {
   "id": "skin-822f252e3894",
   "name": "UMP-45 | 连续体",
-  "description": "饱受误解的微型冲锋枪大家族中的中间儿，UMP45 弹匣较小是它唯一的缺点，否则它就是近距离自动枪械中的多面手了。 This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "description": "饱受误解的微型冲锋枪大家族中的中间儿，UMP45 弹匣较小是它唯一的缺点，否则它就是近距离自动枪械中的多面手了。 这款定制涂装采用了黑蓝双色交替条纹设计。\\n\\n<i>坠入虚空</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -138011,14 +138011,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "创世纪收藏品",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "创世终端机密封版",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],

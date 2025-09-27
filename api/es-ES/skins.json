@@ -5159,8 +5159,8 @@
  },
  {
   "id": "skin-4608abab8351",
-  "name": "AK-47 | The Oligarch",
-  "description": "Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "name": "AK-47 | El oligarca",
+  "description": "Potente y fiable, el AK-47 es uno de los rifles de asalto más famosos del mundo. Es sumamente letal en ráfagas cortas y controladas. Se ha personalizado para imitar el aspecto y el tacto de una lujosa chaqueta acolchada blanca y negra con detalles dorados.\\n\\n<i>Busca el poder, gana el poder, mantén el poder.</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5172,7 +5172,7 @@
   },
   "pattern": {
    "id": "ak47_puffer_custom",
-   "name": "The Oligarch"
+   "name": "El oligarca"
   },
   "min_float": 0,
   "max_float": 1,
@@ -5209,14 +5209,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Disciplina de gatillo",
-  "description": "Poderoso y preciso, el rifle de asalto con mira telescópica AUG compensa sus largos tiempos de recarga con su baja dispersión y una alta cadencia de fuego. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "Poderoso y preciso, el rifle de asalto con mira telescópica AUG compensa sus largos tiempos de recarga con su baja dispersión y una alta cadencia de fuego. Se ha aplicado un patrón isométrico azul y un acabado con detalles naranjas.\\n\\n<i>La paciencia es su propia recompensa.</i>.",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -9986,14 +9986,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -12771,14 +12771,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -27821,8 +27821,8 @@
  },
  {
   "id": "skin-94f44ac08438",
-  "name": "Berettas dobles | Angel Eyes",
-  "description": "Disparar dos Berettas a la vez disminuirá la precisión y aumentará los tiempos de recarga. El lado positivo es que podrás disparar dos Berettas a la vez. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "name": "Berettas dobles | Ojos angelicales",
+  "description": "Disparar dos Berettas a la vez disminuirá la precisión y aumentará los tiempos de recarga. El lado positivo es que podrás disparar dos Berettas a la vez. Se han personalizado con ojos en las empuñaduras y murales celestiales en las correderas.\\n\\n<i>Con un ojo —o cinco— siempre puestos en ti.</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27834,7 +27834,7 @@
   },
   "pattern": {
    "id": "dual_elite_biblical_angel",
-   "name": "Angel Eyes"
+   "name": "Ojos angelicales"
   },
   "min_float": 0,
   "max_float": 1,
@@ -27871,14 +27871,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -43161,8 +43161,8 @@
  },
  {
   "id": "skin-a59908982432",
-  "name": "Glock-18 | Mirror Mosaic",
-  "description": "La Glock 18 es una práctica pistola de primera ronda que funciona mejor contra oponentes sin protección y cuenta con un modo ráfaga de tres balas. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "name": "Glock-18 | Mosaico de espejos",
+  "description": "La Glock 18 es una práctica pistola de primera ronda que funciona mejor contra oponentes sin protección y cuenta con un modo ráfaga de tres balas. Se ha personalizado para asemejarse a un mosaico de espejos.\\n\\n<i>Atrapado en tus propios pensamientos.</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43174,7 +43174,7 @@
   },
   "pattern": {
    "id": "glock_mirror_maze_v2_pearl",
-   "name": "Mirror Mosaic"
+   "name": "Mosaico de espejos"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43211,14 +43211,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46856,8 +46856,8 @@
  },
  {
   "id": "skin-53b81168eea3",
-  "name": "P2000 | Red Wing",
-  "description": "Precisa y controlable, la P2000 de fabricación alemana es una práctica pistola de primera ronda que funciona mejor contra oponentes sin protección. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "name": "P2000 | Ala roja",
+  "description": "Precisa y controlable, la P2000 de fabricación alemana es una práctica pistola de primera ronda que funciona mejor contra oponentes sin protección. Se ha personalizado con un diseño en carbón y rojo intenso.\\n\\n<i>Aprovechando la caída de tus enemigos.</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46869,7 +46869,7 @@
   },
   "pattern": {
    "id": "p2000_deep_red",
-   "name": "Red Wing"
+   "name": "Ala roja"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46906,14 +46906,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Agarre seguro",
-  "description": "Precisa y controlable, la P2000 de fabricación alemana es una práctica pistola de primera ronda que funciona mejor contra oponentes sin protección. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "Precisa y controlable, la P2000 de fabricación alemana es una práctica pistola de primera ronda que funciona mejor contra oponentes sin protección. Se ha personalizado en color gris plomizo con motivos fractales y detalles naranjas.\\n\\n<i>&gt;&gt;EXPERIMENTOS DE TEXTURAS PARA ACABADOS DE ARMAS, PRIMERA PRUEBA&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87032,8 +87032,8 @@
  },
  {
   "id": "skin-e7c2a01982dd",
-  "name": "M4A4 | Full Throttle",
-  "description": "Más preciso pero menos potente que su equivalente, el AK-47, el M4A4 es el rifle de asalto automático disponible para los antiterroristas. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "name": "M4A4 | A toda mecha",
+  "description": "Más preciso pero menos potente que su equivalente, el AK-47, el M4A4 es el rifle de asalto automático disponible para los antiterroristas. Se ha personalizado con una base verde neón y un acabado con logotipos ficticios que evocan la cultura del drift y del tuning.\\n\\n<i>«Donde Globoil 1 Synthetics se encuentra con ENTRI PERFORMANCE».</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87045,7 +87045,7 @@
   },
   "pattern": {
    "id": "m4a4_skrrrt_green",
-   "name": "Full Throttle"
+   "name": "A toda mecha"
   },
   "min_float": 0,
   "max_float": 1,
@@ -87082,14 +87082,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidación",
-  "description": "El M4A1 con silenciador tiene un cargador más pequeño que su homólogo no silenciado, pero proporciona disparos menos audibles con menor retroceso y mayor precisión. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "El M4A1 con silenciador tiene un cargador más pequeño que su homólogo no silenciado, pero proporciona disparos menos audibles con menor retroceso y mayor precisión. Su oscura base, junto a los meticulosamente seleccionados reflejos rojos y azules, hacen que esta pintura personalizada para el M4A1‑S parezca estar brillando bajo luz ambiental.\\n\\n<i>Reflejos calmados.</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -90051,14 +90051,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -93987,8 +93987,8 @@
  },
  {
   "id": "skin-0befed15aba5",
-  "name": "MAC-10 | Cat Fight",
-  "description": "Básicamente es una caja de la que salen balas, el subfusil MAC-10 cuenta con una gran cadencia de disparo, pero su precisión no es muy buena y su retroceso es muy elevado. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "name": "MAC-10 | Pelea gatuna",
+  "description": "Básicamente es una caja de la que salen balas, el subfusil MAC-10 cuenta con una gran cadencia de disparo, pero su precisión no es muy buena y su retroceso es muy elevado. Se ha personalizado con un gato gruñendo y una diana en la parte trasera del armazón.\\n\\n<i>El minino tiene garras...</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94000,7 +94000,7 @@
   },
   "pattern": {
    "id": "mac10_kamicatze",
-   "name": "Cat Fight"
+   "name": "Pelea gatuna"
   },
   "min_float": 0,
   "max_float": 1,
@@ -94037,14 +94037,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -97036,8 +97036,8 @@
  },
  {
   "id": "skin-e8947585ba24",
-  "name": "MAG-7 | MAGnitude",
-  "description": "La Mag-7 exclusiva de los antiterroristas es un arma con una devastadora potencia de daño a corta distancia. Su cargador es fácil de recargar y ello lo hace una gran elección táctica. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "name": "MAG-7 | MAGnitud",
+  "description": "La Mag-7 exclusiva de los antiterroristas es un arma con una devastadora potencia de daño a corta distancia. Su cargador es fácil de recargar y ello lo hace una gran elección táctica. Esta pintura personalizada presenta el aspecto de una onda expansiva que emana del cerrojo sobre el gatillo.\\n\\n<i>Dos punto cero.</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -97049,7 +97049,7 @@
   },
   "pattern": {
    "id": "mag7_circle_copper",
-   "name": "MAGnitude"
+   "name": "MAGnitud"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97086,14 +97086,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -99156,8 +99156,8 @@
  },
  {
   "id": "skin-e051c197f5af",
-  "name": "MP5-SD | Focus",
-  "description": "A menudo imitado pero nunca igualado, el emblemático MP5 es quizá el subfusil más versátil y popular del mundo. Esta variante SD viene equipada con un silenciador integrado, lo que convierte a un arma ya de por sí formidable en silenciosa. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "name": "MP5-SD | Enfoque",
+  "description": "A menudo imitado pero nunca igualado, el emblemático MP5 es quizá el subfusil más versátil y popular del mundo. Esta variante SD viene equipada con un silenciador integrado, lo que convierte a un arma ya de por sí formidable en silenciosa. Se ha personalizado con un gris metálico y un acabado con detalles rojos.\\n\\n<i>CONCÉNTRATE // APUNTA CON FIRMEZA.</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -99169,7 +99169,7 @@
   },
   "pattern": {
    "id": "mp5sd_chrome",
-   "name": "Focus"
+   "name": "Enfoque"
   },
   "min_float": 0,
   "max_float": 1,
@@ -99206,14 +99206,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -101419,8 +101419,8 @@
  },
  {
   "id": "skin-270e56729de6",
-  "name": "MP7 | Smoking Kills",
-  "description": "Versátil pero caro, el subfusil alemán MP7 es la mejor elección para combates a corta distancia. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "name": "MP7 | Fumar mata",
+  "description": "Versátil pero caro, el subfusil alemán MP7 es la mejor elección para combates a corta distancia. Se ha personalizado con un diseño colorido que muestra a una mujer con gafas fumando un cigarrillo.\\n\\n<i>«Podemos hacerlo rápido o lento, tú decides».</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101432,7 +101432,7 @@
   },
   "pattern": {
    "id": "mp7_smoking_kills_v2",
-   "name": "Smoking Kills"
+   "name": "Fumar mata"
   },
   "min_float": 0,
   "max_float": 1,
@@ -101469,14 +101469,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -104819,8 +104819,8 @@
  },
  {
   "id": "skin-fb7ae83c1e81",
-  "name": "MP9 | Broken Record",
-  "description": "Fabricado en Suiza, el innovador subfusil MP9 es el arma ergonómica de polímero favorita de las empresas de seguridad privada. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "name": "MP9 | Disco rayado",
+  "description": "Fabricado en Suiza, el innovador subfusil MP9 es el arma ergonómica de polímero favorita de las empresas de seguridad privada. Se ha personalizado para asemejarse a un disco de vinilo, con surcos y todo.\\n\\n<i>Un clásico instantáneo.</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104832,7 +104832,7 @@
   },
   "pattern": {
    "id": "mp9_vinyl",
-   "name": "Broken Record"
+   "name": "Disco rayado"
   },
   "min_float": 0,
   "max_float": 1,
@@ -104869,14 +104869,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
-  "description": "El bajísimo precio de la Nova la convierte en una escopeta excelente para los equipos con poco dinero. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "El bajísimo precio de la Nova la convierte en una escopeta excelente para los equipos con poco dinero. Se ha personalizado con formas geométricas simples y detalles realistas inspirados en el surrealismo abstracto y en las obras de artistas del siglo XX.\\n\\n<i>Los ojos del espectador.</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109651,14 +109651,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Bullfrog",
-  "description": "Una pistola con poco retroceso y una gran cadencia de disparo, la P250 es una elección relativamente económica contra enemigos con protección. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "Una pistola con poco retroceso y una gran cadencia de disparo, la P250 es una elección relativamente económica contra enemigos con protección. Se ha personalizado con diseños de carreras en bronce y negro.\\n\\n<i>¡Mira cómo corres!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113859,14 +113859,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -124630,8 +124630,8 @@
  },
  {
   "id": "skin-e8ce6f07d5e7",
-  "name": "SCAR-20 | Caged",
-  "description": "El SCAR-20 es un rifle de francotirador semiautomático que ofrece una alta cadencia de disparo y un potente daño a larga distancia a cambio de una velocidad de movimiento lenta y un precio elevado. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "name": "SCAR-20 | Enjaulado",
+  "description": "El SCAR-20 es un rifle de francotirador semiautomático que ofrece una alta cadencia de disparo y un potente daño a larga distancia a cambio de una velocidad de movimiento lenta y un precio elevado. Se ha aplicado un diseño en degradado azul y morado.\\n\\n<i>«Es un arma muy grande para una jaula tan pequeña...».</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124643,7 +124643,7 @@
   },
   "pattern": {
    "id": "scar_refraction_v4",
-   "name": "Caged"
+   "name": "Enjaulado"
   },
   "min_float": 0,
   "max_float": 1,
@@ -124680,14 +124680,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -137961,8 +137961,8 @@
  },
  {
   "id": "skin-822f252e3894",
-  "name": "UMP-45 | Continuum",
-  "description": "El UMP-45 es el hijo mediano incomprendido de la familia de los subfusiles. Su reducido cargador es el único inconveniente de esta versátil arma automática para distancias cortas. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "name": "UMP-45 | Continuo",
+  "description": "El UMP-45 es el hijo mediano incomprendido de la familia de los subfusiles. Su reducido cargador es el único inconveniente de esta versátil arma automática para distancias cortas. Se ha personalizado con bandas alternas de negro y azul.\\n\\n<i>Hacia el vacío.</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -137974,7 +137974,7 @@
   },
   "pattern": {
    "id": "ump45_illumina_v2",
-   "name": "Continuum"
+   "name": "Continuo"
   },
   "min_float": 0,
   "max_float": 1,
@@ -138011,14 +138011,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Colección Génesis",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Terminal Génesis precintado",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
