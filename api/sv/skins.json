@@ -5160,7 +5160,7 @@
  {
   "id": "skin-4608abab8351",
   "name": "AK-47 | The Oligarch",
-  "description": "Kraftfull och tillförlitlig. AK-47:an är en av de populäraste automatkarbinerna i världen. Den är som dödligast när den avfyrar korta och kontrollerade salvor. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "description": "Kraftfull och tillförlitlig. AK-47:an är en av de populäraste automatkarbinerna i världen. Den är som dödligast när den avfyrar korta och kontrollerade salvor. Vapnet har speciallackerats för att återskapa utseendet och känslan av en lyxig vit och svart dunjacka, avslutad med gulddetaljer.\\n\\n<i>Sök makt, uppnå makt, behåll makt.</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -27822,7 +27822,7 @@
  {
   "id": "skin-94f44ac08438",
   "name": "Dual Berettas | Angel Eyes",
-  "description": "Att avfyra två stycken Berettas samtidigt sänker precisionen och ökar omladdningstiden. På den ljusa sidan; du får skjuta två Berettas samtidigt. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "description": "Att avfyra två stycken Berettas samtidigt sänker precisionen och ökar omladdningstiden. På den ljusa sidan; du får skjuta två Berettas samtidigt. Vapnen har speciallackerats med ögon på greppen och himmelska väggmålningar på glidstyckena.\\n\\n<i>Håller ett vakande öga, eller fem, på dig.</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -43162,7 +43162,7 @@
  {
   "id": "skin-a59908982432",
   "name": "Glock-18 | Mirror Mosaic",
-  "description": "Glock 18 är en funktionsduglig pistol som fungerar bäst mot opansrade fiender och kan avfyra tre skottsalvor. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "description": "Glock 18 är en funktionsduglig pistol som fungerar bäst mot opansrade fiender och kan avfyra tre skottsalvor. Vapnet har speciallackerats för att likna spegelmosaik.\\n\\n<i>Fångad i dina egna tankar.</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -46857,7 +46857,7 @@
  {
   "id": "skin-53b81168eea3",
   "name": "P2000 | Red Wing",
-  "description": "Pricksäker och kontrollerbar. Den tysktillverkade P2000 är en funktionsduglig pistol som fungerar bäst mot opansrade fiender. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "description": "Pricksäker och kontrollerbar. Den tysktillverkade P2000 är en funktionsduglig pistol som fungerar bäst mot opansrade fiender. Vapnet har speciallackerats i en design i kolgrått och djuprött.\\n\\n<i>Ett öga på rovbytet.</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sure Grip",
-  "description": "Pricksäker och kontrollerbar. Den tysktillverkade P2000 är en funktionsduglig pistol som fungerar bäst mot opansrade fiender. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "Pricksäker och kontrollerbar. Den tysktillverkade P2000 är en funktionsduglig pistol som fungerar bäst mot opansrade fiender. Vapnet har specialmålats i ett stålgrått fraktalmönster med orange detaljer.\\n\\n<i>&gt;&gt;EXPERIMENTELLA VAPENLACKERINGAR, BIDRAG 1&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87033,7 +87033,7 @@
  {
   "id": "skin-e7c2a01982dd",
   "name": "M4A4 | Full Throttle",
-  "description": "Mer precis men mindre skadlig är sin motsvarighet AK-47. M4A4 är antiterroristernas val när det gäller helautomatiska automatkarbiner. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "description": "Mer precis men mindre skadlig är sin motsvarighet AK-47. M4A4 är antiterroristernas val när det gäller helautomatiska automatkarbiner. Vapnet har speciallackerats med en neongrön bas och avslutats med fiktiva logotyper avsedda att framkalla drift- och chiptuningkultur.\\n\\n<i>Där ”Globoil 1 Synthetics” möter ”ENTRI PERFORMANCE”.</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -93988,7 +93988,7 @@
  {
   "id": "skin-0befed15aba5",
   "name": "MAC-10 | Cat Fight",
-  "description": "I praktiken en låda som sprutar kulor. MAC-10 SMG har hög eldgivningshastighet, men stor spridning och kraftig rekyl. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "description": "I praktiken en låda som sprutar kulor. MAC-10 SMG har hög eldgivningshastighet, men stor spridning och kraftig rekyl. Vapnet har speciallackerats med en fräsande katt och en måltavla på lådan.\\n\\n<i>En katt med klös ...</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "Den antiterroristexklusiva Mag-7 utdelar förödande skada vid närstrid. Dess snabba magasinomladdningar gör den till ett bra taktiskt val. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "Den antiterroristexklusiva Mag-7 utdelar förödande skada vid närstrid. Dess snabba magasinomladdningar gör den till ett bra taktiskt val. Speciallackeringen föreställer en stötvåg som kommer från slutstycket ovanför avtryckaren.\\n\\n<i>Två komma noll.</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | Focus",
-  "description": "Den har ofta imiterats men inget har kunnat mäta sig med den ikoniska MP5:an, som kanske är den mångsidigaste och populäraste kulsprutepistolen i världen. Denna SD-variant har en inbyggd ljuddämpare, vilket gör ett redan imponerande vapen knäpptyst. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "Den har ofta imiterats men inget har kunnat mäta sig med den ikoniska MP5:an, som kanske är den mångsidigaste och populäraste kulsprutepistolen i världen. Denna SD-variant har en inbyggd ljuddämpare, vilket gör ett redan imponerande vapen knäpptyst. Vapnet har speciallackerats i stålgrått och avslutats med röda detaljer.\\n\\n<i>HÅLL FOKUS//PERFEKT SIKTE.</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -101420,7 +101420,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | Smoking Kills",
-  "description": "Mångsidig men dyr. Den tysktillverkade MP7 SMG är det perfekta valet för närstrider. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "description": "Mångsidig men dyr. Den tysktillverkade MP7 SMG är det perfekta valet för närstrider. Vapnet har speciallackerats med en färgstark design med en kvinna i glasögon som röker en cigarett.\\n\\n<i>”Vi kan göra det här snabbt eller långsamt, det är upp till dig.”</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -104820,7 +104820,7 @@
  {
   "id": "skin-fb7ae83c1e81",
   "name": "MP9 | Broken Record",
-  "description": "Tillverkad i Schweiz, den banbrytande MP9 SMG är ett ergonomisk polymervapen som föredras av privata säkerhetsföretag. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "description": "Tillverkad i Schweiz, den banbrytande MP9 SMG är ett ergonomisk polymervapen som föredras av privata säkerhetsföretag. Vapnet har speciallackerats för att likna en vinylskiva, med spår och allt.\\n\\n<i>En omedelbar klassiker.</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -109602,7 +109602,7 @@
  {
   "id": "skin-f58ac1d8b31c",
   "name": "Nova | Ocular",
-  "description": "Novas låga pris gör den till ett bra bakhållsvapen för ett fattigt lag. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "description": "Novas låga pris gör den till ett bra bakhållsvapen för ett fattigt lag. Speciallackeringen har enkla geometriska former och realistiska detaljer inspirerade av abstrakt surrealism och verken av 1900-talets konstnärer.\\n\\n<i>I betraktarens ögon.</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Bullfrog",
-  "description": "Ett skjutvapen med svag rekyl och hög eldgivningshastighet. P250 är ett relativt billigt val mot bepansrade motståndare. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "Ett skjutvapen med svag rekyl och hög eldgivningshastighet. P250 är ett relativt billigt val mot bepansrade motståndare. Vapnet har speciallackerats med racingfärger i brons och svart.\\n\\n<i>Oj, vad det går!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -124631,7 +124631,7 @@
  {
   "id": "skin-e8ce6f07d5e7",
   "name": "SCAR-20 | Caged",
-  "description": "SCAR-20 är ett halvautomatiskt prickskyttegevär som har hög eldgivningshastighet och kraftfull långdistansskada, men ger trögare förflyttning och har en stor prislapp. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "description": "SCAR-20 är ett halvautomatiskt prickskyttegevär som har hög eldgivningshastighet och kraftfull långdistansskada, men ger trögare förflyttning och har en stor prislapp. En blå och lila gradientdesign har applicerats.\\n\\n<i>”Det är ett stort vapen för en så liten bur ...”</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -137962,7 +137962,7 @@
  {
   "id": "skin-822f252e3894",
   "name": "UMP-45 | Continuum",
-  "description": "Det missförstådda mittenbarnet i kulsprutefamiljen. UMP45:s lilla magasin är den enda olägenheten i ett för övrigt mångsidigt automatvapen för närstrid. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "description": "Det missförstådda mittenbarnet i kulsprutefamiljen. UMP45:s lilla magasin är den enda olägenheten i ett för övrigt mångsidigt automatvapen för närstrid. Speciallackeringen har alternerande stråk i svart och blått.\\n\\n<i>In i tomrummet.</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,

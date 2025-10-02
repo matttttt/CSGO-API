@@ -5159,8 +5159,8 @@
  },
  {
   "id": "skin-4608abab8351",
-  "name": "AK-47 | The Oligarch",
-  "description": "Voimakas ja aina yhtä luotettava AK-47 on eräs maailman suosituimpia rynnäkkökivääreitä. Se on tappavimmillaan pieniä, hallittuja tulipurskeita ammuttaessa. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "name": "AK-47 | Oligarkki",
+  "description": "Voimakas ja aina yhtä luotettava AK-47 on eräs maailman suosituimpia rynnäkkökivääreitä. Se on tappavimmillaan pieniä, hallittuja tulipurskeita ammuttaessa. Maalattu muistuttamaan ulkonäöltään ja tekstuuriltaan tyylikästä valkoista toppatakkia kultaisilla kontrastiväreillä.\\n\\n<i>Tavoittele valtaa, saa valtaa, pysy vallassa.</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5172,7 +5172,7 @@
   },
   "pattern": {
    "id": "ak47_puffer_custom",
-   "name": "The Oligarch"
+   "name": "Oligarkki"
   },
   "min_float": 0,
   "max_float": 1,
@@ -9936,8 +9936,8 @@
  },
  {
   "id": "skin-ab9a15ef8110",
-  "name": "AUG | Liipasinkuri",
-  "description": "AUG on tehokas ja tarkka kiikarirynnäkkökivääri, joka kompensoi pitkiä latausaikojaan tappavalla tarkkuudellaan ja suurella tulinopeudellaan. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "name": "AUG | Liipaisinkuri",
+  "description": "AUG on tehokas ja tarkka kiikarirynnäkkökivääri, joka kompensoi pitkiä latausaikojaan tappavalla tarkkuudellaan ja suurella tulinopeudellaan. Ase on koristeltu sinisellä isometrisellä kuviolla ja oransseilla kontrastiväreillä.\\n\\n<i>Kärsivällisyys on palkkio itsessään.</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -9949,7 +9949,7 @@
   },
   "pattern": {
    "id": "aug_trigger_discipline_velco",
-   "name": "Liipasinkuri"
+   "name": "Liipaisinkuri"
   },
   "min_float": 0,
   "max_float": 1,
@@ -21133,7 +21133,7 @@
  {
   "id": "skin-0e1e6b491759",
   "name": "CZ75-Auto | Armeijakiilto",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Peitetty metallifoliolla, johon on lyöty maastokuvio.\\n\\n<i>Muista koulutuksesi</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Peitetty metallifoliolla, johon on lyöty maastokuvio.\\n\\n<i>Muista koulutuksesi</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21189,7 +21189,7 @@
  {
   "id": "skin-994bf96d44d4",
   "name": "CZ75-Auto | Kuparikuitu",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Ase on maalattu kuparinvärisellä hiilikuituhydrografilla.\\n\\n<i>Kumman voi toistaa nopeammin kolmeen otteeseen, tämän vai hississä sihisevän vesihiiden?</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Ase on maalattu kuparinvärisellä hiilikuituhydrografilla.\\n\\n<i>Kumman voi toistaa nopeammin kolmeen otteeseen, tämän vai hississä sihisevän vesihiiden?</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21259,7 +21259,7 @@
  {
   "id": "skin-f489d119026b",
   "name": "CZ75-Auto | Smaragdinvihreä kvartsi",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Metallinvihreällä maalattu ase, johon on luotu kristallikuvio.\\n\\n<i>Kaikki haluavat tehdä vaikutuksen.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Metallinvihreällä maalattu ase, johon on luotu kristallikuvio.\\n\\n<i>Kaikki haluavat tehdä vaikutuksen.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21323,7 +21323,7 @@
  {
   "id": "skin-6f20b68a8c63",
   "name": "CZ75-Auto | Polymeeri",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Luistiin on kiinnitetty siirtokuva, joka muistuttaa polymeerikaavaa.\\n\\n<i>Et ole enää tekemisissä Phoenixin kanssa, me tiedämme kuinka huolehtia omistamme... - The Tytär ja sankari, osa 2</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Luistiin on kiinnitetty siirtokuva, joka muistuttaa polymeerikaavaa.\\n\\n<i>Et ole enää tekemisissä Phoenixin kanssa, me tiedämme kuinka huolehtia omistamme... - The Tytär ja sankari, osa 2</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21393,7 +21393,7 @@
  {
   "id": "skin-9ed635da7e55",
   "name": "CZ75-Auto | Teräskuvio",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Peitetty teräskuvioidulla metallifoliolla.",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Peitetty teräskuvioidulla metallifoliolla.",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21455,7 +21455,7 @@
  {
   "id": "skin-a7feff53ac53",
   "name": "CZ75-Auto | Purppurapaholainen",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu kromisella pohjavärillä ja sen jälkeen maalattu karamellisella läpinäkyvällä fuksianpunaisella ja anodisoidulla hiilitehostevärillä.",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu kromisella pohjavärillä ja sen jälkeen maalattu karamellisella läpinäkyvällä fuksianpunaisella ja anodisoidulla hiilitehostevärillä.",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21521,7 +21521,7 @@
  {
   "id": "skin-6649e8ef90bf",
   "name": "CZ75-Auto | Kiertymä",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Siihen on maalattu spiraaleja, kahva on jätetty valkoiseksi.",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Siihen on maalattu spiraaleja, kahva on jätetty valkoiseksi.",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21591,7 +21591,7 @@
  {
   "id": "skin-84742fb07c2b",
   "name": "CZ75-Auto | Myrkkynuoli",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu hydrografisesti myrkkynuolisammakosta vaikutteita ottamalla.",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu hydrografisesti myrkkynuolisammakosta vaikutteita ottamalla.",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21661,7 +21661,7 @@
  {
   "id": "skin-eb5c3a076134",
   "name": "CZ75-Auto | Malja",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu krominvärisellä pohjavärillä ja päällystetty läpikuultavan laivastonsinisellä ja meripihkan värisellä tehostemaalilla.\\n\\n<i>Viisas valinta, ystäväiseni</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu krominvärisellä pohjavärillä ja päällystetty läpikuultavan laivastonsinisellä ja meripihkan värisellä tehostemaalilla.\\n\\n<i>Viisas valinta, ystäväiseni</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21764,7 +21764,7 @@
  {
   "id": "skin-5f1ca8e9f44f",
   "name": "CZ75-Auto | Smaragdi",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu kromisella pohjavärillä ja päällystetty karamellisella läpikuultavalla smaragdinvihreän värisellä anodisoidulla tehostevärillä.\\n\\n<i>Tähänkö suuri Sebastien Hennequet on vajonnut? Nalkuttavaksi opettajaksi? Mitä sinulle oikein tapahtui... - Opettaja ja ikonoklasti osa 2</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu kromisella pohjavärillä ja päällystetty karamellisella läpikuultavalla smaragdinvihreän värisellä anodisoidulla tehostevärillä.\\n\\n<i>Tähänkö suuri Sebastien Hennequet on vajonnut? Nalkuttavaksi opettajaksi? Mitä sinulle oikein tapahtui... - Opettaja ja ikonoklasti osa 2</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21816,7 +21816,7 @@
  {
   "id": "skin-c34dd8de2279",
   "name": "CZ75-Auto | Hopea",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu kromisella pohjavärillä ja päällystetty karamellisella läpinäkyvän hopealla ja anodisoidulla tehostevärillä.\\n\\n<i>Yksinkertainen on kaunista - Franz Kriegeld, Phoenixin taktikko</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu kromisella pohjavärillä ja päällystetty karamellisella läpinäkyvän hopealla ja anodisoidulla tehostevärillä.\\n\\n<i>Yksinkertainen on kaunista - Franz Kriegeld, Phoenixin taktikko</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21904,7 +21904,7 @@
  {
   "id": "skin-5ca4267d0063",
   "name": "CZ75-Auto | Viktoria",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Se on koristeltu kultakorostuksin ja käsin kaiverretulla koristekuviolla.",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Se on koristeltu kultakorostuksin ja käsin kaiverretulla koristekuviolla.",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -21974,7 +21974,7 @@
  {
   "id": "skin-d2082b23439a",
   "name": "CZ75-Auto | Pujottelu",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Ase on maalattu monivärisella graafisella kuviolla.\\n\\n<i>Musta timanttipyssy.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Ase on maalattu monivärisella graafisella kuviolla.\\n\\n<i>Musta timanttipyssy.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22038,7 +22038,7 @@
  {
   "id": "skin-c80f871a746d",
   "name": "CZ75-Auto | Tiikeri",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu kiiltävällä maalilla tiikerikuvioiseksi.",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu kiiltävällä maalilla tiikerikuvioiseksi.",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22108,7 +22108,7 @@
  {
   "id": "skin-9a5ab653ba62",
   "name": "CZ75-Auto | Kulutettu",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Kuparinvärinen keramiikkaviimeistely kuluu käytön myötä.\\n\\n<i>Paranee vanhetessaan.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Kuparinvärinen keramiikkaviimeistely kuluu käytön myötä.\\n\\n<i>Paranee vanhetessaan.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22178,7 +22178,7 @@
  {
   "id": "skin-25f54c22ac43",
   "name": "CZ75-Auto | Säästö",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Sen valko-vihreälle pohjalle on liimattu kuumakiinnitettävä tarra.\\n\\n<i>Paremman huomisen puolesta.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Sen valko-vihreälle pohjalle on liimattu kuumakiinnitettävä tarra.\\n\\n<i>Paremman huomisen puolesta.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22248,7 +22248,7 @@
  {
   "id": "skin-e2e874d00715",
   "name": "CZ75-Auto | Lähtöruutu",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu punaisella ja harmaalla kilpa-ajoteemalla.\\n\\n<i>Meillä on vain yksi mahdollisuus, tehdään tämä oikein - Felix Riley, komentava upseeri</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu punaisella ja harmaalla kilpa-ajoteemalla.\\n\\n<i>Meillä on vain yksi mahdollisuus, tehdään tämä oikein - Felix Riley, komentava upseeri</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22318,7 +22318,7 @@
  {
   "id": "skin-feea98c5ab41",
   "name": "CZ75-Auto | Käärmekotka",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Tämän CZ75:een on maalattu käärmettä kantava petolintu.\\n\\n<i>Käärmeensyöjien malliesimerkki.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Tämän CZ75:een on maalattu käärmettä kantava petolintu.\\n\\n<i>Käärmeensyöjien malliesimerkki.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22388,7 +22388,7 @@
  {
   "id": "skin-e33988dc3569",
   "name": "CZ75-Auto | Ampiainen",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu kaarevin muodoin.\\n\\n<i>Liidä kuin perhonen, iske kuin viheliäisin pistiäinen</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu kaarevin muodoin.\\n\\n<i>Liidä kuin perhonen, iske kuin viheliäisin pistiäinen</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22458,7 +22458,7 @@
  {
   "id": "skin-0ba56fdaa179",
   "name": "CZ75-Auto | Taktikatti",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Käsinmaalattu pinkillä ja violetilla maalilla ja koristeltu kisssatarroilla.\\n\\n<i>24 ammusta, 9 elämää.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Käsinmaalattu pinkillä ja violetilla maalilla ja koristeltu kisssatarroilla.\\n\\n<i>24 ammusta, 9 elämää.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22528,7 +22528,7 @@
  {
   "id": "skin-44edcae0251b",
   "name": "CZ75-Auto | Painatus",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Kaiverrettu huolellisesti käsin.\\n\\n<i>Huippumuodikkaat tuliaseet ovat vallanneet Tšekin tasavallan</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Kaiverrettu huolellisesti käsin.\\n\\n<i>Huippumuodikkaat tuliaseet ovat vallanneet Tšekin tasavallan</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22598,7 +22598,7 @@
  {
   "id": "skin-6739b9d43b7d",
   "name": "CZ75-Auto | Kosto",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Vuosien saatossa kertynyttä kaivertelua, piirtelyä ja kulumaa.\\n\\n<i>Vain kuolleen ruumiini yli.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Vuosien saatossa kertynyttä kaivertelua, piirtelyä ja kulumaa.\\n\\n<i>Vain kuolleen ruumiini yli.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22668,7 +22668,7 @@
  {
   "id": "skin-e4311574b36e",
   "name": "CZ75-Auto | Punahaukka",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Se on käsinmaalattu punaisilla ja valkoisilla korostuksilla.\\n\\n<i>Booth on yhtä perhedraaman kanssa; ja kenellä on aikaa draamalle, kun puhumme liikeasioista - Huxley, haastaja</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Se on käsinmaalattu punaisilla ja valkoisilla korostuksilla.\\n\\n<i>Booth on yhtä perhedraaman kanssa; ja kenellä on aikaa draamalle, kun puhumme liikeasioista - Huxley, haastaja</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22738,7 +22738,7 @@
  {
   "id": "skin-d1f0620f06f3",
   "name": "CZ75-Auto | Xiangliu",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Yhdeksän violettia ja kultaista käärmettä on maalattu aseen ympäri.\\n\\n<i>Varo nousuvettä.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Yhdeksän violettia ja kultaista käärmettä on maalattu aseen ympäri.\\n\\n<i>Varo nousuvettä.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22808,7 +22808,7 @@
  {
   "id": "skin-4984403ab0c0",
   "name": "CZ75-Auto | Syndikaatti",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Asetta koristavat kultaiset ja mustat limittäiset kolmiot sinisin koristuksin.\\n\\n<i>Yhdessä mennään…</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Asetta koristavat kultaiset ja mustat limittäiset kolmiot sinisin koristuksin.\\n\\n<i>Yhdessä mennään…</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22872,7 +22872,7 @@
  {
   "id": "skin-8022c136c58f",
   "name": "CZ75-Auto | Heksaani",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu kuusikulmiokuvioidulla hydrografilla.",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu kuusikulmiokuvioidulla hydrografilla.",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -22938,7 +22938,7 @@
  {
   "id": "skin-3dc7c28dafad",
   "name": "CZ75-Auto | Vihreä ruutuliina",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu harmaanrusken ja sinivihreän ruutukuvion hydrografilla.\\n\\n<i>Säkkipilli se ei ole, mutta soittaa silti hautajaisia edeltävän sävelmän.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu harmaanrusken ja sinivihreän ruutukuvion hydrografilla.\\n\\n<i>Säkkipilli se ei ole, mutta soittaa silti hautajaisia edeltävän sävelmän.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23002,7 +23002,7 @@
  {
   "id": "skin-56ddbaec8869",
   "name": "CZ75-Auto | Kehikko",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Koristeltu harmaanruskealla hydrografisella illuusiokuviolla.\\n\\n<i>Tiirasitko tarpeeksi tarkasti?</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Koristeltu harmaanruskealla hydrografisella illuusiokuviolla.\\n\\n<i>Tiirasitko tarpeeksi tarkasti?</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23097,7 +23097,7 @@
  {
   "id": "skin-5a5917ab52b0",
   "name": "CZ75-Auto | Verenpunainen seitti",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu hämähäkinverkkokuvioisella hydrografilla ensin punaisen pohjavärin päälle. Viimeinen kerros tehty puolikiiltävällä pintakäsittelyaineella.\\n\\n<i>Varo askeltasi; et koskaan tiedä mihin verkko on levitetty</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu hämähäkinverkkokuvioisella hydrografilla ensin punaisen pohjavärin päälle. Viimeinen kerros tehty puolikiiltävällä pintakäsittelyaineella.\\n\\n<i>Varo askeltasi; et koskaan tiedä mihin verkko on levitetty</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23167,7 +23167,7 @@
  {
   "id": "skin-acb49d115a3c",
   "name": "CZ75-Auto | Indigonsininen",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu puhtaalla indigonsinisellä, sinisellä ja harmaalla.\\n\\n<i>Alex Kincaide, uskon, että sinulla on monia kysymyksiä... anna minun vastata niihin - Feeniks ja tarinankertoja, osa 1</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu puhtaalla indigonsinisellä, sinisellä ja harmaalla.\\n\\n<i>Alex Kincaide, uskon, että sinulla on monia kysymyksiä... anna minun vastata niihin - Feeniks ja tarinankertoja, osa 1</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23231,7 +23231,7 @@
  {
   "id": "skin-11ddb95a9bd7",
   "name": "CZ75-Auto | Nitro",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Yksittäisiä osia on spray-maalattu mustaksi ja tangeriininoranssiksi.\\n\\n<i>Rona on niin hyvä kuin sanoo olevansa... Hän ei vain ole tarpeeksi vanha ymmärtääkseen, ettei sitä kannata kaikille kertoa - Felix Riley, komentava upseeri</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Yksittäisiä osia on spray-maalattu mustaksi ja tangeriininoranssiksi.\\n\\n<i>Rona on niin hyvä kuin sanoo olevansa... Hän ei vain ole tarpeeksi vanha ymmärtääkseen, ettei sitä kannata kaikille kertoa - Felix Riley, komentava upseeri</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23386,7 +23386,7 @@
  {
   "id": "skin-5fc8e75d4fa5",
   "name": "CZ75-Auto | Smokki",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Yksittäisiä osia on spray-maalattu mustalla ja valkoisella.\\n\\n<i>Kun taistelupaikalla on pukupakko.</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Yksittäisiä osia on spray-maalattu mustalla ja valkoisella.\\n\\n<i>Kun taistelupaikalla on pukupakko.</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23450,7 +23450,7 @@
  {
   "id": "skin-35313981918b",
   "name": "CZ75-Auto | Aika helmi",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Maalattu mustalla ja helmimäisellä vaaleanpunaisella värillä.\\n\\n<i>Hienostunut ja elegantti</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Maalattu mustalla ja helmimäisellä vaaleanpunaisella värillä.\\n\\n<i>Hienostunut ja elegantti</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23514,7 +23514,7 @@
  {
   "id": "skin-6dbbf1e46f10",
   "name": "CZ75-Auto | Keskiyön palmu",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Violetinharmaalle maastokuvioiselle pohjalle on maalattu mustia palmun lehtiä.\\n\\n<i>\\\"Paikka on suljettu!\\\"</i>",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Violetinharmaalle maastokuvioiselle pohjalle on maalattu mustia palmun lehtiä.\\n\\n<i>\\\"Paikka on suljettu!\\\"</i>",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -23614,7 +23614,7 @@
  {
   "id": "skin-883ea18cffea",
   "name": "CZ75-Auto | Viidakkoraidat",
-  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipasinkuria. Spray-maalattu käyttämällä pieniä teipinpalasia sapluunana.",
+  "description": "CZ75-Auto on CZ75:n täysin automaattinen versio ja oiva, väliaikainen valinta tappiotilanteesta nousemiseen ja vihollisten aseiden varastamiseen. Pienen lipaskokonsa takia se vaatii käyttäjältään hyvää liipaisinkuria. Spray-maalattu käyttämällä pieniä teipinpalasia sapluunana.",
   "weapon": {
    "id": "weapon_cz75a",
    "weapon_id": 63,
@@ -25068,7 +25068,7 @@
  },
  {
   "id": "skin-337794166cad",
-  "name": "Desert Eagle | Liipasinkuri",
+  "name": "Desert Eagle | Liipaisinkuri",
   "description": "Desert Eagle on kallis ja tehokas, taitoa vaativa ja äärimmäisen suosittu pistooli, joka on pitkällä matkalla yllättävän tarkka. Aseen piipussa on pinkki isometrinen kuvio. Iskuri ja etutähtäin on maalattu kirkkaansinisiksi.\\n\\n<i>Kärsivällisyys on palkinto sinänsä.</i>",
   "weapon": {
    "id": "weapon_deagle",
@@ -25081,7 +25081,7 @@
   },
   "pattern": {
    "id": "cu_deag_trigger_discipline",
-   "name": "Liipasinkuri"
+   "name": "Liipaisinkuri"
   },
   "min_float": 0,
   "max_float": 0.97,
@@ -27821,8 +27821,8 @@
  },
  {
   "id": "skin-94f44ac08438",
-  "name": "Tupla-Berettat | Angel Eyes",
-  "description": "Kahdella isolippaisella Berettalla yhtä aikaa ampuminen alentaa tarkkuutta ja hidastaa lataamista. Mutta toisaalta saa ampua kahdella isolippaisella Berettalla yhtä aikaa. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "name": "Tupla-Berettat | Enkelin silmät",
+  "description": "Kahdella isolippaisella Berettalla yhtä aikaa ampuminen alentaa tarkkuutta ja hidastaa lataamista. Mutta toisaalta saa ampua kahdella isolippaisella Berettalla yhtä aikaa. Aseiden kahvoihin on maalattu silmiä ja luisteissa on muraalikuvio.\\n\\n<i>Pidän sinua silmällä. Monella sellaisella.</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27834,7 +27834,7 @@
   },
   "pattern": {
    "id": "dual_elite_biblical_angel",
-   "name": "Angel Eyes"
+   "name": "Enkelin silmät"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43161,8 +43161,8 @@
  },
  {
   "id": "skin-a59908982432",
-  "name": "Glock-18 | Mirror Mosaic",
-  "description": "Glock 18 on hyödyllinen ensimmäisen kierroksen pistooli, joka pystyy ampumaan kolmen ammuksen sarjoja ja tehoaa parhaiten vihollisiin, joilla ei ole Kevlar-liiviä. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "name": "Glock-18 | Peilimosaiikki",
+  "description": "Glock 18 on hyödyllinen ensimmäisen kierroksen pistooli, joka pystyy ampumaan kolmen ammuksen sarjoja ja tehoaa parhaiten vihollisiin, joilla ei ole Kevlar-liiviä. Ase on maalattu muistuttamaan peilimosaiikkia.\\n\\n<i>Vankina oman pääsi sisällä.</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43174,7 +43174,7 @@
   },
   "pattern": {
    "id": "glock_mirror_maze_v2_pearl",
-   "name": "Mirror Mosaic"
+   "name": "Peilimosaiikki"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46856,8 +46856,8 @@
  },
  {
   "id": "skin-53b81168eea3",
-  "name": "P2000 | Red Wing",
-  "description": "Tarkka ja hallittava saksalaisvalmisteinen P2000 on hyödyllinen ensimmäisen erän pistooli, joka toimii parhaiten suojattomia vihollisia vastaan. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "name": "P2000 | Punasiipi",
+  "description": "Tarkka ja hallittava saksalaisvalmisteinen P2000 on hyödyllinen ensimmäisen erän pistooli, joka toimii parhaiten suojattomia vihollisia vastaan. Ase on koristeltu hiilenharmaalla ja tummanpunaisella kuviolla.\\n\\n<i>Metsästäjällä on haukan silmät</i>.",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46869,7 +46869,7 @@
   },
   "pattern": {
    "id": "p2000_deep_red",
-   "name": "Red Wing"
+   "name": "Punasiipi"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Tukeva ote",
-  "description": "Tarkka ja hallittava saksalaisvalmisteinen P2000 on hyödyllinen ensimmäisen erän pistooli, joka toimii parhaiten suojattomia vihollisia vastaan. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "Tarkka ja hallittava saksalaisvalmisteinen P2000 on hyödyllinen ensimmäisen erän pistooli, joka toimii parhaiten suojattomia vihollisia vastaan. Maalattu harmaalla värillä, fraktaalikuvioilla ja oransseilla kontrastiväreillä.\\n\\n<i>&gt;&gt;ASEEN MAALAUSKOE, YRITYS NUMERO YKSI.&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87032,8 +87032,8 @@
  },
  {
   "id": "skin-e7c2a01982dd",
-  "name": "M4A4 | Full Throttle",
-  "description": "M4A4 on erikoisjoukkojen tarkempi, mutta heikompi vastine terroristien AK-47-rynnäkkökiväärille. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "name": "M4A4 | Kaasu pohjaan",
+  "description": "M4A4 on erikoisjoukkojen tarkempi, mutta heikompi vastine terroristien AK-47-rynnäkkökiväärille. Neonvihreän pohjavärin päälle on maalattu driftaus- ja tuunauskultuurin innoittamia fiktiivisiä logoja.\\n\\n<i>Missä synteettisyys ja suorituskyky kohtaavat.</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87045,7 +87045,7 @@
   },
   "pattern": {
    "id": "m4a4_skrrrt_green",
-   "name": "Full Throttle"
+   "name": "Kaasu pohjaan"
   },
   "min_float": 0,
   "max_float": 1,
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidation",
-  "description": "Äänenvaimentimella varustettu M4A1 on pienilippaisempi ja hiljaisempi vaihtoehto, joka takaa tarkat laukaukset. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "Äänenvaimentimella varustettu M4A1 on pienilippaisempi ja hiljaisempi vaihtoehto, joka takaa tarkat laukaukset. Tumma pohjaväri ja punaiset ja siniset kontrastivärit antavat vaikutelman, että M4A1-S kiiltelee tunnelmavalaistuksessa.\\n\\n<i>Hiljainen pohdiskelija.</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -93987,8 +93987,8 @@
  },
  {
   "id": "skin-0befed15aba5",
-  "name": "MAC-10 | Cat Fight",
-  "description": "MAC-10 on käytännössä laatikko, joka syytää luoteja kuin tykinsuusta, mutta tarkkuudessa ja rekyylissä olisi toivomisen varaa. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "name": "MAC-10 | Kissatappelu",
+  "description": "MAC-10 on käytännössä laatikko, joka syytää luoteja kuin tykinsuusta, mutta tarkkuudessa ja rekyylissä olisi toivomisen varaa. Aseen lukkokehyksen takaosaan on maalattu sähisevä kissa ja maalitaulu.\\n\\n<i>Tämä kisu raapii.</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94000,7 +94000,7 @@
   },
   "pattern": {
    "id": "mac10_kamicatze",
-   "name": "Cat Fight"
+   "name": "Kissatappelu"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97036,8 +97036,8 @@
  },
  {
   "id": "skin-e8947585ba24",
-  "name": "MAG-7 | MAGnitude",
-  "description": "Erikoisjoukkojen Mag-7 takaa tappavan annoksen vahinkoa lähikantamalta. Nopea lipaslataus tekee siitä mahtavan taktisen vaihtoehdon. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "name": "MAG-7 | Iskuaalto",
+  "description": "Erikoisjoukkojen Mag-7 takaa tappavan annoksen vahinkoa lähikantamalta. Nopea lipaslataus tekee siitä mahtavan taktisen vaihtoehdon. Aseen maalikuvio esittää liipaisimen yläpuolella olevan lukon kohdalta kantautuvaa iskuaaltoa.\\n\\n<i>Kaksinkertainen voima.</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -97049,7 +97049,7 @@
   },
   "pattern": {
    "id": "mag7_circle_copper",
-   "name": "MAGnitude"
+   "name": "Iskuaalto"
   },
   "min_float": 0,
   "max_float": 1,
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | Keskittyminen",
-  "description": "MP5 on ikoninen konepistooli, jota on yritetty turhaan jäljitellä. Se on ehkä maailman monikäyttöisin ja suosituin konepistooli. Tästä versiosta löytyy integroitu äänenvaimennin, joka tekee mahtavasta aseesta hiirenhiljaisen. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "MP5 on ikoninen konepistooli, jota on yritetty turhaan jäljitellä. Se on ehkä maailman monikäyttöisin ja suosituin konepistooli. Tästä versiosta löytyy integroitu äänenvaimennin, joka tekee mahtavasta aseesta hiirenhiljaisen. Ase on maalattu harmaalla pohjavärillä ja punaisilla kontrastiväreillä.\\n\\n<i>Keskity ja tähtää tarkkaan.</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -101419,8 +101419,8 @@
  },
  {
   "id": "skin-270e56729de6",
-  "name": "MP7 | Smoking Kills",
-  "description": "MP7 on monipuolinen ja kallis saksalainen konepistooli, joka on täydellinen lähitaistelutilanteissa. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "name": "MP7 | Tupakointi tappaa",
+  "description": "MP7 on monipuolinen ja kallis saksalainen konepistooli, joka on täydellinen lähitaistelutilanteissa. Aseeseen on maalattu värikäs kuva tupakoivasta aurinkolasipäisestä naisesta.\\n\\n<i>\\\"Voimme hoitaa homman nopeasti tai hitaasti. Valinta on sinun.\\\"</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101432,7 +101432,7 @@
   },
   "pattern": {
    "id": "mp7_smoking_kills_v2",
-   "name": "Smoking Kills"
+   "name": "Tupakointi tappaa"
   },
   "min_float": 0,
   "max_float": 1,
@@ -104819,8 +104819,8 @@
  },
  {
   "id": "skin-fb7ae83c1e81",
-  "name": "MP9 | Broken Record",
-  "description": "Sveitsiläinen MP9 on ergonominen polymeerikonepistooli, joka on varsinkin yksityisten vartiointifirmojen suosiossa. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "name": "MP9 | Rikkinäinen levy",
+  "description": "Sveitsiläinen MP9 on ergonominen polymeerikonepistooli, joka on varsinkin yksityisten vartiointifirmojen suosiossa. Ase on maalattu muistuttamaan vinyylilevyä urineen kaikkineen.\\n\\n<i>Välitön klassikko.</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104832,7 +104832,7 @@
   },
   "pattern": {
    "id": "mp9_vinyl",
-   "name": "Broken Record"
+   "name": "Rikkinäinen levy"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109601,8 +109601,8 @@
  },
  {
   "id": "skin-f58ac1d8b31c",
-  "name": "Nova | Ocular",
-  "description": "Nova on erittäin halpa väijytysase niille, joilla on matti kukkarossa. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "name": "Nova | Okulaari",
+  "description": "Nova on erittäin halpa väijytysase niille, joilla on matti kukkarossa. Ase on maalattu abstraktin surrealismin ja 1900-luvun taidesuuntausten innoittamilla geometrisillä kuvioilla ja realistisilla yksityiskohdilla.\\n\\n<i>Katsojan silmissä.</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109614,7 +109614,7 @@
   },
   "pattern": {
    "id": "nova_ocular",
-   "name": "Ocular"
+   "name": "Okulaari"
   },
   "min_float": 0,
   "max_float": 1,
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Härkäsammakko",
-  "description": "P250 on hyvin vähän potkaiseva ja nopeasti ampuva käsiase, joka on halpa ratkaisu panssaroituja vihollisia vastaan. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "P250 on hyvin vähän potkaiseva ja nopeasti ampuva käsiase, joka on halpa ratkaisu panssaroituja vihollisia vastaan. Aseeseen on maalattu pronssisia ja mustia rallihaalareiden innoittamia logoja.\\n\\n<i>Vauhdilla eteenpäin!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -124630,8 +124630,8 @@
  },
  {
   "id": "skin-e8ce6f07d5e7",
-  "name": "SCAR-20 | Caged",
-  "description": "SCAR-20 on puoliautomaattinen kiikarikivääri, joka tulittaa nopeasti ja tehokkaasti pitkällä matkalla, mutta hidastaa liikettä ja maksaa hunajaa. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "name": "SCAR-20 | Häkkilintu",
+  "description": "SCAR-20 on puoliautomaattinen kiikarikivääri, joka tulittaa nopeasti ja tehokkaasti pitkällä matkalla, mutta hidastaa liikettä ja maksaa hunajaa. Ase on maalattu sinisestä liilaksi asteittain muuttuvalla kuviolla.\\n\\n<i>\\\"Onpa iso ase niin pienessä häkissä...\\\"</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124643,7 +124643,7 @@
   },
   "pattern": {
    "id": "scar_refraction_v4",
-   "name": "Caged"
+   "name": "Häkkilintu"
   },
   "min_float": 0,
   "max_float": 1,
@@ -137961,8 +137961,8 @@
  },
  {
   "id": "skin-822f252e3894",
-  "name": "UMP-45 | Continuum",
-  "description": "UMP45 on konepistoolien keskivertoa. Sen pieni lipas on aseen ainoa huono puoli, muuten se on hyvin monipuolinen automaattiase lähitaisteluihin. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "name": "UMP-45 | Jatkumo",
+  "description": "UMP45 on konepistoolien keskivertoa. Sen pieni lipas on aseen ainoa huono puoli, muuten se on hyvin monipuolinen automaattiase lähitaisteluihin. Aseen maalikuvio koostuu sinisistä ja mustista raidoista.\\n\\n<i>Kohti tyhjyyttä.</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -137974,7 +137974,7 @@
   },
   "pattern": {
    "id": "ump45_illumina_v2",
-   "name": "Continuum"
+   "name": "Jatkumo"
   },
   "min_float": 0,
   "max_float": 1,
