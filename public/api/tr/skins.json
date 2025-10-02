@@ -5159,8 +5159,8 @@
  },
  {
   "id": "skin-4608abab8351",
-  "name": "AK-47 | The Oligarch",
-  "description": "Güçlü ve güvenilir, AK-47 dünyanın en popüler saldırı tüfeklerinden biridir. Kontrollü atış gücü ile yakın mesafede ölümcüldür. It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "name": "AK-47 | Oligark",
+  "description": "Güçlü ve güvenilir, AK-47 dünyanın en popüler saldırı tüfeklerinden biridir. Kontrollü atış gücü ile yakın mesafede ölümcüldür. Siyah ve beyaz lüks bir şişme mont görünümünü ve hissini taklit etmek için özel olarak boyanmış ve altın vurgularla tamamlanmıştır.\\n\\n<i>Gücü ara, bul ve elinde tut.</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5172,7 +5172,7 @@
   },
   "pattern": {
    "id": "ak47_puffer_custom",
-   "name": "The Oligarch"
+   "name": "Oligark"
   },
   "min_float": 0,
   "max_float": 1,
@@ -5209,14 +5209,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Tetik Disiplini",
-  "description": "Güçlü ve isabetli olan dürbünlü AUG silahının şarjörünü doldurmak uzun sürer, ama mermileri fazla dağıtmaması ve yüksek bir atış hızına sahip olması bunu telafi eder. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "Güçlü ve isabetli olan dürbünlü AUG silahının şarjörünü doldurmak uzun sürer, ama mermileri fazla dağıtmaması ve yüksek bir atış hızına sahip olması bunu telafi eder. Mavi izometrik bir desen uygulanmış ve turuncu vurgularla tamamlanmıştır.\\n\\n<i>Sabretmenin karşılığını alırsın.</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -9986,14 +9986,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -12771,14 +12771,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -27821,8 +27821,8 @@
  },
  {
   "id": "skin-94f44ac08438",
-  "name": "Çift Beretta | Angel Eyes",
-  "description": "İki büyük şarjöre sahip olan Çift Beretta ile ateş ettiğinizde isabet oranınız azalacak ve şarjörü doldurmanız uzun sürecektir. Ama işin iyi tarafına bakacak olursak, iki tane büyük şarjörü olan Çift Beretta ile ateş etmiş olacaksınız. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "name": "Çift Beretta | Meleksi Gözler",
+  "description": "İki büyük şarjöre sahip olan Çift Beretta ile ateş ettiğinizde isabet oranınız azalacak ve şarjörü doldurmanız uzun sürecektir. Ama işin iyi tarafına bakacak olursak, iki tane büyük şarjörü olan Çift Beretta ile ateş etmiş olacaksınız. Kabzalar göz resimleriyle ve sürgüler kutsal desenlerle özel olarak boyanmıştır.\\n\\n<i>Bir veya beş gözüm üzerinde.</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27834,7 +27834,7 @@
   },
   "pattern": {
    "id": "dual_elite_biblical_angel",
-   "name": "Angel Eyes"
+   "name": "Meleksi Gözler"
   },
   "min_float": 0,
   "max_float": 1,
@@ -27871,14 +27871,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -43161,8 +43161,8 @@
  },
  {
   "id": "skin-a59908982432",
-  "name": "Glock-18 | Mirror Mosaic",
-  "description": "Glock-18 zırhsız düşmanlara karşı kullanışlı bir ilk raunt tabancasıdır ve üçlü atış yapabilir. It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "name": "Glock-18 | Aynalı Mozaik",
+  "description": "Glock-18 zırhsız düşmanlara karşı kullanışlı bir ilk raunt tabancasıdır ve üçlü atış yapabilir. Aynalardan oluşan bir mozaiğe benzeyecek şekilde özel olarak boyanmıştır.\\n\\n<i>Kendi düşüncelerine hapsolmuş.</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43174,7 +43174,7 @@
   },
   "pattern": {
    "id": "glock_mirror_maze_v2_pearl",
-   "name": "Mirror Mosaic"
+   "name": "Aynalı Mozaik"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43211,14 +43211,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46856,8 +46856,8 @@
  },
  {
   "id": "skin-53b81168eea3",
-  "name": "P2000 | Red Wing",
-  "description": "İsabetli ve kontrol edilebilir, Alman yapımı P2000 zırhsız düşmanlara karşı en iyi ilk raunt tabancasıdır. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "name": "P2000 | Kızıl Kanat",
+  "description": "İsabetli ve kontrol edilebilir, Alman yapımı P2000 zırhsız düşmanlara karşı en iyi ilk raunt tabancasıdır. Kömür grisi ve koyu kırmızı bir tasarımla özel olarak boyanmıştır. \\n\\n<i>Düşmanlarının çöküşünden faydalan.</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46869,7 +46869,7 @@
   },
   "pattern": {
    "id": "p2000_deep_red",
-   "name": "Red Wing"
+   "name": "Kızıl Kanat"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46906,14 +46906,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | Sağlam Tutuş",
-  "description": "İsabetli ve kontrol edilebilir, Alman yapımı P2000 zırhsız düşmanlara karşı en iyi ilk raunt tabancasıdır. It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "İsabetli ve kontrol edilebilir, Alman yapımı P2000 zırhsız düşmanlara karşı en iyi ilk raunt tabancasıdır. Fraktal desenler kullanılarak metalik gri renkte özel olarak boyanmış ve turuncu vurgularla tamamlanmıştır.\\n\\n<i>&gt;&gt;SİLAH KAPLAMASI DOKU DENEYLERİ, GİRİŞ BİR&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87032,8 +87032,8 @@
  },
  {
   "id": "skin-e7c2a01982dd",
-  "name": "M4A4 | Full Throttle",
-  "description": "Muadili AK-47'den daha isabetli fakat daha az zarar veren bir silah olan olan M4A4, AT'ler için tam otomatik taarruz tüfeği seçeneğidir. It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "name": "M4A4 | Tam Gaz",
+  "description": "Muadili AK-47'den daha isabetli fakat daha az zarar veren bir silah olan olan M4A4, AT'ler için tam otomatik taarruz tüfeği seçeneğidir. Neon yeşili bir tabanla özel olarak boyanan bu silah, drift ve modifiye araç kültürünü çağrıştıran hayali logo tasarımlarıyla tamamlanmıştır.\\n\\n<i>\\\"Globoil 1 Synthetics\\\" ile \\\"ENTRI PERFORMANCE\\\"ın buluştuğu yer.</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87045,7 +87045,7 @@
   },
   "pattern": {
    "id": "m4a4_skrrrt_green",
-   "name": "Full Throttle"
+   "name": "Tam Gaz"
   },
   "min_float": 0,
   "max_float": 1,
@@ -87082,14 +87082,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Tasfiye",
-  "description": "Susturuculu M4A1, susturucu çıkarılmış haline nazaran daha küçük bir şarjör haznesine sahip olmakla beraber daha az geri tepme ve daha iyi kesinlik ile daha sessiz atışlar sağlar. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "Susturuculu M4A1, susturucu çıkarılmış haline nazaran daha küçük bir şarjör haznesine sahip olmakla beraber daha az geri tepme ve daha iyi kesinlik ile daha sessiz atışlar sağlar. Koyu tabanı ve özenle seçilmiş kırmızı ve mavi vurguları, bu özel boyalı M4A1-S'nin ortam ışığı altında parlıyormuş gibi görünmesini sağlar.\\n\\n<i>Sessiz yansıma</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -90051,14 +90051,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -93987,8 +93987,8 @@
  },
  {
   "id": "skin-0befed15aba5",
-  "name": "MAC-10 | Cat Fight",
-  "description": "Basitçe içinden mermiler çıkan bir kutu olan MAC-10 hafif makinelisi, yüksek bir atış hızına sahiptir ancak fazla geri teper ve isabet oranı düşüktür. It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "name": "MAC-10 | Kavgacı Kedi",
+  "description": "Basitçe içinden mermiler çıkan bir kutu olan MAC-10 hafif makinelisi, yüksek bir atış hızına sahiptir ancak fazla geri teper ve isabet oranı düşüktür. Öfkeli bir kedi resmi ve hedef simgesiyle özel olarak boyanmıştır.\\n\\n<i>Kediciğin pençeleri...</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94000,7 +94000,7 @@
   },
   "pattern": {
    "id": "mac10_kamicatze",
-   "name": "Cat Fight"
+   "name": "Kavgacı Kedi"
   },
   "min_float": 0,
   "max_float": 1,
@@ -94037,14 +94037,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -97036,8 +97036,8 @@
  },
  {
   "id": "skin-e8947585ba24",
-  "name": "MAG-7 | MAGnitude",
-  "description": "AT'ye özel Mag-7 yakın mesafede yok edici etkiye sahiptir. Hızlı şarjör değiştirmesi onu mükemmel bir taktiksel seçenek hâline getirir. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "name": "MAG-7 | MAGnitüd",
+  "description": "AT'ye özel Mag-7 yakın mesafede yok edici etkiye sahiptir. Hızlı şarjör değiştirmesi onu mükemmel bir taktiksel seçenek hâline getirir. Bu özel boya tasarımı, tetiğin üzerindeki vidadan yayılan bir şok dalgası görünümü verir.\\n\\n<i>İki nokta sıfır.</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -97049,7 +97049,7 @@
   },
   "pattern": {
    "id": "mag7_circle_copper",
-   "name": "MAGnitude"
+   "name": "MAGnitüd"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97086,14 +97086,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -99156,8 +99156,8 @@
  },
  {
   "id": "skin-e051c197f5af",
-  "name": "MP5-SD | Focus",
-  "description": "Çok sık taklit edilen ancak eşi benzeri olmayan MP5, dünyadaki hafif makineli silahlar arasından belki de en çok yönlü ve popüler olanlardan biridir. Ölümcül MP5'ın bu SD versiyonu sahip olduğu entegre susturucusu sayesinde fısıltı sessizliğinde çalışır. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "name": "MP5-SD | Odak",
+  "description": "Çok sık taklit edilen ancak eşi benzeri olmayan MP5, dünyadaki hafif makineli silahlar arasından belki de en çok yönlü ve popüler olanlardan biridir. Ölümcül MP5'ın bu SD versiyonu sahip olduğu entegre susturucusu sayesinde fısıltı sessizliğinde çalışır. Metalik gri rengine özel olarak boyanmış ve kırmızı vurgularla tamamlanmıştır.\\n\\n<i>ODAKLAN // MÜKEMMEL NİŞAN</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -99169,7 +99169,7 @@
   },
   "pattern": {
    "id": "mp5sd_chrome",
-   "name": "Focus"
+   "name": "Odak"
   },
   "min_float": 0,
   "max_float": 1,
@@ -99206,14 +99206,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -101419,8 +101419,8 @@
  },
  {
   "id": "skin-270e56729de6",
-  "name": "MP7 | Smoking Kills",
-  "description": "Çok yönlü fakat pahalı. Alman yapımı MP7 hafif makinelisi yakın çatışmalarda etkili olmak için mükemmel bir seçimdir. It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "name": "MP7 | Sigara İçmek Öldürür",
+  "description": "Çok yönlü fakat pahalı. Alman yapımı MP7 hafif makinelisi yakın çatışmalarda etkili olmak için mükemmel bir seçimdir. Sigara içen gözlüklü bir kadına yer verilen renkli bir tasarımla özel olarak boyanmıştır.\\n\\n<i>\\\"Bu işi hızlıca veya yavaş yavaş bitirebiliriz, karar senin\\\"</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101432,7 +101432,7 @@
   },
   "pattern": {
    "id": "mp7_smoking_kills_v2",
-   "name": "Smoking Kills"
+   "name": "Sigara İçmek Öldürür"
   },
   "min_float": 0,
   "max_float": 1,
@@ -101469,14 +101469,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -104819,8 +104819,8 @@
  },
  {
   "id": "skin-fb7ae83c1e81",
-  "name": "MP9 | Broken Record",
-  "description": "İsviçre'de üretilmiş son teknoloji ürünü olan MP9 hafif makinelisi, özel güvenlik firmaları tarafından tercih edilen ergonomik polimer bir silahtır. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "name": "MP9 | Bozuk Plak",
+  "description": "İsviçre'de üretilmiş son teknoloji ürünü olan MP9 hafif makinelisi, özel güvenlik firmaları tarafından tercih edilen ergonomik polimer bir silahtır. Plağa benzeyecek şekilde özel olarak boyanmıştır.\\n\\n<i>Tam bir klasik.</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104832,7 +104832,7 @@
   },
   "pattern": {
    "id": "mp9_vinyl",
-   "name": "Broken Record"
+   "name": "Bozuk Plak"
   },
   "min_float": 0,
   "max_float": 1,
@@ -104869,14 +104869,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -109601,8 +109601,8 @@
  },
  {
   "id": "skin-f58ac1d8b31c",
-  "name": "Nova | Ocular",
-  "description": "Nova'nın ucuz fiyatı, onu nakit sıkıntısı çeken takımlar için müthiş bir pusu silahı haline getirir. This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "name": "Nova | Oküler",
+  "description": "Nova'nın ucuz fiyatı, onu nakit sıkıntısı çeken takımlar için müthiş bir pusu silahı haline getirir. Bu özel boya tasarımı, soyut sürrealizmden ve 20. yüzyıl sanatçılarının eserlerinden esinlenen basit geometrik şekiller ve gerçekçi detaylar içerir.\\n\\n<i>Göz boyama.</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109614,7 +109614,7 @@
   },
   "pattern": {
    "id": "nova_ocular",
-   "name": "Ocular"
+   "name": "Oküler"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109651,14 +109651,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -113809,8 +113809,8 @@
  },
  {
   "id": "skin-8ec9dd302f30",
-  "name": "P250 | Bullfrog",
-  "description": "Düşük bir geri tepme oranına sahip ve seri ateş edebilme kabiliyeti olan P250 tabancası, zırhlı rakiplerinize karşı diğer silahlara göre biraz daha ucuz bir seçimdir. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "name": "P250 | Boğa Kurbağası",
+  "description": "Düşük bir geri tepme oranına sahip ve seri ateş edebilme kabiliyeti olan P250 tabancası, zırhlı rakiplerinize karşı diğer silahlara göre biraz daha ucuz bir seçimdir. Bronz ve siyah yarış arabası logo tasarımlarıyla özel olarak boyanmıştır.\\n\\n<i>Oldukça hızlı!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113822,7 +113822,7 @@
   },
   "pattern": {
    "id": "p250_bullfrog",
-   "name": "Bullfrog"
+   "name": "Boğa Kurbağası"
   },
   "min_float": 0,
   "max_float": 1,
@@ -113859,14 +113859,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -124630,8 +124630,8 @@
  },
  {
   "id": "skin-e8ce6f07d5e7",
-  "name": "SCAR-20 | Caged",
-  "description": "SCAR-20, yüksek atış hızı ve güçlü uzun mesafe hasarı için, ağır hareket hızı ve büyük fiyat etiketine katlanılan yarı otomatik bir keskin nişancı tüfeğidir. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "name": "SCAR-20 | Kafes",
+  "description": "SCAR-20, yüksek atış hızı ve güçlü uzun mesafe hasarı için, ağır hareket hızı ve büyük fiyat etiketine katlanılan yarı otomatik bir keskin nişancı tüfeğidir. Mavi ve mor gradyan bir desen uygulanmıştır.\\n\\n<i>\\\"Bu küçük bir kafes için büyük bir silah...\\\"</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124643,7 +124643,7 @@
   },
   "pattern": {
    "id": "scar_refraction_v4",
-   "name": "Caged"
+   "name": "Kafes"
   },
   "min_float": 0,
   "max_float": 1,
@@ -124680,14 +124680,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],
@@ -137961,8 +137961,8 @@
  },
  {
   "id": "skin-822f252e3894",
-  "name": "UMP-45 | Continuum",
-  "description": "Hafif makineli ailesinin değeri anlaşılamamış ortanca çocuğu. Yakın mesafede oldukça etkili ve tam otomatik bir silah olan UMP-45'in tek dezavantajı küçük şarjör kapasitesidir. This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "name": "UMP-45 | Süreklilik",
+  "description": "Hafif makineli ailesinin değeri anlaşılamamış ortanca çocuğu. Yakın mesafede oldukça etkili ve tam otomatik bir silah olan UMP-45'in tek dezavantajı küçük şarjör kapasitesidir. Bu özel boya tasarımı, siyah ve mavi şeritler içerir.\\n\\n<i>Hiçliğe doğru.</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -137974,7 +137974,7 @@
   },
   "pattern": {
    "id": "ump45_illumina_v2",
-   "name": "Continuum"
+   "name": "Süreklilik"
   },
   "min_float": 0,
   "max_float": 1,
@@ -138011,14 +138011,14 @@
   "collections": [
    {
     "id": "collection-set-community-36",
-    "name": "The Genesis Collection",
+    "name": "Doğuş Koleksiyonu",
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_community_36_png.png"
    }
   ],
   "crates": [
    {
     "id": "crate-5176",
-    "name": "Sealed Genesis Terminal",
+    "name": "Mühürlü Doğuş Terminali",
     "image": "https://i.cs2inspects.com/images/econ/weapon_cases/crate_community_36_closed_png.png"
    }
   ],

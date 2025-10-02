@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | Discipline de la détente",
-  "description": "Puissant et précis, le fusil d'assaut à lunette AUG compense ses longs temps de recharge par une faible dispersion et une cadence de tir élevée. A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "Puissant et précis, le fusil d'assaut à lunette AUG compense ses longs temps de recharge par une faible dispersion et une cadence de tir élevée. Un motif isométrique bleu accompagné de touches oranges a été appliqué sur cette arme.\\n\\n<i>La patience est source de récompense</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -27821,8 +27821,8 @@
  },
  {
   "id": "skin-94f44ac08438",
-  "name": "Dual Berettas | Angel Eyes",
-  "description": "Tirer avec deux Berettas à grand chargeur diminuera la précision et augmentera le temps de rechargement. Mais bon, vous aurez quand même la chance de tirer avec deux Berettas à grand chargeur. They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "name": "Dual Berettas | Yeux angéliques",
+  "description": "Tirer avec deux Berettas à grand chargeur diminuera la précision et augmentera le temps de rechargement. Mais bon, vous aurez quand même la chance de tirer avec deux Berettas à grand chargeur. Ces armes ont été personnalisées avec des yeux sur les poignées et des fresques célestes sur les glissières.\\n\\n<i>Je t'ai toujours à l'œil, et cinq autres te regardent en coulisse</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27834,7 +27834,7 @@
   },
   "pattern": {
    "id": "dual_elite_biblical_angel",
-   "name": "Angel Eyes"
+   "name": "Yeux angéliques"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46856,8 +46856,8 @@
  },
  {
   "id": "skin-53b81168eea3",
-  "name": "P2000 | Red Wing",
-  "description": "Précis et facile à prendre en main, le P2000 de fabrication allemande est un bon pistolet de première manche qui est très efficace contre des adversaires sans protection. It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "name": "P2000 | Rouge ailé",
+  "description": "Précis et facile à prendre en main, le P2000 de fabrication allemande est un bon pistolet de première manche qui est très efficace contre des adversaires sans protection. Cette arme a été personnalisée avec un motif charbonneux et d'un rouge profond. \\n\\n<i>Que la chute de vos adversaires soit prompte</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46869,7 +46869,7 @@
   },
   "pattern": {
    "id": "p2000_deep_red",
-   "name": "Red Wing"
+   "name": "Rouge ailé"
   },
   "min_float": 0,
   "max_float": 1,
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | Liquidation",
-  "description": "Possédant un plus petit chargeur que son homologue assourdissant, la M4A1 possède un silencieux qui permet de diminuer le recul et d'augmenter la précision tout en réduisant le bruit des tirs. Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "Possédant un plus petit chargeur que son homologue assourdissant, la M4A1 possède un silencieux qui permet de diminuer le recul et d'augmenter la précision tout en réduisant le bruit des tirs. Ce M4A1-S a été personnalisé avec une base sombre et des reflets rouges et bleus qui lui donne l'impression de luire sous une lumière ambiante.\\n\\n<i>Reflets subtils</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -97037,7 +97037,7 @@
  {
   "id": "skin-e8947585ba24",
   "name": "MAG-7 | MAGnitude",
-  "description": "Le Mag-7, exclusif aux antiterroristes, inflige des dégâts dévastateurs à courte portée. Ses chargeurs amovibles lui permettant de recharger rapidement en font un excellent choix tactique. This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "description": "Le Mag-7, exclusif aux antiterroristes, inflige des dégâts dévastateurs à courte portée. Ses chargeurs amovibles lui permettant de recharger rapidement en font un excellent choix tactique. Cette arme a été personnalisée de manière à faire penser à une onde qui émane du boulon au dessus de la gâchette.\\n\\n<i>Ronds dans l'eau</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5SD | Focus",
-  "description": "Souvent copié, mais jamais égalé, l'emblématique MP5 est sans doute le pistolet-mitrailleur le plus polyvalent et populaire au monde. Cette variante SD est équipée d'un silencieux, ce qui rend cette arme déjà formidable extrêmement discrète. It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "Souvent copié, mais jamais égalé, l'emblématique MP5 est sans doute le pistolet-mitrailleur le plus polyvalent et populaire au monde. Cette variante SD est équipée d'un silencieux, ce qui rend cette arme déjà formidable extrêmement discrète. Cette arme a été personnalisée en bronze gris avec une touche de rouge.\\n\\n<i>FOCUS MAXIMAL // TIR FATAL</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -104819,8 +104819,8 @@
  },
  {
   "id": "skin-fb7ae83c1e81",
-  "name": "MP9 | Broken Record",
-  "description": "Fabriqué en Suisse, le pistolet mitrailleur MP9 est une arme ergonomique en polymère appréciée des entreprises de sécurité privée. It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "name": "MP9 | Disque rayé",
+  "description": "Fabriqué en Suisse, le pistolet mitrailleur MP9 est une arme ergonomique en polymère appréciée des entreprises de sécurité privée. Cette arme a été personnalisée de manière à ressembler à un disque vinyl, sillons compris.\\n\\n<i>Un classique instantané</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104832,7 +104832,7 @@
   },
   "pattern": {
    "id": "mp9_vinyl",
-   "name": "Broken Record"
+   "name": "Disque rayé"
   },
   "min_float": 0,
   "max_float": 1,
@@ -113810,7 +113810,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Bullfrog",
-  "description": "Une arme à faible recul et à cadence de tir élevée, le P250 est un choix relativement peu coûteux contre des adversaires portant des protections. It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "description": "Une arme à faible recul et à cadence de tir élevée, le P250 est un choix relativement peu coûteux contre des adversaires portant des protections. Cette arme a été personnalisée dans le style des voitures de course.\\n\\n<i>Allez, encore un tour !</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -124630,8 +124630,8 @@
  },
  {
   "id": "skin-e8ce6f07d5e7",
-  "name": "SCAR-20 | Caged",
-  "description": "Le SCAR-20 est un fusil de précision semi-automatique qui possède une cadence de tir élevée et inflige d'importants dégâts à longue distance en contrepartie d'une vitesse de déplacement plus lente et d'un prix assez élevé. A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "name": "SCAR-20 | En cage",
+  "description": "Le SCAR-20 est un fusil de précision semi-automatique qui possède une cadence de tir élevée et inflige d'importants dégâts à longue distance en contrepartie d'une vitesse de déplacement plus lente et d'un prix assez élevé. Cette arme a été personnalisée avec un motif au dégradé bleu et mauve.\\n\\n<i>« Cette arme est bien grande pour une si petite cage… »</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124643,7 +124643,7 @@
   },
   "pattern": {
    "id": "scar_refraction_v4",
-   "name": "Caged"
+   "name": "En cage"
   },
   "min_float": 0,
   "max_float": 1,

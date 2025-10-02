@@ -5159,8 +5159,8 @@
  },
  {
   "id": "skin-4608abab8351",
-  "name": "AK-47 | The Oligarch",
-  "description": "威力強大且可靠，身為世界上最受青睞的突擊步槍之一的 AK-47 在收放得當的點放射擊之下最能彰顯其致命性。 It has been custom painted to replicate the look and feel of a luxury white and black puffer jacket and finished with gold accents.\\n\\n<i>Seek power, gain power, hold power</i>",
+  "name": "AK-47 | 寡頭霸權",
+  "description": "威力強大且可靠，身為世界上最受青睞的突擊步槍之一的 AK-47 在收放得當的點放射擊之下最能彰顯其致命性。 經過客製化塗裝，以重現奢華黑白羽絨外套的外觀和觸感，並以黃金點綴。\\n\\n<i>尋求權力、奪取權力、握緊權力</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -5172,7 +5172,7 @@
   },
   "pattern": {
    "id": "ak47_puffer_custom",
-   "name": "The Oligarch"
+   "name": "寡頭霸權"
   },
   "min_float": 0,
   "max_float": 1,
@@ -9937,7 +9937,7 @@
  {
   "id": "skin-ab9a15ef8110",
   "name": "AUG | 射擊紀律",
-  "description": "高威力和高準度， 配有瞄準鏡的AUG是款犧牲換彈速度換取穩定彈道以及射擊速率的突擊步槍。 A blue isometric pattern has been applied and finished with orange accents.\\n\\n<i>Patience is its own reward</i>",
+  "description": "高威力和高準度， 配有瞄準鏡的AUG是款犧牲換彈速度換取穩定彈道以及射擊速率的突擊步槍。 繪有藍色等距圖樣，並加上橘色點綴。\\n\\n<i>耐心本身就是回報</i>",
   "weapon": {
    "id": "weapon_aug",
    "weapon_id": 8,
@@ -27821,8 +27821,8 @@
  },
  {
   "id": "skin-94f44ac08438",
-  "name": "Dual Berettas | Angel Eyes",
-  "description": "雖然同時抓著兩把貝瑞塔手槍進行射擊意味著無法兼顧的較差準確度以及有兩個彈匣要換將更為耗時，不過論好處來說至少雙手所掌握的火力也會是兩倍。 They have been custom painted with eyes on the grips and celestial murals on the slides.\\n\\n<i>Keeping a close eye—or five—on you</i>",
+  "name": "Dual Berettas | 天使之眼",
+  "description": "雖然同時抓著兩把貝瑞塔手槍進行射擊意味著無法兼顧的較差準確度以及有兩個彈匣要換將更為耗時，不過論好處來說至少雙手所掌握的火力也會是兩倍。 雙槍的客製化塗裝包括槍柄上的眼睛，以及滑套上的天體壁畫。\\n\\n<i>分一隻眼密切注意──或用五隻眼緊緊盯著</i>",
   "weapon": {
    "id": "weapon_elite",
    "weapon_id": 2,
@@ -27834,7 +27834,7 @@
   },
   "pattern": {
    "id": "dual_elite_biblical_angel",
-   "name": "Angel Eyes"
+   "name": "天使之眼"
   },
   "min_float": 0,
   "max_float": 1,
@@ -43161,8 +43161,8 @@
  },
  {
   "id": "skin-a59908982432",
-  "name": "Glock-18 | Mirror Mosaic",
-  "description": "Glock 18 是一把堪用且能成切換三點放射擊模式的手槍，在對手未著防彈衣的頭幾個回合中最為有效。 It has been custom painted to resemble a mosaic of mirrors.\\n\\n<i>Trapped in your own thoughts</i>",
+  "name": "Glock-18 | 鏡面馬賽克",
+  "description": "Glock 18 是一把堪用且能成切換三點放射擊模式的手槍，在對手未著防彈衣的頭幾個回合中最為有效。 客製化塗裝為仿效馬賽克鏡面的樣式。\\n\\n<i>陷在自己的思緒中</i>",
   "weapon": {
    "id": "weapon_glock",
    "weapon_id": 4,
@@ -43174,7 +43174,7 @@
   },
   "pattern": {
    "id": "glock_mirror_maze_v2_pearl",
-   "name": "Mirror Mosaic"
+   "name": "鏡面馬賽克"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46856,8 +46856,8 @@
  },
  {
   "id": "skin-53b81168eea3",
-  "name": "P2000 | Red Wing",
-  "description": "準確且容易掌握，由德國工藝製成的 P2000 是把能夠在開局回合中有效對抗未著防彈衣的對手的利器。 It has been custom painted with a charcoal and deep red-colored design. \\n\\n<i>Preying on your enemies' downfall</i>",
+  "name": "P2000 | 紅翼",
+  "description": "準確且容易掌握，由德國工藝製成的 P2000 是把能夠在開局回合中有效對抗未著防彈衣的對手的利器。 客製化塗裝採炭黑和深紅色設計。\\n\\n<i>對敵人落井下石</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -46869,7 +46869,7 @@
   },
   "pattern": {
    "id": "p2000_deep_red",
-   "name": "Red Wing"
+   "name": "紅翼"
   },
   "min_float": 0,
   "max_float": 1,
@@ -46927,7 +46927,7 @@
  {
   "id": "skin-8bda61ff439a",
   "name": "P2000 | 穩固抓握",
-  "description": "準確且容易掌握，由德國工藝製成的 P2000 是把能夠在開局回合中有效對抗未著防彈衣的對手的利器。 It has been custom painted in gunmetal grey using fractal designs and finished with orange accents.\\n\\n<i>&gt;&gt;WEAPON FINISH TEXTURE EXPERIMENTS, ENTRY ONE&lt;&lt;</i>",
+  "description": "準確且容易掌握，由德國工藝製成的 P2000 是把能夠在開局回合中有效對抗未著防彈衣的對手的利器。 客製化塗裝以砲銅灰的碎形設計為主，並加上橘色局部裝飾。\\n\\n<i>&gt;&gt;武器外觀材質實驗，項目一&lt;&lt;</i>",
   "weapon": {
    "id": "weapon_hkp2000",
    "weapon_id": 32,
@@ -87032,8 +87032,8 @@
  },
  {
   "id": "skin-e7c2a01982dd",
-  "name": "M4A4 | Full Throttle",
-  "description": "M4A4 是反恐小組陣營中全自動突擊步槍的不二選擇，比照對手陣營的 AK-47 來說更為準確不過殺傷力較小。 It has been custom painted with a neon green base and finished with fictitious logos meant to evoke drift and tuning culture.\\n\\n<i>Where \\\"Globoil 1 Synthetics\\\" meets \\\"ENTRI PERFORMANCE\\\"</i>",
+  "name": "M4A4 | 油門全開",
+  "description": "M4A4 是反恐小組陣營中全自動突擊步槍的不二選擇，比照對手陣營的 AK-47 來說更為準確不過殺傷力較小。 客製化塗裝以螢光綠為基底並加上虛構標誌，用意是要讓人聯想到甩尾與改裝文化。\\n\\n<i>「Globoil 1 Synthetics」與「ENTRI PERFORMANCE」聯手打造</i>",
   "weapon": {
    "id": "weapon_m4a1",
    "weapon_id": 16,
@@ -87045,7 +87045,7 @@
   },
   "pattern": {
    "id": "m4a4_skrrrt_green",
-   "name": "Full Throttle"
+   "name": "油門全開"
   },
   "min_float": 0,
   "max_float": 1,
@@ -90002,7 +90002,7 @@
  {
   "id": "skin-41345355b55a",
   "name": "M4A1-S | 肅清",
-  "description": "比起沒消音器的原版彈匣容量更小。消音版的 M4A1 槍聲更為小聲，並擁有較小的後座力與加強的精準度。 Its dark base and carefully selected red and blue highlights make this custom painted M4A1-S appear as if it's glowing under ambient light.\\n\\n<i>Quiet reflection</i>",
+  "description": "比起沒消音器的原版彈匣容量更小。消音版的 M4A1 槍聲更為小聲，並擁有較小的後座力與加強的精準度。 以深色基底配上精心挑選的紅藍色調點綴客製化塗裝，使這把 M4A1-S 在環境光中顯得像在發亮一樣。\\n\\n<i>寂靜映射</i>",
   "weapon": {
    "id": "weapon_m4a1_silencer",
    "weapon_id": 60,
@@ -93987,8 +93987,8 @@
  },
  {
   "id": "skin-0befed15aba5",
-  "name": "MAC-10 | Cat Fight",
-  "description": "MAC-10 怎麼看都像個會噴子彈的鐵盒子，重點是還噴得很快令它有著高後座力和差勁的準確度。 It has been custom painted with a snarling cat and a target on the rear of the receiver.\\n\\n<i>Kitty's got claws...</i>",
+  "name": "MAC-10 | 小貓發威",
+  "description": "MAC-10 怎麼看都像個會噴子彈的鐵盒子，重點是還噴得很快令它有著高後座力和差勁的準確度。 客製化塗裝上齜牙咧嘴的貓和機匣後方的目標圖示。\\n\\n<i>小貓也有利爪……</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -94000,7 +94000,7 @@
   },
   "pattern": {
    "id": "mac10_kamicatze",
-   "name": "Cat Fight"
+   "name": "小貓發威"
   },
   "min_float": 0,
   "max_float": 1,
@@ -97036,8 +97036,8 @@
  },
  {
   "id": "skin-e8947585ba24",
-  "name": "MAG-7 | MAGnitude",
-  "description": "反恐小組限定的 Mag-7 在近距離能夠造成強力傷害。它也因為藉由可以迅速更換的彈匣供彈而成為一個很好的戰術性選擇。 This custom paint job gives the appearance of a shockwave emanating from the bolt above the trigger.\\n\\n<i>Two point oh</i>",
+  "name": "MAG-7 | MAG 震級",
+  "description": "反恐小組限定的 Mag-7 在近距離能夠造成強力傷害。它也因為藉由可以迅速更換的彈匣供彈而成為一個很好的戰術性選擇。 此客製化塗裝採用從板機上方的螺栓向外幅射震波的樣式。\\n\\n<i>震級二點零</i>",
   "weapon": {
    "id": "weapon_mag7",
    "weapon_id": 27,
@@ -97049,7 +97049,7 @@
   },
   "pattern": {
    "id": "mag7_circle_copper",
-   "name": "MAGnitude"
+   "name": "MAG 震級"
   },
   "min_float": 0,
   "max_float": 1,
@@ -99157,7 +99157,7 @@
  {
   "id": "skin-e051c197f5af",
   "name": "MP5-SD | 專注",
-  "description": "時而被模仿但從未被超越，MP5 或許是世上最通用也最受歡迎的衝鋒槍。其衍生型 SD 具有整體式消音器，使這把已令人敬畏的武器更加莊嚴。 It has been custom painted in gunmetal grey and finished with red accents.\\n\\n<i>STAY FOCUSED // TRUE AIM</i>",
+  "description": "時而被模仿但從未被超越，MP5 或許是世上最通用也最受歡迎的衝鋒槍。其衍生型 SD 具有整體式消音器，使這把已令人敬畏的武器更加莊嚴。 客製化塗裝以砲銅灰為底色並以紅色點綴。\\n\\n<i>保持專注 // 絕對瞄準</i>",
   "weapon": {
    "id": "weapon_mp5sd",
    "weapon_id": 23,
@@ -101419,8 +101419,8 @@
  },
  {
   "id": "skin-270e56729de6",
-  "name": "MP7 | Smoking Kills",
-  "description": "出自德國工藝的 MP7 衝鋒槍雖然多才多藝是款用於近距離激烈戰鬥的完美選擇但卻不怎便宜。 It has been custom painted with a colorful design featuring a woman in glasses smoking a cigarette.\\n\\n<i>\\\"We can do this fast or slow, it's your call\\\"</i>",
+  "name": "MP7 | 抽菸致死",
+  "description": "出自德國工藝的 MP7 衝鋒槍雖然多才多藝是款用於近距離激烈戰鬥的完美選擇但卻不怎便宜。 客製化塗裝的設計色彩繽紛，主角為一位帶著墨鏡抽菸的女士。\\n\\n<i>「要快點了結或慢慢來都可以，悉聽尊便」</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -101432,7 +101432,7 @@
   },
   "pattern": {
    "id": "mp7_smoking_kills_v2",
-   "name": "Smoking Kills"
+   "name": "抽菸致死"
   },
   "min_float": 0,
   "max_float": 1,
@@ -104819,8 +104819,8 @@
  },
  {
   "id": "skin-fb7ae83c1e81",
-  "name": "MP9 | Broken Record",
-  "description": "出自瑞士，採用尖端科技的 MP9 衝鋒槍有著人體工學設計並由聚合材質打造而成，是私人保全行業的最愛。 It has been custom painted to resemble a vinyl record, grooves and all.\\n\\n<i>Instant classic</i>",
+  "name": "MP9 | 破榜唱片",
+  "description": "出自瑞士，採用尖端科技的 MP9 衝鋒槍有著人體工學設計並由聚合材質打造而成，是私人保全行業的最愛。 客製化塗裝為仿效黑膠唱片、紋路和其整體設計。\\n\\n<i>馬上就成經典</i>",
   "weapon": {
    "id": "weapon_mp9",
    "weapon_id": 34,
@@ -104832,7 +104832,7 @@
   },
   "pattern": {
    "id": "mp9_vinyl",
-   "name": "Broken Record"
+   "name": "破榜唱片"
   },
   "min_float": 0,
   "max_float": 1,
@@ -109601,8 +109601,8 @@
  },
  {
   "id": "skin-f58ac1d8b31c",
-  "name": "Nova | Ocular",
-  "description": "Nova 的超低價格讓它對資金不多的隊伍來說是一款非常優秀的近距埋伏武器。 This custom paint job features simple geometric shapes and realistic details inspired by abstract surrealism and the works of 20th century artists.\\n\\n<i>Eyes of the beholder</i>",
+  "name": "Nova | 目鏡",
+  "description": "Nova 的超低價格讓它對資金不多的隊伍來說是一款非常優秀的近距埋伏武器。 客製化塗裝重點為簡單幾何圖形與逼真細節，靈感來自抽象超現實主義和 20 世紀藝術家的作品。<i>持有者之眼</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109614,7 +109614,7 @@
   },
   "pattern": {
    "id": "nova_ocular",
-   "name": "Ocular"
+   "name": "目鏡"
   },
   "min_float": 0,
   "max_float": 1,
@@ -113809,8 +113809,8 @@
  },
  {
   "id": "skin-8ec9dd302f30",
-  "name": "P250 | Bullfrog",
-  "description": "具有低後座力還有高射速， P250 用於對付身穿護甲的對手時是款的價格宜人的選擇。 It has been custom painted with racing liveries in bronze and black.\\n\\n<i>Look at you go!</i>",
+  "name": "P250 | 牛蛙",
+  "description": "具有低後座力還有高射速， P250 用於對付身穿護甲的對手時是款的價格宜人的選擇。 客製化塗裝上古銅色和黑色的車隊贊助商圖樣。\\n\\n<i>看你衝刺！</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
@@ -113822,7 +113822,7 @@
   },
   "pattern": {
    "id": "p250_bullfrog",
-   "name": "Bullfrog"
+   "name": "牛蛙"
   },
   "min_float": 0,
   "max_float": 1,
@@ -124630,8 +124630,8 @@
  },
  {
   "id": "skin-e8ce6f07d5e7",
-  "name": "SCAR-20 | Caged",
-  "description": "以昂貴的價格以及笨重的移動速度作為代價， SCAR-20 是款有著高射速和高遠距離傷害的半自動狙擊步槍。 A blue and purple gradient design has been applied.\\n\\n<i>\\\"That's a big weapon for such a small cage...\\\"</i>",
+  "name": "SCAR-20 | 囚禁",
+  "description": "以昂貴的價格以及笨重的移動速度作為代價， SCAR-20 是款有著高射速和高遠距離傷害的半自動狙擊步槍。 槍身繪製了藍色與紫色的漸層設計。\\n<i><i>「侷限框架內藏強大武力……」</i>",
   "weapon": {
    "id": "weapon_scar20",
    "weapon_id": 38,
@@ -124643,7 +124643,7 @@
   },
   "pattern": {
    "id": "scar_refraction_v4",
-   "name": "Caged"
+   "name": "囚禁"
   },
   "min_float": 0,
   "max_float": 1,
@@ -137961,8 +137961,8 @@
  },
  {
   "id": "skin-822f252e3894",
-  "name": "UMP-45 | Continuum",
-  "description": "UMP45 是款在衝鋒槍家族中飽受冷落的中庸選擇，若非因為彈匣容量這個唯一缺點的話不然還挺全能的。 This custom paint job features alternating bands of black and blue.\\n\\n<i>Into the void</i>",
+  "name": "UMP-45 | 連續體",
+  "description": "UMP45 是款在衝鋒槍家族中飽受冷落的中庸選擇，若非因為彈匣容量這個唯一缺點的話不然還挺全能的。 這把槍是以黑藍條紋交替客製化塗裝。\\n\\n<i>步入虛空</i>",
   "weapon": {
    "id": "weapon_ump45",
    "weapon_id": 24,
@@ -137974,7 +137974,7 @@
   },
   "pattern": {
    "id": "ump45_illumina_v2",
-   "name": "Continuum"
+   "name": "連續體"
   },
   "min_float": 0,
   "max_float": 1,
