@@ -6702,6 +6702,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -7068,7 +7073,7 @@
    "color": "#eb4b4b"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "142",
   "wears": [
    {
@@ -7099,7 +7104,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "terrorists",
    "name": "Terrorista"
@@ -7662,6 +7673,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -8508,6 +8524,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -9461,6 +9482,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -9617,6 +9643,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -9855,6 +9886,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -10513,7 +10549,7 @@
    "color": "#8847ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "134",
   "wears": [
    {
@@ -10544,7 +10580,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "counter-terrorists",
    "name": "Terrorelhárító"
@@ -10783,6 +10825,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -11269,6 +11316,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -12159,6 +12211,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -12850,6 +12907,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -14089,7 +14151,7 @@
    "color": "#d32ce6"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "137",
   "wears": [
    {
@@ -14120,7 +14182,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "both",
    "name": "Mindkét csapat"
@@ -14551,6 +14619,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -15239,6 +15312,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -19893,6 +19971,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -20057,6 +20140,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -20692,6 +20780,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -21247,6 +21340,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -21892,6 +21990,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -23602,6 +23705,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -25497,7 +25605,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "138",
   "wears": [
    {
@@ -25528,7 +25636,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "both",
    "name": "Mindkét csapat"
@@ -25907,6 +26021,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -27330,6 +27449,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -27574,7 +27698,7 @@
    "color": "#8847ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "139",
   "wears": [
    {
@@ -27605,7 +27729,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "both",
    "name": "Mindkét csapat"
@@ -29493,6 +29623,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -30160,6 +30295,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -31422,6 +31562,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -31785,6 +31930,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -34272,6 +34422,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -34627,7 +34782,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "1062",
   "wears": [
    {
@@ -34658,7 +34813,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "counter-terrorists",
    "name": "Terrorelhárító"
@@ -35324,6 +35485,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -35554,6 +35720,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -37578,6 +37749,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -37801,6 +37977,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -39525,6 +39706,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -39625,6 +39811,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -39890,6 +40081,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -40619,7 +40815,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "239",
   "wears": [
    {
@@ -40650,7 +40846,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "terrorists",
    "name": "Terrorista"
@@ -41013,6 +41215,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -41754,6 +41961,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -43360,6 +43572,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -43944,6 +44161,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -44102,7 +44324,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "152",
   "wears": [
    {
@@ -44133,7 +44355,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "terrorists",
    "name": "Terrorista"
@@ -45135,6 +45363,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -83889,6 +84122,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -83979,6 +84217,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -84313,6 +84556,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -85473,6 +85721,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -86514,6 +86767,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -86753,6 +87011,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -88147,6 +88410,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -89281,6 +89549,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -89698,7 +89971,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "160",
   "wears": [
    {
@@ -89729,7 +90002,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "counter-terrorists",
    "name": "Terrorelhárító"
@@ -91229,6 +91508,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -92044,6 +92328,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -93124,7 +93413,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "140",
   "wears": [
    {
@@ -93155,7 +93444,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "terrorists",
    "name": "Terrorista"
@@ -93269,6 +93564,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -94186,6 +94486,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -94780,6 +95085,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -95314,6 +95624,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -95715,6 +96030,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -96955,6 +97275,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -98041,6 +98366,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -98631,6 +98961,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -99377,7 +99712,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "161",
   "wears": [
    {
@@ -99400,7 +99735,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "both",
    "name": "Mindkét csapat"
@@ -99514,6 +99855,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -99621,6 +99967,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -99736,6 +100087,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -100997,6 +101353,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -102303,6 +102664,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -102816,6 +103182,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -103764,6 +104135,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -104610,6 +104986,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -105251,6 +105632,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -106276,7 +106662,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "144",
   "wears": [
    {
@@ -106307,7 +106693,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "both",
    "name": "Mindkét csapat"
@@ -106485,6 +106877,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -107455,6 +107852,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -108397,7 +108799,7 @@
    "color": "#4b69ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "145",
   "wears": [
    {
@@ -108428,7 +108830,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "both",
    "name": "Mindkét csapat"
@@ -109081,6 +109489,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -109361,6 +109774,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -110624,6 +111042,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -111428,6 +111851,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -112377,6 +112805,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -112772,6 +113205,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -112926,6 +113364,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -113041,6 +113484,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -114420,6 +114868,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -114955,6 +115408,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -115559,6 +116017,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -116868,6 +117331,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -116958,6 +117426,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -117735,6 +118208,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -118299,6 +118777,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -118438,7 +118921,7 @@
    "color": "#5e98d9"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "133",
   "wears": [
    {
@@ -118469,7 +118952,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "both",
    "name": "Mindkét csapat"
@@ -119963,6 +120452,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -120203,6 +120697,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -120318,6 +120817,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -120746,6 +121250,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -122439,6 +122948,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -125373,6 +125887,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -125473,6 +125992,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -126534,6 +127058,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -127632,6 +128161,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -129080,6 +129614,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -129561,6 +130100,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -130859,6 +131403,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -130959,6 +131508,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -131203,7 +131757,7 @@
    "color": "#d32ce6"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "292",
   "wears": [
    {
@@ -131234,7 +131788,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "both",
    "name": "Mindkét csapat"
@@ -131431,6 +131991,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -133002,6 +133567,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -133378,6 +133948,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -134418,6 +134993,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -135097,6 +135677,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -136744,6 +137329,11 @@
     "id": "crate-5125",
     "name": "Austin 2025 Nuke Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_nuke_png.png"
+   },
+   {
+    "id": "crate-5224",
+    "name": "Budapest 2025 Nuke Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_nuke_png.png"
    }
   ],
   "team": {
@@ -137189,6 +137779,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -138230,6 +138825,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
@@ -138330,6 +138930,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -138538,6 +139143,11 @@
     "id": "crate-5123",
     "name": "Austin 2025 Dust II Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_dust2_png.png"
+   },
+   {
+    "id": "crate-5222",
+    "name": "Budapest 2025 Dust II Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_dust2_png.png"
    }
   ],
   "team": {
@@ -140885,6 +141495,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -141131,6 +141746,11 @@
     "id": "crate-5120",
     "name": "Austin 2025 Inferno Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_inferno_png.png"
+   },
+   {
+    "id": "crate-5219",
+    "name": "Budapest 2025 Inferno Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_inferno_png.png"
    }
   ],
   "team": {
@@ -141441,6 +142061,11 @@
     "id": "crate-5124",
     "name": "Austin 2025 Ancient Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_ancient_png.png"
+   },
+   {
+    "id": "crate-5223",
+    "name": "Budapest 2025 Ancient Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_ancient_png.png"
    }
   ],
   "team": {
@@ -141661,6 +142286,11 @@
     "id": "crate-5121",
     "name": "Austin 2025 Mirage Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_mirage_png.png"
+   },
+   {
+    "id": "crate-5220",
+    "name": "Budapest 2025 Mirage Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_mirage_png.png"
    }
   ],
   "team": {
@@ -142449,7 +143079,7 @@
    "color": "#8847ff"
   },
   "stattrak": false,
-  "souvenir": false,
+  "souvenir": true,
   "paint_index": "146",
   "wears": [
    {
@@ -142480,7 +143110,13 @@
     "image": "https://i.cs2inspects.com/images/econ/set_icons/set_overpass_2024_png.png"
    }
   ],
-  "crates": [],
+  "crates": [
+   {
+    "id": "crate-5221",
+    "name": "Budapest 2025 Overpass Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_overpass_png.png"
+   }
+  ],
   "team": {
    "id": "both",
    "name": "Mindkét csapat"
@@ -144412,6 +145048,11 @@
     "id": "crate-5126",
     "name": "Austin 2025 Train Emlékcsomag",
     "image": "https://i.cs2inspects.com/images/econ/tournaments/aus2025/crate_aus2025_promo_de_train_png.png"
+   },
+   {
+    "id": "crate-5225",
+    "name": "Budapest 2025 Train Emlékcsomag",
+    "image": "https://i.cs2inspects.com/images/econ/tournaments/bud2025/crate_bud2025_promo_de_train_png.png"
    }
   ],
   "team": {
