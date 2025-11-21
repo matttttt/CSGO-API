@@ -101781,7 +101781,7 @@
  {
   "id": "skin-270e56729de6",
   "name": "MP7 | A Dohányzás Öl",
-  "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. Egy szemüveges, cigarettázó nőt ábrázoló, színes mintás egyedi festést kapott.\\n\\n<i>„Csinálhatjuk gyorsan vagy lassan. Te döntesz.”</i>",
+  "description": "A sokoldalú de drága német gyártású MP7 géppisztoly tökéletes választás a nagy hatású közelharcokban. Egy napszemüveges, cigarettázó nőt ábrázoló, színes mintás egyedi festést kapott.\\n\\n<i>„Csinálhatjuk gyorsan vagy lassan. Te döntesz.”</i>",
   "weapon": {
    "id": "weapon_mp7",
    "weapon_id": 33,
@@ -114258,7 +114258,7 @@
  {
   "id": "skin-8ec9dd302f30",
   "name": "P250 | Kecskebéka",
-  "description": "A kis visszarúgású és nagy tűzgyorsaságú P250 viszonylag olcsó választás páncélozott célok ellen. Autóversenyzés témájú fekete-bronz mintát festettek rá\\n\\n<i>Hogy száguldasz!</i>",
+  "description": "A kis visszarúgású és nagy tűzgyorsaságú P250 viszonylag olcsó választás páncélozott célok ellen. Autóversenyzés témájú fekete-bronz mintát festettek rá.\\n\\n<i>Hogy száguldasz!</i>",
   "weapon": {
    "id": "weapon_p250",
    "weapon_id": 36,
