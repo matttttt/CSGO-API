@@ -4,9 +4,9 @@ import { state } from "./main.js";
 import { getRarityColor } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
-const isCollection = (item) => item.is_collection !== undefined;
+const isCollection = item => item.is_collection !== undefined;
 
-const isSelfOpeningCollection = (item) => {
+const isSelfOpeningCollection = item => {
     if (item.item_name === undefined) return false;
 
     if (!item.item_name.startsWith("#CSGO_crate")) {
@@ -37,49 +37,49 @@ const isSelfOpeningCollection = (item) => {
     return false;
 };
 
-const parseItem = (item) => {
-    const { skinsByCollections, cratesByCollections } = state;
+const parseItem = item => {
+    const { skinsByCollections, cratesByCollections, cdnImages } = state;
 
     const fileName = `${item.name.replace("#CSGO_", "")}`;
-    const image = getImageUrl(`econ/set_icons/${fileName}`);
+    const image = cdnImages[`econ/set_icons/${fileName}`] ?? getImageUrl(`econ/set_icons/${fileName}`);
 
     return {
         id: `collection-${item.name.replace("#CSGO_", "").replace(/_/g, "-")}`,
         name: item.name_force ? $t(item.name_force) : $t(item.name),
-        crates: (
-            cratesByCollections?.[item.name.replace("#CSGO_", "")] ?? []
-        ).map((i) => ({
+        crates: (cratesByCollections?.[item.name.replace("#CSGO_", "")] ?? []).map(i => ({
             ...i,
             name: $t(i.name),
         })),
-        contains: skinsByCollections?.[item.name.replace("#CSGO_", "")].map(
-            (i) => ({
-                ...i,
-                name:
-                    i.name instanceof Object
-                        ? `${$t(i.name.weapon)} | ${$t(i.name.pattern)}`
-                        : $t(i.name),
-                rarity: {
-                    id: i.rarity,
-                    name: $t(i.rarity),
-                    color: getRarityColor(i.rarity),
-                },
-            })
-        ),
+        contains: skinsByCollections?.[item.name.replace("#CSGO_", "")].map(i => ({
+            ...i,
+            name: i.name instanceof Object ? `${$t(i.name.weapon)} | ${$t(i.name.pattern)}` : $t(i.name),
+            rarity: {
+                id: i.rarity,
+                name: $t(i.rarity),
+                color: getRarityColor(i.rarity),
+            },
+        })),
         image,
+
+        // Return original attributes from item_game.json
+        original: {
+            name: item.name,
+            image_inventory: `econ/set_icons/${fileName}`,
+        },
     };
 };
 
-const parseItemSelfOpening = (item) => {
-    const { skinsByCollections } = state;
+const parseItemSelfOpening = item => {
+    const { skinsByCollections, cdnImages } = state;
 
-    const image = getImageUrl(item.image_inventory.toLowerCase());
+    const image =
+        cdnImages[item.image_inventory.toLowerCase()] ?? getImageUrl(item.image_inventory.toLowerCase());
 
     return {
         id: `collection-${item.object_id}`,
         name: $t(item.item_name),
         crates: [],
-        contains: (skinsByCollections?.[item.name] ?? []).map((i) => ({
+        contains: (skinsByCollections?.[item.name] ?? []).map(i => ({
             ...i,
             name: $t(i.name),
             rarity: {
@@ -89,19 +89,24 @@ const parseItemSelfOpening = (item) => {
             },
         })),
         image,
+
+        // Return original attributes from item_game.json
+        original: {
+            name: item.name,
+            item_name: item.item_name,
+            image_inventory: item.image_inventory.toLowerCase(),
+        },
     };
 };
 
-export const getCollections = () => {
+export const getCollections = async () => {
     const { items, itemSets } = state;
     const { folder } = languageData;
 
     const collections = [
         ...itemSets.filter(isCollection).map(parseItem),
-        ...Object.values(items)
-            .filter(isSelfOpeningCollection)
-            .map(parseItemSelfOpening),
-    ].filter((collection) => collection.name);
+        ...Object.values(items).filter(isSelfOpeningCollection).map(parseItemSelfOpening),
+    ].filter(collection => collection.name);
 
-    saveDataJson(`./public/api/${folder}/collections.json`, collections);
+    await saveDataJson(`./public/api/${folder}/collections.json`, collections);
 };
