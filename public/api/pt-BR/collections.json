@@ -16276,6 +16276,13 @@
   "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
  },
  {
+  "id": "collection-set-timed-drops-achroma",
+  "name": "A Coleção Acromática",
+  "crates": [],
+  "contains": [],
+  "image": "https://i.cs2inspects.com/images/econ/set_icons/set_timed_drops_achroma_png.png"
+ },
+ {
   "id": "collection-set-timed-drops-cool",
   "name": "A Coleção Ascendente",
   "crates": [],
@@ -16590,6 +16597,13 @@
    }
   ],
   "image": "https://i.cs2inspects.com/images/econ/set_icons/set_timed_drops_cool_png.png"
+ },
+ {
+  "id": "collection-set-timed-drops-exuberant",
+  "name": "A Coleção Arlequim",
+  "crates": [],
+  "contains": [],
+  "image": "https://i.cs2inspects.com/images/econ/set_icons/set_timed_drops_exuberant_png.png"
  },
  {
   "id": "collection-set-timed-drops-neutral",
