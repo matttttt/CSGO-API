@@ -18,7 +18,7 @@ const getPatternName = (weapon, string) => {
     return string.replace(`${weapon}_`, "").toLowerCase();
 };
 
-const isSkin = (iconPath) => {
+const isSkin = iconPath => {
     if (iconPath.includes("newcs2")) {
         return false;
     }
@@ -28,7 +28,7 @@ const isSkin = (iconPath) => {
     return regexSkinId.test(iconPath.toLowerCase());
 };
 
-const getSkinInfo = (iconPath) => {
+const getSkinInfo = iconPath => {
     const regexSkinId = /econ\/default_generated\/(.*?)_light$/i;
     const path = iconPath.toLowerCase();
     const skinId = path.match(regexSkinId);
@@ -45,9 +45,7 @@ const getDescription = (desc, paintKits, pattern) => {
         return `${desc} ${pattern_desc}`;
     }
 
-    const tag = paintKits[pattern]?.description_tag
-        .toLowerCase()
-        .replace("_tag", "");
+    const tag = paintKits[pattern]?.description_tag.toLowerCase().replace("_tag", "");
     const tag_desc = $t(tag);
     if (tag_desc && tag_desc.length > 0) {
         return `${desc} ${tag_desc}`;
@@ -62,15 +60,14 @@ const getDescription = (desc, paintKits, pattern) => {
 };
 
 const parseItem = (item, items) => {
-    const {
-        rarities,
-        paintKits,
-        cratesBySkins,
-        souvenirSkins,
-        collectionsBySkins,
-    } = state;
+    const { rarities, paintKits, cratesBySkins, souvenirSkins, collectionsBySkins, cdnImages } = state;
     const [weapon, pattern] = getSkinInfo(item.icon_path);
-    const image = getImageUrl(item.icon_path.toLowerCase());
+    const dopplerPhase = getDopplerPhase(paintKits[pattern]?.paint_index);
+    const image =
+        state.cdnImages[`${item.icon_path.toLowerCase()}`] ??
+        state.cdnImages[`${item.icon_path.toLowerCase().replace(/_light$/, "_medium")}`] ??
+        state.cdnImages[`${item.icon_path.toLowerCase().replace(/_light$/, "_heavy")}`] ??
+        getImageUrl(`${item.icon_path.toLowerCase()}`);
     const translatedName = !isNotWeapon(weapon)
         ? $t(items[weapon].item_name_prefab)
         : $t(items[weapon].item_name);
@@ -83,22 +80,20 @@ const parseItem = (item, items) => {
         weapon.includes("bayonet") ||
         state.stattTrakSkins[`[${pattern}]${weapon}`] !== undefined;
 
-    const isKnife =
-        weapon.includes("weapon_knife") || weapon.includes("weapon_bayonet");
-
-    const dopplerPhase = getDopplerPhase(paintKits[pattern]?.paint_index);
+    const isKnife = weapon.includes("weapon_knife") || weapon.includes("weapon_bayonet");
 
     const rarity = !isNotWeapon(weapon)
-        ? (rarities[`[${pattern}]${weapon}`]?.rarity ? `rarity_${rarities[`[${pattern}]${weapon}`]?.rarity}_weapon` : null)
+        ? rarities[`[${pattern}]${weapon}`]?.rarity
+            ? `rarity_${rarities[`[${pattern}]${weapon}`]?.rarity}_weapon`
+            : null
         : isKnife
-        ? // Knives are 'Covert'
-          `rarity_ancient_weapon`
-        : // Gloves are 'Extraordinary'
-          `rarity_ancient`;
+          ? // Knives are 'Covert'
+            `rarity_ancient_weapon`
+          : // Gloves are 'Extraordinary'
+            `rarity_ancient`;
 
     const team =
-        !items[weapon].used_by_classes ||
-        Object.keys(items[weapon].used_by_classes).length === 2
+        !items[weapon].used_by_classes || Object.keys(items[weapon].used_by_classes).length === 2
             ? "both"
             : Object.keys(items[weapon].used_by_classes)[0];
 
@@ -136,17 +131,16 @@ const parseItem = (item, items) => {
         stattrak: isStatTrak,
         souvenir: souvenirSkins?.[`skin-${item.object_id}`] ?? false,
         paint_index: paintKits[pattern]?.paint_index,
-        wears: getWears(
-            paintKits[pattern]?.wear_remap_min,
-            paintKits[pattern]?.wear_remap_max
-        ).map((wearKey) => ({ id: wearKey, name: $t(wearKey) })),
+        wears: getWears(paintKits[pattern]?.wear_remap_min, paintKits[pattern]?.wear_remap_max).map(
+            wearKey => ({ id: wearKey, name: $t(wearKey) })
+        ),
         collections:
-            collectionsBySkins?.[`skin-${item.object_id}`]?.map((i) => ({
+            collectionsBySkins?.[`skin-${item.object_id}`]?.map(i => ({
                 ...i,
                 name: $t(i.name),
             })) ?? [],
         crates:
-            cratesBySkins?.[`skin-${item.object_id}`]?.map((i) => ({
+            cratesBySkins?.[`skin-${item.object_id}`]?.map(i => ({
                 ...i,
                 name: $t(i.name),
             })) ?? [],
@@ -158,25 +152,28 @@ const parseItem = (item, items) => {
                 team === "both"
                     ? $t("inv_filter_both_teams")
                     : team === "counter-terrorists"
-                    ? $t("inv_filter_ct")
-                    : $t("inv_filter_t"),
+                      ? $t("inv_filter_ct")
+                      : $t("inv_filter_t"),
         },
         legacy_model: paintKits[pattern]?.legacy_model,
         image,
+
+        // Return original attributes from item_game.json
+        original: {
+            name: items[weapon].name,
+        },
     };
 };
 
-export const getSkins = () => {
-    const { itemsGame, items, cratesBySkins } = state;
+export const getSkins = async () => {
+    const { itemsGame, items, cratesBySkins, cdnImages } = state;
     const { folder } = languageData;
 
     const skins = [
         ...Object.entries(itemsGame.alternate_icons2.weapon_icons)
             .filter(([, item]) => isSkin(item.icon_path))
-            .map(([key, item]) =>
-                parseItem({ ...item, object_id: key }, items)
-            ),
-        ...knives.map((knife) => ({
+            .map(([key, item]) => parseItem({ ...item, object_id: key }, items)),
+        ...knives.map(knife => ({
             id: `skin-vanilla-${knife.name}`,
             name: $tc("rare_special_vanilla", {
                 item_name: $t(knife.item_name),
@@ -202,7 +199,7 @@ export const getSkins = () => {
             stattrak: true,
             paint_index: null,
             crates:
-                cratesBySkins[`skin-vanilla-${knife.name}`]?.map((i) => ({
+                cratesBySkins[`skin-vanilla-${knife.name}`]?.map(i => ({
                     ...i,
                     name: $t(i.name),
                 })) ?? [],
@@ -211,9 +208,16 @@ export const getSkins = () => {
                 name: $t("inv_filter_both_teams"),
             },
             legacy_model: true,
-            image: getImageUrl(`econ/weapons/base_weapons/${knife.name}`),
-        })),
-    ].filter((skin) => !skin.name.includes("null") && skin.rarity.id);
+            image:
+                cdnImages[`econ/weapons/base_weapons/${knife.name}`] ??
+                getImageUrl(`econ/weapons/base_weapons/${knife.name}`),
 
-    saveDataJson(`./public/api/${folder}/skins.json`, skins);
+            // Return original attributes from item_game.json
+            original: {
+                name: knife.name,
+            },
+        })),
+    ].filter(skin => !skin.name.includes("null") && skin.rarity.id);
+
+    await saveDataJson(`./public/api/${folder}/skins.json`, skins);
 };
