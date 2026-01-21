@@ -1,6 +1,6 @@
 import * as fs from "fs";
 
-import { loadData, getManifestId, getManifestIdFromImageTracker } from "./services/main.js";
+import { loadData, getManifestId } from "./services/main.js";
 import { getCollectibles } from "./services/collectibles.js";
 import { getKeys } from "./services/keys.js";
 import { getAgents } from "./services/agents.js";
@@ -10,6 +10,7 @@ import { loadTranslations } from "./services/translations.js";
 import { getGraffiti } from "./services/graffiti.js";
 import { getPatches } from "./services/patches.js";
 import { getStickers } from "./services/stickers.js";
+import { getStickerSlabs } from "./services/stickerSlabs.js";
 import { getKeychains } from "./services/keychains.js";
 import { getSkins } from "./services/skins.js";
 import { LANGUAGES_URL } from "./constants.js";
@@ -20,11 +21,10 @@ import { getBaseWeapons } from "./services/baseWeapons.js";
 import { getHighlights } from "./services/highlights.js";
 
 const args = process.argv.slice(2);
-const isForce = args.includes('--force');
+const isForce = args.includes("--force");
 
 let existingManifestId = "";
 const latestManifestId = await getManifestId();
-const latestManifestIdInImageTracker = await getManifestIdFromImageTracker();
 
 try {
     existingManifestId = fs.readFileSync("./manifestIdUpdate.txt");
@@ -35,47 +35,48 @@ try {
 }
 
 if (isForce) {
-    console.log("Force flag detected, generating new data regardless of manifest Ids")
+    console.log("Force flag detected, generating new data regardless of manifest Ids");
 } else {
     // TODO: Need to check if default_generated.json from counter-strike-image-tracker repo has changed,
     // since we now pull data from there too.
-    if (existingManifestId == latestManifestId && existingManifestId == latestManifestIdInImageTracker) {
+    if (existingManifestId == latestManifestId) {
         console.log("Latest manifest Id matches existing manifest Id, exiting");
         process.exit(0);
     } else {
-        console.log(
-            "Latest manifest Id does not match existing manifest Id, generating new data."
-        );
+        console.log("Latest manifest Id does not match existing manifest Id, generating new data.");
     }
 }
 
 await loadData();
 
-for (const language of LANGUAGES_URL) {
-    console.log(`Language: ${language.language}`);
+await Promise.all(
+    LANGUAGES_URL.map(async language => {
+        console.log(`Language: ${language.language}`);
 
-    try {
-        await loadTranslations(language);
+        try {
+            await loadTranslations(language);
 
-        getAgents();
-        getCollectibles();
-        getCollections();
-        getCrates();
-        getGraffiti();
-        getKeys();
-        getMusicKits();
-        getPatches();
-        getSkins();
-        getSkinsNotGrouped();
-        getStickers();
-        getKeychains();
-        getTools();
-        getBaseWeapons();
-        getHighlights();
-    } catch (error) {
-        console.log(error);
-    }
-}
+            getAgents();
+            getCollectibles();
+            getCollections();
+            getCrates();
+            getGraffiti();
+            getKeys();
+            getMusicKits();
+            getPatches();
+            getSkins();
+            getSkinsNotGrouped();
+            getStickers();
+            getStickerSlabs();
+            getKeychains();
+            getTools();
+            getBaseWeapons();
+            getHighlights();
+        } catch (error) {
+            console.log(error);
+        }
+    })
+);
 
 try {
     fs.writeFileSync("./manifestIdUpdate.txt", latestManifestId.toString());
