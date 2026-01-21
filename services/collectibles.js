@@ -4,7 +4,7 @@ import { state } from "./main.js";
 import { getCollectibleRarity, getRarityColor } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
-const isCollectible = (item) => {
+const isCollectible = item => {
     if (item.item_name === undefined) return false;
 
     if (item.item_name.startsWith("#CSGO_Collectible")) {
@@ -15,17 +15,14 @@ const isCollectible = (item) => {
         return true;
     }
 
-    if (
-        item.item_name.startsWith("#CSGO_TournamentPass") ||
-        item.item_name.startsWith("#CSGO_Ticket_")
-    ) {
+    if (item.item_name.startsWith("#CSGO_TournamentPass") || item.item_name.startsWith("#CSGO_Ticket_")) {
         return true;
     }
 
     return false;
 };
 
-const getType = (collectible) => {
+const getType = collectible => {
     if (collectible.image_inventory.includes("service_medal")) {
         return "Service Medal";
     }
@@ -43,10 +40,18 @@ const getType = (collectible) => {
     }
 
     if (
-        collectible.item_name.startsWith("#CSGO_TournamentPass") ||
-        collectible.item_name.startsWith("#CSGO_Ticket_")
+        collectible.item_name.startsWith("#CSGO_TournamentPass") &&
+        collectible.item_name.endsWith("_charge")
     ) {
-        return "Pass";
+        return "Souvenir Token";
+    }
+
+    if (collectible.item_name.startsWith("#CSGO_TournamentPass")) {
+        return "Tournament Pass";
+    }
+
+    if (collectible.item_name.startsWith("#CSGO_Ticket_")) {
+        return "Operation Pass";
     }
 
     if (collectible.item_name.startsWith("#CSGO_Collectible_CommunitySeason")) {
@@ -76,7 +81,7 @@ const getType = (collectible) => {
     return null;
 };
 
-const getMarketHashName = (item) => {
+const getMarketHashName = item => {
     const isAttendance = item.prefab === "attendance_pin";
     const isCannotTrade = item.attributes?.["cannot trade"];
 
@@ -84,20 +89,22 @@ const getMarketHashName = (item) => {
         return null;
     }
 
-    if (["Pass", "Pin"].includes(getType(item)) && !isAttendance) {
+    if (
+        ["Pin", "Souvenir Token", "Tournament Pass", "Operation Pass"].includes(getType(item)) &&
+        !isAttendance
+    ) {
         return $t(item.item_name, true);
     }
 
     return null;
 };
 
-const parseItem = (item) => {
+const parseItem = item => {
+    const { cdnImages } = state;
     const isAttendance = item.prefab === "attendance_pin";
-    const image = getImageUrl(item.image_inventory);
+    const image = cdnImages[item.image_inventory] ?? getImageUrl(item.image_inventory);
 
-    const rarity = item.item_rarity
-        ? `rarity_${item.item_rarity}`
-        : getCollectibleRarity(item?.prefab);
+    const rarity = item.item_rarity ? `rarity_${item.item_rarity}` : getCollectibleRarity(item?.prefab);
 
     return {
         id: `collectible-${item.object_id}`,
@@ -110,8 +117,8 @@ const parseItem = (item) => {
         description: item.item_description
             ? $t(item.item_description)
             : item.item_description_prefab
-            ? $t(item.item_description_prefab)
-            : null,
+              ? $t(item.item_description_prefab)
+              : null,
         def_index: item.object_id,
         rarity: {
             id: rarity,
@@ -120,19 +127,26 @@ const parseItem = (item) => {
         },
         type: getType(item),
         genuine: isAttendance,
+        premier_season: item.attributes?.["premier season"],
         market_hash_name: getMarketHashName(item),
         image,
+
+        // Return original attributes from item_game.json
+        original: {
+            item_name: item.item_name,
+            image_inventory: item.image_inventory,
+        },
     };
 };
 
-export const getCollectibles = () => {
+export const getCollectibles = async () => {
     const { items } = state;
     const { folder } = languageData;
 
     const collectibles = Object.values(items)
         .filter(isCollectible)
         .map(parseItem)
-        .filter((collectible) => collectible.name);
+        .filter(collectible => collectible.name);
 
-    saveDataJson(`./public/api/${folder}/collectibles.json`, collectibles);
+    await saveDataJson(`./public/api/${folder}/collectibles.json`, collectibles);
 };
