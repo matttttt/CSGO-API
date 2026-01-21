@@ -65,69 +65,81 @@ export const weaponsNames = [
 ];
 
 export const weaponIDMapping = {
-    "weapon_taser": 31,
-    "weapon_deagle": 1,
-    "weapon_elite": 2,
-    "weapon_fiveseven": 3,
-    "weapon_glock": 4,
-    "weapon_ak47": 7,
-    "weapon_aug": 8,
-    "weapon_awp": 9,
-    "weapon_famas": 10,
-    "weapon_g3sg1": 11,
-    "weapon_galilar": 13,
-    "weapon_m249": 14,
-    "weapon_mac10": 17,
-    "weapon_p90": 19,
-    "weapon_mp5sd": 23,
-    "weapon_ump45": 24,
-    "weapon_xm1014": 25,
-    "weapon_bizon": 26,
-    "weapon_mag7": 27,
-    "weapon_negev": 28,
-    "weapon_sawedoff": 29,
-    "weapon_tec9": 30,
-    "weapon_hkp2000": 32,
-    "weapon_mp7": 33,
-    "weapon_mp9": 34,
-    "weapon_nova": 35,
-    "weapon_p250": 36,
-    "weapon_scar20": 38,
-    "weapon_sg556": 39,
-    "weapon_ssg08": 40,
-    "weapon_m4a1_silencer": 60,
-    "weapon_m4a1": 16,
-    "weapon_usp_silencer": 61,
-    "weapon_cz75a": 63,
-    "weapon_revolver": 64,
-    "weapon_bayonet": 500,
-    "weapon_knife_css": 503,
-    "weapon_knife_flip": 505,
-    "weapon_knife_gut": 506,
-    "weapon_knife_karambit": 507,
-    "weapon_knife_m9_bayonet": 508,
-    "weapon_knife_tactical": 509,
-    "weapon_knife_falchion": 512,
-    "weapon_knife_survival_bowie": 514,
-    "weapon_knife_butterfly": 515,
-    "weapon_knife_push": 516,
-    "weapon_knife_cord": 517,
-    "weapon_knife_canis": 518,
-    "weapon_knife_ursus": 519,
-    "weapon_knife_gypsy_jackknife": 520,
-    "weapon_knife_outdoor": 521,
-    "weapon_knife_stiletto": 522,
-    "weapon_knife_widowmaker": 523,
-    "weapon_knife_skeleton": 525,
-    "weapon_knife_kukri": 526,
-    "studded_bloodhound_gloves": 5027,
-    "studded_brokenfang_gloves": 4725,
-    "sporty_gloves": 5030,
-    "slick_gloves": 5031,
-    "leather_handwraps": 5032,
-    "motorcycle_gloves": 5033,
-    "specialist_gloves": 5034,
-    "studded_hydra_gloves": 5035
+    weapon_taser: 31,
+    weapon_deagle: 1,
+    weapon_elite: 2,
+    weapon_fiveseven: 3,
+    weapon_glock: 4,
+    weapon_ak47: 7,
+    weapon_aug: 8,
+    weapon_awp: 9,
+    weapon_famas: 10,
+    weapon_g3sg1: 11,
+    weapon_galilar: 13,
+    weapon_m249: 14,
+    weapon_mac10: 17,
+    weapon_p90: 19,
+    weapon_mp5sd: 23,
+    weapon_ump45: 24,
+    weapon_xm1014: 25,
+    weapon_bizon: 26,
+    weapon_mag7: 27,
+    weapon_negev: 28,
+    weapon_sawedoff: 29,
+    weapon_tec9: 30,
+    weapon_hkp2000: 32,
+    weapon_mp7: 33,
+    weapon_mp9: 34,
+    weapon_nova: 35,
+    weapon_p250: 36,
+    weapon_scar20: 38,
+    weapon_sg556: 39,
+    weapon_ssg08: 40,
+    weapon_m4a1_silencer: 60,
+    weapon_m4a1: 16,
+    weapon_usp_silencer: 61,
+    weapon_cz75a: 63,
+    weapon_revolver: 64,
+    weapon_bayonet: 500,
+    weapon_knife_css: 503,
+    weapon_knife_flip: 505,
+    weapon_knife_gut: 506,
+    weapon_knife_karambit: 507,
+    weapon_knife_m9_bayonet: 508,
+    weapon_knife_tactical: 509,
+    weapon_knife_falchion: 512,
+    weapon_knife_survival_bowie: 514,
+    weapon_knife_butterfly: 515,
+    weapon_knife_push: 516,
+    weapon_knife_cord: 517,
+    weapon_knife_canis: 518,
+    weapon_knife_ursus: 519,
+    weapon_knife_gypsy_jackknife: 520,
+    weapon_knife_outdoor: 521,
+    weapon_knife_stiletto: 522,
+    weapon_knife_widowmaker: 523,
+    weapon_knife_skeleton: 525,
+    weapon_knife_kukri: 526,
+    studded_bloodhound_gloves: 5027,
+    studded_brokenfang_gloves: 4725,
+    sporty_gloves: 5030,
+    slick_gloves: 5031,
+    leather_handwraps: 5032,
+    motorcycle_gloves: 5033,
+    specialist_gloves: 5034,
+    studded_hydra_gloves: 5035,
+    weapon_flashbang: 43,
+    weapon_hegrenade: 44,
+    weapon_smokegrenade: 45,
+    weapon_molotov: 46,
+    weapon_decoy: 47,
+    weapon_incgrenade: 48,
+    weapon_c4: 49,
+    weapon_healthshot: 57,
+    weapon_knife_t: 59,
+    weapon_knife: 42,
+    t_gloves: 5028,
+    ct_gloves: 5029,
 };
 
 export const knives = [
@@ -233,7 +245,7 @@ export const knives = [
     },
 ];
 
-export const getWeaponName = (string) => {
+export const getWeaponName = string => {
     for (const weapon of weaponsNames) {
         if (string.includes(weapon)) {
             return weapon;
@@ -243,15 +255,13 @@ export const getWeaponName = (string) => {
     return false;
 };
 
-export const isNotWeapon = (string) => {
+export const isNotWeapon = string => {
     return (
-        !string.includes("weapon_") ||
-        string.includes("weapon_knife") ||
-        string.includes("weapon_bayonet")
+        !string.includes("weapon_") || string.includes("weapon_knife") || string.includes("weapon_bayonet")
     );
 };
 
-export const getCategory = (weapon) => {
+export const getCategory = weapon => {
     switch (weapon) {
         case "weapon_deagle":
         case "weapon_elite":
@@ -322,7 +332,25 @@ export const getCategory = (weapon) => {
         case "studded_hydra_gloves":
             return "sfui_invpanel_filter_gloves";
         case "weapon_taser":
+        case "weapon_healthshot":
             return "loadoutslot_equipment";
+        case "weapon_flashbang":
+        case "weapon_hegrenade":
+        case "weapon_smokegrenade":
+        case "weapon_molotov":
+        case "weapon_decoy":
+        case "weapon_incgrenade":
+            // No idea what translation should be used for this
+            return "loadoutslot_grenade";
+        case "weapon_c4":
+            // No idea what translation should be used for this
+            return "loadoutslot_c4";
+        case "ct_gloves":
+        case "t_gloves":
+            return "sfui_invpanel_filter_gloves";
+        case "weapon_knife":
+        case "weapon_knife_t":
+            return "sfui_invpanel_filter_melee";
     }
 
     return null;
@@ -337,12 +365,10 @@ export const getWears = (minFloat, maxFloat) => {
         { wear: "SFUI_InvTooltip_Wear_Amount_4", min: 0.45, max: 1.0 },
     ];
 
-    return wears
-        .filter((range) => range.max > minFloat && range.min < maxFloat)
-        .map((range) => range.wear);
+    return wears.filter(range => range.max > minFloat && range.min < maxFloat).map(range => range.wear);
 };
 
-export const getDopplerPhase = (paintIndex) => {
+export const getDopplerPhase = paintIndex => {
     const dopplerPhases = {
         // Doppler
         415: "Ruby",
@@ -382,7 +408,7 @@ export const getDopplerPhase = (paintIndex) => {
     return dopplerPhases?.[paintIndex];
 };
 
-export const isExclusive = (name) => {
+export const isExclusive = name => {
     return ["halo_01", "hlalyx_01", "hades_01"].includes(name);
 };
 
@@ -422,33 +448,22 @@ export const skinMarketHashName = ({
     }
 };
 
-export const getCollectibleRarity = (prefab) => {
+export const getCollectibleRarity = prefab => {
     const keys = prefab.split(" ");
 
     for (const key of keys) {
+        if (key.endsWith("_tournament_pass_prefab")) {
+            return "rarity_common";
+        }
+
+        if (key.endsWith("_tournament_journal_prefab")) {
+            return "rarity_ancient";
+        }
+
         switch (key) {
-            case "antwerp2022_tournament_pass_prefab":
-            case "antwerp2022_tournament_pass_prefab":
-            case "berlin2019_tournament_pass_prefab":
-            case "katowice2019_tournament_pass_prefab":
-            case "rio2022_tournament_pass_prefab":
-            case "stockh2021_tournament_pass_prefab":
-            case "paris2023_tournament_pass_prefab":
-            case "cph2024_tournament_pass_prefab":
-            case "sha2024_tournament_pass_prefab":
-            case "aus2025_tournament_pass_prefab":
             case "season_pass":
             case "season_tiers":
                 return "rarity_common";
-            case "antwerp2022_tournament_journal_prefab":
-            case "berlin2019_tournament_journal_prefab":
-            case "katowice2019_tournament_journal_prefab":
-            case "rio2022_tournament_journal_prefab":
-            case "stockh2021_tournament_journal_prefab":
-            case "paris2023_tournament_journal_prefab":
-            case "cph2024_tournament_journal_prefab":
-            case "sha2024_tournament_journal_prefab":
-            case "aus2025_tournament_journal_prefab":
             case "collectible_untradable_coin":
             case "majors_trophy":
             case "map_token":
@@ -473,7 +488,7 @@ export const getCollectibleRarity = (prefab) => {
     return null;
 };
 
-export const getRarityColor = (id) => {
+export const getRarityColor = id => {
     id = id?.toLowerCase() ?? "";
 
     switch (id) {
@@ -510,7 +525,7 @@ export const getRarityColor = (id) => {
 
 export const filterUniqueByAttribute = (items, attribute) => {
     const uniqueValues = new Set();
-    return items.filter((item) => {
+    return items.filter(item => {
         if (!uniqueValues.has(item[attribute])) {
             uniqueValues.add(item[attribute]);
             return true;
@@ -519,25 +534,25 @@ export const filterUniqueByAttribute = (items, attribute) => {
     });
 };
 
-export const formatSkinImage = (url, wear) => {
-    if (
-        [
-            "SFUI_InvTooltip_Wear_Amount_2",
-            "SFUI_InvTooltip_Wear_Amount_3",
-        ].includes(wear)
-    ) {
-        url = url.replace("_light_png", "_medium_png");
+export const formatIconPath = (icon_path, wear) => {
+    // SFUI_InvTooltip_Wear_Amount_0 - Factory New - light
+    // SFUI_InvTooltip_Wear_Amount_1 - Minimal Wear - light
+    // SFUI_InvTooltip_Wear_Amount_2 - Field-Tested - medium
+    // SFUI_InvTooltip_Wear_Amount_3 - Well-Worn - medium
+    // SFUI_InvTooltip_Wear_Amount_4 - Battle-Scarred - heavy
+    if (["SFUI_InvTooltip_Wear_Amount_2", "SFUI_InvTooltip_Wear_Amount_3"].includes(wear)) {
+        icon_path = icon_path.replace(/_light$/, "_medium");
     }
 
     if (["SFUI_InvTooltip_Wear_Amount_4"].includes(wear)) {
-        url = url.replace("_light_png", "_heavy_png");
+        icon_path = icon_path.replace(/_light$/, "_heavy");
     }
 
     // Return the image as it is with _light_
-    return url;
+    return icon_path;
 };
 
-export const getGraffitiVariations = (material) => {
+export const getGraffitiVariations = material => {
     return (
         {
             spray_std_axes_crossed: [0],
@@ -571,9 +586,7 @@ export const getGraffitiVariations = (material) => {
             spray_std_karambit: [0],
             spray_std_knives_crossed: [0],
             spray_std_moly: [1, 2, 3, 4, 5, 6, 15, 16, 17, 18],
-            spray_std_necklace_dollar: [
-                2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 18, 19,
-            ],
+            spray_std_necklace_dollar: [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 18, 19],
             spray_std_no_scope: [0],
             spray_std_piggles: [1, 2, 3, 4, 5, 6, 15, 16, 17, 18],
             spray_std_popdog: [0],
@@ -649,55 +662,55 @@ export function getFinishStyleLink(id) {
     switch (id) {
         // "SFUI_ItemInfo_FinishStyle_1": "Solid Color",
         case 1:
-            return "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle"
+            return "https://www.counter-strike.net/workshop/workshopfinishes#solidcolorstyle";
         // "SFUI_ItemInfo_FinishStyle_2": "Hydrographic",
         case 2:
-            return "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic"
+            return "https://www.counter-strike.net/workshop/workshopfinishes#hydrographic";
         // "SFUI_ItemInfo_FinishStyle_3": "Spray-Paint",
         case 3:
-            return "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint"
+            return "https://www.counter-strike.net/workshop/workshopfinishes#spraypaint";
         // "SFUI_ItemInfo_FinishStyle_4": "Anodized",
         case 4:
-            return "https://www.counter-strike.net/workshop/workshopfinishes#anodized"
+            return "https://www.counter-strike.net/workshop/workshopfinishes#anodized";
         // "SFUI_ItemInfo_FinishStyle_5": "Anodized Multicolored",
         case 5:
-            return "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored"
+            return "https://www.counter-strike.net/workshop/workshopfinishes#anodizedmulticolored";
         // "SFUI_ItemInfo_FinishStyle_6": "Anodized Airbrushed",
         case 6:
-            return "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed"
+            return "https://www.counter-strike.net/workshop/workshopfinishes#anodizedairbrushed";
         // "SFUI_ItemInfo_FinishStyle_7": "Custom Paint Job",
         case 7:
-            return "https://www.counter-strike.net/workshop/workshopfinishes#custompaint"
+            return "https://www.counter-strike.net/workshop/workshopfinishes#custompaint";
         // "SFUI_ItemInfo_FinishStyle_8": "Patina",
         // "SFUI_ItemInfo_FinishStyle_10": "Case Hardening",
         case 8:
         case 10:
-            return "https://www.counter-strike.net/workshop/workshopfinishes#patina"
+            return "https://www.counter-strike.net/workshop/workshopfinishes#patina";
         // "SFUI_ItemInfo_FinishStyle_9": "Gunsmith",
         case 9:
-            return "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith"
+            return "https://www.counter-strike.net/workshop/workshopfinishes#gunsmith";
     }
-    return null
+    return null;
 }
 
 export function getPlayerNameOfHighlight(id, players) {
-    id = id.split('_')[1]
+    id = id.split("_")[1];
 
-    if (id.startsWith('shiro')) id = id.replace('shiro', 'sh1ro')
-    if (id.startsWith('magix')) id = id.replace('magix', 'magixx')
-    if (id.startsWith('torszi')) id = id.replace('torszi', 'torzsi')
-    if (id.startsWith('zontix')) id = id.replace('zontix', 'zont1x')
-    if (id.startsWith('techno')) id = id.replace('techno', 'techno4k')
-    if (id.startsWith('tehcno')) id = id.replace('tehcno', 'techno4k')
-    if (id.startsWith('wonderful')) id = id.replace('wonderful', 'w0nderful')
-    if (id.startsWith('yuuri')) id = id.replace('yuuri', 'yuurih')
-    if (id.startsWith('flames')) id = id.replace('flames', 'flamez')
-    if (id.startsWith('mezi')) id = id.replace('mezi', 'mezii')
-    if (id.startsWith('senznu')) id = id.replace('senznu', 'senzu')
-    if (id.startsWith('jimphat')) id = id.replace('jimphat', 'jimpphat')
+    if (id.startsWith("shiro")) id = id.replace("shiro", "sh1ro");
+    if (id.startsWith("magix")) id = id.replace("magix", "magixx");
+    if (id.startsWith("torszi")) id = id.replace("torszi", "torzsi");
+    if (id.startsWith("zontix")) id = id.replace("zontix", "zont1x");
+    if (id.startsWith("techno")) id = id.replace("techno", "techno4k");
+    if (id.startsWith("tehcno")) id = id.replace("tehcno", "techno4k");
+    if (id.startsWith("wonderful")) id = id.replace("wonderful", "w0nderful");
+    if (id.startsWith("yuuri")) id = id.replace("yuuri", "yuurih");
+    if (id.startsWith("flames")) id = id.replace("flames", "flamez");
+    if (id.startsWith("mezi")) id = id.replace("mezi", "mezii");
+    if (id.startsWith("senznu")) id = id.replace("senznu", "senzu");
+    if (id.startsWith("jimphat")) id = id.replace("jimphat", "jimpphat");
 
-    if (id === 'mongolzscaredofs1mplevsfazeonanubis') id = 's1mple'
-    if (id === 'boosttorszitoentryvsspiritonnuke') id = 'torzsi'
+    if (id === "mongolzscaredofs1mplevsfazeonanubis") id = "s1mple";
+    if (id === "boosttorszitoentryvsspiritonnuke") id = "torzsi";
 
-    return Object.values(players).find(name => id.startsWith(name.toLowerCase())) ?? 'Unknown Player'
+    return Object.values(players).find(name => id.startsWith(name.toLowerCase())) ?? "Unknown Player";
 }
