@@ -15,6 +15,9 @@ export const IMAGES_BASE_URL =
 export const CSGO_ENGLISH_URL =
     "https://raw.githubusercontent.com/matttttt/counter-strike-file-tracker/main/static/csgo_english.json";
 
+export const IMAGES_INVENTORY_URL =
+    "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/images.json";
+
 export const LANGUAGES_URL = [
     {
         language: "portuguese (Brazil)",
