@@ -4,14 +4,14 @@ import { state } from "./main.js";
 import { getRarityColor } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
-const isAgent = (item) => item.prefab === "customplayertradable";
+const isAgent = item => item.prefab === "customplayertradable";
 
-const parseItem = (item) => {
-    const { collectionsBySkins } = state;
+const parseItem = item => {
+    const { collectionsBySkins, cdnImages } = state;
 
-    const image = getImageUrl(
-        `econ/characters/${item.name.toLocaleLowerCase()}`
-    );
+    const image =
+        cdnImages[`econ/characters/${item.name.toLocaleLowerCase()}`] ??
+        getImageUrl(`econ/characters/${item.name.toLocaleLowerCase()}`);
 
     return {
         id: `agent-${item.object_id}`,
@@ -23,12 +23,10 @@ const parseItem = (item) => {
             name: $t(`rarity_${item.item_rarity}_character`),
             color: getRarityColor(`rarity_${item.item_rarity}_character`),
         },
-        collections: collectionsBySkins?.[`agent-${item.object_id}`]?.map(
-            (i) => ({
-                ...i,
-                name: $t(i.name),
-            })
-        ),
+        collections: collectionsBySkins?.[`agent-${item.object_id}`]?.map(i => ({
+            ...i,
+            name: $t(i.name),
+        })),
         team: {
             id: Object.keys(item.used_by_classes)[0],
             name:
@@ -38,15 +36,21 @@ const parseItem = (item) => {
         },
         market_hash_name: $t(item.item_name, true),
         image,
-        model_player: item.model_player ?? null
+        model_player: item.model_player ?? null,
+
+        // Return original attributes from item_game.json
+        original: {
+            name: item.name,
+            image_inventory: `econ/characters/${item.name.toLocaleLowerCase()}`,
+        },
     };
 };
 
-export const getAgents = () => {
+export const getAgents = async () => {
     const { items } = state;
     const { folder } = languageData;
 
     const agents = Object.values(items).filter(isAgent).map(parseItem);
 
-    saveDataJson(`./public/api/${folder}/agents.json`, agents);
+    await saveDataJson(`./public/api/${folder}/agents.json`, agents);
 };
