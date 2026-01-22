@@ -3,7 +3,7 @@ const getLanguageUrl = (language) => {
 };
 
 export const getImageUrl = (path) => {
-    return `https://i.cs2inspects.com/images/${path}_png.png`;
+    return `https://cdn.cs2inspects.com/econ/${path}_png.png`;
 };
 
 export const ITEMS_GAME_URL =
