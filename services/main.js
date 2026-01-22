@@ -845,7 +845,7 @@ const getItemFromKey = key => {
 export const getManifestId = async () => {
     return axios
         .get(
-            "https://raw.githubusercontent.com/matttttt/counter-strike-file-tracker/main/static/manifestId.txt"
+            "https://api.github.com/repos/ByMykel/counter-strike-file-tracker/contents/static/manifestId.txt"
         )
         .then(response => {
             // Decode base64 content and trim whitespace
