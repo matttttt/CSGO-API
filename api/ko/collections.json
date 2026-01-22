@@ -16276,6 +16276,13 @@
   "image": "https://i.cs2inspects.com/images/econ/set_icons/set_realism_camo_png.png"
  },
  {
+  "id": "collection-set-timed-drops-achroma",
+  "name": "아크로마 컬렉션",
+  "crates": [],
+  "contains": [],
+  "image": "https://i.cs2inspects.com/images/econ/set_icons/set_timed_drops_achroma_png.png"
+ },
+ {
   "id": "collection-set-timed-drops-cool",
   "name": "어센트 수집품",
   "crates": [],
@@ -16590,6 +16597,13 @@
    }
   ],
   "image": "https://i.cs2inspects.com/images/econ/set_icons/set_timed_drops_cool_png.png"
+ },
+ {
+  "id": "collection-set-timed-drops-exuberant",
+  "name": "할리퀸 수집품",
+  "crates": [],
+  "contains": [],
+  "image": "https://i.cs2inspects.com/images/econ/set_icons/set_timed_drops_exuberant_png.png"
  },
  {
   "id": "collection-set-timed-drops-neutral",

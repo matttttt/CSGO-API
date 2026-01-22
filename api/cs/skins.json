@@ -8733,7 +8733,7 @@
  {
   "id": "skin-e027a11f0d46",
   "name": "AK-47 | Wintergreen",
-  "description": "Silná a spolehlivá útočná puška AK-47 je jednou z nejpopulárnějších zbraní na světě. Největší poškození uděluje v krátkých, kontrolovaných dávkách. Pažba a předpažbí této zbraně byly nabarveny tmavě hnědou barvou, zatímco závěr, rukojeť a hlaveň byly nabarveny jednolitou zelenou barvou.\\n\\n<i>Závist je vlastnost slabších</i>",
+  "description": "Silná a spolehlivá útočná puška AK-47 je jednou z nejpopulárnějších zbraní na světě. Největší poškození uděluje v krátkých, kontrolovaných dávkách. Pažba a předpažbí této zbraně byly nabarveny tmavě hnědou barvou, zatímco pouzdro závěru, rukojeť a hlaveň byly nabarveny jednolitou zelenou barvou.\\n\\n<i>Závist je vlastnost slabších</i>",
   "weapon": {
    "id": "weapon_ak47",
    "weapon_id": 7,
@@ -40226,7 +40226,7 @@
  {
   "id": "skin-6d3d5d849392",
   "name": "Galil AR | Grey Smoke",
-  "description": "Galil AR, zástupce levnějších útočných pušek exkluzivních pro Teroristy, je zbraň vhodná pro boj na střední i větší vzdálenost. Na zbraň byl nanesen černobílý vzor.\\n\\n<i>Protože barevná náplň je moc drahá</i>",
+  "description": "Galil AR, zástupce levnějších útočných pušek exkluzivních pro Teroristy, je zbraň vhodná pro boj na střední i větší vzdálenost. Na zbraň byl nanesen vzor vyvedený v odstínech šedi.\\n\\n<i>Protože barevná náplň je moc drahá</i>",
   "weapon": {
    "id": "weapon_galilar",
    "weapon_id": 13,
@@ -94288,7 +94288,7 @@
  {
   "id": "skin-0befed15aba5",
   "name": "MAC-10 | Cat Fight",
-  "description": "Samopal MAC-10, doslova krabice, ze které lítají kulky, se může pochlubit vysokou rychlostí střelby, kterou však kazí nízká přesnost a silný zpětný ráz. Na zbraň byla nakreslena kočka s vyceněnými zuby a na zadní straně závěru je možné najít nakreslený terč.\\n\\n<i>Kočička má drápky...</i>",
+  "description": "Samopal MAC-10, doslova krabice, ze které lítají kulky, se může pochlubit vysokou rychlostí střelby, kterou však kazí nízká přesnost a silný zpětný ráz. Na zbraň byla nakreslena kočka s vyceněnými zuby a na zadní straně pouzdra závěru je možné najít nakreslený terč.\\n\\n<i>Kočička má drápky...</i>",
   "weapon": {
    "id": "weapon_mac10",
    "weapon_id": 17,
@@ -108365,7 +108365,7 @@
  {
   "id": "skin-d9b6c949df6f",
   "name": "Nova | Plume",
-  "description": "Brokovnice Nova je díky své velmi nízké ceně vhodnou zbraní pro chudé hráče, kteří i přes stav svého konta chtějí přepadávat nepřátele s brokovnicí v ruce. Kromě dřevěného závěru a pažby dostala tato zbraň do vínku také hnědý obrázek křídel.\\n\\n<i>Tohle ti pročechrá peříčka</i>",
+  "description": "Brokovnice Nova je díky své velmi nízké ceně vhodnou zbraní pro chudé hráče, kteří i přes stav svého konta chtějí přepadávat nepřátele s brokovnicí v ruce. Kromě dřevěného pouzdra závěru a pažby dostala tato zbraň do vínku také hnědý obrázek křídel.\\n\\n<i>Tohle ti pročechrá peříčka</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -109696,7 +109696,7 @@
  {
   "id": "skin-38eda175bd2a",
   "name": "Nova | Quick Sand",
-  "description": "Brokovnice Nova je díky své velmi nízké ceně vhodnou zbraní pro chudé hráče, kteří i přes stav svého konta chtějí přepadávat nepřátele s brokovnicí v ruce. Na závěr a pažbu zbraně byl hydrografikou nanesen béžovo-modrý vzor a hlaveň dostala tmavě modrý nátěr.\\n\\n<i>„Potěcha pro oko“ by nebyla dostačující definice</i>",
+  "description": "Brokovnice Nova je díky své velmi nízké ceně vhodnou zbraní pro chudé hráče, kteří i přes stav svého konta chtějí přepadávat nepřátele s brokovnicí v ruce. Na pouzdro závěru a pažbu zbraně byl hydrografikou nanesen béžovo-modrý vzor a hlaveň dostala tmavě modrý nátěr.\\n\\n<i>„Potěcha pro oko“ by nebyla dostačující definice</i>",
   "weapon": {
    "id": "weapon_nova",
    "weapon_id": 35,
@@ -121159,7 +121159,7 @@
  {
   "id": "skin-f1e77412769d",
   "name": "Upilovaná brokovnice | Brake Light",
-  "description": "Klasická upilovaná brokovnice uděluje velké poškození na krátkou vzdálenost, avšak její malá přesnost, velký rozptyl a pomalá rychlost střelby z ní činí zbraň vhodnou převážně pro ty, kteří jí dokáží využít k zabití jednou ranou. Na závěr zbraně byl nabarven červeno-bílý spirálovitý vzor.\\n\\n<i>Zastavující účinek srovnatelný s dupnutím na brzdu</i>",
+  "description": "Klasická upilovaná brokovnice uděluje velké poškození na krátkou vzdálenost, avšak její malá přesnost, velký rozptyl a pomalá rychlost střelby z ní činí zbraň vhodnou převážně pro ty, kteří jí dokáží využít k zabití jednou ranou. Na pouzdro závěru zbraně byl nabarven červeno-bílý spirálovitý vzor.\\n\\n<i>Zastavující účinek srovnatelný s dupnutím na brzdu</i>",
   "weapon": {
    "id": "weapon_sawedoff",
    "weapon_id": 29,
@@ -130117,7 +130117,7 @@
  {
   "id": "skin-6aaf237dc6ae",
   "name": "SSG 08 | Zeno",
-  "description": "SSG08 je opakovací odstřelovací puška, jejíž nízká cena odpovídá její síle, díky které je zbraň vhodná převážné pro odstřelování v prvních kolech. Zbraň byla nabarvena třpytivou šedou metalickou základní barvou a následně byla dozdobena vzory červených diamantů.\\n\\n<i>Když ani všechen chrom světa nestačí</i>",
+  "description": "SSG08 je opakovací odstřelovací puška, jejíž nízká cena odpovídá její síle, díky které je zbraň vhodná převážné pro odstřelování v prvních kolech. Zbraň byla nabarvena třpytivými základními barvami v odstínech šedi a následně byla dozdobena vzory červených diamantů.\\n\\n<i>Když ani všechen chrom světa nestačí</i>",
   "weapon": {
    "id": "weapon_ssg08",
    "weapon_id": 40,
@@ -130983,7 +130983,7 @@
  {
   "id": "skin-080ca3f34d18",
   "name": "SSG 08 | Grey Smoke",
-  "description": "SSG08 je opakovací odstřelovací puška, jejíž nízká cena odpovídá její síle, díky které je zbraň vhodná převážné pro odstřelování v prvních kolech. Na zbraň byl nanesen černobílý vzor.\\n\\n<i>Protože barevná náplň je moc drahá</i>",
+  "description": "SSG08 je opakovací odstřelovací puška, jejíž nízká cena odpovídá její síle, díky které je zbraň vhodná převážné pro odstřelování v prvních kolech. Na zbraň byl nanesen vzor vyvedený v odstínech šedi.\\n\\n<i>Protože barevná náplň je moc drahá</i>",
   "weapon": {
    "id": "weapon_ssg08",
    "weapon_id": 40,
@@ -145135,7 +145135,7 @@
  {
   "id": "skin-e0eec3353ea4",
   "name": "XM1014 | Mockingbird",
-  "description": "XM1014 je silná, plně automatická brokovnice, která svoji vyšší cenu kompenzuje schopností rychle vymalovat pokoj horkým olovem. Na závěr zbraně byl nanesen stříbrný vzor se zlatými ptáky v letu.\\n\\n<i>Až tahle kráska vystřelí, stoprocentně neuslyšíš holubích křídel šum</i>",
+  "description": "XM1014 je silná, plně automatická brokovnice, která svoji vyšší cenu kompenzuje schopností rychle vymalovat pokoj horkým olovem. Na pouzdro závěru zbraně byl nanesen stříbrný vzor se zlatými ptáky v letu.\\n\\n<i>Až tahle kráska vystřelí, stoprocentně neuslyšíš holubích křídel šum</i>",
   "weapon": {
    "id": "weapon_xm1014",
    "weapon_id": 25,
