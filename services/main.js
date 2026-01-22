@@ -1,6 +1,6 @@
 import axios from "axios";
 import sha1 from "sha1";
-import { ITEMS_GAME_URL, getImageUrl } from "../constants.js";
+import { IMAGES_INVENTORY_URL, ITEMS_GAME_URL, getImageUrl } from "../constants.js";
 import {
     filterUniqueByAttribute,
     getDopplerPhase,
@@ -17,147 +17,71 @@ export const state = {};
 export const loadItemsGame = async () => {
     await axios
         .get(ITEMS_GAME_URL)
-        .then((data) => {
+        .then(data => {
             state.itemsGame = data.data.items_game;
-            // Had to hardcode this because it's easier.
-            state.itemsGame.item_sets["set_kc_missinglink"] = {
-                name: "#CSGO_set_kc_missinglink",
-                name_force: "#CSGO_crate_keychain_pack_kc_missinglink_capsule",
-                set_description:
-                    "#CSGO_crate_keychain_pack_kc_missinglink_capsule_desc",
-                is_collection: 1,
-                items: {
-                    "[kc_missinglink_ava]keychain": 1,
-                    "[kc_missinglink_ava]keychain": 1,
-                    "[kc_missinglink_sam_salty]keychain": 1,
-                    "[kc_missinglink_sam_catchup]keychain": 1,
-                    "[kc_missinglink_sas]keychain": 1,
-                    "[kc_missinglink_guerilla]keychain": 1,
-                    "[kc_missinglink_kev]keychain": 1,
-                    "[kc_missinglink_chicken]keychain": 1,
-                    "[kc_missinglink_banana]keychain": 1,
-                    "[kc_missinglink_cat]keychain": 1,
-                    "[kc_missinglink_catbeach]keychain": 1,
-                    "[kc_missinglink_bigfoot]keychain": 1,
-                    "[kc_missinglink_sam_toile]keychain": 1,
-                    "[kc_missinglink_monster]keychain": 1,
-                    "[kc_missinglink_sam_diamond]keychain": 1,
-                    "[kc_missinglink_sam_shape]keychain": 1,
-                    "[kc_missinglink_howl]keychain": 1,
-                    "[kc_missinglink_wurst]keychain": 1,
-                },
-            };
-            state.itemsGame.item_sets["set_kc_weapon_01"] = {
-                name: "#CSGO_set_kc_weapon_01",
-                name_force: "#CSGO_crate_keychain_pack_kc_weapon_01_capsule",
-                is_collection: 1,
-                items: {
-                    "[kc_wpn_ak_base]keychain": 1,
-                    "[kc_wpn_usp_yarn]keychain": 1,
-                    "[kc_wpn_tec9_cap]keychain": 1,
-                    "[kc_wpn_awp_plastic]keychain": 1,
-                    "[kc_wpn_mac10_tile]keychain": 1,
-                    "[kc_wpn_ctknife_wood]keychain": 1,
-                    "[kc_wpn_m4a1s_comic]keychain": 1,
-                    "[kc_wpn_usp_jewel]keychain": 1,
-                    "[kc_wpn_ak_jelly]keychain": 1,
-                    "[kc_wpn_mac10_glitter]keychain": 1,
-                    "[kc_wpn_tec9_magma]keychain": 1,
-                    "[kc_wpn_awp_spoon]keychain": 1,
-                    "[kc_wpn_m4a1s_ss]keychain": 1,
-                    "[kc_wpn_tknife_crystal]keychain": 1,
-                    "[kc_wpn_ctknife_gold]keychain": 1,
-                    "[kc_wpn_tknife_gold]keychain": 1,
-                },
-            };
-            state.itemsGame.item_sets["set_stkr_craft_01"] = {
-                name: "#CSGO_set_stkr_craft_01",
-                name_force: "#CSGO_crate_sticker_pack_stkr_craft_01_capsule",
-                is_collection: 1,
-                items: {
-                    "[paper_lightning_two]sticker": 1,
-                    "[paper_lightning_three]sticker": 1,
-                    "[paper_lightning_one]sticker": 1,
-                    "[paper_flames_two]sticker": 1,
-                    "[paper_flames]sticker": 1,
-                    "[paper_fire_one]sticker": 1,
-                    "[paper_fire_two]sticker": 1,
-                    "[paper_fire_three]sticker": 1,
-                    "[paper_explosion_two]sticker": 1,
-                    "[paper_explosion_three]sticker": 1,
-                    "[paper_explosion_one]sticker": 1,
-                    "[paper_explosion_four]sticker": 1,
-                    "[paper_water_one]sticker": 1,
-                    "[paper_water_two]sticker": 1,
-                    "[paper_water_three]sticker": 1,
-                    "[holo_rainbow_trail]sticker": 1,
-                    "[glitter_explosion_two]sticker": 1,
-                    "[glitter_explosion_three]sticker": 1,
-                    "[glitter_explosion_one]sticker": 1,
-                    "[glitter_explosion_four]sticker": 1,
-                    "[foil_lightning_two]sticker": 1,
-                    "[foil_lightning_three]sticker": 1,
-                    "[foil_lightning_one]sticker": 1,
-                    "[foil_fire_three]sticker": 1,
-                    "[lenticular_blood_one]sticker": 1,
-                    "[lenticular_blood_two]sticker": 1,
-                },
-            };
-            state.itemsGame.item_sets["set_stkr_craft_02"] = {
-                name: "#CSGO_set_stkr_craft_02",
-                name_force: "#CSGO_crate_sticker_pack_stkr_craft_02_capsule",
-                is_collection: 1,
-                items: {
-                    "[paper_arm_flex]sticker": 1,
-                    "[paper_clown_nose]sticker": 1,
-                    "[paper_clown_wig]sticker": 1,
-                    "[paper_ct_left_hand]sticker": 1,
-                    "[paper_eye]sticker": 1,
-                    "[paper_googly_eye_small]sticker": 1,
-                    "[paper_male_anime_face]sticker": 1,
-                    "[paper_mouth]sticker": 1,
-                    "[paper_ribbon]sticker": 1,
-                    "[paper_shark_mouth]sticker": 1,
-                    "[paper_t_left_hand]sticker": 1,
-                    "[paper_tentacle]sticker": 1,
-                    "[paper_tongue]sticker": 1,
-                    "[paper_wings]sticker": 1,
-                    "[paper_winky_eyes]sticker": 1,
-                    "[glitter_kawaii_eyes]sticker": 1,
-                    "[glitter_tentacle]sticker": 1,
-                    "[holo_mouth]sticker": 1,
-                    "[holo_tongue]sticker": 1,
-                    "[lenticular_angry_eyes]sticker": 1,
-                    "[foil_mustache]sticker": 1,
-                    "[foil_sunglasses]sticker": 1,
-                    "[foil_mouth]sticker": 1,
-                    "[lenticular_cheeky_eyes]sticker": 1,
-                    "[lenticular_googly_eye]sticker": 1
-                },
-            };
+
+            // Some collections are not in the item_sets object. So I just add them in this way.
+            // Some examples:
+            // Sugarface 2 Sticker Collection
+            // Missing Link Community Charm Collection
+            // Dr Boom Charm Collection
+            // Character Craft Sticker Pack
+            // Elemental Craft Sticker Pack
+            const sets = {};
+            Object.entries(state.itemsGame.client_loot_lists).forEach(([key, value]) => {
+                const match = key.match(/^(sticker_pack_|keychain_pack_)(.+)_(.+)$/);
+                if (match && Object.keys(value)[0].includes("[")) {
+                    const [, , set_name] = match;
+                    if (!(set_name in sets)) {
+                        sets[set_name] = {
+                            type: match[1],
+                            items: {},
+                        };
+                    }
+                    sets[set_name].items = {
+                        ...sets[set_name].items,
+                        ...value,
+                    };
+                }
+            });
+            Object.entries(sets).forEach(([key, value]) => {
+                let keyTranslation = key;
+                if (keyTranslation === "community_2025") keyTranslation = "community2025";
+                state.itemsGame.item_sets[`set_${key}`] = {
+                    name: `#CSGO_set_${key}`,
+                    name_force: `#CSGO_crate_${value.type}${keyTranslation}_capsule`,
+                    set_description: `#CSGO_crate_${value.type}${keyTranslation}_capsule_desc`,
+                    is_collection: 1,
+                    items: value.items,
+                };
+            });
         })
-        .catch(() => {
-            throw new Error(`Error loading items_game.txt from ${ITEMS_GAME_URL}`);
+        .catch(error => {
+            throw new Error(`Error loading items_game.txt from ${ITEMS_GAME_URL}`, { cause: error });
         });
 
     await axios
-        .get("https://raw.githubusercontent.com/matttttt/counter-strike-image-tracker/refs/heads/main/static/default_generated.json")
-        .then((data) => {
-            state.itemsGame.alternate_icons2.weapon_icons = data.data.filter(item => {
-                // We have heavy, light and medium
-                if (!item.includes('light_png.png')) return false
-                // Chickens
-                if (item.includes('pet_hen_1_hen')) return false
-                return true
-            }).reduce((acc, item) => {
-                acc[sha1(item.replace("_light_png.png", "")).slice(0, 12)] = {
-                    icon_path: `econ/default_generated/${item.replace("_png.png", "")}`,
-                };
-                return acc;
-            }, {});
+        .get(
+            "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/default_generated.json"
+        )
+        .then(data => {
+            state.itemsGame.alternate_icons2.weapon_icons = data.data
+                .filter(item => {
+                    // We have heavy, light and medium
+                    if (!item.includes("light_png.png")) return false;
+                    // Chickens
+                    if (item.includes("pet_hen_1_hen")) return false;
+                    return true;
+                })
+                .reduce((acc, item) => {
+                    acc[sha1(item.replace("_light_png.png", "")).slice(0, 12)] = {
+                        icon_path: `econ/default_generated/${item.replace("_png.png", "")}`,
+                    };
+                    return acc;
+                }, {});
         })
-        .catch(() => {
-            throw new Error(`Error formatting alternate_icons2.weapon_icons`);
+        .catch(error => {
+            throw new Error(`Error formatting alternate_icons2.weapon_icons`, { cause: error });
         });
 };
 
@@ -166,119 +90,94 @@ export const loadItemSets = () => {
 };
 
 export const loadStickerKits = () => {
-    state.stickerKits = Object.entries(state.itemsGame.sticker_kits).map(
-        ([key, item]) => {
-            if (item.name === "comm01_howling_dawn") {
-                item.item_rarity = "contraband";
-            }
-
-            return {
-                ...item,
-                object_id: key,
-            };
+    state.stickerKits = Object.entries(state.itemsGame.sticker_kits).map(([key, item]) => {
+        if (item.name === "comm01_howling_dawn") {
+            item.item_rarity = "contraband";
         }
-    );
 
-    state.stickerKitsObj = Object.fromEntries(
-        state.stickerKits.map((item) => [item.name, item])
-    );
+        return {
+            ...item,
+            object_id: key,
+        };
+    });
+
+    state.stickerKitsObj = Object.fromEntries(state.stickerKits.map(item => [item.name, item]));
 
     // Load also players
-    state.players = Object.entries(state.itemsGame.pro_players).reduce(
-        (acc, [id, player]) => {
-            acc[id] = player.name.toString();
-            return acc;
-        },
-        {}
-    );
+    state.players = Object.entries(state.itemsGame.pro_players).reduce((acc, [id, player]) => {
+        acc[id] = player.name.toString();
+        return acc;
+    }, {});
 };
 
 export const loadKeychainDefinitions = () => {
-    state.keychainDefinitions = Object.entries(
-        state.itemsGame.keychain_definitions
-    ).map(([key, item]) => ({
+    state.keychainDefinitions = Object.entries(state.itemsGame.keychain_definitions).map(([key, item]) => ({
         ...item,
         object_id: key,
     }));
 
     state.keychainDefinitionsObj = Object.fromEntries(
-        state.keychainDefinitions.map((item) => [item.name, item])
+        state.keychainDefinitions.map(item => [item.name, item])
     );
 };
 
 export const loadItems = () => {
-    state.items = Object.entries(state.itemsGame.items).reduce(
-        (acc, [key, value]) => {
-            acc[value.name] = {
-                ...value,
-                object_id: key,
-                item_name: value.item_name,
-                item_description: value.item_description,
-                item_name_prefab: state.prefabs[value.prefab]?.item_name,
-                item_description_prefab: state.prefabs[value.prefab]?.item_description,
-                used_by_classes:
-                    value?.used_by_classes ??
-                    state.prefabs[value.prefab]?.used_by_classes,
-            };
-            return acc;
-        },
-        {}
-    );
+    state.items = Object.entries(state.itemsGame.items).reduce((acc, [key, value]) => {
+        acc[value.name] = {
+            ...value,
+            object_id: key,
+            item_name: value.item_name,
+            item_description: value.item_description,
+            item_name_prefab: state.prefabs[value.prefab]?.item_name,
+            item_description_prefab: state.prefabs[value.prefab]?.item_description,
+            used_by_classes: value?.used_by_classes ?? state.prefabs[value.prefab]?.used_by_classes,
+        };
+        return acc;
+    }, {});
 };
 
 export const loadPrefabs = () => {
-    state.prefabs = Object.entries(state.itemsGame.prefabs).reduce(
-        (acc, [key, value]) => {
-            const innerPrefab = state.itemsGame.prefabs[value?.prefab];
+    state.prefabs = Object.entries(state.itemsGame.prefabs).reduce((acc, [key, value]) => {
+        const innerPrefab = state.itemsGame.prefabs[value?.prefab];
 
-            acc[key] = {
-                item_name: value.item_name ?? innerPrefab?.item_name,
-                item_description:
-                    value.item_description ?? innerPrefab?.item_description,
-                first_sale_date:
-                    value.first_sale_date ?? innerPrefab?.first_sale_date ?? null,
-                prefab: value.prefab ?? innerPrefab?.prefab,
-                used_by_classes: value.used_by_classes,
-            };
-            return acc;
-        },
-        {}
-    );
+        acc[key] = {
+            item_name: value.item_name ?? innerPrefab?.item_name,
+            item_description: value.item_description ?? innerPrefab?.item_description,
+            first_sale_date: value.first_sale_date ?? innerPrefab?.first_sale_date ?? null,
+            prefab: value.prefab ?? innerPrefab?.prefab,
+            used_by_classes: value.used_by_classes,
+        };
+        return acc;
+    }, {});
 };
 
 export const loadPaintKits = () => {
-    state.paintKits = Object.entries(state.itemsGame.paint_kits).reduce(
-        (acc, [key, item]) => {
-            if (item.description_tag !== undefined) {
-                acc[item.name.toLowerCase()] = {
-                    description_tag: item.description_tag,
-                    wear_remap_min: item.wear_remap_min ?? 0.06,
-                    wear_remap_max: item.wear_remap_max ?? 0.8,
-                    paint_index: key,
-                    style_id: item.style ?? 0,
-                    style_name: `SFUI_ItemInfo_FinishStyle_${item.style ?? 0}`,
-                    legacy_model: !!item.use_legacy_model ?? false,
-                };
-            }
-            return acc;
-        },
-        {}
-    );
+    state.paintKits = Object.entries(state.itemsGame.paint_kits).reduce((acc, [key, item]) => {
+        if (item.description_tag !== undefined) {
+            acc[item.name.toLowerCase()] = {
+                description_tag: item.description_tag,
+                wear_remap_min: item.wear_remap_min ?? 0.06,
+                wear_remap_max: item.wear_remap_max ?? 0.8,
+                paint_index: key,
+                style_id: item.style ?? 0,
+                style_name: `SFUI_ItemInfo_FinishStyle_${item.style ?? 0}`,
+                legacy_model: !!item.use_legacy_model ?? false,
+            };
+        }
+        return acc;
+    }, {});
 };
 
 export const loadMusicDefinitions = () => {
-    state.musicDefinitions = Object.entries(state.itemsGame.music_definitions)
-        .map(([key, item]) => ({
-            ...item,
-            object_id: key,
-            loc_name: item.loc_name,
-            loc_description: item.loc_description,
-            coupon_name: `coupon_${item.name}`,
-        }));
+    state.musicDefinitions = Object.entries(state.itemsGame.music_definitions).map(([key, item]) => ({
+        ...item,
+        object_id: key,
+        loc_name: item.loc_name,
+        loc_description: item.loc_description,
+        coupon_name: `coupon_${item.name}`,
+    }));
 
-    state.musicDefinitionsObj = Object.fromEntries(
-        state.musicDefinitions.map((item) => [item.name, item])
-    );
+    state.musicDefinitionsObj = Object.fromEntries(state.musicDefinitions.map(item => [item.name, item]));
 };
 
 export const loadClientLootLists = () => {
@@ -317,31 +216,21 @@ export const loadRarities = () => {
         },
     };
 
-    const rarities = new Set([
-        "common",
-        "uncommon",
-        "rare",
-        "mythical",
-        "legendary",
-        "ancient",
-    ]);
+    const rarities = new Set(["common", "uncommon", "rare", "mythical", "legendary", "ancient"]);
 
-    const items = Object.entries(state.itemsGame.client_loot_lists).reduce(
-        (acc, [name, keys]) => {
-            const rarity = name.split("_").pop();
+    const items = Object.entries(state.itemsGame.client_loot_lists).reduce((acc, [name, keys]) => {
+        const rarity = name.split("_").pop();
 
-            if (rarities.has(rarity)) {
-                for (const key in keys) {
-                    if (key.includes("[")) {
-                        acc[key.toLowerCase()] = { rarity: rarity };
-                    }
+        if (rarities.has(rarity)) {
+            for (const key in keys) {
+                if (key.includes("[")) {
+                    acc[key.toLowerCase()] = { rarity: rarity };
                 }
             }
+        }
 
-            return acc;
-        },
-        hardCoded
-    );
+        return acc;
+    }, hardCoded);
 
     state.rarities = items;
 };
@@ -393,9 +282,7 @@ export const loadSkinsByCrates = () => {
                     "set_lake",
                     "set_train",
                     "set_mirage",
-                ].flatMap((set) =>
-                    Object.keys(extractItems(set, clientLootLists)).map(getItemFromKey)
-                );
+                ].flatMap(set => Object.keys(extractItems(set, clientLootLists)).map(getItemFromKey));
 
                 items[item].push(getItemFromKey("[sp_tape]weapon_revolver"));
 
@@ -411,19 +298,15 @@ export const loadSkinsByCrates = () => {
                     "set_lake",
                     "set_train",
                     "set_mirage",
-                ].flatMap((set) =>
-                    Object.keys(extractItems(set, clientLootLists)).map(getItemFromKey)
-                );
+                ].flatMap(set => Object.keys(extractItems(set, clientLootLists)).map(getItemFromKey));
 
                 return items;
             }
 
-            items[item] = Object.keys(extractItems(item, clientLootLists)).map(
-                getItemFromKey
-            );
+            items[item] = Object.keys(extractItems(item, clientLootLists)).map(getItemFromKey);
 
             if (item.includes("_stattrak_") && item.includes("musickit")) {
-                items[item] = items[item].map((item) => ({
+                items[item] = items[item].map(item => ({
                     ...item,
                     id: `${item.id}_st`,
                     name: `${item.name}_stattrak`,
@@ -438,9 +321,7 @@ export const loadSkinsByCrates = () => {
 
         // Rare special
         ...Object.values(revolvingLootLists).reduce((items, item) => {
-            items[`rare--${item}`] = extractRareItems(item, clientLootLists).map(
-                getItemFromKey
-            );
+            items[`rare--${item}`] = extractRareItems(item, clientLootLists).map(getItemFromKey);
 
             return items;
         }, {}),
@@ -457,48 +338,47 @@ export const loadyCratesBySkins = () => {
     };
 
     state.cratesBySkins = {
-        ...Object.entries(state.skinsByCrates).reduce(
-            (acc, [crateKey, itemsList]) => {
-                crateKey = crateKey.replace("rare--", "");
+        ...Object.entries(state.skinsByCrates).reduce((acc, [crateKey, itemsList]) => {
+            crateKey = crateKey.replace("rare--", "");
 
-                itemsList.forEach((item) => {
-                    if (!(item.id in acc)) {
-                        acc[item.id] = [];
-                    }
+            itemsList.forEach(item => {
+                if (!(item.id in acc)) {
+                    acc[item.id] = [];
+                }
 
-                    const lootList = Object.entries(state.revolvingLootLists).find(
-                        ([id, item]) => item === crateKey
+                const lootList = Object.entries(state.revolvingLootLists).find(
+                    ([id, item]) => item === crateKey
+                );
+
+                const crateItem =
+                    hardCodedCrates[crateKey] ||
+                    state.items[crateKey] ||
+                    Object.values(state.items).find(
+                        i => i.attributes?.["set supply crate series"]?.value == lootList?.[0]
                     );
 
-                    const crateItem =
-                        hardCodedCrates[crateKey] ||
-                        state.items[crateKey] ||
-                        Object.values(state.items).find(
-                            (i) =>
-                                i.attributes?.["set supply crate series"]?.value ==
-                                lootList?.[0]
-                        );
+                if (crateItem != null) {
+                    acc[item.id].push({
+                        id: `crate-${crateItem.object_id}`,
+                        name: crateItem.item_name,
+                        image:
+                            state.cdnImages[crateItem?.image_inventory?.toLowerCase()] ??
+                            getImageUrl(crateItem?.image_inventory?.toLowerCase()),
+                    });
+                }
+            });
 
-                    if (crateItem != null) {
-                        acc[item.id].push({
-                            id: `crate-${crateItem.object_id}`,
-                            name: crateItem.item_name,
-                            image: getImageUrl(crateItem?.image_inventory?.toLowerCase()),
-                        });
-                    }
-                });
-
-                return acc;
-            },
-            {}
-        ),
+            return acc;
+        }, {}),
     };
 };
 
 export const loadSkinsByCollections = () => {
     state.skinsByCollections = Object.entries(state.itemsGame.item_sets).reduce(
         (items, [key, value]) => {
-            items[key] = Object.keys(value.items).map((item) => getItemFromKey(item)).filter(Boolean);
+            items[key] = Object.keys(value.items)
+                .map(item => getItemFromKey(item))
+                .filter(Boolean);
             return items;
         },
         {
@@ -568,7 +448,7 @@ export const loadCratesByCollections = () => {
     state.cratesByCollections = Object.entries(state.skinsByCollections).reduce(
         (acc, [collection, items]) => {
             const itemsId = [...new Set(items.map(({ id }) => id))];
-            const crates = itemsId.flatMap((id) => state.cratesBySkins[id] ?? []);
+            const crates = itemsId.flatMap(id => state.cratesBySkins[id] ?? []);
 
             acc[collection] = filterUniqueByAttribute(crates, "id");
 
@@ -582,7 +462,7 @@ export const loadCollectionsBySkins = () => {
         (acc, [crateKey, itemsList]) => {
             crateKey = crateKey.replace("rare--", "");
 
-            itemsList.forEach((item) => {
+            itemsList.forEach(item => {
                 if (!(item.id in acc)) {
                     acc[item.id] = [];
                 }
@@ -591,13 +471,11 @@ export const loadCollectionsBySkins = () => {
 
                 if (crateItem != null) {
                     acc[item.id].push({
-                        id: `collection-${crateItem.name
-                            .replace("#CSGO_", "")
-                            .replace(/_/g, "-")}`,
+                        id: `collection-${crateItem.name.replace("#CSGO_", "").replace(/_/g, "-")}`,
                         name: crateItem.name_force ?? crateItem.name,
-                        image: getImageUrl(
-                            `econ/set_icons/${crateItem.name.replace("#CSGO_", "")}`
-                        ),
+                        image:
+                            state.cdnImages[`econ/set_icons/${crateItem.name.replace("#CSGO_", "")}`] ??
+                            getImageUrl(`econ/set_icons/${crateItem.name.replace("#CSGO_", "")}`),
                     });
                 }
             });
@@ -608,18 +486,54 @@ export const loadCollectionsBySkins = () => {
     );
 };
 
+export const loadCollectionsByStickers = () => {
+    state.collectionsByStickers = Object.entries(state.itemsGame.item_sets)
+        .filter(([key, value]) => {
+            // Only include item sets that have stickers and are collections
+            return (
+                value.is_collection &&
+                Object.keys(value.items).some(
+                    itemKey => itemKey.includes("[") && itemKey.includes("]sticker")
+                )
+            );
+        })
+        .reduce((acc, [collectionKey, itemSet]) => {
+            Object.keys(itemSet.items)
+                .filter(itemKey => itemKey.includes("[") && itemKey.includes("]sticker"))
+                .forEach(itemKey => {
+                    const stickerItem = getItemFromKey(itemKey);
+                    if (stickerItem && stickerItem.id) {
+                        if (!(stickerItem.id in acc)) {
+                            acc[stickerItem.id] = [];
+                        }
+
+                        const fileName = collectionKey.replace("set_", "");
+                        acc[stickerItem.id].push({
+                            id: `collection-set-${fileName.replace(/_/g, "-")}`,
+                            name: itemSet.name_force ?? itemSet.name,
+                            image:
+                                state.cdnImages[`econ/set_icons/set_${fileName}`] ??
+                                getImageUrl(`econ/set_icons/set_${fileName}`),
+                        });
+                    }
+                });
+            return acc;
+        }, {});
+};
+
 export const loadSouvenirSkins = () => {
     state.souvenirSkins = {
         ...Object.values(state.items)
-            .filter((item) => {
-                return item.prefab === "weapon_case_souvenirpkg" || item.prefab?.includes("_souvenir_crate_promo_prefab");
+            .filter(item => {
+                return (
+                    item.prefab === "weapon_case_souvenirpkg" ||
+                    item.prefab?.includes("_souvenir_crate_promo_prefab")
+                );
             })
-            .map((item) => {
+            .map(item => {
                 const lootListName = item?.loot_list_name ?? null;
-                const attributeValue =
-                    item.attributes?.["set supply crate series"]?.value ?? null;
-                const keyLootList =
-                    lootListName ?? state.revolvingLootLists[attributeValue] ?? null;
+                const attributeValue = item.attributes?.["set supply crate series"]?.value ?? null;
+                const keyLootList = lootListName ?? state.revolvingLootLists[attributeValue] ?? null;
 
                 return (
                     state.skinsByCrates?.[item.tags?.ItemSet?.tag_value] ??
@@ -627,7 +541,7 @@ export const loadSouvenirSkins = () => {
                     []
                 );
             })
-            .flatMap((level1) => level1)
+            .flatMap(level1 => level1)
             .reduce((acc, item) => ({ ...acc, [item.id]: true }), {}),
 
         "skin-e73d6e7e9004": true, // MP5-SD | Lab Rats
@@ -639,8 +553,9 @@ export const loadStattrakSkins = () => {
 
     const crates = {};
 
-    Object.values(items).forEach((item) => {
-        if (item.prefab === "weapon_case") {
+    Object.values(items).forEach(item => {
+        const prefab = (item.prefab || "").split(" ");
+        if (prefab.includes("weapon_case") || prefab.includes("volatile_pricing")) {
             const name = item?.tags?.ItemSet?.tag_value;
 
             if (name !== undefined) {
@@ -656,9 +571,9 @@ export const loadStattrakSkins = () => {
 
     const skipCollections = ["#CSGO_set_dust_2_2021"];
 
-    itemSets.forEach((item) => {
+    itemSets.forEach(item => {
         if (item.is_collection && !skipCollections.includes(item.name)) {
-            Object.keys(item.items).forEach((key) => {
+            Object.keys(item.items).forEach(key => {
                 if (crates[item.name.replace("#CSGO_", "")] !== undefined) {
                     result[key.toLocaleLowerCase()] = true;
                 }
@@ -670,27 +585,63 @@ export const loadStattrakSkins = () => {
 };
 
 export const loadHighlights = () => {
-    state.highlightReels = Object.entries(state.itemsGame.highlight_reels).map(([_, item]) => {
-        const tournamentString = String(item['tournament event id']).padStart(3, '0');
-        const matchString = `${String(item['tournament event team0 id']).padStart(3, '0')}v${String(item['tournament event team1 id']).padStart(3, '0')}_${String(item['tournament event stage id']).padStart(3, '0')}`;
-        
+    state.highlightReels = Object.entries(state.itemsGame.highlight_reels).map(([id, item]) => {
+        const tournamentString = String(item["tournament event id"]).padStart(3, "0");
+        const matchString = `${String(item["tournament event team0 id"]).padStart(3, "0")}v${String(item["tournament event team1 id"]).padStart(3, "0")}_${String(item["tournament event stage id"]).padStart(3, "0")}`;
+
         const video = `https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/${tournamentString}/${matchString}/${tournamentString}_${matchString}_${item.map}_${item.id}_ww_1080p.webm`;
-        
+
         return {
             id: item.id,
-            tournament_event_id: item['tournament event id'],
-            tournament_event_team0_id: item['tournament event team0 id'],
-            tournament_event_team1_id: item['tournament event team1 id'],
-            tournament_event_stage_id: item['tournament event stage id'],
+            highlight_reel: id,
+            tournament_event_id: item["tournament event id"],
+            tournament_event_team0_id: item["tournament event team0 id"],
+            tournament_event_team1_id: item["tournament event team1 id"],
+            tournament_event_stage_id: item["tournament event stage id"],
             tournament_event_map: item.map,
             tournament_player: getPlayerNameOfHighlight(item.id, state.players),
-            image: getImageUrl(`econ/keychains/${item.id.split('_')[0]}/kc_${item.id.split('_')[0]}`),
+            image: getImageUrl(`econ/keychains/${item.id.split("_")[0]}/kc_${item.id.split("_")[0]}`),
+            image_inventory: `econ/keychains/${item.id.split("_")[0]}/kc_${item.id.split("_")[0]}`,
             video: video,
+            thumbnail: `https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/refs/heads/main/static/highlightreels/ww/${id}.webp`,
         };
     });
 };
 
-const getItemFromKey = (key) => {
+export const loadProTeams = () => {
+    state.proTeams = Object.entries(state.itemsGame.pro_teams).reduce((acc, [id, item]) => {
+        acc[id] = {
+            id: parseInt(id),
+            tag: item.tag,
+            geo: item.geo,
+        };
+        return acc;
+    }, {});
+};
+
+export const loadProPlayers = () => {
+    state.proPlayers = Object.entries(state.itemsGame.pro_players).reduce((acc, [id, item]) => {
+        acc[id] = {
+            id: parseInt(id),
+            name: item.name,
+            code: item.code,
+            dob: item.dob,
+            geo: item.geo,
+        };
+        return acc;
+    }, {});
+};
+
+export const loadImagesInventory = async () => {
+    try {
+        const response = await axios.get(IMAGES_INVENTORY_URL);
+        state.cdnImages = response.data;
+    } catch (error) {
+        throw new Error(`Error loading images inventory`, { cause: error });
+    }
+};
+
+const getItemFromKey = key => {
     const {
         items,
         itemsGame,
@@ -707,7 +658,9 @@ const getItemFromKey = (key) => {
             id: `collectible-${pin.object_id}`,
             name: pin.item_name,
             rarity: `rarity_${pin.item_rarity}`,
-            image: getImageUrl(pin.image_inventory),
+            image:
+                state.cdnImages[pin.image_inventory.toLowerCase()] ??
+                getImageUrl(pin.image_inventory.toLowerCase()),
         };
     }
 
@@ -717,7 +670,9 @@ const getItemFromKey = (key) => {
             id: `agent-${agent.object_id}`,
             name: agent.item_name,
             rarity: `rarity_${agent.item_rarity}_character`,
-            image: getImageUrl(`econ/characters/${agent.name.toLocaleLowerCase()}`),
+            image:
+                state.cdnImages[`econ/characters/${agent.name.toLocaleLowerCase()}`] ??
+                getImageUrl(`econ/characters/${agent.name.toLocaleLowerCase()}`),
         };
     }
 
@@ -728,8 +683,8 @@ const getItemFromKey = (key) => {
     }
     let { name, type } = match.groups;
 
-    if (name === 'cu_bizon_Curse') {
-        name = name.toLowerCase()
+    if (name === "cu_bizon_Curse") {
+        name = name.toLowerCase();
     }
 
     if (type === "sticker") {
@@ -738,9 +693,9 @@ const getItemFromKey = (key) => {
             id: `${type}-${sticker.object_id}`,
             name: sticker.item_name,
             rarity: `rarity_${sticker.item_rarity}`,
-            image: getImageUrl(
-                `econ/stickers/${sticker.sticker_material.toLowerCase()}`
-            ),
+            image:
+                state.cdnImages[`econ/stickers/${sticker.sticker_material.toLowerCase()}`] ??
+                getImageUrl(`econ/stickers/${sticker.sticker_material.toLowerCase()}`),
         };
     }
 
@@ -750,7 +705,9 @@ const getItemFromKey = (key) => {
             id: `${type}-${patch.object_id}`,
             name: patch.item_name,
             rarity: `rarity_${patch.item_rarity}`,
-            image: getImageUrl(`econ/patches/${patch.patch_material}`),
+            image:
+                state.cdnImages[`econ/patches/${patch.patch_material}`] ??
+                getImageUrl(`econ/patches/${patch.patch_material}`),
         };
     }
 
@@ -758,18 +715,16 @@ const getItemFromKey = (key) => {
         const graffiti = stickerKitsObj[name];
         const variations = getGraffitiVariations(name);
         const variationsIndex =
-            variations[0] === 0
-                ? Array.from({ length: 19 }, (_, index) => index + 1)
-                : variations;
+            variations[0] === 0 ? Array.from({ length: 19 }, (_, index) => index + 1) : variations;
 
         if (variationsIndex.length > 0) {
-            return variationsIndex.map((index) => ({
+            return variationsIndex.map(index => ({
                 id: `graffiti-${graffiti.object_id}_${index}`,
                 name: graffiti.item_name,
                 rarity: `rarity_${graffiti.item_rarity}`,
-                image: getImageUrl(
-                    `econ/stickers/${graffiti.sticker_material}_${index}`
-                ),
+                image:
+                    state.cdnImages[`econ/stickers/${graffiti.sticker_material}_${index}`] ??
+                    getImageUrl(`econ/stickers/${graffiti.sticker_material}_${index}`),
             }));
         }
 
@@ -777,7 +732,9 @@ const getItemFromKey = (key) => {
             id: `graffiti-${graffiti.object_id}`,
             name: graffiti.item_name,
             rarity: `rarity_${graffiti.item_rarity}`,
-            image: getImageUrl(`econ/stickers/${graffiti.sticker_material}`),
+            image:
+                state.cdnImages[`econ/stickers/${graffiti.sticker_material}`] ??
+                getImageUrl(`econ/stickers/${graffiti.sticker_material}`),
         };
     }
 
@@ -788,7 +745,9 @@ const getItemFromKey = (key) => {
             id: `music_kit-${kit.object_id}`,
             name: exclusive ? kit.loc_name : kit.coupon_name,
             rarity: "rarity_rare",
-            image: getImageUrl(kit.image_inventory),
+            image:
+                state.cdnImages[kit.image_inventory.toLowerCase()] ??
+                getImageUrl(kit.image_inventory.toLowerCase()),
         };
     }
 
@@ -798,7 +757,9 @@ const getItemFromKey = (key) => {
             id: `keychain-${keychain.object_id}`,
             name: keychain.loc_name,
             rarity: `rarity_${keychain.item_rarity}`,
-            image: getImageUrl(keychain.image_inventory.toLowerCase()),
+            image:
+                state.cdnImages[keychain.image_inventory.toLowerCase()] ??
+                getImageUrl(keychain.image_inventory.toLowerCase()),
         };
     }
 
@@ -820,39 +781,36 @@ const getItemFromKey = (key) => {
         let paint_index = null;
         let phase = null;
         let image = null;
-        const translatedName = !isNotWeapon(type)
-            ? items[type].item_name_prefab
-            : items[type]?.item_name;
+        const translatedName = !isNotWeapon(type) ? items[type].item_name_prefab : items[type]?.item_name;
 
-        const isKnife =
-            type.includes("weapon_knife") || type.includes("weapon_bayonet");
+        const isKnife = type.includes("weapon_knife") || type.includes("weapon_bayonet");
 
         const rarity = !isNotWeapon(type)
             ? `rarity_${rarities[key.toLocaleLowerCase()].rarity}_weapon`
             : isKnife
-                ? // Knives are 'Covert'
+              ? // Knives are 'Covert'
                 `rarity_ancient_weapon`
-                : // Gloves are 'Extraordinary'
+              : // Gloves are 'Extraordinary'
                 `rarity_ancient`;
 
         // Not the best way to add vanilla knives.
         if (name === "vanilla") {
-            const knife = knives.find((k) => k.name == type);
+            const knife = knives.find(k => k.name == type);
             id = `skin-vanilla-${type}`;
             itemName = {
                 tKey: "rare_special_vanilla",
                 weapon: knife.item_name,
             };
-            image = getImageUrl(`econ/weapons/base_weapons/${knife.name}`);
+            image =
+                state.cdnImages[`econ/weapons/base_weapons/${knife.name}`] ??
+                getImageUrl(`econ/weapons/base_weapons/${knife.name}`);
         } else {
-            const weaponIcons = Object.entries(
-                itemsGame.alternate_icons2.weapon_icons
-            ).find(
-                ([, value]) => value.icon_path.includes(`${type}_${name}_light`)
+            const weaponIcons = Object.entries(itemsGame.alternate_icons2.weapon_icons).find(([, value]) =>
+                value.icon_path.includes(`${type}_${name}_light`)
             );
 
             if (!weaponIcons) {
-                console.log('[ERROR] Weapon icon not found', type, name)
+                console.log("[ERROR] Weapon icon not found", type, name);
                 return null;
             }
 
@@ -864,7 +822,11 @@ const getItemFromKey = (key) => {
             };
             paint_index = paintKits[name.toLowerCase()]?.paint_index;
             phase = getDopplerPhase(paintKits[name.toLowerCase()].paint_index);
-            image = getImageUrl(`${weaponIcons[1].icon_path.toLowerCase()}`);
+            image =
+                state.cdnImages[`${weaponIcons[1].icon_path.toLowerCase()}`] ??
+                state.cdnImages[`${weaponIcons[1].icon_path.toLowerCase().replace(/_light$/, "_medium")}`] ??
+                state.cdnImages[`${weaponIcons[1].icon_path.toLowerCase().replace(/_light$/, "_heavy")}`] ??
+                getImageUrl(`${weaponIcons[1].icon_path.toLowerCase()}`);
         }
 
         return {
@@ -883,27 +845,20 @@ const getItemFromKey = (key) => {
 export const getManifestId = async () => {
     return axios
         .get(
-            `https://raw.githubusercontent.com/matttttt/counter-strike-file-tracker/main/static/manifestId.txt`
+            "https://raw.githubusercontent.com/matttttt/counter-strike-file-tracker/main/static/manifestId.txt"
         )
-        .then((data) => data.data)
-        .catch(() => {
-            throw new Error(`Error loading latest manifest Id`);
-        });
-};
-
-export const getManifestIdFromImageTracker = async () => {
-    return axios
-        .get(
-            `https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/manifestId.txt`
-        )
-        .then((data) => data.data)
-        .catch(() => {
-            throw new Error(`Error loading latest manifest Id`);
+        .then(response => {
+            // Decode base64 content and trim whitespace
+            return Buffer.from(response.data.content, "base64").toString("utf-8").trim();
+        })
+        .catch(error => {
+            throw new Error(`Error getting manifestId`, { cause: error });
         });
 };
 
 export const loadData = async () => {
     await loadItemsGame();
+    await loadImagesInventory();
     loadPrefabs();
     loadItems();
     loadItemSets();
@@ -919,7 +874,10 @@ export const loadData = async () => {
     loadSkinsByCollections();
     loadCratesByCollections();
     loadCollectionsBySkins();
+    loadCollectionsByStickers();
     loadSouvenirSkins();
     loadStattrakSkins();
     loadHighlights();
+    loadProTeams();
+    loadProPlayers();
 };
