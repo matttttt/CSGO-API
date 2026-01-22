@@ -4,8 +4,18 @@ import { state } from "./main.js";
 import { getRarityColor, isExclusive } from "../utils/index.js";
 import { getImageUrl } from "../constants.js";
 
-const parseItem = (item) => {
-    const image = getImageUrl(item.image_inventory.toLowerCase());
+const getDescription = (item, isStattrak) => {
+    const stattrakText = isStattrak
+        ? `<span style='color:#99ccff;'>${$t("attrib_killeater")}</span><br/><br/><span style='color:#cf6a32;'>${$t("killeaterdescriptionnotice_ocmvps")}</span><br/><br/>`
+        : "";
+
+    return `${stattrakText}${$t("csgo_musickit_desc")}<br/><br/>${$t(item.loc_description)}`;
+};
+
+const parseItem = item => {
+    const { cdnImages } = state;
+    const image =
+        cdnImages[item.image_inventory.toLowerCase()] ?? getImageUrl(item.image_inventory.toLowerCase());
     const exclusive = isExclusive(item.name);
     const valve = ["valve_01", "valve_02", "valve_cs2_01"].includes(item.name);
 
@@ -18,53 +28,67 @@ const parseItem = (item) => {
     }
 
     const kitsOnlyStattrak = [
-        'beartooth_02',
-        'blitzkids_01',
-        'hundredth_01',
-        'neckdeep_01',
-        'roam_01',
-        'twinatlantic_01',
-        'skog_03'
-    ]
+        "beartooth_02",
+        "blitzkids_01",
+        "hundredth_01",
+        "neckdeep_01",
+        "roam_01",
+        "twinatlantic_01",
+        "skog_03",
+    ];
 
-    let kits = []
+    let kits = [];
 
     if (!kitsOnlyStattrak.includes(item.name)) {
         const normalMusicKit = {
             id: `music_kit-${item.object_id}`,
-            name: (exclusive || valve) ? $t(item.loc_name) : $t(item.coupon_name),
-            description: $t(item.loc_description),
+            name: exclusive || valve ? $t(item.loc_name) : $t(item.coupon_name),
+            description: getDescription(item, false),
             def_index: item.object_id,
             rarity: {
                 id: "rarity_rare",
                 name: $t("rarity_rare"),
                 color: getRarityColor(`rarity_rare`),
             },
-            market_hash_name: (exclusive || valve) ? null : `Music Kit | ${$t(`musickit_${item.name}`, true)}`,
+            market_hash_name: exclusive || valve ? null : `Music Kit | ${$t(`musickit_${item.name}`, true)}`,
             exclusive,
             image,
+
+            // Return original attributes from item_game.json
+            original: {
+                name: item.name,
+                image_inventory: item.image_inventory.toLowerCase(),
+            },
         };
 
-        kits.push(normalMusicKit)
+        kits.push(normalMusicKit);
     }
 
     if ($t(`${item.coupon_name}_stattrak`)) {
         const stattrakMusicKit = {
             id: `music_kit-${item.object_id}_st`,
             name: $t(`${item.coupon_name}_stattrak`),
-            description: $t(item.loc_description),
+            description: getDescription(item, true),
             def_index: item.object_id,
             rarity: {
                 id: "rarity_rare",
                 name: $t("rarity_rare"),
                 color: getRarityColor(`rarity_rare`),
             },
-            market_hash_name: exclusive ? null : `StatTrak™ Music Kit | ${$t(`musickit_${item.name}`, true)}`,
+            market_hash_name: exclusive
+                ? null
+                : `StatTrak™ Music Kit | ${$t(`musickit_${item.name}`, true)}`,
             exclusive: false,
             image,
+
+            // Return original attributes from item_game.json
+            original: {
+                name: item.name,
+                image_inventory: item.image_inventory.toLowerCase(),
+            },
         };
 
-        kits.push(stattrakMusicKit)
+        kits.push(stattrakMusicKit);
     }
 
     return kits;
@@ -74,9 +98,7 @@ export const getMusicKits = () => {
     const { musicDefinitions } = state;
     const { folder } = languageData;
 
-    const musicKits = musicDefinitions
-        .map(parseItem)
-        .reduce((acc, kits) => acc.concat(kits), []);
+    const musicKits = musicDefinitions.map(parseItem).reduce((acc, kits) => acc.concat(kits), []);
 
     saveDataJson(`./public/api/${folder}/music_kits.json`, musicKits);
 };
