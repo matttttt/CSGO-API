@@ -3,7 +3,7 @@ import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
 import { getImageUrl } from "../constants.js";
 
-const isKey = (item) => {
+const isKey = item => {
     if (item.item_name === undefined) {
         return false;
     }
@@ -31,8 +31,8 @@ const isKey = (item) => {
     return true;
 };
 
-const parseItem = (item) => {
-    const { items } = state;
+const parseItem = item => {
+    const { items, cdnImages } = state;
 
     const marketable = [
         "#CSGO_Tool_WeaponCase_Key",
@@ -74,30 +74,39 @@ const parseItem = (item) => {
         // "#CSGO_crate_key_community_33",
         // "#CSGO_crate_key_community_34",
         // "#CSGO_crate_key_community_35",
-    ]
+    ];
 
-    const image = getImageUrl(item.image_inventory.toLowerCase());
+    const image =
+        cdnImages[item.image_inventory.toLowerCase()] ?? getImageUrl(item.image_inventory.toLowerCase());
     const crates = Object.values(items)
         .filter(
-            (crate) =>
+            crate =>
                 ["sticker_capsule", "weapon_case"].includes(crate.prefab) &&
                 crate?.tool?.restriction === item.tool?.restriction
         )
-        .map((crate) => ({
+        .map(crate => ({
             id: `crate-${crate.object_id}`,
             name: $t(crate.item_name),
-            image: getImageUrl(crate.image_inventory.toLowerCase()),
+            image:
+                cdnImages[crate.image_inventory.toLowerCase()] ??
+                getImageUrl(crate.image_inventory.toLowerCase()),
         }));
 
     return {
         id: `key-${item.object_id}`,
         name: $t(item.item_name),
-        description:
-            $t(item.item_description) ?? $t(item.item_description_prefab),
+        description: $t(item.item_description) ?? $t(item.item_description_prefab),
+        def_index: item.object_id,
         crates,
         market_hash_name: marketable.includes(item.item_name) ? $t(item.item_name, true) : null,
         marketable: marketable.includes(item.item_name),
         image,
+
+        // Return original attributes from item_game.json
+        original: {
+            item_name: item.item_name,
+            image_inventory: item.image_inventory.toLowerCase(),
+        },
     };
 };
 
@@ -109,7 +118,7 @@ export const getKeys = () => {
     const keys = [
         // Hardcoded generic valve key that I can't find in `items`.
         {
-            object_id: "generic_valve_key",
+            object_id: "1203",
             item_name: "#CSGO_Tool_WeaponCase_Key",
             item_description: "#CSGO_Tool_WeaponCase_Key_Desc",
             image_inventory: "econ/tools/weapon_case_key",
