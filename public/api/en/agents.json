@@ -13,7 +13,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -21,8 +21,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Bloody Darryl The Strapped | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_varf5_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_varf5.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WWlKAhtLhqHXDilxgm4z7dztesJH2SbgApCMchFrQNsRSxw4XhYeK0swbYlcsbmucxTysR",
+  "model_player": "characters/models/tm_professional/tm_professional_varf5.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_varf5",
+   "image_inventory": "econ/characters/customplayer_tm_professional_varf5"
+  }
  },
  {
   "id": "agent-4619",
@@ -38,7 +42,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -46,8 +50,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "'Blueberries' Buckshot | NSWC SEAL",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_st6_variantj_png.png",
-  "model_player": "characters/models/ctm_st6/ctm_st6_variantj.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6XRk-fO8YaVjNPrdXWLElL5ytbBsTXrqzUxzsWmHzN-gI3-TbwQmC5pzQLELsUbrx9bmP_SiuVJe8Pfo4Q",
+  "model_player": "characters/models/ctm_st6/ctm_st6_variantj.vmdl",
+  "original": {
+   "name": "customplayer_ctm_st6_variantj",
+   "image_inventory": "econ/characters/customplayer_ctm_st6_variantj"
+  }
  },
  {
   "id": "agent-4680",
@@ -63,7 +71,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -71,8 +79,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "'Two Times' McCoy | TACP Cavalry",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_st6_variantl_png.png",
-  "model_player": "characters/models/ctm_st6/ctm_st6_variantl.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6XRk-fO8YaVjNPzdCGbJxb1zs-JvGCrql0h3tm7cyov_JS-XblImDcAhQe8OtBK4k4bgZPSiuVIHzmbjrQ",
+  "model_player": "characters/models/ctm_st6/ctm_st6_variantl.vmdl",
+  "original": {
+   "name": "customplayer_ctm_st6_variantl",
+   "image_inventory": "econ/characters/customplayer_ctm_st6_variantl"
+  }
  },
  {
   "id": "agent-4711",
@@ -88,7 +100,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -96,8 +108,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Cmdr. Mae 'Dead Cold' Jamison | SWAT",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_swat_variante_png.png",
-  "model_player": "characters/models/ctm_swat/ctm_swat_variante.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6iNP0OSveq1sLuSWQDGVlbx34-Q8HC3nk012tWzTzY79JHiQOgYpW8B3EeYN40HtxtzlNuz8p1uJLMIs6sE",
+  "model_player": "characters/models/ctm_swat/ctm_swat_variante.vmdl",
+  "original": {
+   "name": "customplayer_ctm_swat_variante",
+   "image_inventory": "econ/characters/customplayer_ctm_swat_variante"
+  }
  },
  {
   "id": "agent-4712",
@@ -113,7 +129,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -121,8 +137,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "1st Lieutenant Farlow | SWAT",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_swat_variantf_png.png",
-  "model_player": "characters/models/ctm_swat/ctm_swat_variantf.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6iNP0OSveq1sLuSVQGLFx7h0tbU6GHG1lERz62WEm9j6cimebgB0WZd4Ee4Ks0a-lNbjZrj8p1uJLRQDiME",
+  "model_player": "characters/models/ctm_swat/ctm_swat_variantf.vmdl",
+  "original": {
+   "name": "customplayer_ctm_swat_variantf",
+   "image_inventory": "econ/characters/customplayer_ctm_swat_variantf"
+  }
  },
  {
   "id": "agent-4713",
@@ -138,7 +158,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -146,8 +166,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "John 'Van Healen' Kask | SWAT",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_swat_variantg_png.png",
-  "model_player": "characters/models/ctm_swat/ctm_swat_variantg.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6iNP0OSveq1sLuSUQDLIle0jtOM-SXm2xBkjsW_dyImhc3iWOgcmAsR0TLVe4BjrkIWzN-P8p1uJ4p5BSY8",
+  "model_player": "characters/models/ctm_swat/ctm_swat_variantg.vmdl",
+  "original": {
+   "name": "customplayer_ctm_swat_variantg",
+   "image_inventory": "econ/characters/customplayer_ctm_swat_variantg"
+  }
  },
  {
   "id": "agent-4714",
@@ -163,7 +187,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -171,8 +195,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Bio-Haz Specialist | SWAT",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_swat_varianth_png.png",
-  "model_player": "characters/models/ctm_swat/ctm_swat_varianth.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6iNP0OSveq1sLuSbQDPGkO0i4bE4THq1xRh3sjuEz9muJX7EZlIiC8RyQbIPsBPtk9fmNrj8p1uJwRLd8H0",
+  "model_player": "characters/models/ctm_swat/ctm_swat_varianth.vmdl",
+  "original": {
+   "name": "customplayer_ctm_swat_varianth",
+   "image_inventory": "econ/characters/customplayer_ctm_swat_varianth"
+  }
  },
  {
   "id": "agent-4715",
@@ -188,7 +216,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -196,8 +224,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Sergeant Bombson | SWAT",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_swat_varianti_png.png",
-  "model_player": "characters/models/ctm_swat/ctm_swat_varianti.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6iNP0OSveq1sLuSaQD6Umbp15-RtHX21kxl-sG-Gy9f6ci2XPA8lDMAiTbJc5BfuwNXgYbn8p1uJ3rbO8bk",
+  "model_player": "characters/models/ctm_swat/ctm_swat_varianti.vmdl",
+  "original": {
+   "name": "customplayer_ctm_swat_varianti",
+   "image_inventory": "econ/characters/customplayer_ctm_swat_varianti"
+  }
  },
  {
   "id": "agent-4716",
@@ -213,7 +245,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -221,8 +253,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Chem-Haz Specialist | SWAT",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_swat_variantj_png.png",
-  "model_player": "characters/models/ctm_swat/ctm_swat_variantj.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6iNP0OSveq1sLuSZQGKRmOpyseJsF3rkzR4ht2_TwtugcH7DbAQgW5VyFLIDuxnqmtPiNb78p1uJZinYneA",
+  "model_player": "characters/models/ctm_swat/ctm_swat_variantj.vmdl",
+  "original": {
+   "name": "customplayer_ctm_swat_variantj",
+   "image_inventory": "econ/characters/customplayer_ctm_swat_variantj"
+  }
  },
  {
   "id": "agent-4718",
@@ -238,7 +274,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -246,8 +282,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Rezan the Redshirt | Sabre",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_balkan_variantk_png.png",
-  "model_player": "characters/models/tm_balkan/tm_balkan_variantk.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZTh8Sla4c24abZkIf6HBSnClrkg5eBoGSvikU915G_dyo2vcimTOFAoX8cmR7MDsBS_m4G2Zui2-UWA3FkeyBmz",
+  "model_player": "characters/models/tm_balkan/tm_balkan_variantk.vmdl",
+  "original": {
+   "name": "customplayer_tm_balkan_variantk",
+   "image_inventory": "econ/characters/customplayer_tm_balkan_variantk"
+  }
  },
  {
   "id": "agent-4726",
@@ -263,7 +303,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -271,8 +311,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Sir Bloody Miami Darryl | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_varf_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_varf.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WWj-gn47Q-GH7qxkhwsWjWyN6pJynGZld0CJR3QOdbtRa4lIGxY7_g7wfAy9USZdxTISw",
+  "model_player": "characters/models/tm_professional/tm_professional_varf.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_varf",
+   "image_inventory": "econ/characters/customplayer_tm_professional_varf"
+  }
  },
  {
   "id": "agent-4727",
@@ -288,7 +332,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -296,8 +340,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Safecracker Voltzmann | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_varg_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_varg.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WXj7536LVoFivmkEghsWXQmd37IniRPwUoCMFwEeAItxCwkdXvNr624wXAy9USEc8H9qQ",
+  "model_player": "characters/models/tm_professional/tm_professional_varg.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_varg",
+   "image_inventory": "econ/characters/customplayer_tm_professional_varg"
+  }
  },
  {
   "id": "agent-4728",
@@ -313,7 +361,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -321,8 +369,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Little Kev | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_varh_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_varh.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WYj74g6LVvGyznlB8itm7XyY2od3LBOA4jWcByEe4J40S_kYfmYurm41fAy9USidzQq1U",
+  "model_player": "characters/models/tm_professional/tm_professional_varh.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_varh",
+   "image_inventory": "econ/characters/customplayer_tm_professional_varh"
+  }
  },
  {
   "id": "agent-4730",
@@ -338,7 +390,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -346,8 +398,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Getaway Sally | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_varj_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_varj.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3Waj-0h4LM5H3jjzR9-4zmHzIuucXOWaAEkCsR5FrFcsEG5wNGzNeng71TAy9UScc7Ksy8",
+  "model_player": "characters/models/tm_professional/tm_professional_varj.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_varj",
+   "image_inventory": "econ/characters/customplayer_tm_professional_varj"
+  }
  },
  {
   "id": "agent-4732",
@@ -363,7 +419,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -371,8 +427,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Number K | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_vari_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_vari.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WZj7wuseM-GnG2lh4h5m2EmderdX7DaA9zW8N2QuBbtBG-mty2N-i0tADAy9USaSI87As",
+  "model_player": "characters/models/tm_professional/tm_professional_vari.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_vari",
+   "image_inventory": "econ/characters/customplayer_tm_professional_vari"
+  }
  },
  {
   "id": "agent-4733",
@@ -388,7 +448,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -396,8 +456,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Sir Bloody Silent Darryl | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_varf1_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_varf1.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WWkKAv5OVoGyjilkR14mzcmdz4JHiXaQQiDZAkTO5euxW-loC1Zbm25wSPlcsbmmtPiU71",
+  "model_player": "characters/models/tm_professional/tm_professional_varf1.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_varf1",
+   "image_inventory": "econ/characters/customplayer_tm_professional_varf1"
+  }
  },
  {
   "id": "agent-4734",
@@ -413,7 +477,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -421,8 +485,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Sir Bloody Skullhead Darryl | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_varf2_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_varf2.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WWk6Ajs7FtHni2lh5_smmDnNj8I3yVOFJyW5J5FLRYtxO6l9GxZu7h4AeIlcsbmjPHDP8B",
+  "model_player": "characters/models/tm_professional/tm_professional_varf2.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_varf2",
+   "image_inventory": "econ/characters/customplayer_tm_professional_varf2"
+  }
  },
  {
   "id": "agent-4735",
@@ -438,7 +506,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -446,8 +514,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Sir Bloody Darryl Royale | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_varf3_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_varf3.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WWkqAg6ec5THznk05-4jvXntz7JHjBOwYkDZAhQrZfskXuw9HiN-m3tAfclcsbmmRuIYiQ",
+  "model_player": "characters/models/tm_professional/tm_professional_varf3.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_varf3",
+   "image_inventory": "econ/characters/customplayer_tm_professional_varf3"
+  }
  },
  {
   "id": "agent-4736",
@@ -463,7 +535,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -471,8 +543,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Sir Bloody Loudmouth Darryl | The Professionals",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_professional_varf4_png.png",
-  "model_player": "characters/models/tm_professional/tm_professional_varf4.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WWlaAlsrk9G3C1xkl-5T_Vyo6odSmWPFRzC5FyEONfuhK9lYG2Nem04gPclcsbmsgBcrK7",
+  "model_player": "characters/models/tm_professional/tm_professional_varf4.vmdl",
+  "original": {
+   "name": "customplayer_tm_professional_varf4",
+   "image_inventory": "econ/characters/customplayer_tm_professional_varf4"
+  }
  },
  {
   "id": "agent-4749",
@@ -488,7 +564,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -496,8 +572,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Sous-Lieutenant Medic | Gendarmerie Nationale",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_gendarmerie_varianta_png.png",
-  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_varianta.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nn-Cxf7uCjbbZkJc-FD3WZwOBisa9qTnjhxBwk5D-Ano79cXnGbgYmDJJ2FO4MtxK-l9HnZb_h5Qba3d5N02yg2UOShGfb",
+  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_varianta.vmdl",
+  "original": {
+   "name": "customplayer_ctm_gendarmerie_varianta",
+   "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_varianta"
+  }
  },
  {
   "id": "agent-4750",
@@ -513,7 +593,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -521,8 +601,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Chem-Haz Capitaine | Gendarmerie Nationale",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_gendarmerie_variantb_png.png",
-  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variantb.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nn-Cxf7uCjbbZkJc-FD3WZwOBisq9tGnnhkxt0sTjcwtyrcnqXO1AgDZJyQbEMsxbqwIayZrnhswHfg4gU02yg2bd7mpZ0",
+  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variantb.vmdl",
+  "original": {
+   "name": "customplayer_ctm_gendarmerie_variantb",
+   "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantb"
+  }
  },
  {
   "id": "agent-4751",
@@ -538,7 +622,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -546,8 +630,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_gendarmerie_variantc_png.png",
-  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variantc.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nn-Cxf7uCjbbZkJc-FD3WZwOBis69vSijgx01-4WvUytireS2SalVyDpoiR-MN4Rfsw4HnMem2tgbc3d5B02yg2bQY5H89",
+  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variantc.vmdl",
+  "original": {
+   "name": "customplayer_ctm_gendarmerie_variantc",
+   "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantc"
+  }
  },
  {
   "id": "agent-4752",
@@ -563,7 +651,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -571,8 +659,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Aspirant | Gendarmerie Nationale",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_gendarmerie_variantd_png.png",
-  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variantd.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nn-Cxf7uCjbbZkJc-FD3WZwOBitK8-HH22w0Ul42mAw4r_eSnBPQB0DZp0FOBY4RPsw4a2PrzhtgDdjt5D02yg2f2sw1lc",
+  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variantd.vmdl",
+  "original": {
+   "name": "customplayer_ctm_gendarmerie_variantd",
+   "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantd"
+  }
  },
  {
   "id": "agent-4753",
@@ -588,7 +680,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -596,8 +688,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Officer Jacques Beltram | Gendarmerie Nationale",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_gendarmerie_variante_png.png",
-  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variante.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nn-Cxf7uCjbbZkJc-FD3WZwOBita87GCuxzBwl5jjVyNyveXvCbgQhCsN3EOACsBOwktGyYrnn5FOI3okT02yg2Q7tnUpK",
+  "model_player": "characters/models/ctm_gendarmerie/ctm_gendarmerie_variante.vmdl",
+  "original": {
+   "name": "customplayer_ctm_gendarmerie_variante",
+   "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variante"
+  }
  },
  {
   "id": "agent-4756",
@@ -613,7 +709,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -621,8 +717,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Lieutenant 'Tree Hugger' Farlow | SWAT",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_swat_variantk_png.png",
-  "model_player": "characters/models/ctm_swat/ctm_swat_variantk.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6iNP0OSveq1sLuSYQDDAk75w4bU7FivkkBsj52vWz9f8cCqTbVN0W5R1ELJYukWxkdXmZOr8p1uJJ_LT_Tg",
+  "model_player": "characters/models/ctm_swat/ctm_swat_variantk.vmdl",
+  "original": {
+   "name": "customplayer_ctm_swat_variantk",
+   "image_inventory": "econ/characters/customplayer_ctm_swat_variantk"
+  }
  },
  {
   "id": "agent-4757",
@@ -638,7 +738,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -646,8 +746,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_diver_varianta_png.png",
-  "model_player": "characters/models/ctm_diver/ctm_diver_varianta.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nk9DRe_c24abZkIf6HDymVwLhz4rJsHH6xzEQk5zyDydaudi6XZwJxDJUkRrIItULpw4W1Ybvk-UWA3FCleMc7",
+  "model_player": "characters/models/ctm_diver/ctm_diver_varianta.vmdl",
+  "original": {
+   "name": "customplayer_ctm_diver_varianta",
+   "image_inventory": "econ/characters/customplayer_ctm_diver_varianta"
+  }
  },
  {
   "id": "agent-4771",
@@ -663,7 +767,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -671,8 +775,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_diver_variantb_png.png",
-  "model_player": "characters/models/ctm_diver/ctm_diver_variantb.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nk9DRe_c24abZkIf6HDCmSkrh35uRvHXG1lkp_6zjUzY2gcimRP1N2XJJxTOYKuhDsxNC2YePi-UWA3IGWyCLX",
+  "model_player": "characters/models/ctm_diver/ctm_diver_variantb.vmdl",
+  "original": {
+   "name": "customplayer_ctm_diver_variantb",
+   "image_inventory": "econ/characters/customplayer_ctm_diver_variantb"
+  }
  },
  {
   "id": "agent-4772",
@@ -688,7 +796,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -696,8 +804,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Lieutenant Rex Krikey | SEAL Frogman",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_diver_variantc_png.png",
-  "model_player": "characters/models/ctm_diver/ctm_diver_variantc.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nk9DRe_c24abZkIf6HDSmUxbd05bIxH3vqzRgj4GXTm4qtJXPGbg8oXpt2QeVYs0TpkdDmMuPq-UWA3P4QMOVd",
+  "model_player": "characters/models/ctm_diver/ctm_diver_variantc.vmdl",
+  "original": {
+   "name": "customplayer_ctm_diver_variantc",
+   "image_inventory": "econ/characters/customplayer_ctm_diver_variantc"
+  }
  },
  {
   "id": "agent-4773",
@@ -713,7 +825,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -721,8 +833,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Elite Trapper Solman | Guerrilla Warfare",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_jungle_raider_varianta_png.png",
-  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_varianta.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZz18yVX6s28aa1pJeKsGGaCyO94pOAnSSjqwkUi5W-ByYz4cnyVZlIgDJciQu8LsxXumta0Nrjh4gTf2NpGnzK-0H1TOhLF6Q",
+  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_varianta.vmdl",
+  "original": {
+   "name": "customplayer_tm_jungle_raider_varianta",
+   "image_inventory": "econ/characters/customplayer_tm_jungle_raider_varianta"
+  }
  },
  {
   "id": "agent-4774",
@@ -738,7 +854,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -746,8 +862,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Crasswater The Forgotten | Guerrilla Warfare",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_jungle_raider_variantb_png.png",
-  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantb.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZz18yVX6s28aa1pJeKsGGaCyO94pOMnTH-3kU8m5D6Gz4qodX2SbAdxCJUlROAD5kS7w4WyYuyz4QOMj94QmzK-0H2dcvV-Fg",
+  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantb.vmdl",
+  "original": {
+   "name": "customplayer_tm_jungle_raider_variantb",
+   "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb"
+  }
  },
  {
   "id": "agent-4775",
@@ -763,7 +883,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -771,8 +891,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Arno The Overgrown | Guerrilla Warfare",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_jungle_raider_variantc_png.png",
-  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantc.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZz18yVX6s28aa1pJeKsGGaCyO94pOInTSrkwRlx6z7Xwtn9In6eZwQnDsd5TOYDsxi9xNe2N7-0slHe2NlDmzK-0H38E8rQtQ",
+  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantc.vmdl",
+  "original": {
+   "name": "customplayer_tm_jungle_raider_variantc",
+   "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantc"
+  }
  },
  {
   "id": "agent-4776",
@@ -788,7 +912,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -796,8 +920,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Col. Mangos Dabisi | Guerrilla Warfare",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_jungle_raider_variantd_png.png",
-  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantd.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZz18yVX6s28aa1pJeKsGGaCyO94pOUnSXy3w0gjt2rVy42rcirFO1UgDpElTOYDtRexxtS1Ybmw4gzb3YlAyjK-0H0x0ZHEbw",
+  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantd.vmdl",
+  "original": {
+   "name": "customplayer_tm_jungle_raider_variantd",
+   "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantd"
+  }
  },
  {
   "id": "agent-4777",
@@ -813,7 +941,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -821,8 +949,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Vypa Sista of the Revolution | Guerrilla Warfare",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_jungle_raider_variante_png.png",
-  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variante.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZz18yVX6s28aa1pJeKsGGaCyO94pOQnGH3rzRt_4miDmNb8dinBPwF2ApJ2FuRe5hW4xNfjZbzk5gDajI8QzTK-0H0XsiWpag",
+  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variante.vmdl",
+  "original": {
+   "name": "customplayer_tm_jungle_raider_variante",
+   "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variante"
+  }
  },
  {
   "id": "agent-4778",
@@ -838,7 +970,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -846,8 +978,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Trapper Aggressor | Guerrilla Warfare",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_jungle_raider_variantf_png.png",
-  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantf.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZz18yVX6s28aa1pJeKsGGaCyO94pOcnS3u1xEp042mAz9n_IinBPQckCpAkR7UC40TtltKxMu3h4gWLjI9AzzK-0H3_4J31MA",
+  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantf.vmdl",
+  "original": {
+   "name": "customplayer_tm_jungle_raider_variantf",
+   "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf"
+  }
  },
  {
   "id": "agent-4780",
@@ -863,7 +999,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -871,8 +1007,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "'Medium Rare' Crasswater | Guerrilla Warfare",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_jungle_raider_variantb2_png.png",
-  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantb2.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZz18yVX6s28aa1pJeKsGGaCyO94pOM7AXGwwBxz5G2Gy9qqdy_GaARyDcF2FrUK50LuwICzM-3i4wzZj4NFyn_gznQeAuFLUp4",
+  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantb2.vmdl",
+  "original": {
+   "name": "customplayer_tm_jungle_raider_variantb2",
+   "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb2"
+  }
  },
  {
   "id": "agent-4781",
@@ -888,7 +1028,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -896,8 +1036,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Trapper | Guerrilla Warfare",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_jungle_raider_variantf2_png.png",
-  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantf2.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZz18yVX6s28aa1pJeKsGGaCyO94pOc7ASi2zRwj5TuEz9yreHLBbAInW5YlEbQNsxCxkdXgNe-25gTaj9lNznngznQecRJv7X0",
+  "model_player": "characters/models/tm_jungle_raider/tm_jungle_raider_variantf2.vmdl",
+  "original": {
+   "name": "customplayer_tm_jungle_raider_variantf2",
+   "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf2"
+  }
  },
  {
   "id": "agent-5105",
@@ -913,7 +1057,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -921,8 +1065,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Ground Rebel  | Elite Crew",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_leet_variantg_png.png",
-  "model_player": "characters/models/tm_leet/tm_leet_variantg.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPfdVmHAxOgj4uNtGyqxxRki52jSyoqseHiRalRyWcdzE-APuxK8xNbmYvSiuVLQnSKAnQ",
+  "model_player": "characters/models/tm_leet/tm_leet_variantg.vmdl",
+  "original": {
+   "name": "customplayer_tm_leet_variantg",
+   "image_inventory": "econ/characters/customplayer_tm_leet_variantg"
+  }
  },
  {
   "id": "agent-5106",
@@ -938,7 +1086,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -946,8 +1094,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Osiris | Elite Crew",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_leet_varianth_png.png",
-  "model_player": "characters/models/tm_leet/tm_leet_varianth.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPjdDDXEk7p35uAxTHDqxRh25DuDzI2sdC7BOwZ1W5BwRe4O4BfsktKxZPSiuVIisGC3vg",
+  "model_player": "characters/models/tm_leet/tm_leet_varianth.vmdl",
+  "original": {
+   "name": "customplayer_tm_leet_varianth",
+   "image_inventory": "econ/characters/customplayer_tm_leet_varianth"
+  }
  },
  {
   "id": "agent-5107",
@@ -963,7 +1115,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -971,8 +1123,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Prof. Shahmat | Elite Crew",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_leet_varianti_png.png",
-  "model_player": "characters/models/tm_leet/tm_leet_varianti.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPndCDCTk74k4LA5GX_mxR4mtWSDmYz9cy6ROAQoCMB1E-AK5BG9wNziNPSiuVKTaodKjw",
+  "model_player": "characters/models/tm_leet/tm_leet_varianti.vmdl",
+  "original": {
+   "name": "customplayer_tm_leet_varianti",
+   "image_inventory": "econ/characters/customplayer_tm_leet_varianti"
+  }
  },
  {
   "id": "agent-5108",
@@ -988,7 +1144,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -996,8 +1152,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "The Elite Mr. Muhlik | Elite Crew",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_leet_variantf_png.png",
-  "model_player": "characters/models/tm_leet/tm_leet_variantf.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPbdDTORmbsl5LQ-F3DlwE1y6jnWytqucnmfawMmWJEkFuQJskKwmoexM_SiuVLDZa0BGw",
+  "model_player": "characters/models/tm_leet/tm_leet_variantf.vmdl",
+  "original": {
+   "name": "customplayer_tm_leet_variantf",
+   "image_inventory": "econ/characters/customplayer_tm_leet_variantf"
+  }
  },
  {
   "id": "agent-5109",
@@ -1013,7 +1173,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -1021,8 +1181,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Jungle Rebel | Elite Crew",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_leet_variantj_png.png",
-  "model_player": "characters/models/tm_leet/tm_leet_variantj.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZrl-DZk-fO8YaVjNPrdWDWRlrch5LU6H3-wzEoj5Dncn9evcXuTOAZyW5p4QuJc50TqwdPlPvSiuVKlREwxsg",
+  "model_player": "characters/models/tm_leet/tm_leet_variantj.vmdl",
+  "original": {
+   "name": "customplayer_tm_leet_variantj",
+   "image_inventory": "econ/characters/customplayer_tm_leet_variantj"
+  }
  },
  {
   "id": "agent-5205",
@@ -1038,7 +1202,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1046,8 +1210,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Soldier | Phoenix",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_phoenix_varianth_png.png",
-  "model_player": "characters/models/tm_phoenix/tm_phoenix_varianth.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYbo8idV5uqRfqV_KfGdGm_elrd05uUwSn-wxB5_52zRyd39cHuWOgEmW5R3QbQM5xi4mtayMunq5hue1dxmxRjA3w",
+  "model_player": "characters/models/tm_phoenix/tm_phoenix_varianth.vmdl",
+  "original": {
+   "name": "customplayer_tm_phoenix_varianth",
+   "image_inventory": "econ/characters/customplayer_tm_phoenix_varianth"
+  }
  },
  {
   "id": "agent-5206",
@@ -1063,7 +1231,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1071,8 +1239,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Enforcer | Phoenix",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_phoenix_variantf_png.png",
-  "model_player": "characters/models/tm_phoenix/tm_phoenix_variantf.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYbo8idV5uqRfqV_KfGdGmHexbZ3tLM9G3jhzRt-5WqEydaqdS-QPAMjX8NxFLRY5hftx9XkNOm35xue1dyPr1iSWw",
+  "model_player": "characters/models/tm_phoenix/tm_phoenix_variantf.vmdl",
+  "original": {
+   "name": "customplayer_tm_phoenix_variantf",
+   "image_inventory": "econ/characters/customplayer_tm_phoenix_variantf"
+  }
  },
  {
   "id": "agent-5207",
@@ -1088,7 +1260,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1096,8 +1268,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Slingshot | Phoenix",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_phoenix_variantg_png.png",
-  "model_player": "characters/models/tm_phoenix/tm_phoenix_variantg.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYbo8idV5uqRfqV_KfGdGmDelb8n4LAwHHqxxU8jtjndztf7dC_EOFQnCpV3QrUCshG4wYHjNeu25hue1dzy4v_RuA",
+  "model_player": "characters/models/tm_phoenix/tm_phoenix_variantg.vmdl",
+  "original": {
+   "name": "customplayer_tm_phoenix_variantg",
+   "image_inventory": "econ/characters/customplayer_tm_phoenix_variantg"
+  }
  },
  {
   "id": "agent-5208",
@@ -1113,7 +1289,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -1121,8 +1297,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Street Soldier | Phoenix",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_phoenix_varianti_png.png",
-  "model_player": "characters/models/tm_phoenix/tm_phoenix_varianti.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYbo8idV5uqRfqV_KfGdGm7ex78n4LU_GSrmzBxx4Dncntn_InmWPwcmCccjTO8L50awwdC2N-uwsxue1dwGHFtFrw",
+  "model_player": "characters/models/tm_phoenix/tm_phoenix_varianti.vmdl",
+  "original": {
+   "name": "customplayer_tm_phoenix_varianti",
+   "image_inventory": "econ/characters/customplayer_tm_phoenix_varianti"
+  }
  },
  {
   "id": "agent-5305",
@@ -1138,7 +1318,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1146,8 +1326,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Operator | FBI SWAT",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_fbi_variantf_png.png",
-  "model_player": "characters/models/ctm_fbi/ctm_fbi_variantf.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nm_ytk-fO8YaVjNPbdCjfAkbcl5LM6S3jkxUsj42TQzdf7JH_Caw5zDMMlEOAIt0Hqk9bmY_SiuVKnm4HYYQ",
+  "model_player": "characters/models/ctm_fbi/ctm_fbi_variantf.vmdl",
+  "original": {
+   "name": "customplayer_ctm_fbi_variantf",
+   "image_inventory": "econ/characters/customplayer_ctm_fbi_variantf"
+  }
  },
  {
   "id": "agent-5306",
@@ -1163,7 +1347,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1171,8 +1355,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Markus Delrow | FBI HRT",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_fbi_variantg_png.png",
-  "model_player": "characters/models/ctm_fbi/ctm_fbi_variantg.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nm_ytk-fO8YaVjNPfdWT7Dx7dy5OJtGnDhkE5xtj6Hyd6veXjEbVUnW8YiRrVeuhTtk4fvY_SiuVKEkIDFLQ",
+  "model_player": "characters/models/ctm_fbi/ctm_fbi_variantg.vmdl",
+  "original": {
+   "name": "customplayer_ctm_fbi_variantg",
+   "image_inventory": "econ/characters/customplayer_ctm_fbi_variantg"
+  }
  },
  {
   "id": "agent-5307",
@@ -1188,7 +1376,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1196,8 +1384,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Michael Syfers  | FBI Sniper",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_fbi_varianth_png.png",
-  "model_player": "characters/models/ctm_fbi/ctm_fbi_varianth.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nm_ytk-fO8YaVjNPjdXjWRkegi57FoHyrglkh-62ndz4yrIimfOFRxCZQmQeQOsEK9wNfnYvSiuVJ9Bmql3Q",
+  "model_player": "characters/models/ctm_fbi/ctm_fbi_varianth.vmdl",
+  "original": {
+   "name": "customplayer_ctm_fbi_varianth",
+   "image_inventory": "econ/characters/customplayer_ctm_fbi_varianth"
+  }
  },
  {
   "id": "agent-5308",
@@ -1213,7 +1405,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1221,8 +1413,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Special Agent Ava | FBI",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_fbi_variantb_png.png",
-  "model_player": "characters/models/ctm_fbi/ctm_fbi_variantb.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nm_ytk-fO8YaVjNPLdXz6TkLdw5LY4Hnmwl0wktj7dn4r9I3OWPFApC5F1QeAO5xi4lIDiM_SiuVKk3V4ZcQ",
+  "model_player": "characters/models/ctm_fbi/ctm_fbi_variantb.vmdl",
+  "original": {
+   "name": "customplayer_ctm_fbi_variantb",
+   "image_inventory": "econ/characters/customplayer_ctm_fbi_variantb"
+  }
  },
  {
   "id": "agent-5400",
@@ -1238,7 +1434,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1246,8 +1442,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "3rd Commando Company | KSK",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_st6_variantk_png.png",
-  "model_player": "characters/models/ctm_st6/ctm_st6_variantk.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6XRk-fO8YaVjNPvdWTbJwOsm4rI4GnDjx0t3sWWHw934IH_BO1UnWZd1EO8K5kK4l4fgMvSiuVLu5GcAvQ",
+  "model_player": "characters/models/ctm_st6/ctm_st6_variantk.vmdl",
+  "original": {
+   "name": "customplayer_ctm_st6_variantk",
+   "image_inventory": "econ/characters/customplayer_ctm_st6_variantk"
+  }
  },
  {
   "id": "agent-5401",
@@ -1263,7 +1463,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1271,8 +1471,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Seal Team 6 Soldier | NSWC SEAL",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_st6_variante_png.png",
-  "model_player": "characters/models/ctm_st6/ctm_st6_variante.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6XRk-fO8YaVjNPXdXDHBxLZz4bI-Fn-yxhwhsjyDyNepcSjEbgQmApclFOMNthbslNKyPvSiuVLpMkmXWg",
+  "model_player": "characters/models/ctm_st6/ctm_st6_variante.vmdl",
+  "original": {
+   "name": "customplayer_ctm_st6_variante",
+   "image_inventory": "econ/characters/customplayer_ctm_st6_variante"
+  }
  },
  {
   "id": "agent-5402",
@@ -1288,7 +1492,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1296,8 +1500,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Buckshot | NSWC SEAL",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_st6_variantg_png.png",
-  "model_player": "characters/models/ctm_st6/ctm_st6_variantg.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6XRk-fO8YaVjNPfdCzfBx7gl5LQ-GnrkkR4l4DyDzIv8cnKXaQ4jXsQjEOcJ4RHuxNTuMPSiuVIYxifJkQ",
+  "model_player": "characters/models/ctm_st6/ctm_st6_variantg.vmdl",
+  "original": {
+   "name": "customplayer_ctm_st6_variantg",
+   "image_inventory": "econ/characters/customplayer_ctm_st6_variantg"
+  }
  },
  {
   "id": "agent-5403",
@@ -1313,7 +1521,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1321,8 +1529,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "'Two Times' McCoy | USAF TACP",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_st6_variantm_png.png",
-  "model_player": "characters/models/ctm_st6/ctm_st6_variantm.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6XRk-fO8YaVjNP3dDDLHl7kks7U4Gi2xkUoj42XXntypcHyQO1J0DsZzFuAJsBW4kNPlN_SiuVKK_o8s4A",
+  "model_player": "characters/models/ctm_st6/ctm_st6_variantm.vmdl",
+  "original": {
+   "name": "customplayer_ctm_st6_variantm",
+   "image_inventory": "econ/characters/customplayer_ctm_st6_variantm"
+  }
  },
  {
   "id": "agent-5404",
@@ -1338,7 +1550,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1346,8 +1558,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Lt. Commander Ricksaw | NSWC SEAL",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_st6_varianti_png.png",
-  "model_player": "characters/models/ctm_st6/ctm_st6_varianti.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6XRk-fO8YaVjNPndVz-Ul74hsbNoHi21kUly6mrQzNagcijBPQEnCsciTOdY4Rm6m4XvN_SiuVLIl2LQXw",
+  "model_player": "characters/models/ctm_st6/ctm_st6_varianti.vmdl",
+  "original": {
+   "name": "customplayer_ctm_st6_varianti",
+   "image_inventory": "econ/characters/customplayer_ctm_st6_varianti"
+  }
  },
  {
   "id": "agent-5405",
@@ -1363,7 +1579,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -1371,8 +1587,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "Primeiro Tenente | Brazilian 1st Battalion",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_st6_variantn_png.png",
-  "model_player": "characters/models/ctm_st6/ctm_st6_variantn.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz6XRk-fO8YaVjNP7dV2bFlesvtbM_Sn7gx010tTncmdn7ICqePQ4mWMB5EeALtRS7w4XuP_SiuVLSDPMGxQ",
+  "model_player": "characters/models/ctm_st6/ctm_st6_variantn.vmdl",
+  "original": {
+   "name": "customplayer_ctm_st6_variantn",
+   "image_inventory": "econ/characters/customplayer_ctm_st6_variantn"
+  }
  },
  {
   "id": "agent-5500",
@@ -1388,7 +1608,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1396,8 +1616,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Dragomir | Sabre",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_balkan_variantf_png.png",
-  "model_player": "characters/models/tm_balkan/tm_balkan_variantf.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZTh8Sla4c24abZkIf6HCCnExbdz5uIxF3jiwUp1sD-Gyon6cniQb1dyWMQjTbQMs0G9w4KzZLi0-UWA3DCqT-14",
+  "model_player": "characters/models/tm_balkan/tm_balkan_variantf.vmdl",
+  "original": {
+   "name": "customplayer_tm_balkan_variantf",
+   "image_inventory": "econ/characters/customplayer_tm_balkan_variantf"
+  }
  },
  {
   "id": "agent-5501",
@@ -1413,7 +1637,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1421,8 +1645,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Maximus | Sabre",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_balkan_varianti_png.png",
-  "model_player": "characters/models/tm_balkan/tm_balkan_varianti.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZTh8Sla4c24abZkIf6HBynEl7wg5bc4Tnm1k0V34GSGntupdCnCbwEiW8ElTOMCsUTtm4XmNOng-UWA3F74ACBx",
+  "model_player": "characters/models/tm_balkan/tm_balkan_varianti.vmdl",
+  "original": {
+   "name": "customplayer_tm_balkan_varianti",
+   "image_inventory": "econ/characters/customplayer_tm_balkan_varianti"
+  }
  },
  {
   "id": "agent-5502",
@@ -1438,7 +1666,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1446,8 +1674,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Rezan The Ready | Sabre",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_balkan_variantg_png.png",
-  "model_player": "characters/models/tm_balkan/tm_balkan_variantg.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZTh8Sla4c24abZkIf6HCSnCk79w47BqGSvjxEt3tjuDmYyocy2UbgRzXJIiEeULsRXqmtCxYrm2-UWA3FAo97Sl",
+  "model_player": "characters/models/tm_balkan/tm_balkan_variantg.vmdl",
+  "original": {
+   "name": "customplayer_tm_balkan_variantg",
+   "image_inventory": "econ/characters/customplayer_tm_balkan_variantg"
+  }
  },
  {
   "id": "agent-5503",
@@ -1463,7 +1695,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1471,8 +1703,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Blackwolf | Sabre",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_balkan_variantj_png.png",
-  "model_player": "characters/models/tm_balkan/tm_balkan_variantj.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZTh8Sla4c24abZkIf6HBCnIxLxw5uI9HXHklh4m4TjXw4qsIHPFOFByCMAmTbQJ4Ua4kdfhN7u3-UWA3G22ywJ7",
+  "model_player": "characters/models/tm_balkan/tm_balkan_variantj.vmdl",
+  "original": {
+   "name": "customplayer_tm_balkan_variantj",
+   "image_inventory": "econ/characters/customplayer_tm_balkan_variantj"
+  }
  },
  {
   "id": "agent-5504",
@@ -1488,7 +1724,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1496,8 +1732,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "'The Doctor' Romanov | Sabre",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_balkan_varianth_png.png",
-  "model_player": "characters/models/tm_balkan/tm_balkan_varianth.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZTh8Sla4c24abZkIf6HBinGlu0k4bU7Givnk01352yByd_6IHLGZgElDpchEbNZtxewx9zhNr_m-UWA3HK9C48i",
+  "model_player": "characters/models/tm_balkan/tm_balkan_varianth.vmdl",
+  "original": {
+   "name": "customplayer_tm_balkan_varianth",
+   "image_inventory": "econ/characters/customplayer_tm_balkan_varianth"
+  }
  },
  {
   "id": "agent-5505",
@@ -1513,7 +1753,7 @@
    {
     "id": "collection-set-op10-characters",
     "name": "Broken Fang Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op10_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op10_characters_png.png"
    }
   ],
   "team": {
@@ -1521,8 +1761,12 @@
    "name": "Terrorist"
   },
   "market_hash_name": "Dragomir | Sabre Footsoldier",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_tm_balkan_variantl_png.png",
-  "model_player": "characters/models/tm_balkan/tm_balkan_variantl.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oZTh8Sla4c24abZkIf6HAimWlb9w57hoGHrmlB9_4j-Gm439d3rCPAEiDZNwQrUD40K9m9GzNu-0-UWA3CLCQ0Kd",
+  "model_player": "characters/models/tm_balkan/tm_balkan_variantl.vmdl",
+  "original": {
+   "name": "customplayer_tm_balkan_variantl",
+   "image_inventory": "econ/characters/customplayer_tm_balkan_variantl"
+  }
  },
  {
   "id": "agent-5601",
@@ -1538,7 +1782,7 @@
    {
     "id": "collection-set-op9-characters",
     "name": "Shattered Web Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op9_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op9_characters_png.png"
    }
   ],
   "team": {
@@ -1546,8 +1790,12 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "B Squadron Officer | SAS",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_sas_variantf_png.png",
-  "model_player": "characters/models/ctm_sas/ctm_sas_variantf.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz_DFk-fO8YaVjNPbdXmTGk-hw4rlvGSzjx0tz6jnWwo2odHnDblIjCcZwFu4NsBexkYexMvSiuVIb0S_y2g",
+  "model_player": "characters/models/ctm_sas/ctm_sas_variantf.vmdl",
+  "original": {
+   "name": "customplayer_ctm_sas_variantf",
+   "image_inventory": "econ/characters/customplayer_ctm_sas_variantf"
+  }
  },
  {
   "id": "agent-5602",
@@ -1563,7 +1811,7 @@
    {
     "id": "collection-set-op11-characters",
     "name": "Operation Riptide Agents",
-    "image": "https://i.cs2inspects.com/images/econ/set_icons/set_op11_characters_png.png"
+    "image": "https://cdn.cs2inspects.com/econ/econ/set_icons/set_op11_characters_png.png"
    }
   ],
   "team": {
@@ -1571,7 +1819,11 @@
    "name": "Counter-Terrorist"
   },
   "market_hash_name": "D Squadron Officer | NZSAS",
-  "image": "https://i.cs2inspects.com/images/econ/characters/customplayer_ctm_sas_variantg_png.png",
-  "model_player": "characters/models/ctm_sas/ctm_sas_variantg.vmdl"
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fh7lk6nz_DFk-fO8YaVjNPfdWDDDxeokseNoTX-1k0R-smSDz4qqcHieZlUhA5QkRuIMu0KwwdDmYfSiuVJoTILK3g",
+  "model_player": "characters/models/ctm_sas/ctm_sas_variantg.vmdl",
+  "original": {
+   "name": "customplayer_ctm_sas_variantg",
+   "image_inventory": "econ/characters/customplayer_ctm_sas_variantg"
+  }
  }
 ]
