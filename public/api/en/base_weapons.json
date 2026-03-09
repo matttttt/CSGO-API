@@ -85,7 +85,7 @@
    "id": "csgo_inventory_weapon_category_rifles",
    "name": "Rifles"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_famas_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_famas_png.png"
  },
  {
   "id": "base_weapon-weapon_g3sg1",
@@ -96,7 +96,7 @@
    "id": "csgo_inventory_weapon_category_rifles",
    "name": "Rifles"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_g3sg1_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_g3sg1_png.png"
  },
  {
   "id": "base_weapon-weapon_galilar",
@@ -140,7 +140,7 @@
    "id": "csgo_inventory_weapon_category_smgs",
    "name": "SMGs"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_mac10_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mac10_png.png"
  },
  {
   "id": "base_weapon-weapon_p90",
@@ -162,7 +162,7 @@
    "id": "csgo_inventory_weapon_category_smgs",
    "name": "SMGs"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_mp5sd_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mp5sd_png.png"
  },
  {
   "id": "base_weapon-weapon_ump45",
@@ -184,7 +184,7 @@
    "id": "csgo_inventory_weapon_category_heavy",
    "name": "Heavy"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_xm1014_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_xm1014_png.png"
  },
  {
   "id": "base_weapon-weapon_bizon",
@@ -206,7 +206,7 @@
    "id": "csgo_inventory_weapon_category_heavy",
    "name": "Heavy"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_mag7_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_mag7_png.png"
  },
  {
   "id": "base_weapon-weapon_negev",
@@ -294,7 +294,7 @@
    "id": "csgo_inventory_weapon_category_heavy",
    "name": "Heavy"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_nova_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_nova_png.png"
  },
  {
   "id": "base_weapon-weapon_p250",
@@ -316,7 +316,7 @@
    "id": "csgo_inventory_weapon_category_rifles",
    "name": "Rifles"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_scar20_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_scar20_png.png"
  },
  {
   "id": "base_weapon-weapon_sg556",
@@ -327,7 +327,7 @@
    "id": "csgo_inventory_weapon_category_rifles",
    "name": "Rifles"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_sg556_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_sg556_png.png"
  },
  {
   "id": "base_weapon-weapon_ssg08",
@@ -360,7 +360,7 @@
    "id": "loadoutslot_grenade",
    "name": "Grenades"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_flashbang_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_flashbang_png.png"
  },
  {
   "id": "base_weapon-weapon_hegrenade",
@@ -371,7 +371,7 @@
    "id": "loadoutslot_grenade",
    "name": "Grenades"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_hegrenade_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_hegrenade_png.png"
  },
  {
   "id": "base_weapon-weapon_smokegrenade",
@@ -382,7 +382,7 @@
    "id": "loadoutslot_grenade",
    "name": "Grenades"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_smokegrenade_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_smokegrenade_png.png"
  },
  {
   "id": "base_weapon-weapon_molotov",
@@ -393,7 +393,7 @@
    "id": "loadoutslot_grenade",
    "name": "Grenades"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_molotov_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_molotov_png.png"
  },
  {
   "id": "base_weapon-weapon_decoy",
@@ -404,7 +404,7 @@
    "id": "loadoutslot_grenade",
    "name": "Grenades"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_decoy_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_decoy_png.png"
  },
  {
   "id": "base_weapon-weapon_incgrenade",
@@ -415,7 +415,7 @@
    "id": "loadoutslot_grenade",
    "name": "Grenades"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_incgrenade_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_incgrenade_png.png"
  },
  {
   "id": "base_weapon-weapon_c4",
@@ -437,7 +437,7 @@
    "id": "loadoutslot_equipment",
    "name": "Equipment"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/weapon_healthshot_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/weapon_healthshot_png.png"
  },
  {
   "id": "base_weapon-weapon_knife_t",
@@ -723,7 +723,7 @@
    "id": "sfui_invpanel_filter_gloves",
    "name": "Gloves"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/t_gloves_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/t_gloves_png.png"
  },
  {
   "id": "base_weapon-ct_gloves",
@@ -734,6 +734,6 @@
    "id": "sfui_invpanel_filter_gloves",
    "name": "Gloves"
   },
-  "image": "https://cdn.cs2inspects.com/econ/econ/weapons/base_weapons/ct_gloves_png.png"
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapons/base_weapons/ct_gloves_png.png"
  }
 ]
